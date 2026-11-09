@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T18:45:02Z",
+ "generated": "2026-11-09T18:52:42Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -97,7 +97,7 @@
    "layer": "research",
    "ok": true,
    "found": 4,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "openalex_source": "https://openalex.org/S206927904",
    "journal_matched": "Asia Pacific Journal of Human Resources",
@@ -110,7 +110,7 @@
    "layer": "preprint",
    "ok": true,
    "found": 1000,
-   "kept": 39,
+   "kept": 26,
    "error": null,
    "newest_item": "2026-11-09T11:05:33Z",
    "stale": false
@@ -121,7 +121,7 @@
    "layer": "preprint",
    "ok": true,
    "found": 21,
-   "kept": 0,
+   "kept": 2,
    "error": null,
    "feed_used": "https://back.nber.org/rss/new.xml"
   },
@@ -129,55 +129,79 @@
    "id": "ilo",
    "name": "International Labour Organization",
    "layer": "institutional",
-   "ok": false,
+   "ok": true,
    "found": 0,
    "kept": 0,
-   "error": "https://www.ilo.org/rss.xml: no entries found (not a valid feed?); https://www.ilo.org/feed: 404 Client Error: Not Found for url: https://www.ilo.org/feed"
+   "error": null,
+   "openalex_source": "https://openalex.org/S4393919168",
+   "journal_matched": "ILO working paper"
   },
   {
-   "id": "stanford-hai",
-   "name": "Stanford HAI",
+   "id": "oecd-sem",
+   "name": "OECD (Employment & Social)",
    "layer": "institutional",
-   "ok": false,
+   "ok": true,
    "found": 0,
    "kept": 0,
-   "error": "https://hai.stanford.edu/news/rss.xml: no entries found (not a valid feed?); https://hai.stanford.edu/rss.xml: no entries found (not a valid feed?)"
+   "error": null,
+   "openalex_source": "https://openalex.org/S4210221173",
+   "journal_matched": "OECD social employment and migration working papers"
+  },
+  {
+   "id": "oecd-ai",
+   "name": "OECD (Artificial Intelligence)",
+   "layer": "institutional",
+   "ok": true,
+   "found": 0,
+   "kept": 0,
+   "error": null,
+   "openalex_source": "https://openalex.org/S4393920202",
+   "journal_matched": "OECD artificial intelligence papers"
+  },
+  {
+   "id": "imf-wp",
+   "name": "IMF Working Papers",
+   "layer": "institutional",
+   "ok": true,
+   "found": 0,
+   "kept": 0,
+   "error": null,
+   "openalex_source": "https://openalex.org/S5407031312",
+   "journal_matched": "IMF Working Papers"
   },
   {
    "id": "pids",
    "name": "Philippine Institute for Development Studies",
    "layer": "institutional",
-   "ok": false,
+   "ok": true,
    "found": 0,
    "kept": 0,
-   "error": "https://pids.gov.ph/feed: 404 Client Error: Not Found for url: https://pids.gov.ph/feed; https://pids.gov.ph/rss: 404 Client Error: Not Found for url: https://pids.gov.ph/rss"
+   "error": null,
+   "openalex_source": "https://openalex.org/S4210174451",
+   "journal_matched": "Discussion papers"
+  },
+  {
+   "id": "adb-wp",
+   "name": "Asian Development Bank (Working Papers)",
+   "layer": "institutional",
+   "ok": true,
+   "found": 0,
+   "kept": 0,
+   "error": null,
+   "openalex_source": "https://openalex.org/S4210168804",
+   "journal_matched": "ADB economics working paper series"
   },
   {
    "id": "adb",
    "name": "Asian Development Bank",
    "layer": "institutional",
-   "ok": false,
-   "found": 0,
+   "ok": true,
+   "found": 20,
    "kept": 0,
-   "error": "https://www.adb.org/rss/news: 403 Client Error: Forbidden for url: https://www.adb.org/rss/news; https://www.adb.org/rss/publications: 403 Client Error: Forbidden for url: https://www.adb.org/rss/publications; https://blogs.adb.org/rss.xml: 403 Client Error: Forbidden for url: https://blogs.adb.org/rss.xml"
-  },
-  {
-   "id": "oecd",
-   "name": "OECD",
-   "layer": "institutional",
-   "ok": false,
-   "found": 0,
-   "kept": 0,
-   "error": "https://www.oecd.org/en/about/newsroom.rss: 403 Client Error: Forbidden for url: https://www.oecd.org/en/about/newsroom.rss; https://www.oecd.org/newsroom/index.xml: 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/index.xml"
-  },
-  {
-   "id": "imf-blog",
-   "name": "IMF Blog",
-   "layer": "institutional",
-   "ok": false,
-   "found": 0,
-   "kept": 0,
-   "error": "https://www.imf.org/en/Blogs/rss: 404 Client Error: Not Found for url: https://www.imf.org/en/Blogs/rss; https://www.imf.org/en/blogs/rss: 404 Client Error: Not Found for url: https://www.imf.org/en/blogs/rss"
+   "error": null,
+   "feed_used": "https://feeds.feedburner.com/adb_news",
+   "newest_item": "2026-11-09T00:00:00Z",
+   "stale": false
   },
   {
    "id": "the-conversation",
@@ -197,7 +221,7 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
    "newest_item": "2026-11-09T16:00:00Z",
@@ -233,7 +257,7 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
    "newest_item": "2026-11-09T18:32:13Z",
@@ -245,7 +269,7 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 1,
+   "kept": 8,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
    "newest_item": "2026-11-09T17:58:05Z",

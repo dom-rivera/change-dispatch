@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-09T18:45:02Z",
- "count": 66,
+ "generated": "2026-11-09T18:52:42Z",
+ "count": 90,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,84 @@
  },
  "items": [
   {
+   "id": "15d97949f4ab4b94",
+   "title": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale -- by Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil Lewis, Erik Brynjolfsson, Diyi Yang",
+   "url": "https://www.nber.org/papers/w35987#fromrss",
+   "source": "NBER Working Papers",
+   "source_id": "nber",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-09T18:52:42Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "date_estimated": true
+  },
+  {
+   "id": "06019537d7f4b1c9",
+   "title": "AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains -- by Panle Jia Barwick, Lu Fang, Jinhan Liu, Huilan Xu, Zhe Yuan",
+   "url": "https://www.nber.org/papers/w36003#fromrss",
+   "source": "NBER Working Papers",
+   "source_id": "nber",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-09T18:52:42Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "date_estimated": true
+  },
+  {
+   "id": "cb7863665107d049",
+   "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T17:58:05Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T14:00:11Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "7d3a8d2e70707fe1",
    "title": "Does creative engagement spill over to calculated risk taking?",
    "url": "https://osf.io/preprints/psyarxiv/xb2gd_v2/",
@@ -85,6 +163,26 @@
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "11a2167fe1d6515d",
+   "title": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T11:00:07Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Opinion"
    ],
    "access": "Free to read"
   },
@@ -107,6 +205,24 @@
    "access": "Free to read"
   },
   {
+   "id": "3c9403cee51cfecd",
+   "title": "Telco subscribers get free access to AI tools this Christmas",
+   "url": "https://www.philstar.com/telecoms/2026/11/09/2568998/telco-subscribers-get-free-access-ai-tools-christmas",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T07:00:00Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "df63007d36dfaeed",
    "title": "It’s lonely at the top: Who tells you when you’re wrong?",
    "url": "https://business.inquirer.net/620073/its-lonely-at-the-top-who-tells-you-when-youre-wrong",
@@ -121,6 +237,60 @@
     "organizational-change"
    ],
    "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8c0798cef7304430",
+   "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-08T14:00:43Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f22d837c2d1d7f6e",
+   "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+   "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-08T08:00:36Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "08249d244a8316d2",
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-08T06:00:33Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
    "labels": [],
    "access": "Free to read"
   },
@@ -143,6 +313,42 @@
    "access": "Free to read"
   },
   {
+   "id": "022e329a512042ed",
+   "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-07T14:00:12Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "aae7d52c6eaba4c2",
+   "title": "Lanarkshire AI datacentre to fully rely on national grid despite renewables claim",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-07T10:00:08Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "d3206e9a07abfa81",
    "title": "PH jobless rate inched up to 5.4% in Sept",
    "url": "https://business.inquirer.net/619878/ph-jobless-rate-inched-up-to-5-4-in-sept",
@@ -158,6 +364,46 @@
    ],
    "region": true,
    "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a867d564e8351207",
+   "title": "Cognitive Offloading to Generative AI: A Theoretical Framework for Memory, Metacognition, and Consumer Decision-Making",
+   "url": "https://osf.io/preprints/psyarxiv/79fza_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-06T19:51:11Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "8c8ab4fa4a9c0bf4",
+   "title": "Designing Around the Human Creative Core: A Construct for Preserving Creative Agency in Human-AI Systems",
+   "url": "https://osf.io/preprints/psyarxiv/dq96z_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-06T16:41:08Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
    "access": "Free to read"
   },
   {
@@ -212,7 +458,8 @@
    "first_seen": "2026-11-09T18:45:02Z",
    "window_days": 7,
    "topics": [
-    "organizational-change"
+    "organizational-change",
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -298,6 +545,66 @@
    "access": "Free to read"
   },
   {
+   "id": "c07935d5e459d8b3",
+   "title": "Workplace Relationships and Artificial Intelligence",
+   "url": "https://osf.io/preprints/psyarxiv/ehbjv_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-06T04:22:37Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "fb3e96107a29922c",
+   "title": "Better Late Than Early: How AI Integration Timing Shapes Creativity Judgments",
+   "url": "https://osf.io/preprints/psyarxiv/kfrux_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-06T00:54:36Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "aad9ad0f74df6c92",
+   "title": "AI Grief at Work: Development and Initial Validation of a Self-Report Scale",
+   "url": "https://osf.io/preprints/psyarxiv/5eu9m_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-05T23:27:58Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
    "id": "2fef9508dfb0ec40",
    "title": "French Translation and Validation of the Job Search Self-Efficacy Scale",
    "url": "https://osf.io/preprints/psyarxiv/jnkse_v1/",
@@ -327,6 +634,46 @@
    "type": "Preprint",
    "published": "2026-11-05T23:19:11Z",
    "first_seen": "2026-11-09T18:45:02Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "a8202869f57872ad",
+   "title": "mirtverse: Accessible, AI-ready Item Response Theory in R with mirt",
+   "url": "https://osf.io/preprints/psyarxiv/j9ya7_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-05T08:35:38Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "9fc7df7d842c1ead",
+   "title": "Psychology in 2125: A Developmental Science of Living Sense-Making",
+   "url": "https://osf.io/preprints/psyarxiv/d7y3n_v3/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-04T22:06:11Z",
+   "first_seen": "2026-11-09T18:52:42Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -390,6 +737,26 @@
    "window_days": 30,
    "topics": [
     "organizational-change"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "0abcad35d4e9beea",
+   "title": "Same Gossip, Different Judgment: Why Inappropriate Workplace Gossip Is More Acceptable When It Targets AI",
+   "url": "https://osf.io/preprints/psyarxiv/9vuat_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-03T13:56:06Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
    ],
    "region": false,
    "labels": [
@@ -596,6 +963,46 @@
    "access": "Free to read"
   },
   {
+   "id": "b1917025c27d6554",
+   "title": "Barriers to professional mental health help-seeking and considerations for school-based interventions among Secondary School adolescents: an exploratory qualitative study",
+   "url": "https://osf.io/preprints/psyarxiv/gcta6_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-30T00:37:52Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "20ffbc462f8b7cbc",
+   "title": "The conflicted student and the internal battle over generative AI use",
+   "url": "https://osf.io/preprints/psyarxiv/ahqns_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-29T22:23:02Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
    "id": "f608b0c55e58c3eb",
    "title": "The impact of level of automation and lighting conditions on drivers’ visual scanning patterns in an urban environment",
    "url": "https://osf.io/preprints/psyarxiv/sgx9p_v1/",
@@ -728,6 +1135,46 @@
    "window_days": 30,
    "topics": [
     "self-efficacy"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "b31ec780e28f118b",
+   "title": "Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis",
+   "url": "https://osf.io/preprints/psyarxiv/jv4ah_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-26T07:32:05Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "306e5876accdf8f5",
+   "title": "The Quantitative Psychologist Is Dead, Long Live the Quantitative Psychologist",
+   "url": "https://osf.io/preprints/psyarxiv/8yxwb_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-25T23:21:37Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
    ],
    "region": false,
    "labels": [
@@ -1076,7 +1523,26 @@
    "window_days": 60,
    "topics": [
     "well-being",
-    "psych-safety"
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "42c3a2250fe1cd94",
+   "title": "Take the Bull by the Horns: Acquiring Firm‐Specific Human Capital From High‐Performance Work System Under AI Awareness",
+   "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1744-7941.70098",
+   "source": "Asia Pacific Journal of Human Resources",
+   "source_id": "apjhr",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-09T18:52:42Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -1181,7 +1647,8 @@
    "first_seen": "2026-11-09T18:45:02Z",
    "window_days": 60,
    "topics": [
-    "organizational-change"
+    "organizational-change",
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -1199,7 +1666,8 @@
    "first_seen": "2026-11-09T18:45:02Z",
    "window_days": 60,
    "topics": [
-    "organizational-change"
+    "organizational-change",
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -1216,7 +1684,9 @@
    "published": "2026-09-20T00:00:00Z",
    "first_seen": "2026-11-09T18:45:02Z",
    "window_days": 60,
-   "topics": [],
+   "topics": [
+    "ai-at-work"
+   ],
    "region": false,
    "labels": [],
    "access": "Free to read"
@@ -1290,6 +1760,7 @@
     "organizational-change",
     "change-management",
     "future-of-work",
+    "ai-at-work",
     "labor-economics"
    ],
    "region": false,
