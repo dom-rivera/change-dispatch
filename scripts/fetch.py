@@ -288,19 +288,22 @@ def fetch_openalex(session, src, api_key) -> tuple[list[dict], dict]:
     filt = ",".join([
         f"primary_location.source.id:{short_id}",
         f"from_publication_date:{since}",
-        "is_oa:true",          # free-to-read rule
         "is_retracted:false",  # never show retracted papers
         "type:" + src.get("types", "article|review"),
-    ])
+    ] + ([] if src.get("publisher_free") else ["is_oa:true"]))  # free-to-read rule
     out, cursor, pages = [], "*", 0
     while cursor and pages < 5:
         resp = http_get(session, f"{OPENALEX}/works", params=openalex_params(
             api_key, filter=filt, per_page=100, cursor=cursor,
             select="id,doi,display_name,publication_date,open_access,"
-                   "authorships,abstract_inverted_index,is_retracted"))
+                   "primary_location,authorships,abstract_inverted_index,is_retracted"))
         body = resp.json()
         for w in body.get("results", []):
             oa_url = (w.get("open_access") or {}).get("oa_url")
+            if not oa_url and src.get("publisher_free"):
+                # Publisher makes everything free to read (e.g. OECD since
+                # July 2024), even where OpenAlex has not caught up.
+                oa_url = w.get("doi") or (w.get("primary_location") or {}).get("landing_page_url")
             title = clean_text(w.get("display_name"))
             if not oa_url or not title or w.get("is_retracted"):
                 continue

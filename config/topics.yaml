@@ -17,12 +17,10 @@
 
 work_context:
   - work
-  - works
   - worker
   - workers
   - workplace
   - workplaces
-  - working
   - employee
   - employees
   - employer
@@ -37,15 +35,8 @@ work_context:
   - organisation
   - organisations
   - organisational
-  - company
-  - companies
-  - firm
-  - firms
-  - business
-  - businesses
   - manager
   - managers
-  - management
   - leader
   - leaders
   - leadership

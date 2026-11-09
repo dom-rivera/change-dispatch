@@ -87,8 +87,8 @@ sources:
     journal: Philippine Journal of Psychology
     window_days: 180
     needs_topic: true
-    enabled: true
-    note: Fully open access, published twice a year. May not be indexed in OpenAlex; check status after the first run.
+    enabled: false
+    note: "Turned off for now: OpenAlex has nothing newer than April 2024 from this journal. The journal itself is open access; revisit later."
 
   - id: ajsp
     name: Asian Journal of Social Psychology
@@ -146,8 +146,8 @@ sources:
     types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
-    enabled: true
-    note: ILO working papers through OpenAlex.
+    enabled: false
+    note: "Turned off for now: OpenAlex has nothing newer than 2023 from this series."
 
   - id: oecd-sem
     name: OECD (Employment & Social)
@@ -157,6 +157,7 @@ sources:
     types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
+    publisher_free: true
     enabled: true
 
   - id: oecd-ai
@@ -167,6 +168,7 @@ sources:
     types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
+    publisher_free: true
     enabled: true
 
   - id: imf-wp
@@ -177,7 +179,8 @@ sources:
     types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
-    enabled: true
+    enabled: false
+    note: "Turned off for now: OpenAlex has nothing newer than early 2025 from this series."
 
   - id: pids
     name: Philippine Institute for Development Studies
@@ -187,8 +190,8 @@ sources:
     types: article|review|preprint|report|book-chapter|other
     window_days: 90
     needs_topic: true
-    enabled: true
-    note: Check status after the run; PIDS may not be indexed in OpenAlex.
+    enabled: false
+    note: "Turned off for now: not found in OpenAlex, and the PIDS website has no feed."
 
   - id: adb-wp
     name: Asian Development Bank (Working Papers)
@@ -198,7 +201,8 @@ sources:
     types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
-    enabled: true
+    enabled: false
+    note: "Turned off for now: OpenAlex has nothing newer than 2024 from this series. ADB news still comes in through its feed."
 
   - id: adb
     name: Asian Development Bank
