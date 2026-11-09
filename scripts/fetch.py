@@ -321,7 +321,25 @@ def fetch_openalex(session, src, api_key) -> tuple[list[dict], dict]:
             })
         cursor = (body.get("meta") or {}).get("next_cursor")
         pages += 1
-    return out, {"openalex_source": source_id, "journal_matched": display}
+    info = {"openalex_source": source_id, "journal_matched": display}
+    if not out:
+        # Explain empty results: how many recent works exist at all, and
+        # how many are free to read, so the status page shows why.
+        diag = {}
+        for label, extra in (("recent_any_type", ""), ("recent_free", ",is_oa:true")):
+            resp = http_get(session, f"{OPENALEX}/works", params=openalex_params(
+                api_key, per_page=1, select="id",
+                filter=f"primary_location.source.id:{short_id},"
+                       f"from_publication_date:{since}{extra}"))
+            diag[label] = (resp.json().get("meta") or {}).get("count")
+        resp = http_get(session, f"{OPENALEX}/works", params=openalex_params(
+            api_key, per_page=1, select="publication_date",
+            filter=f"primary_location.source.id:{short_id}",
+            sort="publication_date:desc"))
+        latest = resp.json().get("results") or [{}]
+        diag["latest_in_openalex"] = latest[0].get("publication_date")
+        info["diagnostic"] = diag
+    return out, info
 
 
 def fetch_osf(session, src) -> tuple[list[dict], dict]:

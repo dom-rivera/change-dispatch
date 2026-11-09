@@ -183,7 +183,7 @@ sources:
     name: Philippine Institute for Development Studies
     layer: institutional
     kind: openalex
-    journal: ["PIDS Discussion Paper Series", "Discussion Papers", "Philippine Journal of Development"]
+    journal: ["PIDS Discussion Paper Series", "Philippine Journal of Development"]
     types: article|review|preprint|report|book-chapter|other
     window_days: 90
     needs_topic: true
