@@ -98,5 +98,31 @@ def test_merge_drops_items_from_removed_sources():
     assert fetch.merge([a], [], {"some-other-source"}) == []
 
 
+def test_weak_words_need_work_context():
+    # "self-efficacy" alone (clinical) is not enough; with a work context it counts
+    assert "self-efficacy" not in MATCHER.topics_for("Self-efficacy in patients with bipolar disorder")
+    assert "self-efficacy" in MATCHER.topics_for("Teacher self-efficacy during school reform")
+    assert "ai-at-work" not in MATCHER.topics_for("Level of automation and drivers' scanning")
+    assert "ai-at-work" in MATCHER.topics_for("Automation and the future of jobs")
+
+
+def test_source_can_require_work_context():
+    src = dict(PRE, require_work_context=True)
+    [clinical] = build([("Resistance to change in patients", "https://example.org/k", "",
+                         NOW - timedelta(days=1))], src)
+    [work] = build([("Resistance to change among employees", "https://example.org/l", "",
+                     NOW - timedelta(days=1))], src)
+    assert clinical is None and work is not None
+
+
+def test_undated_feed_uses_first_seen_and_keeps_it():
+    src = dict(PRE, date_fallback="first_seen")
+    [item] = build([("Labor market effects of AI", "https://example.org/m", "", None)], src)
+    assert item is not None and item["date_estimated"]
+    earlier = dict(item, published="2026-01-01T00:00:00Z", first_seen="2026-01-01T00:00:00Z")
+    [merged] = fetch.merge([earlier], [item], {"p"})
+    assert merged["published"] == "2026-01-01T00:00:00Z"
+
+
 def test_abstract_rebuild():
     assert fetch.abstract_text({"readiness": [0], "change": [2], "for": [1]}) == "readiness for change"

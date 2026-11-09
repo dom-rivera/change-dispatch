@@ -131,18 +131,32 @@ class TopicMatcher:
                     "id": t["id"],
                     "group": group,
                     "match": _compile(t.get("match")),
+                    "weak": _compile(t.get("weak")),
                     "exclude": _compile(t.get("exclude")),
                 })
+        self.work_context = _compile(cfg.get("work_context"))
         region = cfg.get("region", {})
         self.region_match = _compile(region.get("match"))
         self.region_countries = {c.upper() for c in region.get("author_countries", [])}
 
+    def has_work_context(self, text: str) -> bool:
+        return any(p.search(text) for p in self.work_context)
+
     def topics_for(self, text: str) -> list[str]:
+        """Strong phrases tag a topic on their own. Weak phrases (broad
+        words like "automation") only count when the text is also about
+        work or organizations."""
         found = []
+        work = None
         for t in self.topics:
-            if any(p.search(text) for p in t["match"]) and not any(
-                p.search(text) for p in t["exclude"]
-            ):
+            if any(p.search(text) for p in t["exclude"]):
+                continue
+            hit = any(p.search(text) for p in t["match"])
+            if not hit and t["weak"] and any(p.search(text) for p in t["weak"]):
+                if work is None:
+                    work = self.has_work_context(text)
+                hit = work
+            if hit:
                 found.append(t["id"])
         return found
 
@@ -237,13 +251,20 @@ def resolve_journal(session, api_key, src) -> tuple[str, str]:
         results = resp.json().get("results", [])
         if results:
             return results[0]["id"], results[0].get("display_name", src["name"])
-    wanted = norm_title(src.get("journal", src["name"])).removeprefix("the ")
-    resp = http_get(session, f"{OPENALEX}/sources", params=openalex_params(
-        api_key, search=src.get("journal", src["name"]), per_page=10))
-    for r in resp.json().get("results", []):
-        if norm_title(r.get("display_name", "")).removeprefix("the ") == wanted:
-            return r["id"], r["display_name"]
-    raise LookupError(f"journal not found in OpenAlex: {src.get('journal')}")
+    names = src.get("journal", src["name"])
+    names = names if isinstance(names, list) else [names]
+    seen = []
+    for name in names:
+        wanted = norm_title(name).removeprefix("the ")
+        resp = http_get(session, f"{OPENALEX}/sources", params=openalex_params(
+            api_key, search=name, per_page=10))
+        for r in resp.json().get("results", []):
+            got = r.get("display_name", "")
+            seen.append(got)
+            if norm_title(got).removeprefix("the ") == wanted:
+                return r["id"], got
+    hint = "; closest names in OpenAlex: " + ", ".join(dict.fromkeys(seen[:6])) if seen else ""
+    raise LookupError(f"not found in OpenAlex: {', '.join(names)}{hint}")
 
 
 def abstract_text(inverted: dict | None) -> str:
@@ -269,7 +290,7 @@ def fetch_openalex(session, src, api_key) -> tuple[list[dict], dict]:
         f"from_publication_date:{since}",
         "is_oa:true",          # free-to-read rule
         "is_retracted:false",  # never show retracted papers
-        "type:article|review",
+        "type:" + src.get("types", "article|review"),
     ])
     out, cursor, pages = [], "*", 0
     while cursor and pages < 5:
@@ -342,7 +363,16 @@ def fetch_osf(session, src) -> tuple[list[dict], dict]:
 # --------------------------------------------------------------------------
 
 def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
+    estimated = False
+    if cand["published"] is None and src.get("date_fallback") == "first_seen":
+        # Only for feeds that list new releases but carry no dates (e.g.
+        # NBER). The item is dated the day it first appears; merge() keeps
+        # that first date on later runs.
+        cand["published"] = NOW
+        estimated = True
     if not date_ok(cand["published"], src["window_days"]):
+        return None
+    if src.get("require_work_context") and not matcher.has_work_context(cand["text"]):
         return None
     topics = matcher.topics_for(cand["text"])
     if src.get("needs_topic", True) and not topics:
@@ -368,6 +398,7 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         "region": matcher.is_regional(cand["text"], cand.get("countries")),
         "labels": labels,
         "access": "Free to read",
+        **({"date_estimated": True} if estimated else {}),
     }
 
 
@@ -385,10 +416,13 @@ def merge(existing: list[dict], fresh: list[dict], enabled_ids: set[str]) -> lis
             continue
         nt = norm_title(item["title"])
         if item["id"] in by_id or nt in seen_titles:
-            # keep the earliest first_seen date
+            # keep the earliest first_seen date (and, for items without a
+            # real date, the earliest estimated publication date)
             prev = by_id.get(item["id"])
             if prev and item.get("first_seen", "") < prev.get("first_seen", ""):
                 prev["first_seen"] = item["first_seen"]
+                if prev.get("date_estimated"):
+                    prev["published"] = min(prev["published"], item["published"])
             continue
         by_id[item["id"]] = item
         seen_titles.add(nt)

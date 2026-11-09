@@ -102,7 +102,11 @@
     var head = el(lead ? "h3" : "h3", { class: "headline" }, [link]);
 
     var meta = el("div", { class: "meta" }, [
-      el("time", { datetime: item.published, text: fmtDate(new Date(item.published)) })
+      el("time", {
+        datetime: item.published,
+        text: (item.date_estimated ? "Added " : "") + fmtDate(new Date(item.published)),
+        title: item.date_estimated ? "The source gives no date; this is the day it first appeared here." : ""
+      })
     ]);
     var f = freshness(item);
     if (f) meta.appendChild(el("span", { class: "badge " + f.cls, text: f.text }));

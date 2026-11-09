@@ -117,8 +117,9 @@ sources:
     provider: psyarxiv
     window_days: 30
     needs_topic: true
+    require_work_context: true
     enabled: true
-    note: Labeled "Not yet peer-reviewed" on the site.
+    note: Labeled "Not yet peer-reviewed" on the site. Only papers about work or organizations are kept, because PsyArXiv covers all of psychology.
 
   - id: nber
     name: NBER Working Papers
@@ -128,83 +129,99 @@ sources:
       - https://back.nber.org/rss/new.xml
     window_days: 30
     needs_topic: true
+    date_fallback: first_seen
     enabled: true
-    note: Feed verified while drafting. Working papers are not peer-reviewed.
+    note: Feed verified. It lists new papers but has no dates, so each paper is dated the day it first appears. Working papers are not peer-reviewed.
 
   # ---------- Layer 3: institutional research ----------
+
+  # These publish working papers with DOIs, so they are read through
+  # OpenAlex (free copies only). Their websites have no usable news feed.
 
   - id: ilo
     name: International Labour Organization
     layer: institutional
-    kind: rss
-    feeds:
-      - https://www.ilo.org/rss.xml
-      - https://www.ilo.org/feed
+    kind: openalex
+    journal: ["ILO Working Paper", "ILO Working Papers", "ILO Brief"]
+    types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
     enabled: true
-    note: Feed address to confirm after the first run.
+    note: ILO working papers through OpenAlex.
 
-  - id: stanford-hai
-    name: Stanford HAI
+  - id: oecd-sem
+    name: OECD (Employment & Social)
     layer: institutional
-    kind: rss
-    feeds:
-      - https://hai.stanford.edu/news/rss.xml
-      - https://hai.stanford.edu/rss.xml
+    kind: openalex
+    journal: ["OECD Social, Employment and Migration Working Papers"]
+    types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
     enabled: true
-    note: Feed address to confirm after the first run.
+
+  - id: oecd-ai
+    name: OECD (Artificial Intelligence)
+    layer: institutional
+    kind: openalex
+    journal: ["OECD Artificial Intelligence Papers", "OECD Digital Economy Papers"]
+    types: article|review|preprint|report|book-chapter|other
+    window_days: 60
+    needs_topic: true
+    enabled: true
+
+  - id: imf-wp
+    name: IMF Working Papers
+    layer: institutional
+    kind: openalex
+    journal: ["IMF Working Papers", "IMF Working Paper"]
+    types: article|review|preprint|report|book-chapter|other
+    window_days: 60
+    needs_topic: true
+    enabled: true
 
   - id: pids
     name: Philippine Institute for Development Studies
     layer: institutional
-    kind: rss
-    feeds:
-      - https://pids.gov.ph/feed
-      - https://pids.gov.ph/rss
+    kind: openalex
+    journal: ["PIDS Discussion Paper Series", "Discussion Papers", "Philippine Journal of Development"]
+    types: article|review|preprint|report|book-chapter|other
+    window_days: 90
+    needs_topic: true
+    enabled: true
+    note: Check status after the run; PIDS may not be indexed in OpenAlex.
+
+  - id: adb-wp
+    name: Asian Development Bank (Working Papers)
+    layer: institutional
+    kind: openalex
+    journal: ["ADB Economics Working Paper Series", "ADBI Working Paper Series"]
+    types: article|review|preprint|report|book-chapter|other
     window_days: 60
     needs_topic: true
     enabled: true
-    note: Feed address to confirm after the first run.
 
   - id: adb
     name: Asian Development Bank
     layer: institutional
     kind: rss
     feeds:
-      - https://www.adb.org/rss/news
-      - https://www.adb.org/rss/publications
-      - https://blogs.adb.org/rss.xml
+      - https://feeds.feedburner.com/adb_news
+      - https://feeds.feedburner.com/adb_publications
+      - https://feeds.feedburner.com/adb_evaluation
     window_days: 60
     needs_topic: true
     enabled: true
-    note: Feed address to confirm after the first run.
+    note: adb.org blocks automated readers; these are ADB's own FeedBurner copies. The evaluation feed is confirmed to exist.
 
-  - id: oecd
-    name: OECD
+  - id: stanford-hai
+    name: Stanford HAI
     layer: institutional
     kind: rss
-    feeds:
-      - https://www.oecd.org/en/about/newsroom.rss
-      - https://www.oecd.org/newsroom/index.xml
+    feeds: []
     window_days: 60
     needs_topic: true
-    enabled: true
-    note: Feed address to confirm after the first run.
-
-  - id: imf-blog
-    name: IMF Blog
-    layer: institutional
-    kind: rss
-    feeds:
-      - https://www.imf.org/en/Blogs/rss
-      - https://www.imf.org/en/blogs/rss
-    window_days: 30
-    needs_topic: true
-    enabled: true
-    note: Feed address to confirm after the first run.
+    enabled: false
+    note: Turned off. Stanford HAI has no news feed. Its AI Index is annual; revisit later.
 
   # ---------- Layer 4: expert analysis ----------
 

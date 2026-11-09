@@ -7,9 +7,60 @@
 #   If an item also contains an "exclude" phrase for a topic, it is not
 #   tagged with that topic.
 #
+#   "weak" phrases are broad words (like "automation") that only count
+#   when the item is also about work or organizations, meaning it
+#   contains one of the "work_context" words below.
+#
 # You can edit this file yourself: add or remove phrases, then save.
 # Keep phrases specific. One-word phrases like "change" would match
 # almost everything and flood the site.
+
+work_context:
+  - work
+  - works
+  - worker
+  - workers
+  - workplace
+  - workplaces
+  - working
+  - employee
+  - employees
+  - employer
+  - employers
+  - employment
+  - job
+  - jobs
+  - occupational
+  - organization
+  - organizations
+  - organizational
+  - organisation
+  - organisations
+  - organisational
+  - company
+  - companies
+  - firm
+  - firms
+  - business
+  - businesses
+  - manager
+  - managers
+  - management
+  - leader
+  - leaders
+  - leadership
+  - team
+  - teams
+  - workforce
+  - staff
+  - career
+  - careers
+  - labor
+  - labour
+  - teacher
+  - teachers
+  - public sector
+  - civil service
 
 core:
   - id: change-readiness
@@ -26,12 +77,17 @@ core:
   - id: self-efficacy
     name: Self-efficacy
     match:
-      - self-efficacy
-      - self efficacy
       - change efficacy
       - change-related efficacy
-      - collective efficacy
+      - change self-efficacy
+      - occupational self-efficacy
+      - job search self-efficacy
       - coping with change
+    weak:
+      - self-efficacy
+      - self efficacy
+      - efficacy beliefs
+      - collective efficacy
     exclude:
       - athlete
       - sport
@@ -152,7 +208,8 @@ context:
       - trust in ai
       - ai anxiety
       - technostress
-      - automation
+      - workplace automation
+      - automation of jobs
       - ai and jobs
       - ai on jobs
       - ai job
@@ -162,6 +219,12 @@ context:
       - ai governance
       - ai literacy
       - human-ai collaboration
+    weak:
+      - automation
+      - artificial intelligence
+      - generative ai
+      - chatbot
+      - chatbots
     exclude:
       - benchmark
       - model release
