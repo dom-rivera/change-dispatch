@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T19:11:19Z",
+ "generated": "2026-11-09T19:45:16Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -209,7 +209,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-09T18:32:13Z",
+   "newest_item": "2026-11-09T19:27:06Z",
    "stale": false
   },
   {
