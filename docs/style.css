@@ -3,6 +3,37 @@
    Labels, navigation and small text: Libre Franklin (an open-source
    Franklin Gothic revival), falling back to system sans-serif. */
 
+/* Libre Franklin is served from this site (SIL Open Font License, see
+   fonts/OFL.txt), so no visitor data goes to a font provider. */
+@font-face {
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/libre-franklin-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("fonts/libre-franklin-latin-500-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("fonts/libre-franklin-latin-600-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("fonts/libre-franklin-latin-700-normal.woff2") format("woff2");
+}
+
 :root {
   --paper: #ffffff;
   --ink: #121212;

@@ -55,10 +55,18 @@ Items and editions stay available for a year.
 2. Settings → Pages → Build and deployment → Source: *Deploy from a branch*, Branch: `main`, folder: `/docs`.
 3. Actions tab → Daily edition → Run workflow, to publish the first edition.
 
+## Security notes
+
+- The daily workflow's GitHub actions are pinned to exact commits, and every Python package is installed with `--require-hashes` against the checksums in `requirements.txt` (generated from `requirements.in`).
+- Only http(s) links from sources reach the site, and the page has a strict Content Security Policy.
+- The Libre Franklin font is served from `docs/fonts` (SIL Open Font License, `docs/fonts/OFL.txt`); the site loads nothing from other servers.
+
+To update packages: edit `requirements.in`, then run `uv pip compile requirements.in --generate-hashes --python-version 3.12 -o requirements.txt`.
+
 ## Running it on your own computer
 
 ```
-pip install -r requirements.txt
+pip install --require-hashes -r requirements.txt
 python -m pytest tests          # check the filtering rules
 OPENALEX_API_KEY=your_key python scripts/fetch.py
 ```
