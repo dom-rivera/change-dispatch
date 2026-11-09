@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T18:52:42Z",
+ "generated": "2026-11-09T18:54:35Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -76,7 +76,12 @@
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S2764549887",
-   "journal_matched": "Philippine Journal of Psychology"
+   "journal_matched": "Philippine Journal of Psychology",
+   "diagnostic": {
+    "recent_any_type": 0,
+    "recent_free": 0,
+    "latest_in_openalex": "2024-04-08"
+   }
   },
   {
    "id": "ajsp",
@@ -134,7 +139,12 @@
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S4393919168",
-   "journal_matched": "ILO working paper"
+   "journal_matched": "ILO working paper",
+   "diagnostic": {
+    "recent_any_type": 0,
+    "recent_free": 0,
+    "latest_in_openalex": "2023-01-01"
+   }
   },
   {
    "id": "oecd-sem",
@@ -145,7 +155,12 @@
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S4210221173",
-   "journal_matched": "OECD social employment and migration working papers"
+   "journal_matched": "OECD social employment and migration working papers",
+   "diagnostic": {
+    "recent_any_type": 2,
+    "recent_free": 0,
+    "latest_in_openalex": "2026-10-29"
+   }
   },
   {
    "id": "oecd-ai",
@@ -156,7 +171,12 @@
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S4393920202",
-   "journal_matched": "OECD artificial intelligence papers"
+   "journal_matched": "OECD artificial intelligence papers",
+   "diagnostic": {
+    "recent_any_type": 2,
+    "recent_free": 0,
+    "latest_in_openalex": "2026-10-03"
+   }
   },
   {
    "id": "imf-wp",
@@ -167,7 +187,12 @@
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S5407031312",
-   "journal_matched": "IMF Working Papers"
+   "journal_matched": "IMF Working Papers",
+   "diagnostic": {
+    "recent_any_type": 0,
+    "recent_free": 0,
+    "latest_in_openalex": "2025-02-01"
+   }
   },
   {
    "id": "pids",
@@ -177,8 +202,13 @@
    "found": 0,
    "kept": 0,
    "error": null,
-   "openalex_source": "https://openalex.org/S4210174451",
-   "journal_matched": "Discussion papers"
+   "openalex_source": "https://openalex.org/S4404663374",
+   "journal_matched": "Philippine journal of development.",
+   "diagnostic": {
+    "recent_any_type": 0,
+    "recent_free": 0,
+    "latest_in_openalex": null
+   }
   },
   {
    "id": "adb-wp",
@@ -189,7 +219,12 @@
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S4210168804",
-   "journal_matched": "ADB economics working paper series"
+   "journal_matched": "ADB economics working paper series",
+   "diagnostic": {
+    "recent_any_type": 0,
+    "recent_free": 0,
+    "latest_in_openalex": "2024-10-01"
+   }
   },
   {
    "id": "adb",
