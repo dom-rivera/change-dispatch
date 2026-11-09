@@ -67,7 +67,8 @@ a:hover { text-decoration: underline; }
   color: var(--ink);
   padding-bottom: 8px;
 }
-.dateline .manila { font-weight: 500; color: var(--muted); }
+.dateline .manila { font-weight: 500; color: var(--muted); font-variant-numeric: tabular-nums; }
+.dateline .manila time { color: var(--ink); font-weight: 600; }
 .dateline #updated { font-weight: 500; color: var(--muted); }
 .title {
   font-family: var(--serif);
@@ -100,17 +101,30 @@ a:hover { text-decoration: underline; }
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 2px 26px;
   margin: 0;
   padding: 11px 0;
 }
-.sections a { padding: 4px 0; color: var(--ink); }
-.sections a:hover { text-decoration: none; border-bottom: 1px solid var(--ink); }
+.sections > ul > li { display: flex; align-items: center; line-height: 1.5; }
+.sections a,
+.topics-menu summary {
+  display: inline-block;
+  padding: 4px 0;
+  color: var(--ink);
+  font: inherit;
+  line-height: 1.5;
+  border-bottom: 2px solid transparent;
+}
+.sections a:hover,
+.topics-menu summary:hover { text-decoration: none; border-bottom-color: var(--ink); }
 .sections a[aria-current="page"] { font-weight: 700; border-bottom: 2px solid var(--ink); }
-.topics-menu details { position: relative; }
-.topics-menu summary { cursor: pointer; padding: 4px 0; list-style: none; }
+.topics-menu details { position: relative; display: inline-block; }
+.topics-menu summary { cursor: pointer; list-style: none; }
 .topics-menu summary::-webkit-details-marker { display: none; }
-.topics-menu summary::after { content: " \25BE"; font-size: 10px; }
+.topics-menu summary::marker { content: ""; }
+.topics-menu summary::after { content: "\25BE"; font-size: 10px; margin-left: 4px; vertical-align: 1px; }
+.topics-menu details[open] summary { border-bottom-color: var(--ink); }
 .topics-menu ul {
   position: absolute;
   z-index: 5;
@@ -124,7 +138,7 @@ a:hover { text-decoration: underline; }
   border: 1px solid var(--hair);
   box-shadow: 0 4px 16px rgba(0,0,0,.08);
 }
-.topics-menu li a { display: block; padding: 7px 18px; font-weight: 500; }
+.topics-menu li a { display: block; padding: 7px 18px; font-weight: 500; border-bottom: 0; }
 .topics-menu li a:hover { background: var(--chip); border-bottom: 0; }
 .topics-menu .group {
   font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em;

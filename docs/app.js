@@ -368,8 +368,18 @@
     });
   }
 
-  $("today-date").textContent = new Date().toLocaleDateString("en-US",
-    { timeZone: TZ, weekday: "long", year: "numeric", month: "long", day: "numeric" });
+  /* Live clock in Manila time; the date line also rolls over at midnight. */
+  function tick() {
+    var now = new Date();
+    $("today-date").textContent = now.toLocaleDateString("en-US",
+      { timeZone: TZ, weekday: "long", year: "numeric", month: "long", day: "numeric" });
+    var clock = $("clock");
+    clock.textContent = now.toLocaleTimeString("en-US",
+      { timeZone: TZ, hour: "numeric", minute: "2-digit", second: "2-digit" });
+    clock.setAttribute("datetime", now.toISOString());
+  }
+  tick();
+  setInterval(tick, 1000);
 
   $("search").addEventListener("input", function (e) { state.query = e.target.value.trim(); render(); });
   window.addEventListener("hashchange", function () { window.scrollTo(0, 0); render(); });
