@@ -3,9 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
   <title>The Change Dispatch</title>
   <meta name="description" content="Open, verified news and research on organizational change, AI, psychology and economics. Every item is free to read.">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%231b1a17'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='20' font-weight='700' text-anchor='middle' fill='%23fbf9f4'%3ECD%3C/text%3E%3C/svg%3E">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%23121212'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='20' font-weight='700' text-anchor='middle' fill='%23ffffff'%3ECD%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,19 +18,16 @@
   <header class="masthead">
     <div class="dateline">
       <span id="today-date"></span>
-      <span class="dot">·</span>
-      <span>Manila edition</span>
-      <span class="dot">·</span>
+      <span class="manila">Manila Edition</span>
       <span id="updated">Loading…</span>
     </div>
     <h1 class="title"><a href="#today">The Change Dispatch</a></h1>
     <p class="tagline">Open, verified news and research on organizational change, AI, psychology and economics</p>
-    <p class="promise">Every item is free to read · Trusted sources only · Updated daily</p>
   </header>
 
   <nav class="sections" aria-label="Sections">
     <ul id="section-list">
-      <li><a href="#today">Today's Dispatch</a></li>
+      <li><a href="#today">Today’s Dispatch</a></li>
       <li><a href="#front">Front Page</a></li>
       <li><a href="#research">Research Desk</a></li>
       <li><a href="#region">Philippines &amp; SE Asia</a></li>
@@ -36,21 +37,26 @@
           <ul id="topic-links"></ul>
         </details>
       </li>
+      <li><a href="#editions">Past Editions</a></li>
       <li><a href="#archive">Archive</a></li>
-      <li><a href="#about">About &amp; sources</a></li>
+      <li><a href="#about">About &amp; Sources</a></li>
     </ul>
   </nav>
+  <p class="promise">Every item is free to read · Trusted sources only · Updated every morning</p>
 
   <main id="main">
     <div class="section-head">
-      <h2 id="section-title">Today's Dispatch</h2>
+      <h2 id="section-title">Today’s Dispatch</h2>
       <p id="section-note" class="section-note"></p>
+      <p id="section-extra" class="section-extra"></p>
     </div>
+
+    <nav id="edition-nav" class="edition-nav" aria-label="Other editions" hidden></nav>
 
     <div class="filters" id="filters">
       <label class="search">
         <span class="visually-hidden">Search headlines</span>
-        <input id="search" type="search" placeholder="Search headlines…" autocomplete="off">
+        <input id="search" type="search" placeholder="Search headlines" autocomplete="off">
       </label>
       <div class="chips" role="group" aria-label="Filter by type" id="type-chips"></div>
     </div>
@@ -58,6 +64,7 @@
     <p id="empty" class="empty" hidden></p>
     <div id="stories" class="stories"></div>
 
+    <section id="editions-page" class="editions" hidden></section>
     <section id="about-page" class="about" hidden></section>
   </main>
 
@@ -65,8 +72,10 @@
     <p><strong>The Change Dispatch</strong> is an open-source project. It links to and labels the work of others; it never republishes full articles.</p>
     <p>
       <a href="https://github.com/dom-rivera/change-dispatch">Source code &amp; source list on GitHub</a>
-      <span class="dot">·</span>
+      <span class="sep">·</span>
       <a href="#about">Inclusion policy</a>
+      <span class="sep">·</span>
+      <a href="#editions">Past editions</a>
     </p>
   </footer>
 

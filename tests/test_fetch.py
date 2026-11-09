@@ -124,5 +124,18 @@ def test_undated_feed_uses_first_seen_and_keeps_it():
     assert merged["published"] == "2026-01-01T00:00:00Z"
 
 
+def test_edition_snapshot(tmp_path, monkeypatch):
+    monkeypatch.setattr(fetch, "DATA", tmp_path)
+    fresh = build([("Change fatigue at work", "https://example.org/n", "", NOW - timedelta(hours=2))])[0]
+    old = dict(build([("Burnout at work rises", "https://example.org/o", "", NOW - timedelta(days=3))])[0],
+               first_seen="2020-01-01T00:00:00Z")
+    expired = dict(old, id="gone", published="2020-01-01T00:00:00Z")
+    info = fetch.write_edition([fresh, old, expired])
+    assert info["count"] == 2 and info["new"] == 1
+    import json
+    index = json.loads((tmp_path / "editions" / "index.json").read_text())
+    assert index["editions"][0]["date"] == info["date"]
+
+
 def test_abstract_rebuild():
     assert fetch.abstract_text({"readiness": [0], "change": [2], "for": [1]}) == "readiness for change"

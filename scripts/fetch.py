@@ -205,7 +205,8 @@ def parse_feed(content: bytes) -> list[dict]:
         raise ValueError("no entries found (not a valid feed?)")
     out = []
     for e in feed.entries:
-        title = clean_text(e.get("title"))
+        # NBER-style titles end with " -- by Author, Author"; keep the title only
+        title = re.sub(r"\s+--\s+by\s+.*$", "", clean_text(e.get("title")))
         link = e.get("link") or ""
         if not title or not link.startswith("http"):
             continue
@@ -450,6 +451,51 @@ def merge(existing: list[dict], fresh: list[dict], enabled_ids: set[str]) -> lis
     return sorted(by_id.values(), key=lambda i: i["published"], reverse=True)
 
 
+MANILA = timezone(timedelta(hours=8))
+
+
+def write_edition(items: list[dict]) -> dict:
+    """Save today's edition (Manila date) so readers can go back to it.
+
+    An edition file lists the IDs of every item that was current on the
+    site that day, and which of them were new that day. The full item
+    details stay in items.json for a year. A second run on the same day
+    replaces that day's file.
+    """
+    ed_dir = DATA / "editions"
+    ed_dir.mkdir(parents=True, exist_ok=True)
+    today = NOW.astimezone(MANILA).strftime("%Y-%m-%d")
+
+    current, new = [], []
+    for item in items:
+        published = parse_iso(item["published"])
+        if published and published >= NOW - timedelta(days=item["window_days"]):
+            current.append(item["id"])
+            seen = parse_iso(item.get("first_seen", ""))
+            if seen and seen.astimezone(MANILA).strftime("%Y-%m-%d") == today:
+                new.append(item["id"])
+
+    (ed_dir / f"{today}.json").write_text(json.dumps(
+        {"date": today, "generated": iso(NOW), "items": current, "new": new},
+        ensure_ascii=False), encoding="utf-8")
+
+    # Rebuild the index from the files on disk; drop editions older than
+    # the archive limit (their items are gone from items.json anyway).
+    cutoff = (NOW - timedelta(days=ARCHIVE_DAYS)).astimezone(MANILA).strftime("%Y-%m-%d")
+    editions = []
+    for path in sorted(ed_dir.glob("????-??-??.json"), reverse=True):
+        if path.stem < cutoff:
+            path.unlink()
+            continue
+        data = json.loads(path.read_text(encoding="utf-8"))
+        editions.append({"date": data["date"], "count": len(data["items"]),
+                         "new": len(data["new"])})
+    (ed_dir / "index.json").write_text(json.dumps(
+        {"generated": iso(NOW), "editions": editions}, ensure_ascii=False, indent=1),
+        encoding="utf-8")
+    return {"date": today, "count": len(current), "new": len(new)}
+
+
 def main() -> int:
     sources_cfg = load_yaml("sources.yaml")
     matcher = TopicMatcher(load_yaml("topics.yaml"))
@@ -520,9 +566,12 @@ def main() -> int:
          "sources": status},
         ensure_ascii=False, indent=1), encoding="utf-8")
 
+    edition = write_edition(items)
+
     ok = sum(1 for s in status if s["ok"])
     print(f"\n{ok}/{len(status)} sources worked; {len(fresh)} new items kept; "
-          f"{len(items)} items on the site.")
+          f"{len(items)} items on the site; edition {edition['date']}: "
+          f"{edition['count']} items, {edition['new']} new.")
     # Never fail the whole run because some sources are down; the status
     # file and the site's sources page show what went wrong.
     return 0 if ok else 1

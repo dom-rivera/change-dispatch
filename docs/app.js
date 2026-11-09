@@ -1,22 +1,27 @@
 /* The Change Dispatch: front-end.
-   Reads data/items.json and data/status.json (written daily by
-   scripts/fetch.py) and renders the sections. All text from feeds is
-   inserted with textContent, never as HTML. */
+   Reads data/items.json, data/status.json and data/editions/*.json
+   (written daily by scripts/fetch.py) and renders the sections.
+   All text from feeds is inserted with textContent, never as HTML. */
 (function () {
   "use strict";
 
   var DAY = 86400000;
   var TZ = "Asia/Manila";
   var TYPES = ["Peer-reviewed", "Preprint", "Institutional", "Expert analysis", "News"];
+  var LAYER_NAMES = { research: "Peer-reviewed", preprint: "Preprint", institutional: "Institutional",
+                      analysis: "Expert analysis", news: "News" };
 
-  var state = { items: [], topics: [], region: null, status: null, generated: null,
-                type: "All", query: "" };
+  var state = {
+    items: [], byId: {}, topics: [], region: null, status: null, generated: null,
+    editions: null, editionCache: {}, type: "All", query: ""
+  };
 
   var $ = function (id) { return document.getElementById(id); };
 
   function el(tag, attrs, children) {
     var node = document.createElement(tag);
     Object.keys(attrs || {}).forEach(function (k) {
+      if (attrs[k] === undefined || attrs[k] === null || attrs[k] === "") return;
       if (k === "text") node.textContent = attrs[k];
       else if (k === "class") node.className = attrs[k];
       else node.setAttribute(k, attrs[k]);
@@ -29,6 +34,12 @@
     var opts = { timeZone: TZ, year: "numeric", month: "short", day: "numeric" };
     if (withTime) { opts.hour = "numeric"; opts.minute = "2-digit"; }
     return d.toLocaleString("en-US", opts);
+  }
+
+  function longDate(isoDay) {
+    // isoDay is a Manila calendar date like 2026-11-10
+    var d = new Date(isoDay + "T12:00:00+08:00");
+    return d.toLocaleDateString("en-US", { timeZone: TZ, weekday: "long", year: "numeric", month: "long", day: "numeric" });
   }
 
   function ageDays(item) { return (Date.now() - new Date(item.published).getTime()) / DAY; }
@@ -47,11 +58,11 @@
     return id;
   }
 
-  /* ---------------- Sections ---------------- */
-
   function coreIds() {
     return state.topics.filter(function (t) { return t.group === "core"; }).map(function (t) { return t.id; });
   }
+
+  /* ---------------- Sections ---------------- */
 
   function sectionFor(hash) {
     var h = (hash || "").replace(/^#/, "") || "today";
@@ -70,12 +81,15 @@
       note: "Current items about the region, or research by authors at institutions in the region.",
       filter: function (i) { return isCurrent(i) && i.region; }
     };
+    if (h === "editions") return { key: h, title: "Past Editions", editionsList: true,
+      note: "Every day's reading list is saved. Pick a date to see the list as it appeared that day." };
+    if (h.indexOf("edition/") === 0) return { key: "editions", edition: h.slice(8) };
     if (h === "archive") return {
       key: h, title: "Archive",
       note: "Everything from the past year, including items past their freshness window. Use the search box.",
       filter: function () { return true; }
     };
-    if (h === "about") return { key: h, title: "About & sources", about: true };
+    if (h === "about") return { key: h, title: "About & Sources", about: true };
     if (h.indexOf("topic/") === 0) {
       var id = h.slice(6);
       return {
@@ -85,21 +99,22 @@
       };
     }
     return {
-      key: "today", title: "Today's Dispatch",
+      key: "today", title: "Today’s Dispatch",
       note: "Everything still inside its freshness window: 7 days for news, 14 for analysis, 30 for preprints, 60 for research and reports.",
-      filter: isCurrent
+      filter: isCurrent, showEditionsLink: true
     };
   }
 
-  /* ---------------- Rendering ---------------- */
+  /* ---------------- Story cards ---------------- */
 
-  function storyNode(item, lead) {
+  function storyNode(item, lead, ctx) {
+    ctx = ctx || {};
     var kicker = el("p", { class: "kicker" }, [
-      document.createTextNode(item.type + " · "),
-      el("span", { class: "src", text: item.source })
+      document.createTextNode(item.type),
+      el("span", { class: "src", text: " · " + item.source })
     ]);
     var link = el("a", { href: item.url, rel: "noopener", target: "_blank", text: item.title });
-    var head = el(lead ? "h3" : "h3", { class: "headline" }, [link]);
+    var head = el("h3", { class: "headline" }, [link]);
 
     var meta = el("div", { class: "meta" }, [
       el("time", {
@@ -108,8 +123,12 @@
         title: item.date_estimated ? "The source gives no date; this is the day it first appeared here." : ""
       })
     ]);
-    var f = freshness(item);
-    if (f) meta.appendChild(el("span", { class: "badge " + f.cls, text: f.text }));
+    if (ctx.edition) {
+      if (ctx.isNew) meta.appendChild(el("span", { class: "badge new", text: "New in this edition" }));
+    } else {
+      var f = freshness(item);
+      if (f) meta.appendChild(el("span", { class: "badge " + f.cls, text: f.text }));
+    }
     (item.labels || []).forEach(function (l) { meta.appendChild(el("span", { class: "badge warn", text: l })); });
     meta.appendChild(el("span", { class: "badge free", text: item.access || "Free to read" }));
 
@@ -151,48 +170,154 @@
     if (d) d.open = false;
   }
 
-  function render() {
-    var sec = sectionFor(location.hash);
-    $("section-title").textContent = sec.title;
-    $("section-note").textContent = sec.note || "";
-    markNav(sec.key);
+  function show(mode) {
+    // mode: "stories" | "about" | "editions"
+    $("filters").hidden = mode !== "stories";
+    $("stories").hidden = mode !== "stories";
+    $("about-page").hidden = mode !== "about";
+    $("editions-page").hidden = mode !== "editions";
+    $("edition-nav").hidden = true;
+    $("empty").hidden = true;
+  }
 
-    var about = $("about-page");
-    if (sec.about) {
-      $("filters").hidden = true; $("stories").hidden = true; $("empty").hidden = true;
-      about.hidden = false;
-      renderAbout(about);
-      return;
-    }
-    about.hidden = true; $("filters").hidden = false; $("stories").hidden = false;
-    renderChips();
-
+  function applyFilters(list) {
     var q = state.query.toLowerCase();
-    var list = state.items.filter(sec.filter).filter(function (i) {
+    return list.filter(function (i) {
       return (state.type === "All" || i.type === state.type) &&
              (!q || (i.title + " " + i.source).toLowerCase().indexOf(q) >= 0);
     });
+  }
 
+  function renderList(list, opts) {
+    opts = opts || {};
     var box = $("stories");
     box.textContent = "";
     var empty = $("empty");
     if (!list.length) {
       empty.hidden = false;
-      empty.textContent = state.items.length
-        ? "Nothing here right now. Try another section, clear the filters, or check the Archive."
-        : "The first edition hasn't been published yet. It appears after the daily update runs.";
+      empty.textContent = opts.emptyText || (state.items.length
+        ? "Nothing here right now. Try another section, clear the filters, or check Past Editions."
+        : "The first edition hasn't been published yet. It appears after the daily update runs.");
       return;
     }
     empty.hidden = true;
-    list.forEach(function (item, idx) { box.appendChild(storyNode(item, idx === 0 && sec.key !== "archive")); });
+    list.forEach(function (item, idx) {
+      box.appendChild(storyNode(item, idx === 0 && !opts.noLead,
+        opts.edition ? { edition: true, isNew: opts.newIds[item.id] } : null));
+    });
   }
+
+  /* ---------------- Main render ---------------- */
+
+  function render() {
+    var sec = sectionFor(location.hash);
+    markNav(sec.key);
+
+    if (sec.edition) { renderEdition(sec.edition); return; }
+
+    $("section-title").textContent = sec.title;
+    $("section-note").textContent = sec.note || "";
+    $("section-extra").textContent = "";
+
+    if (sec.about) { show("about"); renderAbout($("about-page")); return; }
+    if (sec.editionsList) { show("editions"); renderEditionsList(); return; }
+
+    show("stories");
+    renderChips();
+    if (sec.showEditionsLink && state.editions && state.editions.length > 1) {
+      $("section-extra").appendChild(el("a", { href: "#editions", text: "Browse past editions →" }));
+    }
+    renderList(applyFilters(state.items.filter(sec.filter)), { noLead: sec.key === "archive" });
+  }
+
+  /* ---------------- Past editions ---------------- */
+
+  function renderEditionsList() {
+    var box = $("editions-page");
+    box.textContent = "";
+    if (!state.editions || !state.editions.length) {
+      box.appendChild(el("p", { class: "empty", text: "Past editions will appear here after the daily update runs." }));
+      return;
+    }
+    var byMonth = {};
+    var order = [];
+    state.editions.forEach(function (e) {
+      var m = new Date(e.date + "T12:00:00+08:00").toLocaleDateString("en-US", { timeZone: TZ, month: "long", year: "numeric" });
+      if (!byMonth[m]) { byMonth[m] = []; order.push(m); }
+      byMonth[m].push(e);
+    });
+    order.forEach(function (m) {
+      box.appendChild(el("h3", { class: "month", text: m }));
+      var ul = el("ul", { class: "edition-list" });
+      byMonth[m].forEach(function (e) {
+        ul.appendChild(el("li", {}, [
+          el("a", { href: "#edition/" + e.date, text: longDate(e.date) }),
+          el("span", { class: "edition-count", text: e.count + " items · " + e.new + " new" })
+        ]));
+      });
+      box.appendChild(ul);
+    });
+  }
+
+  function loadEdition(date) {
+    if (state.editionCache[date]) return Promise.resolve(state.editionCache[date]);
+    return getJSON("data/editions/" + date + ".json").then(function (d) {
+      state.editionCache[date] = d;
+      return d;
+    });
+  }
+
+  function renderEdition(date) {
+    $("section-title").textContent = "Edition of " + longDate(date);
+    $("section-note").textContent = "Loading…";
+    $("section-extra").textContent = "";
+    show("stories");
+    renderChips();
+    $("stories").textContent = "";
+
+    // previous / next links
+    var nav = $("edition-nav");
+    nav.textContent = "";
+    var list = state.editions || [];
+    var idx = -1;
+    for (var i = 0; i < list.length; i++) if (list[i].date === date) idx = i;
+    var newer = idx > 0 ? list[idx - 1] : null;
+    var older = idx >= 0 && idx < list.length - 1 ? list[idx + 1] : null;
+    nav.appendChild(older ? el("a", { href: "#edition/" + older.date, text: "← " + fmtDate(new Date(older.date + "T12:00:00+08:00")) }) : el("span"));
+    nav.appendChild(el("a", { href: "#editions", text: "All editions" }));
+    nav.appendChild(newer ? el("a", { href: "#edition/" + newer.date, text: fmtDate(new Date(newer.date + "T12:00:00+08:00")) + " →" }) : el("span"));
+    nav.hidden = false;
+
+    loadEdition(date).then(function (ed) {
+      if (sectionFor(location.hash).edition !== date) return; // user moved on
+      var newIds = {};
+      (ed.new || []).forEach(function (id) { newIds[id] = true; });
+      var items = ed.items.map(function (id) { return state.byId[id]; }).filter(Boolean);
+      var missing = ed.items.length - items.length;
+      items.sort(function (a, b) {
+        if (!!newIds[b.id] !== !!newIds[a.id]) return newIds[b.id] ? 1 : -1;
+        return a.published < b.published ? 1 : -1;
+      });
+      $("section-note").textContent = ed.items.length + " items on the site that day, " +
+        (ed.new || []).length + " of them new." +
+        (missing ? " " + missing + " older items have since left the archive." : "");
+      renderList(applyFilters(items), { edition: true, newIds: newIds,
+        emptyText: "No items match these filters in this edition." });
+    }).catch(function () {
+      $("section-note").textContent = "";
+      $("empty").hidden = false;
+      $("empty").textContent = "There is no saved edition for this date.";
+    });
+  }
+
+  /* ---------------- About ---------------- */
 
   function para(text) { return el("p", { text: text }); }
 
   function renderAbout(box) {
     box.textContent = "";
     box.appendChild(el("h3", { text: "What this is" }));
-    box.appendChild(para("The Change Dispatch collects timely, credible news and research on organizational change, AI at work, psychology and economics, with a section on the Philippines and Southeast Asia. It updates itself every morning, Manila time."));
+    box.appendChild(para("The Change Dispatch collects timely, credible news and research on organizational change, AI at work, psychology and economics, with a section on the Philippines and Southeast Asia. It updates itself every morning, Manila time, and saves each day’s edition so readers can go back to it."));
 
     box.appendChild(el("h3", { text: "Inclusion policy" }));
     var rules = el("ul");
@@ -221,7 +346,7 @@
       var cls = s.ok && !s.stale ? "status-ok" : "status-bad";
       var tr = el("tr", {}, [
         el("td", { text: s.name }),
-        el("td", { text: ({ research: "Peer-reviewed", preprint: "Preprint", institutional: "Institutional", analysis: "Expert analysis", news: "News" })[s.layer] || s.layer }),
+        el("td", { text: LAYER_NAMES[s.layer] || s.layer }),
         el("td", {}, [el("span", { class: cls, text: st })]),
         el("td", { text: String(s.kept) }),
         el("td", { text: s.newest_item ? fmtDate(new Date(s.newest_item)) : "—" })
@@ -251,12 +376,15 @@
 
   Promise.all([
     getJSON("data/items.json").catch(function () { return null; }),
-    getJSON("data/status.json").catch(function () { return null; })
+    getJSON("data/status.json").catch(function () { return null; }),
+    getJSON("data/editions/index.json").catch(function () { return null; })
   ]).then(function (res) {
     var data = res[0];
     state.status = res[1];
+    state.editions = res[2] ? res[2].editions : [];
     if (data) {
       state.items = data.items || [];
+      state.items.forEach(function (i) { state.byId[i.id] = i; });
       state.topics = data.topics || [];
       state.region = data.region || null;
       state.generated = data.generated;

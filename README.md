@@ -38,9 +38,10 @@ Each morning, GitHub Actions runs `scripts/fetch.py`, which:
 - applies a **freshness window** per source (7 days for news, 14 for analysis, 30 for preprints, 60 for research and reports) using the real publication date;
 - drops items with no date, paywalled papers, retracted papers and anything that doesn't match a topic;
 - removes duplicates, tags topics and the regional filter, and saves the result;
-- records which sources worked in `docs/data/status.json`, shown on the site's "About & sources" page.
+- records which sources worked in `docs/data/status.json`, shown on the site's "About & sources" page;
+- saves the day's edition in `docs/data/editions/` so readers can browse past days under "Past Editions".
 
-Items stay in the searchable archive for a year.
+Items and editions stay available for a year.
 
 ## Editing without code
 
