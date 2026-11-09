@@ -1,0 +1,233 @@
+# The Change Dispatch: topics
+#
+# How matching works:
+#   An item is kept only if its title or summary contains at least one
+#   "match" phrase from any topic below. Matching ignores upper/lower case
+#   and only matches whole words or phrases.
+#   If an item also contains an "exclude" phrase for a topic, it is not
+#   tagged with that topic.
+#
+# You can edit this file yourself: add or remove phrases, then save.
+# Keep phrases specific. One-word phrases like "change" would match
+# almost everything and flood the site.
+
+core:
+  - id: change-readiness
+    name: Change readiness
+    match:
+      - readiness for change
+      - change readiness
+      - readiness to change
+      - organizational readiness
+      - organisational readiness
+      - commitment to change
+      - change commitment
+
+  - id: self-efficacy
+    name: Self-efficacy
+    match:
+      - self-efficacy
+      - self efficacy
+      - change efficacy
+      - change-related efficacy
+      - collective efficacy
+      - coping with change
+    exclude:
+      - athlete
+      - sport
+      - patients
+      - clinical trial
+
+  - id: openness-to-change
+    name: Openness to change
+    match:
+      - openness to change
+      - attitudes toward change
+      - attitudes towards change
+      - attitude toward change
+      - resistance to change
+      - change resistance
+      - change acceptance
+      - cynicism about change
+      - change cynicism
+
+  - id: organizational-change
+    name: Organizational change
+    match:
+      - organizational change
+      - organisational change
+      - organizational transformation
+      - organisational transformation
+      - digital transformation
+      - restructuring
+      - corporate restructuring
+      - merger
+      - mergers and acquisitions
+      - downsizing
+      - layoffs
+      - culture change
+
+  - id: change-management
+    name: Change management
+    match:
+      - change management
+      - change leadership
+      - change agent
+      - change agents
+      - change fatigue
+      - change initiative
+      - change initiatives
+      - kotter
+      - adkar
+      - lewin
+
+context:
+  - id: leadership
+    name: Leadership and change communication
+    match:
+      - transformational leadership
+      - leader support
+      - leadership style
+      - change communication
+      - communication during change
+      - trust in management
+      - trust in leadership
+      - servant leadership
+
+  - id: well-being
+    name: Employee well-being
+    match:
+      - burnout
+      - job stress
+      - work stress
+      - workplace stress
+      - occupational stress
+      - employee engagement
+      - work engagement
+      - employee well-being
+      - employee wellbeing
+      - work-life balance
+      - mental health at work
+      - workplace mental health
+    exclude:
+      - diagnosis
+      - clinical trial
+      - medication
+
+  - id: psych-safety
+    name: Psychological safety and culture
+    match:
+      - psychological safety
+      - organizational culture
+      - organisational culture
+      - workplace culture
+      - organizational justice
+      - organisational justice
+      - voice behavior
+      - employee voice
+
+  - id: future-of-work
+    name: Future of work
+    match:
+      - future of work
+      - hybrid work
+      - remote work
+      - work from home
+      - return to office
+      - reskilling
+      - upskilling
+      - job redesign
+      - skills gap
+      - skills gaps
+      - four-day week
+
+  - id: ai-at-work
+    name: AI at work
+    match:
+      - ai adoption
+      - adoption of ai
+      - generative ai at work
+      - ai in the workplace
+      - workplace ai
+      - trust in ai
+      - ai anxiety
+      - technostress
+      - automation
+      - ai and jobs
+      - ai on jobs
+      - ai job
+      - ai jobs
+      - jobs to ai
+      - ai policy
+      - ai governance
+      - ai literacy
+      - human-ai collaboration
+    exclude:
+      - benchmark
+      - model release
+      - chip
+      - semiconductor
+      - share price
+      - stock
+
+  - id: labor-economics
+    name: Labor economics
+    match:
+      - labor market
+      - labour market
+      - unemployment
+      - employment rate
+      - wages
+      - wage growth
+      - minimum wage
+      - productivity growth
+      - labor productivity
+      - labour productivity
+      - job displacement
+      - job losses
+      - workforce
+    exclude:
+      - stock market
+      - share price
+      - bond yields
+
+  - id: behavioral-economics
+    name: Behavioral economics
+    match:
+      - behavioral economics
+      - behavioural economics
+      - decision-making under uncertainty
+      - nudge
+      - nudges
+      - loss aversion
+      - status quo bias
+      - present bias
+      - choice architecture
+
+# Regional filter: tags items about the Philippines and Southeast Asia.
+# Research papers are also tagged when an author is at an institution
+# in one of the listed countries (country codes are ISO two-letter codes).
+region:
+  id: ph-sea
+  name: Philippines & Southeast Asia
+  match:
+    - philippines
+    - philippine
+    - filipino
+    - filipinos
+    - manila
+    - asean
+    - southeast asia
+    - south-east asia
+    - indonesia
+    - vietnam
+    - viet nam
+    - thailand
+    - malaysia
+    - singapore
+    - cambodia
+    - laos
+    - myanmar
+    - brunei
+    - timor-leste
+  author_countries: [PH, ID, VN, TH, MY, SG, KH, LA, MM, BN, TL]

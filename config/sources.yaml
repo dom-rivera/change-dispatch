@@ -1,0 +1,276 @@
+# The Change Dispatch: approved sources
+#
+# FIRM RULE: every item must be free to read, or it doesn't appear.
+# A source is listed here only if it is an established institution with
+# editorial standards, peer review or moderation, dated items and named
+# authors or institutions. No social media, blogs, press releases or
+# content farms.
+#
+# Fields:
+#   id            short unique name (letters, numbers, dashes)
+#   name          name shown on the site
+#   layer         research | preprint | institutional | analysis | news
+#   kind          how it is fetched:
+#                   rss        a news feed (list one or more "feeds";
+#                              the first one that works is used)
+#                   openalex   a journal, searched through OpenAlex
+#                              (only open-access, non-retracted papers)
+#                   osf        PsyArXiv preprints through the OSF API
+#   window_days   how many days an item counts as current
+#   enabled       true or false
+#   needs_topic   true = keep only items that match a topic
+#                 (always true for broad sources like newspapers)
+#   note          anything worth remembering
+#
+# To add a source: copy an existing block, change the fields, save.
+# The daily run reports which sources worked in docs/data/status.json
+# and on the site's "About & sources" page.
+
+sources:
+
+  # ---------- Layer 1: peer-reviewed research (free copies only) ----------
+
+  - id: j-change-mgmt
+    name: Journal of Change Management
+    layer: research
+    kind: openalex
+    journal: Journal of Change Management
+    issn: ["1469-7017", "1479-1811"]
+    window_days: 60
+    needs_topic: false
+    enabled: true
+
+  - id: jocm
+    name: Journal of Organizational Change Management
+    layer: research
+    kind: openalex
+    journal: Journal of Organizational Change Management
+    issn: ["0953-4814"]
+    window_days: 60
+    needs_topic: false
+    enabled: true
+
+  - id: jabs
+    name: Journal of Applied Behavioral Science
+    layer: research
+    kind: openalex
+    journal: The Journal of Applied Behavioral Science
+    issn: ["0021-8863"]
+    window_days: 60
+    needs_topic: false
+    enabled: true
+
+  - id: job
+    name: Journal of Organizational Behavior
+    layer: research
+    kind: openalex
+    journal: Journal of Organizational Behavior
+    issn: ["0894-3796"]
+    window_days: 60
+    needs_topic: true
+    enabled: true
+
+  - id: jap
+    name: Journal of Applied Psychology
+    layer: research
+    kind: openalex
+    journal: Journal of Applied Psychology
+    issn: ["0021-9010"]
+    window_days: 60
+    needs_topic: true
+    enabled: true
+
+  - id: pjp
+    name: Philippine Journal of Psychology
+    layer: research
+    kind: openalex
+    journal: Philippine Journal of Psychology
+    window_days: 180
+    needs_topic: true
+    enabled: true
+    note: Fully open access, published twice a year. May not be indexed in OpenAlex; check status after the first run.
+
+  - id: ajsp
+    name: Asian Journal of Social Psychology
+    layer: research
+    kind: openalex
+    journal: Asian Journal of Social Psychology
+    window_days: 60
+    needs_topic: true
+    enabled: true
+
+  - id: apjhr
+    name: Asia Pacific Journal of Human Resources
+    layer: research
+    kind: openalex
+    journal: Asia Pacific Journal of Human Resources
+    window_days: 60
+    needs_topic: true
+    enabled: true
+
+  # ---------- Layer 2: preprints and working papers ----------
+
+  - id: psyarxiv
+    name: PsyArXiv
+    layer: preprint
+    kind: osf
+    provider: psyarxiv
+    window_days: 30
+    needs_topic: true
+    enabled: true
+    note: Labeled "Not yet peer-reviewed" on the site.
+
+  - id: nber
+    name: NBER Working Papers
+    layer: preprint
+    kind: rss
+    feeds:
+      - https://back.nber.org/rss/new.xml
+    window_days: 30
+    needs_topic: true
+    enabled: true
+    note: Feed verified while drafting. Working papers are not peer-reviewed.
+
+  # ---------- Layer 3: institutional research ----------
+
+  - id: ilo
+    name: International Labour Organization
+    layer: institutional
+    kind: rss
+    feeds:
+      - https://www.ilo.org/rss.xml
+      - https://www.ilo.org/feed
+    window_days: 60
+    needs_topic: true
+    enabled: true
+    note: Feed address to confirm after the first run.
+
+  - id: stanford-hai
+    name: Stanford HAI
+    layer: institutional
+    kind: rss
+    feeds:
+      - https://hai.stanford.edu/news/rss.xml
+      - https://hai.stanford.edu/rss.xml
+    window_days: 60
+    needs_topic: true
+    enabled: true
+    note: Feed address to confirm after the first run.
+
+  - id: pids
+    name: Philippine Institute for Development Studies
+    layer: institutional
+    kind: rss
+    feeds:
+      - https://pids.gov.ph/feed
+      - https://pids.gov.ph/rss
+    window_days: 60
+    needs_topic: true
+    enabled: true
+    note: Feed address to confirm after the first run.
+
+  - id: adb
+    name: Asian Development Bank
+    layer: institutional
+    kind: rss
+    feeds:
+      - https://www.adb.org/rss/news
+      - https://www.adb.org/rss/publications
+      - https://blogs.adb.org/rss.xml
+    window_days: 60
+    needs_topic: true
+    enabled: true
+    note: Feed address to confirm after the first run.
+
+  - id: oecd
+    name: OECD
+    layer: institutional
+    kind: rss
+    feeds:
+      - https://www.oecd.org/en/about/newsroom.rss
+      - https://www.oecd.org/newsroom/index.xml
+    window_days: 60
+    needs_topic: true
+    enabled: true
+    note: Feed address to confirm after the first run.
+
+  - id: imf-blog
+    name: IMF Blog
+    layer: institutional
+    kind: rss
+    feeds:
+      - https://www.imf.org/en/Blogs/rss
+      - https://www.imf.org/en/blogs/rss
+    window_days: 30
+    needs_topic: true
+    enabled: true
+    note: Feed address to confirm after the first run.
+
+  # ---------- Layer 4: expert analysis ----------
+
+  - id: the-conversation
+    name: The Conversation
+    layer: analysis
+    kind: rss
+    feeds:
+      - https://theconversation.com/global/articles.atom
+      - https://theconversation.com/articles.atom
+    window_days: 14
+    needs_topic: true
+    enabled: true
+    note: Written by academics, published under Creative Commons.
+
+  # ---------- Layer 5: quality news ----------
+
+  - id: philstar-business
+    name: Philstar Business
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.philstar.com/rss/business
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: Feed verified while drafting.
+
+  - id: businessworld
+    name: BusinessWorld
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.bworldonline.com/feed/
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: Feed address to confirm after the first run.
+
+  - id: inquirer-business
+    name: Inquirer Business
+    layer: news
+    kind: rss
+    feeds:
+      - https://business.inquirer.net/feed
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: Check that no premium (paywalled) items get through.
+
+  - id: guardian-business
+    name: The Guardian (Business)
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.theguardian.com/business/rss
+    window_days: 7
+    needs_topic: true
+    enabled: true
+
+  - id: guardian-technology
+    name: The Guardian (Technology)
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.theguardian.com/technology/rss
+    window_days: 7
+    needs_topic: true
+    enabled: true
