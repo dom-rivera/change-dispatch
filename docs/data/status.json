@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T18:54:35Z",
+ "generated": "2026-11-09T18:56:54Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -68,22 +68,6 @@
    "stale": false
   },
   {
-   "id": "pjp",
-   "name": "Philippine Journal of Psychology",
-   "layer": "research",
-   "ok": true,
-   "found": 0,
-   "kept": 0,
-   "error": null,
-   "openalex_source": "https://openalex.org/S2764549887",
-   "journal_matched": "Philippine Journal of Psychology",
-   "diagnostic": {
-    "recent_any_type": 0,
-    "recent_free": 0,
-    "latest_in_openalex": "2024-04-08"
-   }
-  },
-  {
    "id": "ajsp",
    "name": "Asian Journal of Social Psychology",
    "layer": "research",
@@ -131,100 +115,30 @@
    "feed_used": "https://back.nber.org/rss/new.xml"
   },
   {
-   "id": "ilo",
-   "name": "International Labour Organization",
-   "layer": "institutional",
-   "ok": true,
-   "found": 0,
-   "kept": 0,
-   "error": null,
-   "openalex_source": "https://openalex.org/S4393919168",
-   "journal_matched": "ILO working paper",
-   "diagnostic": {
-    "recent_any_type": 0,
-    "recent_free": 0,
-    "latest_in_openalex": "2023-01-01"
-   }
-  },
-  {
    "id": "oecd-sem",
    "name": "OECD (Employment & Social)",
    "layer": "institutional",
    "ok": true,
-   "found": 0,
+   "found": 2,
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S4210221173",
    "journal_matched": "OECD social employment and migration working papers",
-   "diagnostic": {
-    "recent_any_type": 2,
-    "recent_free": 0,
-    "latest_in_openalex": "2026-10-29"
-   }
+   "newest_item": "2026-10-29T00:00:00Z",
+   "stale": false
   },
   {
    "id": "oecd-ai",
    "name": "OECD (Artificial Intelligence)",
    "layer": "institutional",
    "ok": true,
-   "found": 0,
+   "found": 2,
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S4393920202",
    "journal_matched": "OECD artificial intelligence papers",
-   "diagnostic": {
-    "recent_any_type": 2,
-    "recent_free": 0,
-    "latest_in_openalex": "2026-10-03"
-   }
-  },
-  {
-   "id": "imf-wp",
-   "name": "IMF Working Papers",
-   "layer": "institutional",
-   "ok": true,
-   "found": 0,
-   "kept": 0,
-   "error": null,
-   "openalex_source": "https://openalex.org/S5407031312",
-   "journal_matched": "IMF Working Papers",
-   "diagnostic": {
-    "recent_any_type": 0,
-    "recent_free": 0,
-    "latest_in_openalex": "2025-02-01"
-   }
-  },
-  {
-   "id": "pids",
-   "name": "Philippine Institute for Development Studies",
-   "layer": "institutional",
-   "ok": true,
-   "found": 0,
-   "kept": 0,
-   "error": null,
-   "openalex_source": "https://openalex.org/S4404663374",
-   "journal_matched": "Philippine journal of development.",
-   "diagnostic": {
-    "recent_any_type": 0,
-    "recent_free": 0,
-    "latest_in_openalex": null
-   }
-  },
-  {
-   "id": "adb-wp",
-   "name": "Asian Development Bank (Working Papers)",
-   "layer": "institutional",
-   "ok": true,
-   "found": 0,
-   "kept": 0,
-   "error": null,
-   "openalex_source": "https://openalex.org/S4210168804",
-   "journal_matched": "ADB economics working paper series",
-   "diagnostic": {
-    "recent_any_type": 0,
-    "recent_free": 0,
-    "latest_in_openalex": "2024-10-01"
-   }
+   "newest_item": "2026-10-03T00:00:00Z",
+   "stale": false
   },
   {
    "id": "adb",
@@ -256,7 +170,7 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 2,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
    "newest_item": "2026-11-09T16:00:00Z",
@@ -292,7 +206,7 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 2,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
    "newest_item": "2026-11-09T18:32:13Z",
@@ -304,7 +218,7 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 8,
+   "kept": 5,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
    "newest_item": "2026-11-09T17:58:05Z",
