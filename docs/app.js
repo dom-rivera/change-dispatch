@@ -113,7 +113,9 @@
       document.createTextNode(item.type),
       el("span", { class: "src", text: " · " + item.source })
     ]);
-    var link = el("a", { href: item.url, rel: "noopener", target: "_blank", text: item.title });
+    // Only plain web links become clickable (defence in depth; the fetcher checks too)
+    var safe = /^https?:\/\/[^\s"'<>]+$/i.test(item.url || "");
+    var link = el("a", { href: safe ? item.url : null, rel: "noopener noreferrer", target: "_blank", text: item.title });
     var head = el("h3", { class: "headline" }, [link]);
 
     var meta = el("div", { class: "meta" }, [

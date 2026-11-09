@@ -25,6 +25,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 import feedparser
 import requests
@@ -384,7 +385,17 @@ def fetch_osf(session, src) -> tuple[list[dict], dict]:
 # Main pipeline
 # --------------------------------------------------------------------------
 
+def safe_url(url: str | None) -> bool:
+    """Only plain web links may reach the site (no javascript:, data:, etc.)."""
+    if not url or any(c in url for c in "\r\n\t \"'<>"):
+        return False
+    parts = urlparse(url)
+    return parts.scheme in ("http", "https") and bool(parts.netloc)
+
+
 def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
+    if not safe_url(cand.get("url")):
+        return None
     estimated = False
     if cand["published"] is None and src.get("date_fallback") == "first_seen":
         # Only for feeds that list new releases but carry no dates (e.g.

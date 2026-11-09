@@ -137,5 +137,14 @@ def test_edition_snapshot(tmp_path, monkeypatch):
     assert index["editions"][0]["date"] == info["date"]
 
 
+def test_unsafe_links_are_rejected():
+    for bad in ["javascript:alert(1)", "data:text/html,x", "ftp://x.org/a", "https://x.org/a b", "//x.org"]:
+        assert not fetch.safe_url(bad)
+    assert fetch.safe_url("https://doi.org/10.1787/abc")
+    cand = {"title": "Burnout at work", "url": "javascript:alert(1)", "published": NOW,
+            "text": "Burnout at work", "countries": set()}
+    assert fetch.build_item(cand, NEWS, MATCHER) is None
+
+
 def test_abstract_rebuild():
     assert fetch.abstract_text({"readiness": [0], "change": [2], "for": [1]}) == "readiness for change"
