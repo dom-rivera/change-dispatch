@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:01:12Z",
+ "generated": "2026-11-10T04:07:01Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -156,7 +156,7 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 284,
+   "found": 277,
    "kept": 90,
    "error": null,
    "results_per_phrase": {
@@ -191,10 +191,9 @@
     "job crafting": 25,
     "nudge": 25,
     "status quo bias": 3,
-    "loss aversion": 17,
-    "behavioral insights": 8
+    "loss aversion": 17
    },
-   "dropped_low_h_index": 151,
+   "dropped_low_h_index": 150,
    "min_h_index": 30,
    "newest_item": "2026-11-08T00:00:00Z",
    "stale": false
@@ -357,7 +356,7 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 8,
+   "kept": 7,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
    "newest_item": "2026-11-10T02:54:54Z",
@@ -368,8 +367,8 @@
    "name": "The Guardian (Work & careers)",
    "layer": "news",
    "ok": true,
-   "found": 40,
-   "kept": 12,
+   "found": 39,
+   "kept": 9,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
@@ -384,7 +383,7 @@
    "layer": "news",
    "ok": true,
    "found": 55,
-   "kept": 3,
+   "kept": 2,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
    "newest_item": "2026-11-10T03:58:13Z",
@@ -408,10 +407,10 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-10T02:34:20Z",
+   "newest_item": "2026-11-10T04:04:31Z",
    "stale": false
   },
   {

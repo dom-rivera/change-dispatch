@@ -6,7 +6,7 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:07:01 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
@@ -14,32 +14,33 @@
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
     <item>
-      <title>Qantas to outsource 850 local jobs with most roles moving to India</title>
-      <link>https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b43e11aad01b1a61</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · BBC News (Business) · Published Nov 10, 2026 · Free to read. Topics: AI at work.</description>
+      <title>Qantas to cut 850 jobs as it rushes to keep pace with AI</title>
+      <link>https://www.channelnewsasia.com/world/qantas-cut-850-jobs-ai-accenture-india-6538201</link>
+      <guid isPermaLink="false">ca890d6aa549c289</guid>
+      <pubDate>Tue, 10 Nov 2026 04:07:01 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 10, 2026 · Free to read. Topics: AI at work.</description>
       <category>News</category>
       <category>AI at work</category>
     </item>
     <item>
-      <title>Civil servant who secretly held five jobs found guilty of fraud</title>
-      <link>https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">12a0973302cf8cfe</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · BBC News (Business) · Published Nov 9, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
+      <title>Device-measured physical activity and sedentary behavior during office versus remote workdays among hybrid workers</title>
+      <link>https://www.sjweh.fi/download.php?abstract_id=4335&amp;file_nro=1</link>
+      <guid isPermaLink="false">4ed44f84e10666df</guid>
+      <pubDate>Tue, 10 Nov 2026 04:07:01 GMT</pubDate>
+      <description>Peer-reviewed · Scandinavian Journal of Work Environment &amp; Health · Published Oct 2, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Tuija Leskinen, Miika Tuominen, Kristin Suorsa, Jesse Pasanen, Sanna Pasanen, Vilma Iisalo</dc:creator>
     </item>
     <item>
-      <title>A job that changed me: As a bookseller I realised reading is more than an insular pleasure – it builds connection too</title>
-      <link>https://www.theguardian.com/lifeandstyle/2026/nov/09/a-job-that-changed-me-as-a-bookseller-i-realised-reading-is-about-connection-and-community</link>
-      <guid isPermaLink="false">8ade1a18d0dc5355</guid>
+      <title>Qantas to outsource 850 local jobs with most roles moving to India</title>
+      <link>https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b43e11aad01b1a61</guid>
       <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 9, 2026 · Free to read. Topics: Psychological safety and culture.</description>
+      <description>News · BBC News (Business) · Published Nov 10, 2026 · Free to read. Topics: Organizational change, AI at work.</description>
       <category>News</category>
-      <category>Psychological safety and culture</category>
-      <dc:creator>Caitlin Cassidy</dc:creator>
+      <category>Organizational change</category>
+      <category>AI at work</category>
     </item>
     <item>
       <title>Job shortage risks wasting skills of Filipino graduates</title>
@@ -51,16 +52,6 @@
       <category>Future of work</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>CEDTyClea</dc:creator>
-    </item>
-    <item>
-      <title>Labour expected to cut EV targets for UK’s car industry despite MPs’ protests</title>
-      <link>https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns</link>
-      <guid isPermaLink="false">836d3453271e05d2</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · The Guardian (Technology) · Published Nov 8, 2026 · Free to read. Topics: Future of work.</description>
-      <category>News</category>
-      <category>Future of work</category>
-      <dc:creator>Kiran Stacey</dc:creator>
     </item>
     <item>
       <title>Week in review: Employment growth hits unexpected high after months of tepid gains</title>
@@ -167,16 +158,6 @@
       <category>Expert analysis</category>
       <category>Labor economics</category>
       <dc:creator>Daniel J. Mallinson, Associate Professor of Public Policy, Administration, Penn State</dc:creator>
-    </item>
-    <item>
-      <title>Tell us: are you a young person in northern England struggling to find work?</title>
-      <link>https://www.theguardian.com/uk-news/2026/jul/08/tell-us-are-you-a-young-person-in-northern-england-struggling-to-find-work</link>
-      <guid isPermaLink="false">01bbe05481793acf</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 4, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Guardian community team</dc:creator>
     </item>
     <item>
       <title>Building innovative work behavior in MSMEs: the role of transformational leadership, adaptive organizational culture, and employee resilience</title>
@@ -529,16 +510,6 @@
       <dc:creator>Yanlei Yang</dc:creator>
     </item>
     <item>
-      <title>Mapping the pulse of urban nighttime economy: spatial patterns and behavioral insights in Kunming, China</title>
-      <link>https://www.nature.com/articles/s41599-026-09308-z_reference.pdf</link>
-      <guid isPermaLink="false">5d0b03914bcf5172</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Humanities and Social Sciences Communications · Published Oct 19, 2026 · Free to read. Topics: Behavioral economics.</description>
-      <category>Peer-reviewed</category>
-      <category>Behavioral economics</category>
-      <dc:creator>Ruiqu Ma, Ma Yanhui, Jian Xu, Huirong Yang, Linyue Liu, Genyu Xu</dc:creator>
-    </item>
-    <item>
       <title>Work Engagement in an Always-On Work Culture: A Systematic Literature Review</title>
       <link>https://doi.org/10.3390/admsci16100514</link>
       <guid isPermaLink="false">868065d77d372bb1</guid>
@@ -670,6 +641,38 @@
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Wiriya Mahikul, Mabel Prendergast, Gabriele Keziah Kerr, Sara Sousi, Benedict W. J. Hayhoe, Geva Greenfield</dc:creator>
+    </item>
+    <item>
+      <title>Beyond technology acceptance: AI-application readiness and continuance intention among Chinese university students—a measurement-aware secondary analysis</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1963259/pdf</link>
+      <guid isPermaLink="false">dd3067925eacd292</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 1, 2026 · Free to read. Topics: Change readiness, Openness to change.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <category>Openness to change</category>
+      <dc:creator>Yunxia Sun, Yan Li</dc:creator>
+    </item>
+    <item>
+      <title>Telework, engagement and burnout: heterogeneous effects from a doubly robust study</title>
+      <link>https://doi.org/10.1093/eurpub/ckag169.480</link>
+      <guid isPermaLink="false">060affcf34339778</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · European Journal of Public Health · Published Oct 1, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>E Bracho Montes de Oca, K De Meulemeester, L Bernaers, B Cagnie, B De Geus, Rani De Pauw</dc:creator>
+    </item>
+    <item>
+      <title>Upskilling, reskilling, or deskilling? Welfare technology and job satisfaction in care work</title>
+      <link>https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.332/72462598/ckag169.332.pdf</link>
+      <guid isPermaLink="false">2f7297b18d23aff9</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · European Journal of Public Health · Published Oct 1, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>E Nordlander, D Dellve, S Frennert, M Naseer, K Skagert</dc:creator>
     </item>
   </channel>
 </rss>
