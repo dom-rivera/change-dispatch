@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T04:19:27Z",
- "count": 211,
+ "generated": "2026-11-10T04:38:02Z",
+ "count": 213,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,31 @@
  },
  "items": [
   {
+   "id": "fcb3f7e4a4ca1eef",
+   "title": "Marcos leads rollout of laptops for schoolteachers",
+   "url": "https://newsinfo.inquirer.net/2338731/marcos-leads-rollout-of-laptops-for-schoolteachers",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T05:15:00Z",
+   "first_seen": "2026-11-10T04:38:02Z",
+   "window_days": 7,
+   "topics": [
+    "change-management"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
    "id": "ca890d6aa549c289",
    "title": "Qantas to cut 850 jobs as it rushes to keep pace with AI",
    "url": "https://www.channelnewsasia.com/world/qantas-cut-850-jobs-ai-accenture-india-6538201",
@@ -88,6 +113,29 @@
    "cite": {
     "kind": "news",
     "container": "CNA",
+    "authors": []
+   }
+  },
+  {
+   "id": "88d3773d6d899889",
+   "title": "Boeing slashes 5pc of commercial workforce, says it is ‘overstaffed’ as 737 MAX production target pushed to 2027",
+   "url": "https://www.malaymail.com/news/money/2026/11/10/boeing-slashes-5pc-of-commercial-workforce-says-it-is-overstaffed-as-737-max-production-target-pushed-to-2027/242673",
+   "source": "Malay Mail (Money)",
+   "source_id": "malay-mail",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T03:39:30Z",
+   "first_seen": "2026-11-10T04:38:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Malay Mail",
     "authors": []
    }
   },

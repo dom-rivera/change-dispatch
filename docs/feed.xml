@@ -6,13 +6,33 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:38:02 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Marcos leads rollout of laptops for schoolteachers</title>
+      <link>https://newsinfo.inquirer.net/2338731/marcos-leads-rollout-of-laptops-for-schoolteachers</link>
+      <guid isPermaLink="false">fcb3f7e4a4ca1eef</guid>
+      <pubDate>Tue, 10 Nov 2026 04:38:02 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 10, 2026 · Free to read. Topics: Change management, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Change management</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
+    <item>
+      <title>Boeing slashes 5pc of commercial workforce, says it is ‘overstaffed’ as 737 MAX production target pushed to 2027</title>
+      <link>https://www.malaymail.com/news/money/2026/11/10/boeing-slashes-5pc-of-commercial-workforce-says-it-is-overstaffed-as-737-max-production-target-pushed-to-2027/242673</link>
+      <guid isPermaLink="false">88d3773d6d899889</guid>
+      <pubDate>Tue, 10 Nov 2026 04:38:02 GMT</pubDate>
+      <description>News · Malay Mail (Money) · Published Nov 10, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
     <item>
       <title>Looking for work as a disabled person? Recognize your strengths and find an accessible workplace</title>
       <link>https://theconversation.com/looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-accessible-workplace-293076</link>
@@ -652,27 +672,6 @@
       <category>Change readiness</category>
       <category>Openness to change</category>
       <dc:creator>Yunxia Sun, Yan Li</dc:creator>
-    </item>
-    <item>
-      <title>Telework, engagement and burnout: heterogeneous effects from a doubly robust study</title>
-      <link>https://doi.org/10.1093/eurpub/ckag169.480</link>
-      <guid isPermaLink="false">060affcf34339778</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · European Journal of Public Health · Published Oct 1, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>Future of work</category>
-      <dc:creator>E Bracho Montes de Oca, K De Meulemeester, L Bernaers, B Cagnie, B De Geus, Rani De Pauw</dc:creator>
-    </item>
-    <item>
-      <title>Upskilling, reskilling, or deskilling? Welfare technology and job satisfaction in care work</title>
-      <link>https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.332/72462598/ckag169.332.pdf</link>
-      <guid isPermaLink="false">2f7297b18d23aff9</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · European Journal of Public Health · Published Oct 1, 2026 · Free to read. Topics: Future of work.</description>
-      <category>Peer-reviewed</category>
-      <category>Future of work</category>
-      <dc:creator>E Nordlander, D Dellve, S Frennert, M Naseer, K Skagert</dc:creator>
     </item>
   </channel>
 </rss>

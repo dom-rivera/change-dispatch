@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:19:27Z",
+ "generated": "2026-11-10T04:38:02Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -410,7 +410,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-10T04:04:31Z",
+   "newest_item": "2026-11-10T04:32:26Z",
    "stale": false
   },
   {
@@ -442,11 +442,65 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 10,
+   "found": 17,
    "kept": 0,
    "error": null,
-   "feed_used": "https://www.rappler.com/feed/",
-   "newest_item": "2026-11-10T04:00:00Z",
+   "feed_used": [
+    "https://www.rappler.com/feed/",
+    "https://www.rappler.com/business/feed/"
+   ],
+   "newest_item": "2026-11-10T04:39:29Z",
+   "stale": false
+  },
+  {
+   "id": "gma-news",
+   "name": "GMA News",
+   "layer": "news",
+   "ok": true,
+   "found": 30,
+   "kept": 0,
+   "error": null,
+   "feed_used": [
+    "https://data.gmanetwork.com/gno/rss/money/feed.xml",
+    "https://data.gmanetwork.com/gno/rss/news/feed.xml"
+   ],
+   "newest_item": "2026-11-10T04:19:16Z",
+   "stale": false
+  },
+  {
+   "id": "inquirer-news",
+   "name": "Inquirer News",
+   "layer": "news",
+   "ok": true,
+   "found": 40,
+   "kept": 1,
+   "error": null,
+   "feed_used": "https://newsinfo.inquirer.net/feed",
+   "newest_item": "2026-11-10T12:34:55Z",
+   "stale": false
+  },
+  {
+   "id": "sunstar",
+   "name": "SunStar",
+   "layer": "news",
+   "ok": true,
+   "found": 7,
+   "kept": 0,
+   "error": null,
+   "feed_used": "https://www.sunstar.com.ph/feed",
+   "newest_item": "2026-11-10T02:56:29Z",
+   "stale": false
+  },
+  {
+   "id": "malay-mail",
+   "name": "Malay Mail (Money)",
+   "layer": "news",
+   "ok": true,
+   "found": 50,
+   "kept": 1,
+   "error": null,
+   "feed_used": "https://www.malaymail.com/feed/rss/money",
+   "newest_item": "2026-11-10T04:33:53Z",
    "stale": false
   }
  ]
