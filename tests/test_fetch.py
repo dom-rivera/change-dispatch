@@ -236,3 +236,24 @@ def test_editors_notes(tmp_path):
     import pytest
     with pytest.raises(build_notes.NoteError):
         build_notes.build(tmp_path, today="2026-11-10")
+
+
+def test_rss_feed(tmp_path):
+    import json, build_feed, feedparser
+    item = {"id": "abc", "title": "Pay & <bonuses> in \"AI\" era", "url": "https://x.org/a?b=1&c=2",
+            "source": "Test News", "type": "News", "layer": "news", "published": "2026-11-09T02:00:00Z",
+            "first_seen": "2026-11-10T00:00:00Z", "window_days": 7, "topics": ["ai-at-work"],
+            "region": True, "labels": ["Opinion"], "access": "Free to read",
+            "cite": {"kind": "news", "authors": ["Ana Cruz"]}}
+    (tmp_path / "items.json").write_text(json.dumps({"generated": "2026-11-10T00:00:00Z", "items": [item],
+        "topics": [{"id": "ai-at-work", "name": "AI at work", "group": "context"}],
+        "region": {"id": "ph-sea", "name": "Philippines & Southeast Asia"}}))
+    (tmp_path / "notes.json").write_text(json.dumps({"notes": [{"slug": "2026-11-11-n", "title": "First note",
+        "date": "2026-11-11", "summary": "Hello <world>", "author": "Dom Rivera"}]}))
+    xml = build_feed.build(tmp_path)
+    f = feedparser.parse(xml)
+    assert not f.bozo and len(f.entries) == 2
+    note, news = f.entries
+    assert note.title == "Editor’s Note: First note" and note.link.endswith("#note/2026-11-11-n")
+    assert news.title == 'Pay & <bonuses> in "AI" era' and news.link == "https://x.org/a?b=1&c=2"
+    assert "Opinion" in news.description and "Philippines & Southeast Asia" in news.description

@@ -466,6 +466,13 @@
     box.appendChild(el("h3", { text: "What this is" }));
     box.appendChild(para("The Change Dispatch collects timely, credible news and research on organizational change, AI at work, psychology and economics, with a section on the Philippines and Southeast Asia. It updates itself every morning, Manila time, and saves each day’s edition so readers can go back to it."));
 
+    box.appendChild(el("h3", { text: "Follow without signing up" }));
+    var rss = el("p");
+    rss.appendChild(document.createTextNode("Add this address to any feed reader app (for example Feedly, Inoreader, NetNewsWire or Feeder) to see new items and Editor\u2019s Notes as they are published: "));
+    rss.appendChild(link("https://dom-rivera.github.io/change-dispatch/feed.xml", "dom-rivera.github.io/change-dispatch/feed.xml"));
+    rss.appendChild(document.createTextNode(". The feed is a public file: there is no sign-up and no reader information is collected."));
+    box.appendChild(rss);
+
     box.appendChild(el("h3", { text: "Inclusion policy" }));
     var rules = el("ul");
     [
