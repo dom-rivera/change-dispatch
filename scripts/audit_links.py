@@ -74,6 +74,31 @@ def main() -> int:
             lines.append(f"- {path}: unreachable ({exc})")
             live_ok = False
 
+    # How is each research paper free to read? (OpenAlex open-access status)
+    key = os.environ.get("OPENALEX_API_KEY", "")
+    research = [i for i in items if (i.get("cite") or {}).get("doi") and i["layer"] == "research"]
+    if key and research:
+        from collections import Counter
+        status, closed = Counter(), []
+        for i in research:
+            doi = i["cite"]["doi"].replace("https://doi.org/", "")
+            try:
+                r = requests.get(f"https://api.openalex.org/works/doi:{doi}",
+                                 params={"api_key": key, "select": "open_access"}, timeout=25)
+                oa = (r.json().get("open_access") or {})
+                st = oa.get("oa_status") or "unknown"
+            except Exception:
+                st = "unknown"
+            status[st] += 1
+            if st in ("closed", "unknown"):
+                closed.append(f"- {i['source']}: {st} {i['url']}")
+        lines += ["", f"## Free-to-read check ({len(research)} research papers, via OpenAlex)",
+                  "- gold/diamond: published open access; hybrid: open article in a subscription journal;",
+                  "  green: free author copy in a repository; bronze: free on the publisher's site without an open licence",
+                  ""] + [f"- {k}: {v}" for k, v in status.most_common()]
+        if closed:
+            lines += ["", "### Not confirmed free"] + closed
+
     report = "\n".join(lines)
     print(report)
     summary = os.environ.get("GITHUB_STEP_SUMMARY")

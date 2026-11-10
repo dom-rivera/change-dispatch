@@ -18,5 +18,7 @@ jobs:
           cache: pip
       - name: Install packages
         run: pip install --require-hashes -r requirements.txt
-      - name: Check every link and the live site
+      - name: Check every link, free access and the live site
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: python scripts/audit_links.py
