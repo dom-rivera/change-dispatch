@@ -395,10 +395,11 @@ def fetch_openalex_search(session, src, api_key) -> tuple[list[dict], dict]:
             "type:article|review",
             "primary_location.source.type:journal",
             "primary_location.source.is_in_doaj:true",
+            "language:en",
         ])
         try:
             resp = http_get(session, f"{OPENALEX}/works", params=openalex_params(
-                api_key, filter=filt, per_page=50, sort="publication_date:desc",
+                api_key, filter=filt, per_page=src.get("per_phrase", 25), sort="publication_date:desc",
                 select="id,doi,display_name,publication_date,open_access,"
                        "primary_location,authorships,abstract_inverted_index,is_retracted"))
         except Exception as exc:  # keep going with the other phrases
@@ -414,10 +415,28 @@ def fetch_openalex_search(session, src, api_key) -> tuple[list[dict], dict]:
             if key in seen:
                 continue
             seen.add(key)
+            cand["source_id"] = ((w.get("primary_location") or {}).get("source") or {}).get("id")
             out.append(cand)
     if errors and not per_query:
         raise RuntimeError("; ".join(errors))
-    info = {"results_per_phrase": per_query}
+
+    # Keep only established journals: h-index (how widely the journal's
+    # papers are cited) at or above the minimum.
+    min_h = src.get("min_h_index", 30)
+    ids = sorted({c["source_id"].rsplit("/", 1)[-1] for c in out if c.get("source_id")})
+    h_index = {}
+    for sid in ids:  # single-record lookups are free under OpenAlex's pricing
+        try:
+            resp = http_get(session, f"{OPENALEX}/sources/{sid}", params=openalex_params(
+                api_key, select="id,summary_stats"))
+            h_index[sid] = (resp.json().get("summary_stats") or {}).get("h_index") or 0
+        except Exception:
+            h_index[sid] = 0  # unknown journal: treat as not established
+    before = len(out)
+    out = [c for c in out
+           if h_index.get((c.get("source_id") or "").rsplit("/", 1)[-1], 0) >= min_h]
+    info = {"results_per_phrase": per_query,
+            "dropped_low_h_index": before - len(out), "min_h_index": min_h}
     if errors:
         info["phrase_errors"] = errors
     return out, info
@@ -485,6 +504,8 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         return None
     topics = matcher.topics_for(cand["text"])
     if src.get("needs_topic", True) and not topics:
+        return None
+    if src.get("require_title_match") and not matcher.topics_for(cand["title"]):
         return None
     key = (cand.get("doi") or cand["url"]).lower()
     labels = []

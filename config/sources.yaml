@@ -139,6 +139,9 @@ sources:
     window_days: 60
     needs_topic: true
     require_work_context: true
+    require_title_match: true   # the topic must appear in the title
+    min_h_index: 30             # established journals only
+    per_phrase: 25
     enabled: true
     queries:
       - readiness for change
@@ -159,7 +162,7 @@ sources:
       - technostress
       - AI adoption employees
     exclude_journals: []
-    note: Only DOAJ-listed journals; each item is labeled with its own journal name.
+    note: "Safeguards: DOAJ-listed, English, free copy, not retracted, journal h-index 30+, topic in the title, about work or organizations. Each item is labeled with its own journal name."
 
   # ---------- Layer 2: preprints and working papers ----------
 

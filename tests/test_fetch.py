@@ -162,16 +162,33 @@ def test_core_search_keeps_only_free_work_related_articles(monkeypatch):
     paywalled = dict(work, doi="https://doi.org/10.1/b", open_access={"oa_url": None})
     clinical = dict(work, doi="https://doi.org/10.1/c", display_name="Readiness for change in smokers",
                     abstract_inverted_index={"patients": [0]})
+    work["primary_location"]["source"]["id"] = "https://openalex.org/S1"
+    small = dict(work, doi="https://doi.org/10.1/d",
+                 primary_location={"source": {"display_name": "Tiny Journal", "id": "https://openalex.org/S2"}})
     calls = []
     def fake_get(session, url, **kw):
-        calls.append(kw["params"]["filter"])
-        return Resp({"results": [work, paywalled, clinical, work]})
+        calls.append(kw["params"].get("filter"))
+        if "/sources/" in url:
+            return Resp({"summary_stats": {"h_index": 150 if url.endswith("S1") else 4}})
+        return Resp({"results": [work, paywalled, clinical, work, small]})
     monkeypatch.setattr(fetch, "http_get", fake_get)
     src = {"id": "s", "name": "Research search", "layer": "research", "window_days": 60,
-           "needs_topic": True, "require_work_context": True, "queries": ["readiness for change"]}
+           "needs_topic": True, "require_work_context": True, "require_title_match": True,
+           "queries": ["readiness for change"]}
     cands, info = fetch.fetch_openalex_search(None, src, "key")
     assert "primary_location.source.is_in_doaj:true" in calls[0] and "is_oa:true" in calls[0]
-    assert len(cands) == 2                      # paywalled dropped, duplicate merged
+    assert len(cands) == 2      # paywalled dropped, duplicate merged, low h-index journal dropped
+    assert info["dropped_low_h_index"] == 1
     items = [fetch.build_item(c, src, MATCHER) for c in cands]
     kept = [i for i in items if i]
     assert len(kept) == 1 and kept[0]["source"] == "Frontiers in Psychology" and kept[0]["region"]
+
+
+def test_title_match_required_when_configured():
+    src = dict(NEWS, require_title_match=True)
+    off = {"title": "Rail transport of vegetables", "url": "https://x.org/r", "published": NOW,
+           "text": "Rail transport of vegetables. Mentions organizational change in passing for workers.",
+           "countries": set()}
+    on = dict(off, title="Organizational change in rail companies")
+    assert fetch.build_item(off, src, MATCHER) is None
+    assert fetch.build_item(on, src, MATCHER) is not None
