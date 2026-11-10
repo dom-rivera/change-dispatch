@@ -426,8 +426,8 @@ a:hover { text-decoration: underline; }
 .status-bad { color: var(--flag); font-weight: 600; }
 
 .editor { border-top: 1px solid var(--rule); padding-top: 12px; }
-.editor-name { font-family: var(--serif); font-size: 24px; font-weight: 700; color: var(--ink); margin: 0; }
-.editor-role { font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: .03em;
+.about .editor-name { font-family: var(--serif); font-size: 24px; font-weight: 700; color: var(--ink); margin: 0; }
+.about .editor-role { font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: .03em;
   text-transform: uppercase; color: var(--muted); margin: 2px 0 12px; }
 .about a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
 

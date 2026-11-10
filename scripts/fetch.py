@@ -212,7 +212,7 @@ def parse_feed(content: bytes) -> list[dict]:
         title = re.sub(r"\s+--\s+by\s+.*$", "", raw_title)
         authors = ([a.strip() for a in re.split(r",\s*|\s+and\s+|\s*&\s*", byline.group(1)) if a.strip()]
                    if byline else feed_authors(e))
-        link = e.get("link") or ""
+        link = re.sub(r"#fromrss$", "", e.get("link") or "")
         if not title or not link.startswith("http"):
             continue
         tags = " ".join(
@@ -518,8 +518,33 @@ def feed_authors(entry) -> list[str]:
     out = []
     for n in names:
         n = re.sub(r"^by\s+", "", n, flags=re.I)
-        out += [x.strip() for x in re.split(r",\s*|\s+and\s+|\s*&\s*", n) if x.strip()]
+        for x in re.split(r",\s*|\s+and\s+|\s*&\s*", n):
+            x = clean_byline(x)
+            if x:
+                out.append(x)
     return out[:20]
+
+
+ROLE_WORDS = (r"editor|correspondent|reporter|writer|columnist|analyst|journalist|"
+              r"contributor|staff|desk|producer|presenter")
+ROLE_DESCRIPTORS = (r"business|technology|tech|global|economics|economic|senior|chief|deputy|"
+                    r"political|social|affairs|policy|financial|finance|money|consumer|industry|"
+                    r"employment|work|workplace|media|science|health|education|foreign|world|"
+                    r"international|national|news|data|investigations|digital|labour|labor|"
+                    r"special|associate|contributing|staff")
+
+
+def clean_byline(name: str) -> str:
+    """Drop job titles and places from bylines, e.g. 'Jane Doe Business
+    editor' -> 'Jane Doe', 'Ana Cruz in Manila' -> 'Ana Cruz'. Returns ''
+    for entries that are only a role ('Staff reporter')."""
+    name = re.sub(r"\s+in\s+[A-Z][\w .'-]*$", "", name.strip())
+    m = re.match(r"^(.*?)(?:\s+(?:(?:%s)\s+){0,3}(?:%s))$" % (ROLE_DESCRIPTORS, ROLE_WORDS), name, flags=re.I)
+    if m:
+        name = m.group(1).strip()
+    if re.fullmatch(r"(?:[A-Za-z]+\s+){0,3}(?:%s)" % ROLE_WORDS, name, flags=re.I):
+        return ""
+    return name.strip(" ,;")
 
 
 def osf_authors(session, preprint_id: str) -> list[str]:

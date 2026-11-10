@@ -206,3 +206,11 @@ def test_citation_details_for_feeds_and_nber():
     assert item["title"] == "Labor market effects of AI"
     assert item["cite"]["authors"] == ["Jennifer Wang", "Erik B Smith"]
     assert item["cite"]["kind"] == "working_paper"
+
+
+def test_bylines_drop_job_titles_and_places():
+    assert fetch.clean_byline("Jasper Jolly Business editor") == "Jasper Jolly"
+    assert fetch.clean_byline("Ana Cruz in Manila") == "Ana Cruz"
+    assert fetch.clean_byline("Ben Reyes, Technology correspondent".split(", ")[0]) == "Ben Reyes"
+    assert fetch.clean_byline("Staff reporter") == ""
+    assert fetch.clean_byline("Maria Santos") == "Maria Santos"
