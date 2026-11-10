@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:07:01Z",
+ "generated": "2026-11-10T04:14:27Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -289,7 +289,7 @@
    "layer": "analysis",
    "ok": true,
    "found": 168,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": [
     "https://theconversation.com/global/articles.atom",

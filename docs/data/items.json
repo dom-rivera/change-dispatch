@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T04:07:01Z",
- "count": 211,
+ "generated": "2026-11-10T04:14:27Z",
+ "count": 212,
  "topics": [
   {
    "id": "change-readiness",
@@ -1312,7 +1312,7 @@
    "type": "Expert analysis",
    "published": "2026-11-04T19:42:28Z",
    "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 14,
+   "window_days": 30,
    "topics": [
     "labor-economics"
    ],
@@ -4154,6 +4154,34 @@
      "Vojin Simunović",
      "Sanda Stanković"
     ]
+   }
+  },
+  {
+   "id": "5879de207039cadc",
+   "title": "Looking for work as a disabled person? Recognize your strengths and find an accessible workplace",
+   "url": "https://theconversation.com/looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-accessible-workplace-293076",
+   "source": "The Conversation",
+   "source_id": "the-conversation",
+   "layer": "analysis",
+   "type": "Expert analysis",
+   "published": "2026-10-15T16:18:49Z",
+   "first_seen": "2026-11-10T04:14:27Z",
+   "window_days": 30,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Erika Katzman",
+     "Assoctate Professor",
+     "King's University College",
+     "Western University"
+    ],
+    "container": "The Conversation"
    }
   },
   {
