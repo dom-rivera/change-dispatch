@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T03:35:30Z",
+ "generated": "2026-11-10T04:01:12Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -99,7 +99,7 @@
    "layer": "research",
    "ok": true,
    "found": 26,
-   "kept": 17,
+   "kept": 18,
    "error": null,
    "openalex_source": "https://openalex.org/S4387291118",
    "journal_matched": "Frontiers in Organizational Psychology",
@@ -123,12 +123,41 @@
    }
   },
   {
+   "id": "jdm",
+   "name": "Judgment and Decision Making",
+   "layer": "research",
+   "ok": true,
+   "found": 0,
+   "kept": 0,
+   "error": null,
+   "openalex_source": "https://openalex.org/S179575189",
+   "journal_matched": "Judgment and Decision Making",
+   "diagnostic": {
+    "recent_any_type": 0,
+    "recent_free": 0,
+    "latest_in_openalex": "2026-01-01"
+   }
+  },
+  {
+   "id": "jbpa",
+   "name": "Journal of Behavioral Public Administration",
+   "layer": "research",
+   "ok": true,
+   "found": 2,
+   "kept": 0,
+   "error": null,
+   "openalex_source": "https://openalex.org/S4210206727",
+   "journal_matched": "Journal of Behavioral Public Administration",
+   "newest_item": "2026-11-05T00:00:00Z",
+   "stale": false
+  },
+  {
    "id": "core-search",
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 126,
-   "kept": 36,
+   "found": 284,
+   "kept": 90,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 16,
@@ -147,11 +176,27 @@
     "change fatigue": 9,
     "psychological safety": 25,
     "technostress": 25,
-    "AI adoption employees": 0
+    "AI adoption employees": 0,
+    "attitudes toward AI": 25,
+    "AI acceptance": 25,
+    "technology acceptance employees": 0,
+    "change leadership": 7,
+    "transformational leadership": 25,
+    "leadership development": 25,
+    "remote work": 25,
+    "hybrid work": 18,
+    "reskilling": 15,
+    "upskilling": 25,
+    "job redesign": 0,
+    "job crafting": 25,
+    "nudge": 25,
+    "status quo bias": 3,
+    "loss aversion": 17,
+    "behavioral insights": 8
    },
-   "dropped_low_h_index": 61,
+   "dropped_low_h_index": 151,
    "min_h_index": 30,
-   "newest_item": "2026-11-07T00:00:00Z",
+   "newest_item": "2026-11-08T00:00:00Z",
    "stale": false
   },
   {
@@ -244,11 +289,18 @@
    "name": "The Conversation",
    "layer": "analysis",
    "ok": true,
-   "found": 50,
-   "kept": 0,
+   "found": 168,
+   "kept": 1,
    "error": null,
-   "feed_used": "https://theconversation.com/global/articles.atom",
-   "newest_item": "2026-11-09T18:41:47Z",
+   "feed_used": [
+    "https://theconversation.com/global/articles.atom",
+    "https://theconversation.com/topics/work-401/articles.atom",
+    "https://theconversation.com/topics/future-of-work-3473/articles.atom",
+    "https://theconversation.com/topics/remote-working-39817/articles.atom",
+    "https://theconversation.com/topics/automation-4443/articles.atom",
+    "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
+   ],
+   "newest_item": "2026-11-10T02:07:21Z",
    "stale": false
   },
   {
@@ -269,7 +321,7 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
    "newest_item": "2026-11-10T02:32:47Z",
@@ -305,10 +357,85 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 7,
+   "kept": 8,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
    "newest_item": "2026-11-10T02:54:54Z",
+   "stale": false
+  },
+  {
+   "id": "guardian-work",
+   "name": "The Guardian (Work & careers)",
+   "layer": "news",
+   "ok": true,
+   "found": 40,
+   "kept": 12,
+   "error": null,
+   "feed_used": [
+    "https://www.theguardian.com/money/work-and-careers/rss",
+    "https://www.theguardian.com/technology/artificialintelligenceai/rss"
+   ],
+   "newest_item": "2026-11-10T02:31:08Z",
+   "stale": false
+  },
+  {
+   "id": "bbc-business",
+   "name": "BBC News (Business)",
+   "layer": "news",
+   "ok": true,
+   "found": 55,
+   "kept": 3,
+   "error": null,
+   "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
+   "newest_item": "2026-11-10T03:58:13Z",
+   "stale": false
+  },
+  {
+   "id": "npr-business",
+   "name": "NPR (Business)",
+   "layer": "news",
+   "ok": true,
+   "found": 10,
+   "kept": 1,
+   "error": null,
+   "feed_used": "https://feeds.npr.org/1006/rss.xml",
+   "newest_item": "2026-11-09T22:01:47Z",
+   "stale": false
+  },
+  {
+   "id": "cna-business",
+   "name": "CNA (Business)",
+   "layer": "news",
+   "ok": true,
+   "found": 20,
+   "kept": 0,
+   "error": null,
+   "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
+   "newest_item": "2026-11-10T02:34:20Z",
+   "stale": false
+  },
+  {
+   "id": "rest-of-world",
+   "name": "Rest of World",
+   "layer": "news",
+   "ok": true,
+   "found": 12,
+   "kept": 0,
+   "error": null,
+   "feed_used": "https://restofworld.org/feed/latest",
+   "newest_item": "2026-11-09T08:30:00Z",
+   "stale": false
+  },
+  {
+   "id": "hr-dive",
+   "name": "HR Dive",
+   "layer": "news",
+   "ok": true,
+   "found": 8,
+   "kept": 3,
+   "error": null,
+   "feed_used": "https://www.hrdive.com/feeds/news/",
+   "newest_item": "2026-11-09T21:32:00Z",
    "stale": false
   },
   {
@@ -320,7 +447,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.rappler.com/feed/",
-   "newest_item": "2026-11-10T03:30:00Z",
+   "newest_item": "2026-11-10T04:00:00Z",
    "stale": false
   }
  ]

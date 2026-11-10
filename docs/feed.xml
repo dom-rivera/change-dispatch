@@ -6,7 +6,7 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:01:12 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
@@ -14,626 +14,662 @@
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
     <item>
-      <title>TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale</title>
-      <link>https://www.nber.org/papers/w35987</link>
-      <guid isPermaLink="false">da079c225f2a2436</guid>
-      <pubDate>Tue, 10 Nov 2026 02:49:30 GMT</pubDate>
-      <description>Preprint · NBER Working Papers · Added Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics.</description>
-      <category>Preprint</category>
-      <category>Labor economics</category>
-      <dc:creator>Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil Lewis, Erik Brynjolfsson, Diyi Yang</dc:creator>
+      <title>Qantas to outsource 850 local jobs with most roles moving to India</title>
+      <link>https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b43e11aad01b1a61</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · BBC News (Business) · Published Nov 10, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
     </item>
     <item>
-      <title>Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs</title>
-      <link>https://www.nber.org/papers/w35991</link>
-      <guid isPermaLink="false">3420380deb6af184</guid>
-      <pubDate>Tue, 10 Nov 2026 02:49:30 GMT</pubDate>
-      <description>Preprint · NBER Working Papers · Added Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: Future of work.</description>
-      <category>Preprint</category>
+      <title>Civil servant who secretly held five jobs found guilty of fraud</title>
+      <link>https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">12a0973302cf8cfe</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · BBC News (Business) · Published Nov 9, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
+    <item>
+      <title>A job that changed me: As a bookseller I realised reading is more than an insular pleasure – it builds connection too</title>
+      <link>https://www.theguardian.com/lifeandstyle/2026/nov/09/a-job-that-changed-me-as-a-bookseller-i-realised-reading-is-about-connection-and-community</link>
+      <guid isPermaLink="false">8ade1a18d0dc5355</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 9, 2026 · Free to read. Topics: Psychological safety and culture.</description>
+      <category>News</category>
+      <category>Psychological safety and culture</category>
+      <dc:creator>Caitlin Cassidy</dc:creator>
+    </item>
+    <item>
+      <title>Job shortage risks wasting skills of Filipino graduates</title>
+      <link>https://bworldonline.com/top-stories/2026/11/09/792512/job-shortage-risks-wasting-skills-of-filipino-graduates/</link>
+      <guid isPermaLink="false">3677bd04ff6cb552</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · BusinessWorld · Published Nov 9, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
       <category>Future of work</category>
-      <dc:creator>Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand</dc:creator>
-    </item>
-    <item>
-      <title>AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains</title>
-      <link>https://www.nber.org/papers/w36003</link>
-      <guid isPermaLink="false">16f21de5e04d6f1f</guid>
-      <pubDate>Tue, 10 Nov 2026 02:49:30 GMT</pubDate>
-      <description>Preprint · NBER Working Papers · Added Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Panle Jia Barwick, Lu Fang, Jinhan Liu, Huilan Xu, Zhe Yuan</dc:creator>
-    </item>
-    <item>
-      <title>Assessment of teacher performance and learner behavior using artificial intelligence in higher education: an integrative review of literature</title>
-      <link>https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1949516/pdf</link>
-      <guid isPermaLink="false">1094a2b6bf360a51</guid>
-      <pubDate>Tue, 10 Nov 2026 02:45:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Education · Published Oct 28, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Michael Joseph S. Diño, Princess Sarah Bahaynon, Jelaine Beniopa, Mary France Villaluz, Shiena Mae Maravillas, Luis Ezra Cruz</dc:creator>
+      <dc:creator>CEDTyClea</dc:creator>
     </item>
     <item>
-      <title>Teacher autonomy support and music learning engagement: conditional associations of self-efficacy and discrete achievement emotions among university music students</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1947710/pdf</link>
-      <guid isPermaLink="false">368d2942afa3ea9b</guid>
-      <pubDate>Tue, 10 Nov 2026 02:45:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Sep 29, 2026 · Free to read. Topics: Self-efficacy, Philippines &amp; Southeast Asia.</description>
+      <title>Labour expected to cut EV targets for UK’s car industry despite MPs’ protests</title>
+      <link>https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns</link>
+      <guid isPermaLink="false">836d3453271e05d2</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · The Guardian (Technology) · Published Nov 8, 2026 · Free to read. Topics: Future of work.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <dc:creator>Kiran Stacey</dc:creator>
+    </item>
+    <item>
+      <title>Week in review: Employment growth hits unexpected high after months of tepid gains</title>
+      <link>https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/</link>
+      <guid isPermaLink="false">ca6847258fcdafff</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 6, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Kathryn Moody</dc:creator>
+    </item>
+    <item>
+      <title>Workers are facing a ‘crisis of disengagement’</title>
+      <link>https://www.hrdive.com/news/workers-are-facing-a-crisis-of-disengagement/874016/</link>
+      <guid isPermaLink="false">7ed33e78030ce300</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 6, 2026 · Free to read. Topics: Employee well-being, AI at work, Labor economics.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <category>AI at work</category>
+      <category>Labor economics</category>
+      <dc:creator>Lara Ewen</dc:creator>
+    </item>
+    <item>
+      <title>Burnham aims for ‘quite radical change’ in support for young people</title>
+      <link>https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets</link>
+      <guid isPermaLink="false">6c3cbccdc5183991</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 6, 2026 · Free to read. Topics: Employee well-being.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <dc:creator>Peter Walker</dc:creator>
+    </item>
+    <item>
+      <title>PM tells firms to publish salaries in job adverts ahead of new law</title>
+      <link>https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dcc2bbe1413b1482</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · BBC News (Business) · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
+    <item>
+      <title>Hiring jumps: The economy added 165,000 jobs last month</title>
+      <link>https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation</link>
+      <guid isPermaLink="false">f63a3f48c9818883</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · NPR (Business) · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Scott Horsley</dc:creator>
+    </item>
+    <item>
+      <title>Employers to be forced to put salaries on job ads, Andy Burnham announces</title>
+      <link>https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham</link>
+      <guid isPermaLink="false">19041566aabeeb4e</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Kiran Stacey</dc:creator>
+    </item>
+    <item>
+      <title>Job Crafting and Psychological Distress: A Self-Determination Theory Perspective</title>
+      <link>https://doi.org/10.3390/bs16112115</link>
+      <guid isPermaLink="false">e0a6098ce3201cfb</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Behavioral Sciences · Published Nov 6, 2026 · Free to read. Topics: Self-efficacy, Employee well-being, Future of work.</description>
       <category>Peer-reviewed</category>
       <category>Self-efficacy</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Honghua Xu, WEI LIU</dc:creator>
-    </item>
-    <item>
-      <title>When personal resources may not be enough: burnout, psychological capital, and empathy among pediatric nurses in a Chinese tertiary hospital — an explanatory sequential mixed methods study</title>
-      <link>https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1912710/pdf</link>
-      <guid isPermaLink="false">f3a02e5da4dc3fba</guid>
-      <pubDate>Tue, 10 Nov 2026 02:45:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Public Health · Published Sep 9, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Qiong Chen, Ying Xin Li, 張秀娟, Yanling Hu, Hongyu Huang, Yuan Li</dc:creator>
-    </item>
-    <item>
-      <title>Preservice life sciences teachers’ readiness for AI integration in teaching across varying socioeconomic contexts</title>
-      <link>https://link.springer.com/content/pdf/10.1007/s44217-026-02140-2.pdf</link>
-      <guid isPermaLink="false">0a4bc6d4dabb0510</guid>
-      <pubDate>Tue, 10 Nov 2026 02:45:12 GMT</pubDate>
-      <description>Peer-reviewed · Discover Education · Published Sep 9, 2026 · Free to read. Topics: Change readiness, Self-efficacy, AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <category>Self-efficacy</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Lindelani E. Mnguni, Prasart Nuangchalerm, Indah Juwita Sari, Moleboheng Ramulumo, Jun Solver Camara, Nguyễn Văn Biên</dc:creator>
-    </item>
-    <item>
-      <title>Burnout indicators among operators of Lebanon’s national suicide prevention lifeline during the 2024 war: organizational correlates and implications for hotline practice</title>
-      <link>https://doi.org/10.1186/s12888-026-08591-z</link>
-      <guid isPermaLink="false">d97a76847599ebec</guid>
-      <pubDate>Tue, 10 Nov 2026 02:45:12 GMT</pubDate>
-      <description>Peer-reviewed · BMC Psychiatry · Published Sep 7, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Dina Farran, Mahatab El Haj, Ghida Chiha, Rahaf El Fouani, Jinane Abi Ramia, Philip Noun</dc:creator>
-    </item>
-    <item>
-      <title>Measuring the composition and availability of human resources for health by sex in 204 countries and territories, 1990–2023, and workforce gaps for universal health coverage: a systematic analysis for the Global Burden of Disease Study 2023</title>
-      <link>https://doi.org/10.1016/s2468-2667(26)00145-3</link>
-      <guid isPermaLink="false">4a618f477aa405c1</guid>
-      <pubDate>Tue, 10 Nov 2026 02:45:12 GMT</pubDate>
-      <description>Peer-reviewed · The Lancet Public Health · Published Aug 18, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Megan Knight, Kelly Bienhoff, A. Bhoomadevi, Hazim S Ababneh, Madineh Abbasi, Zahra Abbasi Dolatabadi</dc:creator>
-    </item>
-    <item>
-      <title>Supporting Early Career Development Through Volitional Personality Change: A Multi-Layered Evaluation of a Digital Intervention</title>
-      <link>https://osf.io/preprints/psyarxiv/tz8gb_v1/</link>
-      <guid isPermaLink="false">8c84fb16317281c7</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics.</description>
-      <category>Preprint</category>
-      <category>Labor economics</category>
-      <dc:creator>Sofie Dupré, Bart Wille, Barbara De Clercq, Janne Vanhalst, Joeri Hofmans</dc:creator>
-    </item>
-    <item>
-      <title>What Drives Leaders to Serve? The Joint and Interactive Effects of HEXACO Personality Traits and Implicit Motives on Servant Leadership</title>
-      <link>https://osf.io/preprints/psyarxiv/2gf9e_v1/</link>
-      <guid isPermaLink="false">c64b50c2931381bb</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: Leadership and change communication.</description>
-      <category>Preprint</category>
-      <category>Leadership and change communication</category>
-      <dc:creator>Justine Amory, Sofie Dupré, J. Malte Runge, Bart Wille</dc:creator>
-    </item>
-    <item>
-      <title>Connected or drained? An experience sampling study on informal communication and well-being in hybrid work settings</title>
-      <link>https://osf.io/preprints/psyarxiv/d6vmp_v2/</link>
-      <guid isPermaLink="false">9b267c1fe35e43a2</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being, Future of work.</description>
-      <category>Preprint</category>
       <category>Employee well-being</category>
       <category>Future of work</category>
-      <dc:creator>Alicia A. Meier-Ernst, Leonard Reinecke</dc:creator>
+      <dc:creator>Tingxi Wang</dc:creator>
     </item>
     <item>
-      <title>Trusting the Machine: Separating Trust in GenAI Authors from Trust in Their Content</title>
-      <link>https://osf.io/preprints/psyarxiv/jfpgu_v3/</link>
-      <guid isPermaLink="false">4a7d7abb2a0afdd9</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Caroline Simpson, Clara Colombatto, Jonathan A. Fugelsang</dc:creator>
-    </item>
-    <item>
-      <title>Cognitive Offloading to Generative AI: A Theoretical Framework for Memory, Metacognition, and Consumer Decision-Making</title>
-      <link>https://osf.io/preprints/psyarxiv/79fza_v2/</link>
-      <guid isPermaLink="false">c8f0c38e82dab3fc</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 6, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Chen Chen, Kristy Hamilton, Jacob T. Fisher</dc:creator>
-    </item>
-    <item>
-      <title>Designing Around the Human Creative Core: A Construct for Preserving Creative Agency in Human-AI Systems</title>
-      <link>https://osf.io/preprints/psyarxiv/dq96z_v2/</link>
-      <guid isPermaLink="false">1b5386a0b4744c33</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 6, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Eran Barak-Medina</dc:creator>
-    </item>
-    <item>
-      <title>Workplace Relationships and Artificial Intelligence</title>
-      <link>https://osf.io/preprints/psyarxiv/ehbjv_v1/</link>
-      <guid isPermaLink="false">0316107efc700997</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 6, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Maxine Parker, Celine Huang, Sekoul Krastev</dc:creator>
-    </item>
-    <item>
-      <title>Better Late Than Early: How AI Integration Timing Shapes Creativity Judgments</title>
-      <link>https://osf.io/preprints/psyarxiv/kfrux_v2/</link>
-      <guid isPermaLink="false">19572968b1d43af2</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 6, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Rajarshi Majumder, Joshua Mahaney, Jareef Martuza</dc:creator>
-    </item>
-    <item>
-      <title>AI Grief at Work: Development and Initial Validation of a Self-Report Scale</title>
-      <link>https://osf.io/preprints/psyarxiv/5eu9m_v2/</link>
-      <guid isPermaLink="false">aafbe1c1e760068d</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 5, 2026 · Free to read · Not yet peer-reviewed. Topics: Openness to change, AI at work.</description>
-      <category>Preprint</category>
-      <category>Openness to change</category>
-      <category>AI at work</category>
-      <dc:creator>Jan Nehyba</dc:creator>
-    </item>
-    <item>
-      <title>French Translation and Validation of the Job Search Self-Efficacy Scale</title>
-      <link>https://osf.io/preprints/psyarxiv/jnkse_v1/</link>
-      <guid isPermaLink="false">05fa696d1a4179db</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 5, 2026 · Free to read · Not yet peer-reviewed. Topics: Self-efficacy.</description>
-      <category>Preprint</category>
-      <category>Self-efficacy</category>
-      <dc:creator>Charlotte Rauscher, Charly Marie</dc:creator>
-    </item>
-    <item>
-      <title>A Topology of the Psilocybin Experience Reveals Cognitive-Emotional Drivers, Unitive State Divergence, and Psychometric Feature Cancellation</title>
-      <link>https://osf.io/preprints/psyarxiv/be5qp_v1/</link>
-      <guid isPermaLink="false">76503f2f31e05efd</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 5, 2026 · Free to read · Not yet peer-reviewed. Topics: Organizational change.</description>
-      <category>Preprint</category>
-      <category>Organizational change</category>
-      <dc:creator>Amir Padovitz, Glenn Hartelius</dc:creator>
-    </item>
-    <item>
-      <title>mirtverse: Accessible, AI-ready Item Response Theory in R with mirt</title>
-      <link>https://osf.io/preprints/psyarxiv/j9ya7_v1/</link>
-      <guid isPermaLink="false">059f06d306fdabc1</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 5, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Okan Bulut</dc:creator>
-    </item>
-    <item>
-      <title>Psychology in 2125: A Developmental Science of Living Sense-Making</title>
-      <link>https://osf.io/preprints/psyarxiv/d7y3n_v3/</link>
-      <guid isPermaLink="false">55bbbef8fd51dad8</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 4, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Peter J. Marshall</dc:creator>
-    </item>
-    <item>
-      <title>Objective Neurocognitive Assessment of Stress and Recovery in Military Personnel: The NPRO-8 MIL Two-Tier Screening Framework</title>
-      <link>https://osf.io/preprints/psyarxiv/4gbke_v1/</link>
-      <guid isPermaLink="false">a599fd464a9bc30e</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 4, 2026 · Free to read · Not yet peer-reviewed. Topics: Change readiness.</description>
-      <category>Preprint</category>
-      <category>Change readiness</category>
-      <dc:creator>Jerome I. Rotgans</dc:creator>
-    </item>
-    <item>
-      <title>Transitions in Teachers’ Technology Utilization: Evidence from a Large-Scale, Longitudinal, and International Panel Study</title>
-      <link>https://osf.io/preprints/psyarxiv/uecdk_v2/</link>
-      <guid isPermaLink="false">7cb733b2e2db038d</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 3, 2026 · Free to read · Not yet peer-reviewed. Topics: Self-efficacy.</description>
-      <category>Preprint</category>
-      <category>Self-efficacy</category>
-      <dc:creator>Evi Konstantinidou, Ronny Scherer</dc:creator>
-    </item>
-    <item>
-      <title>Persistence Through Transformation: A Processual Framework for Knowledge Systems Across Cognitive, Cultural, and Religious Domains</title>
-      <link>https://osf.io/preprints/psyarxiv/e2zgd_v2/</link>
-      <guid isPermaLink="false">60378750007df6d6</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 3, 2026 · Free to read · Not yet peer-reviewed. Topics: Organizational change.</description>
-      <category>Preprint</category>
-      <category>Organizational change</category>
-      <dc:creator>Alexandre Vieira  Souza</dc:creator>
-    </item>
-    <item>
-      <title>Same Gossip, Different Judgment: Why Inappropriate Workplace Gossip Is More Acceptable When It Targets AI</title>
-      <link>https://osf.io/preprints/psyarxiv/9vuat_v1/</link>
-      <guid isPermaLink="false">507c77dd177c78de</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 3, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Clarissa Sabrina Arlinghaus, Lukas Kroner, Günter W. Maier</dc:creator>
-    </item>
-    <item>
-      <title>Toward a Program Theory of A Singaporean Single-Session, Synchronous Chat-Based Mental Health Support for Youths: The Behavior Change Techniques Workers Use and How They Relate to Outcome</title>
-      <link>https://osf.io/preprints/psyarxiv/v6ta4_v2/</link>
-      <guid isPermaLink="false">4d74a608b037636b</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 31, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>Preprint</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Gerard Chung, Lim Tse Min, Joan R. Fang</dc:creator>
-    </item>
-    <item>
-      <title>Modifiable Psychological Variables as Predictors of Return to Work: Temporal Patterns in a Longitudinal Observational Study</title>
-      <link>https://osf.io/preprints/psyarxiv/89s2x_v3/</link>
-      <guid isPermaLink="false">03e862bf75fcbd63</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 30, 2026 · Free to read · Not yet peer-reviewed. Topics: Self-efficacy.</description>
-      <category>Preprint</category>
-      <category>Self-efficacy</category>
-      <dc:creator>Magnus Johansson, Alice Giöstad, Aleksandra Bujacz, Anna Ek, Petter Gustavsson, Lars-Göran Öst</dc:creator>
-    </item>
-    <item>
-      <title>Workplace Greenery and Work Engagement Among Live-In Shiftworkers: A Conceptual Replication of Popov et al. (2023)</title>
-      <link>https://osf.io/preprints/psyarxiv/b9uhq_v1/</link>
-      <guid isPermaLink="false">713a1e96addfcbed</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 30, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Caroline Isabelle Ekeberg, Kristin Kloster, Peder M. Isager</dc:creator>
-    </item>
-    <item>
-      <title>Cognitive Abilities and Trust Calibration: Understanding Individual Differences in Automation Trust Dynamics</title>
-      <link>https://osf.io/preprints/psyarxiv/ucswj_v2/</link>
-      <guid isPermaLink="false">d4e723c324f57b0d</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 30, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Connie Ku, Anne Collins McLaughlin, Richard Pak, Randall W Engle</dc:creator>
-    </item>
-    <item>
-      <title>Barriers to professional mental health help-seeking and considerations for school-based interventions among Secondary School adolescents: an exploratory qualitative study</title>
-      <link>https://osf.io/preprints/psyarxiv/gcta6_v1/</link>
-      <guid isPermaLink="false">b5188ba6f1948db3</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 30, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Christianah Dada</dc:creator>
-    </item>
-    <item>
-      <title>The conflicted student and the internal battle over generative AI use</title>
-      <link>https://osf.io/preprints/psyarxiv/ahqns_v1/</link>
-      <guid isPermaLink="false">3e1b6890615bcbea</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 29, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Stephen Harrison Dewitt, Metodi Siromahov, Duncan Brumby, Silvia Bodei</dc:creator>
-    </item>
-    <item>
-      <title>Team Science: An Examination of Factors Associated with Citation Metrics</title>
-      <link>https://osf.io/preprints/psyarxiv/37mcg_v1/</link>
-      <guid isPermaLink="false">bededce5e9447c35</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 29, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics.</description>
-      <category>Preprint</category>
-      <category>Labor economics</category>
-      <dc:creator>Kelly Cuccolo, Jordan Wagge, John Edlund, Erin Michelle Buchanan</dc:creator>
-    </item>
-    <item>
-      <title>Inconclusive evidence for necessity effects of basic psychological need satisfaction on employee well-being: Re-examining Ding et al. (2026)</title>
-      <link>https://osf.io/preprints/psyarxiv/bw7mf_v1/</link>
-      <guid isPermaLink="false">07a7d2da0b942fad</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 27, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Kimmo Sorjonen, Bo Melin, Filippa Folke, Marika Melin</dc:creator>
-    </item>
-    <item>
-      <title>“We love our jobs!” Systems Thinking and Participatory Action Research for the future of neurodiversity and skilled employment</title>
-      <link>https://osf.io/preprints/psyarxiv/dg6at_v4/</link>
-      <guid isPermaLink="false">96c3e36b907e8281</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 27, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Dora M Raymaker, Shawna Spain, Nybelle Caruso, Joelle Maslak, Nicole Leblanc, Morénike Giwa Onaiwu</dc:creator>
-    </item>
-    <item>
-      <title>Development and description of Peers Actively Involved in Rehabilitation (PAIR): A co-designed peer support program for people with acquired brain injury</title>
-      <link>https://osf.io/preprints/psyarxiv/k8ect_v1/</link>
-      <guid isPermaLink="false">53a78b53363fdf0b</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 27, 2026 · Free to read · Not yet peer-reviewed. Topics: Self-efficacy.</description>
-      <category>Preprint</category>
-      <category>Self-efficacy</category>
-      <dc:creator>Julia Schmidt, Janna Griffioen, Jade Abigail Witten, Adele Rogers, Nanaimo Brain Injury Society, Janelle Breese Biagioni</dc:creator>
-    </item>
-    <item>
-      <title>Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis</title>
-      <link>https://osf.io/preprints/psyarxiv/jv4ah_v1/</link>
-      <guid isPermaLink="false">043459f78b4d8f14</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 26, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Jason Robert Potas</dc:creator>
-    </item>
-    <item>
-      <title>The Quantitative Psychologist Is Dead, Long Live the Quantitative Psychologist</title>
-      <link>https://osf.io/preprints/psyarxiv/8yxwb_v1/</link>
-      <guid isPermaLink="false">49be8eab1e498272</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 25, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Sacha Epskamp</dc:creator>
-    </item>
-    <item>
-      <title>The AI Paradox: How Optimization May Undermine Meaningful Work in Helping Professions</title>
-      <link>https://osf.io/preprints/psyarxiv/jzngq_v1/</link>
-      <guid isPermaLink="false">c820667ebf3b3361</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 25, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Matthew Monnot, Isaac Thompson</dc:creator>
-    </item>
-    <item>
-      <title>Toward Evidence-Based Human-Centered AI and Human-AI Interaction: A Cross-Domain Systematic Review</title>
-      <link>https://osf.io/preprints/psyarxiv/j9cha_v1/</link>
-      <guid isPermaLink="false">2920f8cbd76b616a</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 23, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Xinyi Wang, Christine Lo, Wei-Hsiang Lo, Manhua Wang, Gaojian Huang</dc:creator>
-    </item>
-    <item>
-      <title>Synthetic Selves for AI Agents? Lessons from Psychology for Agent-Based Modeling</title>
-      <link>https://osf.io/preprints/psyarxiv/67dhz_v1/</link>
-      <guid isPermaLink="false">6a799c4246bdff57</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 20, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Astghik Altunyan, Shimon Edelman</dc:creator>
-    </item>
-    <item>
-      <title>Expected but not rewarded: Limited uptake of open science practices as hiring criterion in a national sample of academic job advertisements</title>
-      <link>https://osf.io/preprints/psyarxiv/2yvgx_v1/</link>
-      <guid isPermaLink="false">e2b20c26c5eb7b36</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 20, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics.</description>
-      <category>Preprint</category>
-      <category>Labor economics</category>
-      <dc:creator>Bianka Crnković, Bernt Damian Glaser, Anastasia Bredenbrock, Agata Bochynska, Max Korbmacher, Wietske van der Ent</dc:creator>
-    </item>
-    <item>
-      <title>Learning Whether Work Can Still Move: Repairability Cues, Hope, and Organizational Demoralization</title>
-      <link>https://osf.io/preprints/psyarxiv/ubhst_v2/</link>
-      <guid isPermaLink="false">f5b8e2fb0280c21c</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 20, 2026 · Free to read · Not yet peer-reviewed. Topics: Change management.</description>
-      <category>Preprint</category>
-      <category>Change management</category>
-      <dc:creator>Robin Umbra</dc:creator>
-    </item>
-    <item>
-      <title>From Access to Stabilisation: A Systems-Level Architecture of Cognitive Pathway Formation</title>
-      <link>https://osf.io/preprints/psyarxiv/gr2s7_v2/</link>
-      <guid isPermaLink="false">678559b2f5641a1c</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 15, 2026 · Free to read · Not yet peer-reviewed. Topics: Organizational change.</description>
-      <category>Preprint</category>
-      <category>Organizational change</category>
-      <dc:creator>Andrew Rockliffe</dc:creator>
-    </item>
-    <item>
-      <title>Youth First Supports Adolescent Wellbeing: A Longitudinal Cluster-Randomized Controlled Trial of a Teacher-Delivered School-Based Program in India</title>
-      <link>https://osf.io/preprints/psyarxiv/vg5ju_v3/</link>
-      <guid isPermaLink="false">b6bf43e350302d3f</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 15, 2026 · Free to read · Not yet peer-reviewed. Topics: Self-efficacy.</description>
-      <category>Preprint</category>
-      <category>Self-efficacy</category>
-      <dc:creator>Peter L. Cooper, Katherine S. Leventhal, Gunjika Misra, Nandita Bhatla, Hari Shanker, Steve Leventhal</dc:creator>
-    </item>
-    <item>
-      <title>Social and psychological consequences of sustained civic engagement: Insights from the 2024/25 Student Blockades in Serbia</title>
-      <link>https://osf.io/preprints/psyarxiv/vujys_v1/</link>
-      <guid isPermaLink="false">e2341b919d4cca59</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 15, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Ana Ivanov, Neda Janićijević, Milica Manojlović, Matija Gvozden, Vojin Simunović, Sanda Stanković</dc:creator>
-    </item>
-    <item>
-      <title>The Influence of Victim Gender and Professional Identity on Perceptions of AI-Generated Image Abuse</title>
-      <link>https://osf.io/preprints/psyarxiv/vebyw_v2/</link>
-      <guid isPermaLink="false">870d8250dc83bb13</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 14, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Matthew Ivory, Sophie Nightingale</dc:creator>
-    </item>
-    <item>
-      <title>What Do People Dream About? Themes and Emotions in 400,000+ Dream Reports Shared on Weibo (2018–2023)</title>
-      <link>https://osf.io/preprints/psyarxiv/75tke_v1/</link>
-      <guid isPermaLink="false">1e43773b531aa35c</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 13, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics.</description>
-      <category>Preprint</category>
-      <category>Labor economics</category>
-      <dc:creator>Yanqi Lyu, Wuwei Tang, Huanyu Liu</dc:creator>
-    </item>
-    <item>
-      <title>Making AI-mediated decisions culturally repairable</title>
-      <link>https://osf.io/preprints/psyarxiv/3dknf_v1/</link>
-      <guid isPermaLink="false">de8ed4bdc0a3baf2</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 13, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Hadi Mohamadpour, Soomaahey Heysieattalab, Jean-Claude Dreher</dc:creator>
-    </item>
-    <item>
-      <title>French Validation of the Team Flow Monitor: Factor Structure and Validity Evidence in Student Teams</title>
-      <link>https://osf.io/preprints/psyarxiv/wte5q_v1/</link>
-      <guid isPermaLink="false">4fab49c37b3eaa9f</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 13, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Victoire Vallier, Nicolas Verger, Rebecca Shankland, Roxane Turgon, Quentin Hallez</dc:creator>
-    </item>
-    <item>
-      <title>Questionable necessity effects on patient safety competency among nursing students: Re-examining Yang et al. (2027)</title>
-      <link>https://osf.io/preprints/psyarxiv/h4ncm_v1/</link>
-      <guid isPermaLink="false">2edf169017f9f125</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 12, 2026 · Free to read · Not yet peer-reviewed. Topics: Self-efficacy.</description>
-      <category>Preprint</category>
-      <category>Self-efficacy</category>
-      <dc:creator>Kimmo Sorjonen, Bo Melin, Marika Melin</dc:creator>
-    </item>
-    <item>
-      <title>Assessing User-Subjective Experience with Conversational Agents for Behavioral and Mental Health Interventions: Design and Psychometric Evaluation of CUE-Chat</title>
-      <link>https://osf.io/preprints/psyarxiv/8cbds_v2/</link>
-      <guid isPermaLink="false">8d75056185b4ea0f</guid>
-      <pubDate>Tue, 10 Nov 2026 02:41:02 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 11, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Esther Mertens, Janis Butz, Jean-Louis van Gelder</dc:creator>
-    </item>
-    <item>
-      <title>The dark side of GenAI in the workplace: technostress, loneliness, and the buffering role of transformational leadership</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1910745/pdf</link>
-      <guid isPermaLink="false">5e9ad0beac960ef7</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 5, 2026 · Free to read. Topics: Leadership and change communication, Employee well-being, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Employee well-being</category>
-      <category>AI at work</category>
-      <dc:creator>Fei Liu, Minxuan Qu, Yixiao Zhang</dc:creator>
-    </item>
-    <item>
-      <title>Expanding a university-based social enterprise: organizational change across 15 years</title>
-      <link>https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1972294/pdf</link>
-      <guid isPermaLink="false">42e5d743175a67b8</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Sociology · Published Nov 4, 2026 · Free to read. Topics: Organizational change.</description>
-      <category>Peer-reviewed</category>
-      <category>Organizational change</category>
-      <dc:creator>Robyn McCormack, Jani Holopainen, Timo Dietrich</dc:creator>
-    </item>
-    <item>
-      <title>Technostress and telemedicine in rural communities: insights from healthcare professionals in the Italian Dolomites</title>
-      <link>https://www.rrh.org.au/assets/article_documents/article_print_10154.pdf</link>
-      <guid isPermaLink="false">0541540fa75ab1e6</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Rural and Remote Health · Published Nov 4, 2026 · Free to read. Topics: Change readiness, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <category>AI at work</category>
-      <dc:creator>Lezcano, Pasini, Landuzzi</dc:creator>
-    </item>
-    <item>
-      <title>ORGANISATIONAL CHANGE MANAGEMENT AND IMPACT OF LEADERSHIP ON EMPLOYEE PERCEPTIONS</title>
-      <link>http://baltijapublishing.lv/index.php/issue/article/download/4929/4812</link>
-      <guid isPermaLink="false">a44ecd3c88c90e4a</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Baltic Journal of Economic Studies · Published Nov 2, 2026 · Free to read. Topics: Openness to change, Organizational change, Change management, Leadership and change communication.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
+      <title>Nearly two-thirds of HR leaders expect layoffs in 2027</title>
+      <link>https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/</link>
+      <guid isPermaLink="false">9a25d94ecb9c8cff</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 5, 2026 · Free to read. Topics: Organizational change, Change management, Leadership and change communication.</description>
+      <category>News</category>
       <category>Organizational change</category>
       <category>Change management</category>
       <category>Leadership and change communication</category>
-      <dc:creator>Mariam Beridze, Miron Tugushi</dc:creator>
+      <dc:creator>Lara Ewen</dc:creator>
     </item>
     <item>
-      <title>More Than One Voice: Strengthening Organizational Readiness for Lived Experience Integration in Early Psychosis Services</title>
-      <link>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.70944</link>
-      <guid isPermaLink="false">96756e8ac3561a63</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Health Expectations · Published Nov 1, 2026 · Free to read. Topics: Change readiness, Labor economics.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
+      <title>Milburn review to call for jobs ’revolution’ for young people with disabilities</title>
+      <link>https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets</link>
+      <guid isPermaLink="false">5a94466b8567c50b</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 5, 2026 · Free to read. Topics: Future of work, Labor economics.</description>
+      <category>News</category>
+      <category>Future of work</category>
       <category>Labor economics</category>
-      <dc:creator>Stephania L. Hayes, K Sanford, Alishia Dauterive, Naomi R. Jones, Shannon Pagdon, Maureen F. McSweeney</dc:creator>
+      <dc:creator>Patrick Butler</dc:creator>
     </item>
     <item>
-      <title>Team Psychological Safety Atmosphere and Professional Identity Among New Nurses in China: The Mediating Role of Impostor Phenomenon</title>
-      <link>https://www.dovepress.com/article/download/121678</link>
-      <guid isPermaLink="false">6a088b67755b5f4e</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Multidisciplinary Healthcare · Published Oct 31, 2026 · Free to read. Topics: Psychological safety and culture.</description>
-      <category>Peer-reviewed</category>
-      <category>Psychological safety and culture</category>
-      <dc:creator>Fei Wang, Yanqing Xia, Lingfang Zhu, Fang Cao, Weiyan Wu, Zhiping Shen</dc:creator>
+      <title>Pennsylvania Democrats now have power to push forward on election reform, marijuana legalization and minimum wage increases</title>
+      <link>https://theconversation.com/pennsylvania-democrats-now-have-power-to-push-forward-on-election-reform-marijuana-legalization-and-minimum-wage-increases-295731</link>
+      <guid isPermaLink="false">585ee1e6e2d74964</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Expert analysis · The Conversation · Published Nov 4, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>Expert analysis</category>
+      <category>Labor economics</category>
+      <dc:creator>Daniel J. Mallinson, Associate Professor of Public Policy, Administration, Penn State</dc:creator>
     </item>
     <item>
-      <title>Organizational mechanisms in digital public health transformation: change communication, collective sensemaking, and cross-functional collaboration</title>
-      <link>https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1978109/pdf</link>
-      <guid isPermaLink="false">8f926b4ae8b3c1e3</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Public Health · Published Oct 30, 2026 · Free to read. Topics: Change readiness, Leadership and change communication, Psychological safety and culture, AI at work.</description>
+      <title>Tell us: are you a young person in northern England struggling to find work?</title>
+      <link>https://www.theguardian.com/uk-news/2026/jul/08/tell-us-are-you-a-young-person-in-northern-england-struggling-to-find-work</link>
+      <guid isPermaLink="false">01bbe05481793acf</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 4, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Guardian community team</dc:creator>
+    </item>
+    <item>
+      <title>Building innovative work behavior in MSMEs: the role of transformational leadership, adaptive organizational culture, and employee resilience</title>
+      <link>https://www.tandfonline.com/doi/pdf/10.1080/23311975.2026.2752707?needAccess=true</link>
+      <guid isPermaLink="false">b80bd82fa3473bed</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Cogent Business &amp; Management · Published Nov 4, 2026 · Free to read. Topics: Leadership and change communication, Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
       <category>Peer-reviewed</category>
-      <category>Change readiness</category>
       <category>Leadership and change communication</category>
       <category>Psychological safety and culture</category>
-      <category>AI at work</category>
-      <dc:creator>Linxuan Ying</dc:creator>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Mochamad Mochklas, Ali Imaduddin Futuwwah, Fauzie Senoaji, Gita Desipradani, Tyasha Ayu Melynda Sari</dc:creator>
     </item>
     <item>
-      <title>The Mediating Role of Organizational Change Capability and Leadership Effectiveness in the Relationship Between Managerial Cognitive Capability and Sustainable Performance</title>
-      <link>https://journal.perbanas.ac.id/index.php/jebav/article/download/5760/2092</link>
-      <guid isPermaLink="false">ca25604bec64ae79</guid>
-      <pubDate>Tue, 10 Nov 2026 02:31:16 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Economics Business and Accountancy Ventura · Published Oct 30, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <title>UK job satisfaction at record low amid rising frustration over pay and flexible working</title>
+      <link>https://www.theguardian.com/money/2026/nov/03/uk-job-satisfaction-record-low-frustration-pay-flexible-working-insecure-employment</link>
+      <guid isPermaLink="false">f784b1170672f175</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 3, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Phillip Inman</dc:creator>
+    </item>
+    <item>
+      <title>Practice leadership development in intellectual disability services: A qualitative study of practice leaders’ experiences</title>
+      <link>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351893&amp;type=printable</link>
+      <guid isPermaLink="false">e4b7fbb7af15ac9c</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · PLoS ONE · Published Nov 3, 2026 · Free to read. Topics: Leadership and change communication, Psychological safety and culture, Labor economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <category>Psychological safety and culture</category>
+      <category>Labor economics</category>
+      <dc:creator>Owen Doody, Maeve O’Halloran, Eileen Carey, Marie Kilduff, Ruth Ryan</dc:creator>
+    </item>
+    <item>
+      <title>AI Adoption, Adaptation, and Workforce Sustainability in Medical Imaging: Systematic Review and Conceptual Framework</title>
+      <link>https://doi.org/10.2196/101944</link>
+      <guid isPermaLink="false">c1a27067fdeb4293</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · JMIR AI · Published Nov 3, 2026 · Free to read. Topics: Change readiness, Openness to change, Employee well-being, Future of work, AI at work, Labor economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <category>Openness to change</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <category>AI at work</category>
+      <category>Labor economics</category>
+      <dc:creator>Paula Ann Brough, Khondker Mohammad Zobair, Javad Khazaei Pool, Natalie Haskell, Luke Houghton, Paul Scuffham</dc:creator>
+    </item>
+    <item>
+      <title>Beyond Deep Acting: How Transformational Leadership Is Associated with Employee Well-Being Through Surface Acting and Self-Efficacy</title>
+      <link>https://doi.org/10.3390/bs16112089</link>
+      <guid isPermaLink="false">e1fc51c8ccfea525</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Behavioral Sciences · Published Nov 3, 2026 · Free to read. Topics: Self-efficacy, Leadership and change communication, Employee well-being.</description>
+      <category>Peer-reviewed</category>
+      <category>Self-efficacy</category>
+      <category>Leadership and change communication</category>
+      <category>Employee well-being</category>
+      <dc:creator>Tuğba Soyman Can, Meryem Derya Yeşiltaş, Musa Şanal, Kemal Can Kılıç, Azmi Yalçın</dc:creator>
+    </item>
+    <item>
+      <title>Dynamic Architecture of Leadership Capabilities in the Context of Women’s Leadership Development</title>
+      <link>https://doi.org/10.3390/systems14111395</link>
+      <guid isPermaLink="false">96a72e983157ab60</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Systems · Published Nov 3, 2026 · Free to read. Topics: Leadership and change communication.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <dc:creator>Jacqueline Y. Sánchez-García, Juan E. Núñez-Ríos, Susana Ana María Ochoa Torres, Roberto Palacios Rodriguez</dc:creator>
+    </item>
+    <item>
+      <title>AI Adoption at Higher Education Institutions: A Call for Designated AI Management</title>
+      <link>https://doi.org/10.3390/educsci16111839</link>
+      <guid isPermaLink="false">c61d41e8ebee567d</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Education Sciences · Published Nov 2, 2026 · Free to read. Topics: Change management, Leadership and change communication, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Change management</category>
+      <category>Leadership and change communication</category>
+      <category>AI at work</category>
+      <dc:creator>Valters Kaže, Valērijs Dombrovskis, Gatis Bolinskis</dc:creator>
+    </item>
+    <item>
+      <title>The association between high-performance work systems and career calling among intensive care unit nurses: the roles of job crafting and thriving at work</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1949566/pdf</link>
+      <guid isPermaLink="false">7ff4650450f2067e</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 2, 2026 · Free to read. Topics: Future of work, Labor economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <category>Labor economics</category>
+      <dc:creator>Min Chen, Huizi Wang, 凌岳, Hongbin Zhu, Yuqin Liu, Yue Yuan</dc:creator>
+    </item>
+    <item>
+      <title>Knowledge management challenges in remote work: The threat of organizational supervision to knowledge sharing</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2444569X2600257X/pdf</link>
+      <guid isPermaLink="false">f55aaf217b60aac2</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Journal of Innovation &amp; Knowledge · Published Nov 1, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Rui Yan, Yang Yang, Yan Meng</dc:creator>
+    </item>
+    <item>
+      <title>AI Readiness, Green Innovation and Workforce Upskilling Role in the Renewable Energy Transition in GCC Economies</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2665972726005106/pdf</link>
+      <guid isPermaLink="false">1940a7745cadf569</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Environmental and Sustainability Indicators · Published Nov 1, 2026 · Free to read. Topics: Change readiness, Future of work, Labor economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <category>Future of work</category>
+      <category>Labor economics</category>
+      <dc:creator>Khalid Shams Al-Abdulqader, Alanoud Ali Al-Maadid, Mohamed Sami Ben Ali, A. M. Suha</dc:creator>
+    </item>
+    <item>
+      <title>One-Year Changes in Metabolic Syndrome Indicators Among Workers Participating in an Online Specific Health Guidance Program Incorporating Nudges and Health Education: A Pre–Post Field Study</title>
+      <link>https://academic.oup.com/joh/advance-article-pdf/doi/10.1093/joccuh/uiag069/72619166/uiag069.pdf</link>
+      <guid isPermaLink="false">29bb9d26eeae73e6</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Journal of Occupational Health · Published Oct 30, 2026 · Free to read. Topics: Behavioral economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Behavioral economics</category>
+      <dc:creator>Masaki Takebayashi, Chieko Kashiwado, Yudai Kaneda, Shino Ohhata, Tatsuya Koyama</dc:creator>
+    </item>
+    <item>
+      <title>The mediating role of job crafting in the relationship between perceived organizational support and nurses' attitudes towards artificial intelligence: a cross-sectional study based on the job demands–resources model</title>
+      <link>https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1942864/pdf</link>
+      <guid isPermaLink="false">05699c6e5c856ded</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Medicine · Published Oct 29, 2026 · Free to read. Topics: Openness to change, Future of work, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Openness to change</category>
+      <category>Future of work</category>
+      <category>AI at work</category>
+      <dc:creator>Xuan Cui, Haihong Li, Shi Min, Ting Zhao</dc:creator>
+    </item>
+    <item>
+      <title>Leader Humor and Frontline Employee Work Engagement: A Serial Mediation Model via Job Crafting and Work Meaningfulness, Moderated by Organizational Identification</title>
+      <link>https://doi.org/10.3390/bs16112034</link>
+      <guid isPermaLink="false">e26e2c8b47ca3e9d</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Behavioral Sciences · Published Oct 29, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Xuan Yu, Qiuju Yang, Maoting Yang</dc:creator>
+    </item>
+    <item>
+      <title>Development and preliminary validation of an AI acceptance scale for intercultural teaching and its cross-sectional associations with university teachers’ occupational wellbeing</title>
+      <link>https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1986187/pdf</link>
+      <guid isPermaLink="false">6e9e7312914fe6d0</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Public Health · Published Oct 28, 2026 · Free to read. Topics: Self-efficacy, Openness to change, AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Self-efficacy</category>
+      <category>Openness to change</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Qi Zhang, Ramzy Mohammad Ismath, Abd Razak Bin Zakaria</dc:creator>
+    </item>
+    <item>
+      <title>Telework Agreements, Spatial Autonomy and Decent Work in the Hospitality Workforce</title>
+      <link>https://doi.org/10.3390/socsci15110745</link>
+      <guid isPermaLink="false">7bf1284a0cfb032e</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Social Sciences · Published Oct 28, 2026 · Free to read. Topics: Organizational change, Future of work, Labor economics, Philippines &amp; Southeast Asia.</description>
       <category>Peer-reviewed</category>
       <category>Organizational change</category>
+      <category>Future of work</category>
+      <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Indra Nur Fauzi, Erlyn Yuly Astuti, Dimas Agung Trisliatanto, Albertus Eka Putra Haryanto</dc:creator>
+      <dc:creator>Jens Thoemmes</dc:creator>
+    </item>
+    <item>
+      <title>Resilience and work engagement: the mediating role of job crafting behaviours</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1826711/pdf</link>
+      <guid isPermaLink="false">07e69957880a1c13</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 28, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Nelesh Dhanpat</dc:creator>
+    </item>
+    <item>
+      <title>New Hybrid Work and Gendered Domestic Responsibilities in Sweden: Equalizer or Reinforcer?</title>
+      <link>https://tidsskrift.dk/njwls/article/download/172211/212567</link>
+      <guid isPermaLink="false">c43061d26f791434</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Nordic Journal of Working Life Studies · Published Oct 27, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Bertil Vilhelmson, Eva Thulin</dc:creator>
+    </item>
+    <item>
+      <title>Perceived AI acceptance and occupational well-being among university physical education teachers: a cross-sectional serial mediation model of digital well-being and innovative work behavior</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1999813/pdf</link>
+      <guid isPermaLink="false">44c45e0ebbc8e052</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 26, 2026 · Free to read. Topics: Openness to change.</description>
+      <category>Peer-reviewed</category>
+      <category>Openness to change</category>
+      <dc:creator>Jun Miao</dc:creator>
+    </item>
+    <item>
+      <title>Perceived regional economic benefits of smart agriculture: a dynamic capability and leadership perspective on AI adoption</title>
+      <link>https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1865535/pdf</link>
+      <guid isPermaLink="false">7b012fcbf319b379</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Sustainable Food Systems · Published Oct 26, 2026 · Free to read. Topics: Leadership and change communication, AI at work, Labor economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <category>AI at work</category>
+      <category>Labor economics</category>
+      <dc:creator>Shuang Zhang, Wei Wang</dc:creator>
+    </item>
+    <item>
+      <title>AI-Enabled Algorithmic Management and Frontline Employee Job Crafting: The Roles of Control, Support, and Managerial Orientation</title>
+      <link>https://doi.org/10.3390/ejihpe16110169</link>
+      <guid isPermaLink="false">1b09119cdcff680a</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · European Journal of Investigation in Health Psychology and Education · Published Oct 26, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Aleena Ashraf, Qingfei Min, Alqa Ashraf, Hafiz Muhammad Arslan, Hassan Zafar</dc:creator>
+    </item>
+    <item>
+      <title>Differential associations between job crafting dimensions and work engagement: a meta-analytic review based on the JD–R framework</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1856109/pdf</link>
+      <guid isPermaLink="false">2b14db01dcddddac</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 23, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Zhongrui Qiao, Anton F. Gasimov</dc:creator>
+    </item>
+    <item>
+      <title>AI literacy is directly associated with positive attitudes and indirectly associated with negative attitudes through AI anxiety: a cross-sectional study of preservice teachers</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1946898/pdf</link>
+      <guid isPermaLink="false">a7e841dd58abb220</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 22, 2026 · Free to read. Topics: Openness to change, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Openness to change</category>
+      <category>AI at work</category>
+      <dc:creator>İsmail Satmaz, Mehmet Adıyaman</dc:creator>
+    </item>
+    <item>
+      <title>Beyond good and bad: An in-depth study of student and teacher views on generative AI in high school.</title>
+      <link>https://psycnet.apa.org/fulltext/2028-44794-001.pdf</link>
+      <guid isPermaLink="false">f77fb2bd0c4229d8</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Technology Mind and Behavior · Published Oct 22, 2026 · Free to read. Topics: Openness to change, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Openness to change</category>
+      <category>AI at work</category>
+      <dc:creator>Sarah I. Segall, Talia Waltzer, Gail D. Heyman</dc:creator>
+    </item>
+    <item>
+      <title>Ethical leadership and responsible initiative among Chinese university middle-level cadres: the roles of organizational fairness and identification</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2000079/pdf</link>
+      <guid isPermaLink="false">af86cbb19ed41d2e</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 22, 2026 · Free to read. Topics: Leadership and change communication.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <dc:creator>Lei Chen</dc:creator>
+    </item>
+    <item>
+      <title>Artificial intelligence-enabled green recruitment and transformational leadership in strengthening small and medium-sized enterprise resilience: The mediating roles of work engagement and artificial intelligence utilisation</title>
+      <link>https://doi.org/10.4102/sajhrm.v24i0.3860</link>
+      <guid isPermaLink="false">bbb2cb3c242b312a</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · SA Journal of Human Resource Management · Published Oct 21, 2026 · Free to read. Topics: Organizational change, Leadership and change communication, Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Organizational change</category>
+      <category>Leadership and change communication</category>
+      <category>Employee well-being</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Fitri Rezeki, Fachrurazi Fachrurazi</dc:creator>
+    </item>
+    <item>
+      <title>Mitigating workplace bullying through authentic leadership: Evidence from hospital nurses in Jordan</title>
+      <link>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359313&amp;type=printable</link>
+      <guid isPermaLink="false">837926475d296fa2</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · PLoS ONE · Published Oct 21, 2026 · Free to read. Topics: Leadership and change communication.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <dc:creator>Rahaf Abdulsalam Al-Laham, Ali Saleh, Waddah Mohammad D’emeh, Muhammad Waleed Darawad, Duaa Izzat Zaidiyah, Tariq Noureddin Mkhaimer</dc:creator>
+    </item>
+    <item>
+      <title>From job crafting to faculty vitality: the role of academic identity centrality and digital well-being in higher education</title>
+      <link>https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2026.2743331?needAccess=true</link>
+      <guid isPermaLink="false">25e8ab1f896dca37</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Cogent Education · Published Oct 21, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Ashwini Kundar, S. M. Riha Parvin, Shafeena Abdul Jabbar, Niyaz Panakaje, Cassin Rodrigous</dc:creator>
+    </item>
+    <item>
+      <title>From Learner to Leader: Exploring the Influence of a Multi-Year Leadership Development Program on Student-Athletes</title>
+      <link>https://journals.ku.edu/jis/article/download/24635/23008</link>
+      <guid isPermaLink="false">d483d82a32304c44</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Journal of Intercollegiate Sport · Published Oct 20, 2026 · Free to read. Topics: Leadership and change communication.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <dc:creator>Jake Simms, Christopher Woodside</dc:creator>
+    </item>
+    <item>
+      <title>Not all workplace loneliness is harmful: the mediating roles of wellbeing and job crafting in the relationship with employee performance</title>
+      <link>https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1876048/pdf</link>
+      <guid isPermaLink="false">b6f616ed4108d121</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Organizational Psychology · Published Oct 19, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Orhan Balikçi, Meral Elçi, Hakan Kitapçı, Melike Artar, İrge Şener</dc:creator>
+    </item>
+    <item>
+      <title>Factors associated with job crafting among Chinese clinical nurses-a systematic review and meta-analysis</title>
+      <link>https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1961368/pdf</link>
+      <guid isPermaLink="false">ade197479e7220b8</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Public Health · Published Oct 19, 2026 · Free to read. Topics: Self-efficacy, Leadership and change communication, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Self-efficacy</category>
+      <category>Leadership and change communication</category>
+      <category>Future of work</category>
+      <dc:creator>Fei Guo, Wei Zhao, 周妹, Wen-Nv Hao</dc:creator>
+    </item>
+    <item>
+      <title>Positive implicit followership theories relate to followers' innovative behavior via future work self salience and job crafting</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1935850/pdf</link>
+      <guid isPermaLink="false">efa8d51a09330ad8</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 19, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Yanlei Yang</dc:creator>
+    </item>
+    <item>
+      <title>Mapping the pulse of urban nighttime economy: spatial patterns and behavioral insights in Kunming, China</title>
+      <link>https://www.nature.com/articles/s41599-026-09308-z_reference.pdf</link>
+      <guid isPermaLink="false">5d0b03914bcf5172</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Humanities and Social Sciences Communications · Published Oct 19, 2026 · Free to read. Topics: Behavioral economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Behavioral economics</category>
+      <dc:creator>Ruiqu Ma, Ma Yanhui, Jian Xu, Huirong Yang, Linyue Liu, Genyu Xu</dc:creator>
+    </item>
+    <item>
+      <title>Work Engagement in an Always-On Work Culture: A Systematic Literature Review</title>
+      <link>https://doi.org/10.3390/admsci16100514</link>
+      <guid isPermaLink="false">868065d77d372bb1</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Administrative Sciences · Published Oct 16, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Ivan Lehpamer, Danijela Sokolić</dc:creator>
+    </item>
+    <item>
+      <title>Employee responses to workplace AI across cultural contexts: a systematic review of explicitly AI-framed evidence</title>
+      <link>https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2748712?needAccess=true</link>
+      <guid isPermaLink="false">bf82f8ebf40efba3</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Cogent Social Sciences · Published Oct 16, 2026 · Free to read. Topics: Psychological safety and culture, Future of work, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Psychological safety and culture</category>
+      <category>Future of work</category>
+      <category>AI at work</category>
+      <dc:creator>Zhongrui Qiao, Anton F. Gasimov, Xiaoyan Wang</dc:creator>
+    </item>
+    <item>
+      <title>Ethical leadership and job crafting: the role of intrinsic motivation and job feedback</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1817186/pdf</link>
+      <guid isPermaLink="false">c2b5a387b4eff53b</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 16, 2026 · Free to read. Topics: Leadership and change communication, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <category>Future of work</category>
+      <dc:creator>Pei Wang, Yu Zhang, Kun Yu</dc:creator>
+    </item>
+    <item>
+      <title>Team member perception of leader behavior associated with engagement and intent to stay in veterinary practice</title>
+      <link>https://doi.org/10.2460/ajvr.26.07.0316</link>
+      <guid isPermaLink="false">e0617e6e3995de55</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · American Journal of Veterinary Research · Published Oct 15, 2026 · Free to read. Topics: Leadership and change communication, Employee well-being, Psychological safety and culture.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <category>Employee well-being</category>
+      <category>Psychological safety and culture</category>
+      <dc:creator>Charlotte H. McKay, Josh M. Vaisman, Matthew Jude Salois</dc:creator>
+    </item>
+    <item>
+      <title>Family-supportive manager and perceived pregnancy discrimination: psychological contract breach and trust as mediators of remote working mothers’ turnover intentions</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1953215/pdf</link>
+      <guid isPermaLink="false">d79d918ae498b717</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 13, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Aviv Kidron, Neta Cohen, Michal Gross</dc:creator>
+    </item>
+    <item>
+      <title>Basic psychological need satisfaction profiles at work: person-centered links to job crafting and intrinsic motivation</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1926358/pdf</link>
+      <guid isPermaLink="false">32842b2af258acf6</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 12, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Lynelle Coxen</dc:creator>
+    </item>
+    <item>
+      <title>Unpacking job crafting: a psychometric and latent class analysis of employee crafting behaviors</title>
+      <link>https://www.nature.com/articles/s41599-026-08856-8_reference.pdf</link>
+      <guid isPermaLink="false">2eebe518436fe912</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Humanities and Social Sciences Communications · Published Oct 10, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Yasir A. Alsamiri, Mehmed Ali, Saeed Abdullah AL-Dossary</dc:creator>
+    </item>
+    <item>
+      <title>Perceived AI support and work outcomes: testing the mediating role of job crafting in AI-supported work</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1824712/pdf</link>
+      <guid isPermaLink="false">fc41e26c299834a5</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 9, 2026 · Free to read. Topics: Employee well-being, Future of work, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <category>AI at work</category>
+      <dc:creator>Fabian Willemsen, Charlotte Hopp, Susanne Mütze‐Niewöhner, Verena Nitsch</dc:creator>
+    </item>
+    <item>
+      <title>The association between generative AI acceptance and college students’ career preparation: the serial mediating role of AI trust and career confidence and the moderating role of intrinsic motivation</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1954368/pdf</link>
+      <guid isPermaLink="false">89531673bb207997</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 8, 2026 · Free to read. Topics: Openness to change, AI at work, Labor economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Openness to change</category>
+      <category>AI at work</category>
+      <category>Labor economics</category>
+      <dc:creator>Juan Jiang, Shuang Liang, Jiachun Chen</dc:creator>
+    </item>
+    <item>
+      <title>Decent Work Among Hospital Nurses: Associations with Work Engagement, Burnout, and Job Crafting in a Cross-Sectional Study</title>
+      <link>https://doi.org/10.3390/nursrep16100355</link>
+      <guid isPermaLink="false">251dc665f92d9eb8</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Nursing Reports · Published Oct 8, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Yasue Yamazumi, Mina Sakurai, Rika Matsumoto</dc:creator>
+    </item>
+    <item>
+      <title>How perceived restorativeness in rural tourism destinations influences job crafting willingness among knowledge workers through psychological restoration and psychological richness</title>
+      <link>https://www.nature.com/articles/s41598-026-71903-6_reference.pdf</link>
+      <guid isPermaLink="false">3dadc58f723bfda6</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · Scientific Reports · Published Oct 8, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Zhuquan Yang, Qiaolan Su</dc:creator>
+    </item>
+    <item>
+      <title>Digital health capacity building across health workforce and education sector in the WHO European region</title>
+      <link>https://www.nature.com/articles/s41746-026-03337-3_reference.pdf</link>
+      <guid isPermaLink="false">48a7329c6d195c3f</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · npj Digital Medicine · Published Oct 7, 2026 · Free to read. Topics: Future of work, Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Wiriya Mahikul, Mabel Prendergast, Gabriele Keziah Kerr, Sara Sousi, Benedict W. J. Hayhoe, Geva Greenfield</dc:creator>
     </item>
   </channel>
 </rss>

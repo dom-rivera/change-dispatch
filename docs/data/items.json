@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T03:35:30Z",
- "count": 143,
+ "generated": "2026-11-10T04:01:12Z",
+ "count": 214,
  "topics": [
   {
    "id": "change-readiness",
@@ -166,6 +166,29 @@
     "publisher": "National Bureau of Economic Research"
    },
    "date_estimated": true
+  },
+  {
+   "id": "b43e11aad01b1a61",
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News (Business)",
+   "source_id": "bbc-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T01:55:22Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "BBC News",
+    "authors": []
+   }
   },
   {
    "id": "29dc3ada50a44e0a",
@@ -417,6 +440,54 @@
    }
   },
   {
+   "id": "12a0973302cf8cfe",
+   "title": "Civil servant who secretly held five jobs found guilty of fraud",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News (Business)",
+   "source_id": "bbc-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T17:17:16Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "BBC News",
+    "authors": []
+   }
+  },
+  {
+   "id": "8ade1a18d0dc5355",
+   "title": "A job that changed me: As a bookseller I realised reading is more than an insular pleasure – it builds connection too",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/09/a-job-that-changed-me-as-a-bookseller-i-realised-reading-is-about-connection-and-community",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T14:00:12Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Caitlin Cassidy"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
    "id": "eea9b1843c8a5753",
    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
@@ -439,6 +510,31 @@
      "Maya Yang"
     ],
     "container": "The Guardian"
+   }
+  },
+  {
+   "id": "3677bd04ff6cb552",
+   "title": "Job shortage risks wasting skills of Filipino graduates",
+   "url": "https://bworldonline.com/top-stories/2026/11/09/792512/job-shortage-risks-wasting-skills-of-filipino-graduates/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T13:27:22Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
    }
   },
   {
@@ -516,6 +612,31 @@
      "NewsPublish"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "836d3453271e05d2",
+   "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-08T17:51:19Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Kiran Stacey"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -630,7 +751,8 @@
    "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
-    "ai-at-work"
+    "ai-at-work",
+    "behavioral-economics"
    ],
    "region": false,
    "labels": [
@@ -646,6 +768,83 @@
      "Kristy Hamilton",
      "Jacob T. Fisher"
     ]
+   }
+  },
+  {
+   "id": "ca6847258fcdafff",
+   "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
+   "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-06T18:51:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Kathryn Moody"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "7ed33e78030ce300",
+   "title": "Workers are facing a ‘crisis of disengagement’",
+   "url": "https://www.hrdive.com/news/workers-are-facing-a-crisis-of-disengagement/874016/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-06T18:51:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "well-being",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lara Ewen"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "6c3cbccdc5183991",
+   "title": "Burnham aims for ‘quite radical change’ in support for young people",
+   "url": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-06T16:50:13Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Peter Walker"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -677,6 +876,29 @@
    }
   },
   {
+   "id": "dcc2bbe1413b1482",
+   "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+   "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News (Business)",
+   "source_id": "bbc-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-06T15:25:43Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "BBC News",
+    "authors": []
+   }
+  },
+  {
    "id": "6d64941928f18c9a",
    "title": "Fearing AI disruption, white-collar workers are quitting their jobs",
    "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
@@ -703,6 +925,31 @@
    }
   },
   {
+   "id": "f63a3f48c9818883",
+   "title": "Hiring jumps: The economy added 165,000 jobs last month",
+   "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+   "source": "NPR (Business)",
+   "source_id": "npr-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-06T13:49:21Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Scott Horsley"
+    ],
+    "container": "NPR"
+   }
+  },
+  {
    "id": "2a2c483ce3c39e44",
    "title": "US job growth exceeds expectations in October despite economic uncertainty",
    "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
@@ -724,6 +971,31 @@
     "kind": "news",
     "authors": [
      "Lauren Aratani"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "19041566aabeeb4e",
+   "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
+   "url": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-06T08:54:40Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Kiran Stacey"
     ],
     "container": "The Guardian"
    }
@@ -821,6 +1093,38 @@
    }
   },
   {
+   "id": "e0a6098ce3201cfb",
+   "title": "Job Crafting and Psychological Distress: A Self-Determination Theory Perspective",
+   "url": "https://doi.org/10.3390/bs16112115",
+   "source": "Behavioral Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Tingxi Wang"
+    ],
+    "container": "Behavioral Sciences",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "2115",
+    "last_page": "2115",
+    "doi": "https://doi.org/10.3390/bs16112115"
+   }
+  },
+  {
    "id": "aafbe1c1e760068d",
    "title": "AI Grief at Work: Development and Initial Validation of a Self-Report Scale",
    "url": "https://osf.io/preprints/psyarxiv/5eu9m_v2/",
@@ -908,6 +1212,33 @@
    }
   },
   {
+   "id": "9a25d94ecb9c8cff",
+   "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
+   "url": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-05T21:18:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lara Ewen"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
    "id": "059f06d306fdabc1",
    "title": "mirtverse: Accessible, AI-ready Item Response Theory in R with mirt",
    "url": "https://osf.io/preprints/psyarxiv/j9ya7_v1/",
@@ -933,6 +1264,32 @@
     "authors": [
      "Okan Bulut"
     ]
+   }
+  },
+  {
+   "id": "5a94466b8567c50b",
+   "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
+   "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-05T00:01:47Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Patrick Butler"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -992,6 +1349,59 @@
     "authors": [
      "Peter J. Marshall"
     ]
+   }
+  },
+  {
+   "id": "585ee1e6e2d74964",
+   "title": "Pennsylvania Democrats now have power to push forward on election reform, marijuana legalization and minimum wage increases",
+   "url": "https://theconversation.com/pennsylvania-democrats-now-have-power-to-push-forward-on-election-reform-marijuana-legalization-and-minimum-wage-increases-295731",
+   "source": "The Conversation",
+   "source_id": "the-conversation",
+   "layer": "analysis",
+   "type": "Expert analysis",
+   "published": "2026-11-04T19:42:28Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 14,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Daniel J. Mallinson",
+     "Associate Professor of Public Policy",
+     "Administration",
+     "Penn State"
+    ],
+    "container": "The Conversation"
+   }
+  },
+  {
+   "id": "01bbe05481793acf",
+   "title": "Tell us: are you a young person in northern England struggling to find work?",
+   "url": "https://www.theguardian.com/uk-news/2026/jul/08/tell-us-are-you-a-young-person-in-northern-england-struggling-to-find-work",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-04T11:02:50Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Guardian community team"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -1085,6 +1495,39 @@
    }
   },
   {
+   "id": "b80bd82fa3473bed",
+   "title": "Building innovative work behavior in MSMEs: the role of transformational leadership, adaptive organizational culture, and employee resilience",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311975.2026.2752707?needAccess=true",
+   "source": "Cogent Business & Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mochamad Mochklas",
+     "Ali Imaduddin Futuwwah",
+     "Fauzie Senoaji",
+     "Gita Desipradani",
+     "Tyasha Ayu Melynda Sari"
+    ],
+    "container": "Cogent Business & Management",
+    "volume": "13",
+    "issue": "1",
+    "doi": "https://doi.org/10.1080/23311975.2026.2752707"
+   }
+  },
+  {
    "id": "7cb733b2e2db038d",
    "title": "Transitions in Teachers’ Technology Utilization: Evidence from a Large-Scale, Longitudinal, and International Panel Study",
    "url": "https://osf.io/preprints/psyarxiv/uecdk_v2/",
@@ -1172,6 +1615,32 @@
    }
   },
   {
+   "id": "f784b1170672f175",
+   "title": "UK job satisfaction at record low amid rising frustration over pay and flexible working",
+   "url": "https://www.theguardian.com/money/2026/nov/03/uk-job-satisfaction-record-low-frustration-pay-flexible-working-insecure-employment",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-03T05:00:39Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Phillip Inman"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
    "id": "c5ba1e0eaa0c1dd5",
    "title": "Sustainability Leader's Micro-Practices for Embedding Sustainability",
    "url": "https://www.tandfonline.com/doi/pdf/10.1080/14697017.2026.2755075?needAccess=true",
@@ -1197,6 +1666,164 @@
     "first_page": "1",
     "last_page": "33",
     "doi": "https://doi.org/10.1080/14697017.2026.2755075"
+   }
+  },
+  {
+   "id": "e4b7fbb7af15ac9c",
+   "title": "Practice leadership development in intellectual disability services: A qualitative study of practice leaders’ experiences",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351893&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "psych-safety",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Owen Doody",
+     "Maeve O’Halloran",
+     "Eileen Carey",
+     "Marie Kilduff",
+     "Ruth Ryan"
+    ],
+    "container": "PLoS ONE",
+    "volume": "21",
+    "issue": "11",
+    "first_page": "e0351893",
+    "last_page": "e0351893",
+    "doi": "https://doi.org/10.1371/journal.pone.0351893"
+   }
+  },
+  {
+   "id": "c1a27067fdeb4293",
+   "title": "AI Adoption, Adaptation, and Workforce Sustainability in Medical Imaging: Systematic Review and Conceptual Framework",
+   "url": "https://doi.org/10.2196/101944",
+   "source": "JMIR AI",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "well-being",
+    "future-of-work",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Paula Ann Brough",
+     "Khondker Mohammad Zobair",
+     "Javad Khazaei Pool",
+     "Natalie Haskell",
+     "Luke Houghton",
+     "Paul Scuffham",
+     "Jennifer Loy",
+     "Ashlea C. Troth",
+     "Salim Memon",
+     "Rachael Smithson",
+     "Maria Amrat Khan",
+     "Brooke Murphy",
+     "Letisha Living",
+     "Lê Thi Huong Du Boutin",
+     "John A. Richards",
+     "Jennifer Dolkens",
+     "Matthew Aitken",
+     "Jason Zhang",
+     "John Grieve",
+     "Sandeep Bhuta"
+    ],
+    "container": "JMIR AI",
+    "volume": "5",
+    "first_page": "e101944",
+    "last_page": "e101944",
+    "doi": "https://doi.org/10.2196/101944"
+   }
+  },
+  {
+   "id": "e1fc51c8ccfea525",
+   "title": "Beyond Deep Acting: How Transformational Leadership Is Associated with Employee Well-Being Through Surface Acting and Self-Efficacy",
+   "url": "https://doi.org/10.3390/bs16112089",
+   "source": "Behavioral Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "leadership",
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Tuğba Soyman Can",
+     "Meryem Derya Yeşiltaş",
+     "Musa Şanal",
+     "Kemal Can Kılıç",
+     "Azmi Yalçın"
+    ],
+    "container": "Behavioral Sciences",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "2089",
+    "last_page": "2089",
+    "doi": "https://doi.org/10.3390/bs16112089"
+   }
+  },
+  {
+   "id": "96a72e983157ab60",
+   "title": "Dynamic Architecture of Leadership Capabilities in the Context of Women’s Leadership Development",
+   "url": "https://doi.org/10.3390/systems14111395",
+   "source": "Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jacqueline Y. Sánchez-García",
+     "Juan E. Núñez-Ríos",
+     "Susana Ana María Ochoa Torres",
+     "Roberto Palacios Rodriguez"
+    ],
+    "container": "Systems",
+    "volume": "14",
+    "issue": "11",
+    "first_page": "1395",
+    "last_page": "1395",
+    "doi": "https://doi.org/10.3390/systems14111395"
    }
   },
   {
@@ -1268,6 +1895,74 @@
    }
   },
   {
+   "id": "c61d41e8ebee567d",
+   "title": "AI Adoption at Higher Education Institutions: A Call for Designated AI Management",
+   "url": "https://doi.org/10.3390/educsci16111839",
+   "source": "Education Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "leadership",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Valters Kaže",
+     "Valērijs Dombrovskis",
+     "Gatis Bolinskis"
+    ],
+    "container": "Education Sciences",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "1839",
+    "last_page": "1839",
+    "doi": "https://doi.org/10.3390/educsci16111839"
+   }
+  },
+  {
+   "id": "7ff4650450f2067e",
+   "title": "The association between high-performance work systems and career calling among intensive care unit nurses: the roles of job crafting and thriving at work",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1949566/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Min Chen",
+     "Huizi Wang",
+     "凌岳",
+     "Hongbin Zhu",
+     "Yuqin Liu",
+     "Yue Yuan",
+     "Cuiping Xu"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1949566"
+   }
+  },
+  {
    "id": "96756e8ac3561a63",
    "title": "More Than One Voice: Strengthening Organizational Readiness for Lived Experience Integration in Early Psychosis Services",
    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.70944",
@@ -1302,6 +1997,69 @@
     "volume": "29",
     "issue": "6",
     "doi": "https://doi.org/10.1111/hex.70944"
+   }
+  },
+  {
+   "id": "f55aaf217b60aac2",
+   "title": "Knowledge management challenges in remote work: The threat of organizational supervision to knowledge sharing",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2444569X2600257X/pdf",
+   "source": "Journal of Innovation & Knowledge",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Rui Yan",
+     "Yang Yang",
+     "Yan Meng"
+    ],
+    "container": "Journal of Innovation & Knowledge",
+    "first_page": "101193",
+    "last_page": "101193",
+    "doi": "https://doi.org/10.1016/j.jik.2026.101193"
+   }
+  },
+  {
+   "id": "1940a7745cadf569",
+   "title": "AI Readiness, Green Innovation and Workforce Upskilling Role in the Renewable Energy Transition in GCC Economies",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2665972726005106/pdf",
+   "source": "Environmental and Sustainability Indicators",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Khalid Shams Al-Abdulqader",
+     "Alanoud Ali Al-Maadid",
+     "Mohamed Sami Ben Ali",
+     "A. M. Suha"
+    ],
+    "container": "Environmental and Sustainability Indicators",
+    "first_page": "101621",
+    "last_page": "101621",
+    "doi": "https://doi.org/10.1016/j.indic.2026.101621"
    }
   },
   {
@@ -1559,6 +2317,36 @@
    }
   },
   {
+   "id": "29bb9d26eeae73e6",
+   "title": "One-Year Changes in Metabolic Syndrome Indicators Among Workers Participating in an Online Specific Health Guidance Program Incorporating Nudges and Health Education: A Pre–Post Field Study",
+   "url": "https://academic.oup.com/joh/advance-article-pdf/doi/10.1093/joccuh/uiag069/72619166/uiag069.pdf",
+   "source": "Journal of Occupational Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "behavioral-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Masaki Takebayashi",
+     "Chieko Kashiwado",
+     "Yudai Kaneda",
+     "Shino Ohhata",
+     "Tatsuya Koyama"
+    ],
+    "container": "Journal of Occupational Health",
+    "doi": "https://doi.org/10.1093/joccuh/uiag069"
+   }
+  },
+  {
    "id": "3e1b6890615bcbea",
    "title": "The conflicted student and the internal battle over generative AI use",
    "url": "https://osf.io/preprints/psyarxiv/ahqns_v1/",
@@ -1656,6 +2444,71 @@
    }
   },
   {
+   "id": "05699c6e5c856ded",
+   "title": "The mediating role of job crafting in the relationship between perceived organizational support and nurses' attitudes towards artificial intelligence: a cross-sectional study based on the job demands–resources model",
+   "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1942864/pdf",
+   "source": "Frontiers in Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xuan Cui",
+     "Haihong Li",
+     "Shi Min",
+     "Ting Zhao"
+    ],
+    "container": "Frontiers in Medicine",
+    "volume": "13",
+    "doi": "https://doi.org/10.3389/fmed.2026.1942864"
+   }
+  },
+  {
+   "id": "e26e2c8b47ca3e9d",
+   "title": "Leader Humor and Frontline Employee Work Engagement: A Serial Mediation Model via Job Crafting and Work Meaningfulness, Moderated by Organizational Identification",
+   "url": "https://doi.org/10.3390/bs16112034",
+   "source": "Behavioral Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xuan Yu",
+     "Qiuju Yang",
+     "Maoting Yang"
+    ],
+    "container": "Behavioral Sciences",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "2034",
+    "last_page": "2034",
+    "doi": "https://doi.org/10.3390/bs16112034"
+   }
+  },
+  {
    "id": "be2d5ad5e86caa24",
    "title": "An Accountability Matrix for Organizational Change: Navigating Transitions from Individual Blame to Organizational Learning in the Swedish Police",
    "url": "https://www.tandfonline.com/doi/pdf/10.1080/14697017.2026.2742144?needAccess=true",
@@ -1712,6 +2565,97 @@
     "container": "Frontiers in Sociology",
     "volume": "11",
     "doi": "https://doi.org/10.3389/fsoc.2026.1953897"
+   }
+  },
+  {
+   "id": "6e9e7312914fe6d0",
+   "title": "Development and preliminary validation of an AI acceptance scale for intercultural teaching and its cross-sectional associations with university teachers’ occupational wellbeing",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1986187/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Qi Zhang",
+     "Ramzy Mohammad Ismath",
+     "Abd Razak Bin Zakaria"
+    ],
+    "container": "Frontiers in Public Health",
+    "volume": "14",
+    "doi": "https://doi.org/10.3389/fpubh.2026.1986187"
+   }
+  },
+  {
+   "id": "7bf1284a0cfb032e",
+   "title": "Telework Agreements, Spatial Autonomy and Decent Work in the Hospitality Workforce",
+   "url": "https://doi.org/10.3390/socsci15110745",
+   "source": "Social Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jens Thoemmes"
+    ],
+    "container": "Social Sciences",
+    "volume": "15",
+    "issue": "11",
+    "first_page": "745",
+    "last_page": "745",
+    "doi": "https://doi.org/10.3390/socsci15110745"
+   }
+  },
+  {
+   "id": "07e69957880a1c13",
+   "title": "Resilience and work engagement: the mediating role of job crafting behaviours",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1826711/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nelesh Dhanpat"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1826711"
    }
   },
   {
@@ -1984,6 +2928,33 @@
    }
   },
   {
+   "id": "c43061d26f791434",
+   "title": "New Hybrid Work and Gendered Domestic Responsibilities in Sweden: Equalizer or Reinforcer?",
+   "url": "https://tidsskrift.dk/njwls/article/download/172211/212567",
+   "source": "Nordic Journal of Working Life Studies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Bertil Vilhelmson",
+     "Eva Thulin"
+    ],
+    "container": "Nordic Journal of Working Life Studies",
+    "doi": "https://doi.org/10.18291/njwls.172211"
+   }
+  },
+  {
    "id": "043459f78b4d8f14",
    "title": "Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis",
    "url": "https://osf.io/preprints/psyarxiv/jv4ah_v1/",
@@ -2042,6 +3013,98 @@
     ],
     "container": "BMC Nursing",
     "doi": "https://doi.org/10.1186/s12912-026-05535-6"
+   }
+  },
+  {
+   "id": "44c45e0ebbc8e052",
+   "title": "Perceived AI acceptance and occupational well-being among university physical education teachers: a cross-sectional serial mediation model of digital well-being and innovative work behavior",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1999813/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jun Miao"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1999813"
+   }
+  },
+  {
+   "id": "7b012fcbf319b379",
+   "title": "Perceived regional economic benefits of smart agriculture: a dynamic capability and leadership perspective on AI adoption",
+   "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1865535/pdf",
+   "source": "Frontiers in Sustainable Food Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Shuang Zhang",
+     "Wei Wang"
+    ],
+    "container": "Frontiers in Sustainable Food Systems",
+    "volume": "10",
+    "doi": "https://doi.org/10.3389/fsufs.2026.1865535"
+   }
+  },
+  {
+   "id": "1b09119cdcff680a",
+   "title": "AI-Enabled Algorithmic Management and Frontline Employee Job Crafting: The Roles of Control, Support, and Managerial Orientation",
+   "url": "https://doi.org/10.3390/ejihpe16110169",
+   "source": "European Journal of Investigation in Health Psychology and Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Aleena Ashraf",
+     "Qingfei Min",
+     "Alqa Ashraf",
+     "Hafiz Muhammad Arslan",
+     "Hassan Zafar"
+    ],
+    "container": "European Journal of Investigation in Health Psychology and Education",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "169",
+    "last_page": "169",
+    "doi": "https://doi.org/10.3390/ejihpe16110169"
    }
   },
   {
@@ -2163,6 +3226,126 @@
     "first_page": "440",
     "last_page": "440",
     "doi": "https://doi.org/10.3390/ai7110440"
+   }
+  },
+  {
+   "id": "2b14db01dcddddac",
+   "title": "Differential associations between job crafting dimensions and work engagement: a meta-analytic review based on the JD–R framework",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1856109/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Zhongrui Qiao",
+     "Anton F. Gasimov"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1856109",
+    "last_page": "1856109",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1856109"
+   }
+  },
+  {
+   "id": "a7e841dd58abb220",
+   "title": "AI literacy is directly associated with positive attitudes and indirectly associated with negative attitudes through AI anxiety: a cross-sectional study of preservice teachers",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1946898/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-22T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "İsmail Satmaz",
+     "Mehmet Adıyaman"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1946898",
+    "last_page": "1946898",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1946898"
+   }
+  },
+  {
+   "id": "f77fb2bd0c4229d8",
+   "title": "Beyond good and bad: An in-depth study of student and teacher views on generative AI in high school.",
+   "url": "https://psycnet.apa.org/fulltext/2028-44794-001.pdf",
+   "source": "Technology Mind and Behavior",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-22T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Sarah I. Segall",
+     "Talia Waltzer",
+     "Gail D. Heyman"
+    ],
+    "container": "Technology Mind and Behavior",
+    "doi": "https://doi.org/10.1037/tmb0000226"
+   }
+  },
+  {
+   "id": "af86cbb19ed41d2e",
+   "title": "Ethical leadership and responsible initiative among Chinese university middle-level cadres: the roles of organizational fairness and identification",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2000079/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-22T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lei Chen"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "2000079",
+    "last_page": "2000079",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.2000079"
    }
   },
   {
@@ -2297,6 +3480,104 @@
     "first_page": "1916936",
     "last_page": "1916936",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1916936"
+   }
+  },
+  {
+   "id": "bbb2cb3c242b312a",
+   "title": "Artificial intelligence-enabled green recruitment and transformational leadership in strengthening small and medium-sized enterprise resilience: The mediating roles of work engagement and artificial intelligence utilisation",
+   "url": "https://doi.org/10.4102/sajhrm.v24i0.3860",
+   "source": "SA Journal of Human Resource Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "leadership",
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Fitri Rezeki",
+     "Fachrurazi Fachrurazi"
+    ],
+    "container": "SA Journal of Human Resource Management",
+    "volume": "24",
+    "doi": "https://doi.org/10.4102/sajhrm.v24i0.3860"
+   }
+  },
+  {
+   "id": "837926475d296fa2",
+   "title": "Mitigating workplace bullying through authentic leadership: Evidence from hospital nurses in Jordan",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359313&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Rahaf Abdulsalam Al-Laham",
+     "Ali Saleh",
+     "Waddah Mohammad D’emeh",
+     "Muhammad Waleed Darawad",
+     "Duaa Izzat Zaidiyah",
+     "Tariq Noureddin Mkhaimer"
+    ],
+    "container": "PLoS ONE",
+    "volume": "21",
+    "issue": "10",
+    "first_page": "e0359313",
+    "last_page": "e0359313",
+    "doi": "https://doi.org/10.1371/journal.pone.0359313"
+   }
+  },
+  {
+   "id": "25e8ab1f896dca37",
+   "title": "From job crafting to faculty vitality: the role of academic identity centrality and digital well-being in higher education",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2026.2743331?needAccess=true",
+   "source": "Cogent Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ashwini Kundar",
+     "S. M. Riha Parvin",
+     "Shafeena Abdul Jabbar",
+     "Niyaz Panakaje",
+     "Cassin Rodrigous"
+    ],
+    "container": "Cogent Education",
+    "volume": "13",
+    "issue": "1",
+    "doi": "https://doi.org/10.1080/2331186x.2026.2743331"
    }
   },
   {
@@ -2435,6 +3716,35 @@
    }
   },
   {
+   "id": "d483d82a32304c44",
+   "title": "From Learner to Leader: Exploring the Influence of a Multi-Year Leadership Development Program on Student-Athletes",
+   "url": "https://journals.ku.edu/jis/article/download/24635/23008",
+   "source": "Journal of Intercollegiate Sport",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jake Simms",
+     "Christopher Woodside"
+    ],
+    "container": "Journal of Intercollegiate Sport",
+    "volume": "19",
+    "issue": "3",
+    "doi": "https://doi.org/10.17161/jis.v19i3.24635"
+   }
+  },
+  {
    "id": "55bffa6a9e0acb42",
    "title": "Scaffolding for Nascent Knowledge: Diverse Teams Tackling Grand Challenges",
    "url": "https://doi.org/10.1177/00218863261487207",
@@ -2457,6 +3767,37 @@
     ],
     "container": "The Journal of Applied Behavioral Science",
     "doi": "https://doi.org/10.1177/00218863261487207"
+   }
+  },
+  {
+   "id": "b6f616ed4108d121",
+   "title": "Not all workplace loneliness is harmful: the mediating roles of wellbeing and job crafting in the relationship with employee performance",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1876048/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Orhan Balikçi",
+     "Meral Elçi",
+     "Hakan Kitapçı",
+     "Melike Artar",
+     "İrge Şener"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1876048"
    }
   },
   {
@@ -2527,6 +3868,102 @@
     "volume": "12",
     "issue": "1",
     "doi": "https://doi.org/10.1080/23311886.2026.2748775"
+   }
+  },
+  {
+   "id": "ade197479e7220b8",
+   "title": "Factors associated with job crafting among Chinese clinical nurses-a systematic review and meta-analysis",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1961368/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "leadership",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Fei Guo",
+     "Wei Zhao",
+     "周妹",
+     "Wen-Nv Hao"
+    ],
+    "container": "Frontiers in Public Health",
+    "volume": "14",
+    "first_page": "1961368",
+    "last_page": "1961368",
+    "doi": "https://doi.org/10.3389/fpubh.2026.1961368"
+   }
+  },
+  {
+   "id": "efa8d51a09330ad8",
+   "title": "Positive implicit followership theories relate to followers' innovative behavior via future work self salience and job crafting",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1935850/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yanlei Yang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1935850",
+    "last_page": "1935850",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1935850"
+   }
+  },
+  {
+   "id": "5d0b03914bcf5172",
+   "title": "Mapping the pulse of urban nighttime economy: spatial patterns and behavioral insights in Kunming, China",
+   "url": "https://www.nature.com/articles/s41599-026-09308-z_reference.pdf",
+   "source": "Humanities and Social Sciences Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "behavioral-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ruiqu Ma",
+     "Ma Yanhui",
+     "Jian Xu",
+     "Huirong Yang",
+     "Linyue Liu",
+     "Genyu Xu",
+     "Xiaosen Huo",
+     "Mohan Li"
+    ],
+    "container": "Humanities and Social Sciences Communications",
+    "doi": "https://doi.org/10.1057/s41599-026-09308-z"
    }
   },
   {
@@ -2634,6 +4071,102 @@
     "first_page": "355",
     "last_page": "355",
     "doi": "https://doi.org/10.3390/soc16100355"
+   }
+  },
+  {
+   "id": "868065d77d372bb1",
+   "title": "Work Engagement in an Always-On Work Culture: A Systematic Literature Review",
+   "url": "https://doi.org/10.3390/admsci16100514",
+   "source": "Administrative Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ivan Lehpamer",
+     "Danijela Sokolić"
+    ],
+    "container": "Administrative Sciences",
+    "volume": "16",
+    "issue": "10",
+    "first_page": "514",
+    "last_page": "514",
+    "doi": "https://doi.org/10.3390/admsci16100514"
+   }
+  },
+  {
+   "id": "bf82f8ebf40efba3",
+   "title": "Employee responses to workplace AI across cultural contexts: a systematic review of explicitly AI-framed evidence",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2748712?needAccess=true",
+   "source": "Cogent Social Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Zhongrui Qiao",
+     "Anton F. Gasimov",
+     "Xiaoyan Wang"
+    ],
+    "container": "Cogent Social Sciences",
+    "volume": "12",
+    "issue": "1",
+    "doi": "https://doi.org/10.1080/23311886.2026.2748712"
+   }
+  },
+  {
+   "id": "c2b5a387b4eff53b",
+   "title": "Ethical leadership and job crafting: the role of intrinsic motivation and job feedback",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1817186/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pei Wang",
+     "Yu Zhang",
+     "Kun Yu"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1817186",
+    "last_page": "1817186",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1817186"
    }
   },
   {
@@ -2793,6 +4326,38 @@
    }
   },
   {
+   "id": "e0617e6e3995de55",
+   "title": "Team member perception of leader behavior associated with engagement and intent to stay in veterinary practice",
+   "url": "https://doi.org/10.2460/ajvr.26.07.0316",
+   "source": "American Journal of Veterinary Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "well-being",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Charlotte H. McKay",
+     "Josh M. Vaisman",
+     "Matthew Jude Salois"
+    ],
+    "container": "American Journal of Veterinary Research",
+    "first_page": "1",
+    "last_page": "9",
+    "doi": "https://doi.org/10.2460/ajvr.26.07.0316"
+   }
+  },
+  {
    "id": "870d8250dc83bb13",
    "title": "The Influence of Victim Gender and Professional Identity on Perceptions of AI-Generated Image Abuse",
    "url": "https://osf.io/preprints/psyarxiv/vebyw_v2/",
@@ -2804,6 +4369,7 @@
    "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
+    "openness-to-change",
     "ai-at-work"
    ],
    "region": false,
@@ -3016,7 +4582,8 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
-    "well-being"
+    "well-being",
+    "future-of-work"
    ],
    "region": false,
    "labels": [],
@@ -3030,6 +4597,37 @@
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
     "doi": "https://doi.org/10.3389/forgp.2026.1969428"
+   }
+  },
+  {
+   "id": "d79d918ae498b717",
+   "title": "Family-supportive manager and perceived pregnancy discrimination: psychological contract breach and trust as mediators of remote working mothers’ turnover intentions",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1953215/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-13T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Aviv Kidron",
+     "Neta Cohen",
+     "Michal Gross"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1953215",
+    "last_page": "1953215",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1953215"
    }
   },
   {
@@ -3060,6 +4658,35 @@
      "Bo Melin",
      "Marika Melin"
     ]
+   }
+  },
+  {
+   "id": "32842b2af258acf6",
+   "title": "Basic psychological need satisfaction profiles at work: person-centered links to job crafting and intrinsic motivation",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1926358/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-12T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lynelle Coxen"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1926358",
+    "last_page": "1926358",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1926358"
    }
   },
   {
@@ -3122,6 +4749,68 @@
     "first_page": "1",
     "last_page": "29",
     "doi": "https://doi.org/10.1080/14697017.2026.2742141"
+   }
+  },
+  {
+   "id": "2eebe518436fe912",
+   "title": "Unpacking job crafting: a psychometric and latent class analysis of employee crafting behaviors",
+   "url": "https://www.nature.com/articles/s41599-026-08856-8_reference.pdf",
+   "source": "Humanities and Social Sciences Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-10T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yasir A. Alsamiri",
+     "Mehmed Ali",
+     "Saeed Abdullah AL-Dossary"
+    ],
+    "container": "Humanities and Social Sciences Communications",
+    "doi": "https://doi.org/10.1057/s41599-026-08856-8"
+   }
+  },
+  {
+   "id": "fc41e26c299834a5",
+   "title": "Perceived AI support and work outcomes: testing the mediating role of job crafting in AI-supported work",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1824712/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-09T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Fabian Willemsen",
+     "Charlotte Hopp",
+     "Susanne Mütze‐Niewöhner",
+     "Verena Nitsch"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1824712",
+    "last_page": "1824712",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1824712"
    }
   },
   {
@@ -3250,6 +4939,135 @@
    }
   },
   {
+   "id": "89531673bb207997",
+   "title": "The association between generative AI acceptance and college students’ career preparation: the serial mediating role of AI trust and career confidence and the moderating role of intrinsic motivation",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1954368/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Juan Jiang",
+     "Shuang Liang",
+     "Jiachun Chen"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1954368",
+    "last_page": "1954368",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1954368"
+   }
+  },
+  {
+   "id": "251dc665f92d9eb8",
+   "title": "Decent Work Among Hospital Nurses: Associations with Work Engagement, Burnout, and Job Crafting in a Cross-Sectional Study",
+   "url": "https://doi.org/10.3390/nursrep16100355",
+   "source": "Nursing Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yasue Yamazumi",
+     "Mina Sakurai",
+     "Rika Matsumoto"
+    ],
+    "container": "Nursing Reports",
+    "volume": "16",
+    "issue": "10",
+    "first_page": "355",
+    "last_page": "355",
+    "doi": "https://doi.org/10.3390/nursrep16100355"
+   }
+  },
+  {
+   "id": "3dadc58f723bfda6",
+   "title": "How perceived restorativeness in rural tourism destinations influences job crafting willingness among knowledge workers through psychological restoration and psychological richness",
+   "url": "https://www.nature.com/articles/s41598-026-71903-6_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Zhuquan Yang",
+     "Qiaolan Su"
+    ],
+    "container": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-71903-6"
+   }
+  },
+  {
+   "id": "48a7329c6d195c3f",
+   "title": "Digital health capacity building across health workforce and education sector in the WHO European region",
+   "url": "https://www.nature.com/articles/s41746-026-03337-3_reference.pdf",
+   "source": "npj Digital Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-07T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Wiriya Mahikul",
+     "Mabel Prendergast",
+     "Gabriele Keziah Kerr",
+     "Sara Sousi",
+     "Benedict W. J. Hayhoe",
+     "Geva Greenfield",
+     "David Novillo-Ortiz",
+     "Josip Car",
+     "Azeem Majeed",
+     "Ana Luísa Neves"
+    ],
+    "container": "npj Digital Medicine",
+    "doi": "https://doi.org/10.1038/s41746-026-03337-3"
+   }
+  },
+  {
    "id": "aae01e8dafc516b7",
    "title": "Leadership behavior, employee engagement, and retention: lessons from the COVID-19 pandemic in the hospitality industry",
    "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1851922/pdf",
@@ -3261,6 +5079,7 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
+    "leadership",
     "well-being",
     "labor-economics"
    ],
@@ -3439,6 +5258,137 @@
    }
   },
   {
+   "id": "dd3067925eacd292",
+   "title": "Beyond technology acceptance: AI-application readiness and continuance intention among Chinese university students—a measurement-aware secondary analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1963259/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yunxia Sun",
+     "Yan Li"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1963259",
+    "last_page": "1963259",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1963259"
+   }
+  },
+  {
+   "id": "060affcf34339778",
+   "title": "Telework, engagement and burnout: heterogeneous effects from a doubly robust study",
+   "url": "https://doi.org/10.1093/eurpub/ckag169.480",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "E Bracho Montes de Oca",
+     "K De Meulemeester",
+     "L Bernaers",
+     "B Cagnie",
+     "B De Geus",
+     "Rani De Pauw"
+    ],
+    "container": "European Journal of Public Health",
+    "volume": "36",
+    "issue": "Supplement_5",
+    "doi": "https://doi.org/10.1093/eurpub/ckag169.480"
+   }
+  },
+  {
+   "id": "2f7297b18d23aff9",
+   "title": "Upskilling, reskilling, or deskilling? Welfare technology and job satisfaction in care work",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.332/72462598/ckag169.332.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "E Nordlander",
+     "D Dellve",
+     "S Frennert",
+     "M Naseer",
+     "K Skagert"
+    ],
+    "container": "European Journal of Public Health",
+    "volume": "36",
+    "issue": "Supplement_5",
+    "doi": "https://doi.org/10.1093/eurpub/ckag169.332"
+   }
+  },
+  {
+   "id": "0c3c36c67bba6910",
+   "title": "Artificial intelligence adoption and employee well-being: A job demands-resources perspective from academia and practice (scoping review)",
+   "url": "https://doi.org/10.1016/j.actpsy.2026.108047",
+   "source": "Acta Psychologica",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Carel Chan",
+     "Stephen Tan",
+     "Antonia Girardi",
+     "Dominic Gasbarro"
+    ],
+    "container": "Acta Psychologica",
+    "volume": "270",
+    "first_page": "108047",
+    "last_page": "108047",
+    "doi": "https://doi.org/10.1016/j.actpsy.2026.108047"
+   }
+  },
+  {
    "id": "7d8f5d75908f176f",
    "title": "Job boreout among dual-role professionals: moonlighting as a psychological response to primary-role understimulation",
    "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1938501/pdf",
@@ -3450,7 +5400,8 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
-    "well-being"
+    "well-being",
+    "future-of-work"
    ],
    "region": true,
    "labels": [],
@@ -3520,6 +5471,68 @@
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
     "doi": "https://doi.org/10.3389/forgp.2026.1746548"
+   }
+  },
+  {
+   "id": "8731be684b2b77f1",
+   "title": "Governing relational opportunity in hybrid work: structural relational deprivation and the reproduction of workplace inequality",
+   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1955187/pdf",
+   "source": "Frontiers in Sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nthabeleng Innocentia Mdhluli"
+    ],
+    "container": "Frontiers in Sociology",
+    "volume": "11",
+    "first_page": "1955187",
+    "last_page": "1955187",
+    "doi": "https://doi.org/10.3389/fsoc.2026.1955187"
+   }
+  },
+  {
+   "id": "288a7ea73385ce5b",
+   "title": "Extending the theory of reasoned goal pursuit (TRGP) with perceived AI literacy to organizational readiness for green HR practices",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2666188826005447/pdf",
+   "source": "Sustainable Futures",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Khandakar Tahurul Islam",
+     "Tasnia Akanda",
+     "Mehzabul Hoque Nahid"
+    ],
+    "container": "Sustainable Futures",
+    "volume": "12",
+    "first_page": "102187",
+    "last_page": "102187",
+    "doi": "https://doi.org/10.1016/j.sftr.2026.102187"
    }
   },
   {
@@ -3724,7 +5737,8 @@
    "window_days": 60,
    "topics": [
     "organizational-change",
-    "change-management"
+    "change-management",
+    "leadership"
    ],
    "region": false,
    "labels": [],
@@ -3745,6 +5759,38 @@
     ],
     "container": "The Journal of Applied Behavioral Science",
     "doi": "https://doi.org/10.1177/00218863261492319"
+   }
+  },
+  {
+   "id": "62671d8066f6d35c",
+   "title": "When AI works, employees worry: the vigilance cost of AI delegation in hybrid work",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1914119/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-24T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yifan Zhang",
+     "Tianyou Li",
+     "Chunming Chen"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1914119",
+    "last_page": "1914119",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1914119"
    }
   },
   {
@@ -3906,6 +5952,38 @@
    }
   },
   {
+   "id": "7d78be2b83ec426a",
+   "title": "From HR strategy to employee experience: digital HR quality as the execution channel to employee engagement and retention intentions",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311975.2026.2716952?needAccess=true",
+   "source": "Cogent Business & Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-21T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "leadership",
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Muhammad Ridwan",
+     "Suharno Pawirosumarto",
+     "Marta Widian Sari"
+    ],
+    "container": "Cogent Business & Management",
+    "volume": "13",
+    "issue": "1",
+    "doi": "https://doi.org/10.1080/23311975.2026.2716952"
+   }
+  },
+  {
    "id": "e0d47d1ac641173b",
    "title": "Redesigning the Leader Role for the Age of Artificial Intelligence: A Work Design Challenge",
    "url": "https://doi.org/10.1177/00218863261488834",
@@ -3965,6 +6043,37 @@
     "container": "Frontiers in Education",
     "volume": "11",
     "doi": "https://doi.org/10.3389/feduc.2026.1955848"
+   }
+  },
+  {
+   "id": "11b13d751d54e9c1",
+   "title": "The rise of AI in the workplace: why perceived organizational support fails to protect long-term career satisfaction",
+   "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1891537/pdf",
+   "source": "Frontiers in Artificial Intelligence",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-18T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "João Matias",
+     "Joana Carneiro Pinto"
+    ],
+    "container": "Frontiers in Artificial Intelligence",
+    "volume": "9",
+    "first_page": "1891537",
+    "last_page": "1891537",
+    "doi": "https://doi.org/10.3389/frai.2026.1891537"
    }
   },
   {
@@ -4119,6 +6228,43 @@
    }
   },
   {
+   "id": "055725e75a29066b",
+   "title": "Artificial Intelligence and Leadership Practices: Enhancing Engagement and Productivity",
+   "url": "https://doi.org/10.3390/admsci16090451",
+   "source": "Administrative Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-16T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "leadership",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Husni A. Charif",
+     "Nour Damaa",
+     "Sam El Nemar",
+     "Demetris Vrontis",
+     "Evangelia Siachou"
+    ],
+    "container": "Administrative Sciences",
+    "volume": "16",
+    "issue": "9",
+    "first_page": "451",
+    "last_page": "451",
+    "doi": "https://doi.org/10.3390/admsci16090451"
+   }
+  },
+  {
    "id": "6967441cbb261728",
    "title": "A systematic analysis of the impact of artificial intelligence on job displacement",
    "url": "https://doi.org/10.1108/jocm-02-2026-0188",
@@ -4249,6 +6395,37 @@
    }
   },
   {
+   "id": "c68c2b7e30db05da",
+   "title": "Leveraging AI-enabled green knowledge through workforce transformation for circular business model innovation across construction segments",
+   "url": "https://www.nature.com/articles/s41598-026-71475-5_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-15T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "future-of-work",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Chuhan Chen",
+     "Du Shanglin",
+     "Md Azree Othuman Mydin"
+    ],
+    "container": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-71475-5"
+   }
+  },
+  {
    "id": "932b751cce298314",
    "title": "Do interactions matter? Assessing the role of job characteristics interactions on employee well-being.",
    "url": "https://doi.org/10.1037/apl0001414",
@@ -4321,7 +6498,9 @@
    "published": "2026-09-12T00:00:00Z",
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
-   "topics": [],
+   "topics": [
+    "leadership"
+   ],
    "region": false,
    "labels": [],
    "access": "Free to read",
