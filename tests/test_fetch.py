@@ -339,3 +339,12 @@ def test_local_outlets_are_regional():
     [item] = build([("DOLE to employers: release 13th month pay", "https://example.org/d", "", day)],
                    dict(NEWS, regional=True))
     assert item["region"] and item["topics"] == ["labor-economics"]
+
+
+def test_labels_record_their_evidence():
+    day = NOW - timedelta(days=1)
+    [item] = build([("Staff push back on new rules", "https://example.org/w",
+                     "Employees' readiness for change was low.", day)])
+    assert item["why"]["openness-to-change"] == {"phrase": "push back", "kind": "news", "in_title": True}
+    assert item["why"]["change-readiness"]["in_title"] is False
+    assert item["why"]["change-readiness"]["kind"] == "strong"

@@ -148,30 +148,51 @@ class TopicMatcher:
     def has_news_context(self, text: str) -> bool:
         return any(p.search(text) for p in self.news_context)
 
-    def topics_for(self, text: str, news: bool = False) -> list[str]:
-        """Strong phrases tag a topic on their own. Weak phrases (broad
-        words like "automation") only count when the text is also about
-        work or organizations. For news and analysis only, "news_weak"
-        change-event phrases (like "overhaul") count when the story also
-        names workers, staff or jobs (the stricter news_context list)."""
-        found = []
+    def explain(self, text: str, news: bool = False) -> dict[str, dict]:
+        """Which topics apply, and why: the phrase that matched and whether
+        it was a strong phrase, a weak one (needs a work word) or a
+        news-only change event (needs a worker word).
+
+        Strong phrases tag a topic on their own. Weak phrases (broad words
+        like "automation") only count when the text is also about work or
+        organizations. For news and analysis only, "news_weak" change-event
+        phrases (like "overhaul") count when the story also names workers,
+        staff or jobs (the stricter news_context list)."""
+        def first(patterns):
+            for p in patterns:
+                m = p.search(text)
+                if m:
+                    return m.group(0).lower()
+            return None
+
+        found: dict[str, dict] = {}
         work = None
         staff = None
         for t in self.topics:
             if any(p.search(text) for p in t["exclude"]):
                 continue
-            hit = any(p.search(text) for p in t["match"])
-            if not hit and t["weak"] and any(p.search(text) for p in t["weak"]):
-                if work is None:
-                    work = self.has_work_context(text)
-                hit = work
-            if not hit and news and t["news_weak"] and any(p.search(text) for p in t["news_weak"]):
-                if staff is None:
-                    staff = self.has_news_context(text)
-                hit = staff
-            if hit:
-                found.append(t["id"])
+            phrase = first(t["match"])
+            kind = "strong"
+            if phrase is None and t["weak"]:
+                phrase = first(t["weak"])
+                if phrase is not None:
+                    if work is None:
+                        work = self.has_work_context(text)
+                    phrase = phrase if work else None
+                    kind = "weak"
+            if phrase is None and news and t["news_weak"]:
+                phrase = first(t["news_weak"])
+                if phrase is not None:
+                    if staff is None:
+                        staff = self.has_news_context(text)
+                    phrase = phrase if staff else None
+                    kind = "news"
+            if phrase is not None:
+                found[t["id"]] = {"phrase": phrase, "kind": kind}
         return found
+
+    def topics_for(self, text: str, news: bool = False) -> list[str]:
+        return list(self.explain(text, news))
 
     def is_regional(self, text: str, countries: set[str] | None = None) -> bool:
         if countries and countries & self.region_countries:
@@ -646,7 +667,8 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
     if src.get("require_work_context") and not matcher.has_work_context(cand["text"]):
         return None
     news = src["layer"] in ("news", "analysis")
-    topics = matcher.topics_for(cand["text"], news=news)
+    why = matcher.explain(cand["text"], news=news)
+    topics = list(why)
     if src.get("needs_topic", True) and not topics:
         return None
     if src.get("require_title_match") and not matcher.topics_for(cand["title"], news=news):
@@ -669,6 +691,11 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         "first_seen": iso(NOW),
         "window_days": src["window_days"],
         "topics": topics,
+        # Evidence for each topic label: the phrase that matched, its kind,
+        # and whether it is in the headline (else in the summary/abstract).
+        "why": {t: dict(w, in_title=bool(re.search(r"(?<!\w)" + re.escape(w["phrase"]) + r"(?!\w)",
+                                                   cand["title"], re.I)))
+                for t, w in why.items()},
         "region": bool(src.get("regional")) or matcher.is_regional(cand["text"], cand.get("countries")),
         "labels": labels,
         "access": "Free to read",
