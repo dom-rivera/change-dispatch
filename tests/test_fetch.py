@@ -332,3 +332,10 @@ def test_weekly_review_lists_recent_items_safely():
     assert "\\#12" in body and "\\*bold\\*" in body
     assert "](https://n.example/a)" in body and "](javascript" not in body
     assert "<details>" in body and "AI at work" in body and "PH & SE Asia" in body
+
+
+def test_local_outlets_are_regional():
+    day = NOW - timedelta(days=1)
+    [item] = build([("DOLE to employers: release 13th month pay", "https://example.org/d", "", day)],
+                   dict(NEWS, regional=True))
+    assert item["region"] and item["topics"] == ["labor-economics"]

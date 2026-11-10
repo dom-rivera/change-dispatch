@@ -82,7 +82,7 @@
    "topics": [
     "labor-economics"
    ],
-   "region": false,
+   "region": true,
    "labels": [],
    "access": "Free to read",
    "cite": {
@@ -132,7 +132,7 @@
    "topics": [
     "labor-economics"
    ],
-   "region": false,
+   "region": true,
    "labels": [],
    "access": "Free to read",
    "cite": {
@@ -178,7 +178,7 @@
    "topics": [
     "labor-economics"
    ],
-   "region": false,
+   "region": true,
    "labels": [],
    "access": "Free to read",
    "cite": {
@@ -623,7 +623,7 @@
    "topics": [
     "labor-economics"
    ],
-   "region": false,
+   "region": true,
    "labels": [],
    "access": "Free to read",
    "cite": {

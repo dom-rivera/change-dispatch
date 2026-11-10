@@ -669,7 +669,7 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         "first_seen": iso(NOW),
         "window_days": src["window_days"],
         "topics": topics,
-        "region": matcher.is_regional(cand["text"], cand.get("countries")),
+        "region": bool(src.get("regional")) or matcher.is_regional(cand["text"], cand.get("countries")),
         "labels": labels,
         "access": "Free to read",
         "cite": cite_for(cand, src),

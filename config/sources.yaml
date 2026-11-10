@@ -20,6 +20,7 @@
 #   enabled       true or false
 #   needs_topic   true = keep only items that match a topic
 #                 (always true for broad sources like newspapers)
+#   regional     true = tag every item Philippines & SE Asia (local outlets)
 #   note          anything worth remembering
 #
 # To add a source: copy an existing block, change the fields, save.
@@ -374,6 +375,7 @@ sources:
 
   - id: philstar-business
     name: Philstar Business
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -385,6 +387,7 @@ sources:
 
   - id: businessworld
     name: BusinessWorld
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -396,6 +399,7 @@ sources:
 
   - id: inquirer-business
     name: Inquirer Business
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -497,6 +501,7 @@ sources:
 
   - id: businessmirror
     name: BusinessMirror
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -509,6 +514,7 @@ sources:
 
   - id: manila-bulletin
     name: Manila Bulletin
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -520,6 +526,7 @@ sources:
 
   - id: rappler
     name: Rappler
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -533,6 +540,7 @@ sources:
 
   - id: gma-news
     name: GMA News
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     combine: true
@@ -546,6 +554,7 @@ sources:
 
   - id: inquirer-news
     name: Inquirer News
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -557,6 +566,7 @@ sources:
 
   - id: sunstar
     name: SunStar
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
@@ -568,6 +578,7 @@ sources:
 
   - id: malay-mail
     name: Malay Mail (Money)
+    regional: true    # every item is tagged Philippines & SE Asia
     layer: news
     kind: rss
     feeds:
