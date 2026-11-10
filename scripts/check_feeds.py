@@ -36,6 +36,7 @@ def check(url: str) -> None:
         print(f"  first date: {dates[0]}")
     for e in feed.entries[:8]:
         print(f"   - {e.get('title', '').strip()[:110]}")
+        print(f"     {e.get('link', '')}")
 
 
 if __name__ == "__main__":
