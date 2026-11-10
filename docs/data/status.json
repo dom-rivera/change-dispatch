@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:43:01Z",
+ "generated": "2026-11-10T04:47:38Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -449,7 +449,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-10T04:39:29Z",
+   "newest_item": "2026-11-10T04:46:48Z",
    "stale": false
   },
   {
@@ -464,7 +464,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-10T04:44:42Z",
+   "newest_item": "2026-11-10T04:46:03Z",
    "stale": false
   },
   {
@@ -500,7 +500,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-10T04:33:53Z",
+   "newest_item": "2026-11-10T04:46:47Z",
    "stale": false
   }
  ]
