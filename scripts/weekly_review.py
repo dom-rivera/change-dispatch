@@ -60,7 +60,8 @@ def line(item: dict, topic_names: dict) -> str:
     return f"- {head}  \n  <sub>{safe_text(item.get('source', ''))}" + (f" · {safe_text(tail)}" if tail else "") + "</sub>"
 
 
-def build(items_doc: dict, status_doc: dict | None, now: datetime, repo: str) -> tuple[str, str]:
+def build(items_doc: dict, status_doc: dict | None, now: datetime, repo: str,
+          brief_research: bool = False) -> tuple[str, str]:
     start = now - timedelta(days=DAYS)
     names = {t["id"]: t["name"] for t in items_doc.get("topics", [])}
     week = [i for i in items_doc.get("items", []) if parse(i["first_seen"]) >= start]
@@ -107,13 +108,20 @@ def build(items_doc: dict, status_doc: dict | None, now: datetime, repo: str) ->
             body += [f"**{safe_text(src)}** ({len(by_src[src])})", ""]
             body += [line(i, names) for i in by_src[src]]
             body.append("")
-        if open_:
+        if not open_ and brief_research:
+            body = [f"- {safe_text(src)}: {len(by_src[src])}" for src in sorted(by_src)]
+            out += ["", f"## {label} ({len(chosen)})", "",
+                    "Too many to list here this week; counts per source below. "
+                    "See the Research Desk on the site for the papers.", ""] + body
+        elif open_:
             out += ["", f"## {label} ({len(chosen)})", ""] + body
         else:
             out += ["", f"## {label} ({len(chosen)})", "",
                     "<details><summary>Show all</summary>", ""] + body + ["</details>"]
 
     text = "\n".join(out)
+    if len(text) > MAX_BODY and not brief_research:
+        return build(items_doc, status_doc, now, repo, brief_research=True)
     if len(text) > MAX_BODY:
         text = text[:MAX_BODY].rsplit("\n", 1)[0] + "\n\n_(List shortened to fit GitHub's limit. See the Archive on the site for the rest.)_"
     return title, text
