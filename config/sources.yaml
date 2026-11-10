@@ -197,7 +197,6 @@ sources:
       - reskilling
       - upskilling
       - job redesign
-      - job crafting
       - nudge
       - status quo bias
       - loss aversion
@@ -337,6 +336,7 @@ sources:
       - https://feeds.feedburner.com/adb_news
       - https://feeds.feedburner.com/adb_publications
       - https://feeds.feedburner.com/adb_evaluation
+    exclude_titles: ["^ADB Approves"]   # loan and grant approvals are not about change at work
     window_days: 60
     needs_topic: true
     enabled: true

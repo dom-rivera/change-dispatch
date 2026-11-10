@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-10T05:01:22Z",
- "count": 216,
+ "count": 155,
  "topics": [
   {
    "id": "change-readiness",
@@ -101,38 +101,6 @@
    }
   },
   {
-   "id": "fcb3f7e4a4ca1eef",
-   "title": "Marcos leads rollout of laptops for schoolteachers",
-   "url": "https://newsinfo.inquirer.net/2338731/marcos-leads-rollout-of-laptops-for-schoolteachers",
-   "source": "Inquirer News",
-   "source_id": "inquirer-news",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-10T05:15:00Z",
-   "first_seen": "2026-11-10T04:38:02Z",
-   "window_days": 7,
-   "topics": [
-    "change-management"
-   ],
-   "why": {
-    "change-management": {
-     "phrase": "rollout",
-     "kind": "news",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "cbuban"
-    ],
-    "container": "Inquirer News"
-   }
-  },
-  {
    "id": "5e28a2dd8960ab30",
    "title": "DOLE to employers: Release 13th month pay by Christmas Eve 2026",
    "url": "https://www.gmanetwork.com/news/topstories/nation/1008943/dole-to-employers-release-13th-month-pay-by-istmas-eve-2026/story/",
@@ -179,7 +147,7 @@
    "why": {
     "ai-at-work": {
      "phrase": "ai",
-     "kind": "news",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -204,12 +172,18 @@
    "first_seen": "2026-11-10T04:38:02Z",
    "window_days": 7,
    "topics": [
+    "organizational-change",
     "labor-economics"
    ],
    "why": {
+    "organizational-change": {
+     "phrase": "slashes",
+     "kind": "news",
+     "in_title": true
+    },
     "labor-economics": {
      "phrase": "workforce",
-     "kind": "strong",
+     "kind": "news",
      "in_title": true
     }
    },
@@ -223,126 +197,6 @@
    }
   },
   {
-   "id": "da079c225f2a2436",
-   "title": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale",
-   "url": "https://www.nber.org/papers/w35987",
-   "source": "NBER Working Papers",
-   "source_id": "nber",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-10T02:49:30Z",
-   "first_seen": "2026-11-10T02:49:30Z",
-   "window_days": 30,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "working_paper",
-    "authors": [
-     "Jennifer Wang",
-     "Andreas Haupt",
-     "Isaac Robinson",
-     "Phil Lewis",
-     "Erik Brynjolfsson",
-     "Diyi Yang"
-    ],
-    "container": "NBER Working Papers",
-    "publisher": "National Bureau of Economic Research"
-   },
-   "date_estimated": true
-  },
-  {
-   "id": "3420380deb6af184",
-   "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
-   "url": "https://www.nber.org/papers/w35991",
-   "source": "NBER Working Papers",
-   "source_id": "nber",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-10T02:49:30Z",
-   "first_seen": "2026-11-10T02:49:30Z",
-   "window_days": 30,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "skills training",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "working_paper",
-    "authors": [
-     "Samantha Carter",
-     "Edward Jee",
-     "Dean Karlan",
-     "Patrick Premand"
-    ],
-    "container": "NBER Working Papers",
-    "publisher": "National Bureau of Economic Research"
-   },
-   "date_estimated": true
-  },
-  {
-   "id": "16f21de5e04d6f1f",
-   "title": "AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains",
-   "url": "https://www.nber.org/papers/w36003",
-   "source": "NBER Working Papers",
-   "source_id": "nber",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-10T02:49:30Z",
-   "first_seen": "2026-11-10T02:49:30Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "generative ai",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "working_paper",
-    "authors": [
-     "Panle Jia Barwick",
-     "Lu Fang",
-     "Jinhan Liu",
-     "Huilan Xu",
-     "Zhe Yuan"
-    ],
-    "container": "NBER Working Papers",
-    "publisher": "National Bureau of Economic Research"
-   },
-   "date_estimated": true
-  },
-  {
    "id": "b43e11aad01b1a61",
    "title": "Qantas to outsource 850 local jobs with most roles moving to India",
    "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
@@ -354,19 +208,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 7,
    "topics": [
-    "organizational-change",
-    "ai-at-work"
+    "organizational-change"
    ],
    "why": {
     "organizational-change": {
      "phrase": "outsource",
      "kind": "news",
      "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "ai",
-     "kind": "news",
-     "in_title": false
     }
    },
    "region": false,
@@ -391,24 +239,18 @@
    "window_days": 7,
    "topics": [
     "organizational-change",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
     "organizational-change": {
-     "phrase": "restructuring",
-     "kind": "weak",
-     "in_title": false
+     "phrase": "overhaul",
+     "kind": "news",
+     "in_title": true
     },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -420,45 +262,6 @@
      "Jonathan Barrett"
     ],
     "container": "The Guardian"
-   }
-  },
-  {
-   "id": "8c84fb16317281c7",
-   "title": "Supporting Early Career Development Through Volitional Personality Change: A Multi-Layered Evaluation of a Digital Intervention",
-   "url": "https://osf.io/preprints/psyarxiv/tz8gb_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-10T00:56:28Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/tz8gb_v1",
-    "authors": [
-     "Sofie Dupré",
-     "Bart Wille",
-     "Barbara De Clercq",
-     "Janne Vanhalst",
-     "Joeri Hofmans"
-    ]
    }
   },
   {
@@ -516,9 +319,9 @@
    ],
    "why": {
     "well-being": {
-     "phrase": "employee well-being",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "well-being",
+     "kind": "weak",
+     "in_title": true
     },
     "future-of-work": {
      "phrase": "hybrid work",
@@ -542,105 +345,6 @@
    }
   },
   {
-   "id": "4a7d7abb2a0afdd9",
-   "title": "Trusting the Machine: Separating Trust in GenAI Authors from Trust in Their Content",
-   "url": "https://osf.io/preprints/psyarxiv/jfpgu_v3/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-10T00:45:28Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/jfpgu_v3",
-    "authors": [
-     "Caroline Simpson",
-     "Clara Colombatto",
-     "Jonathan A. Fugelsang"
-    ]
-   }
-  },
-  {
-   "id": "44bf67aa25b57dfc",
-   "title": "ADB Approves $98 Million Loan to Advance Digital Transformation in Sri Lanka",
-   "url": "https://www.adb.org/news/adb-approves-98-million-loan-advance-digital-transformation-sri-lanka",
-   "source": "Asian Development Bank",
-   "source_id": "adb",
-   "layer": "institutional",
-   "type": "Institutional",
-   "published": "2026-11-10T00:00:00Z",
-   "first_seen": "2026-11-10T02:28:15Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "digital transformation",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "web",
-    "container": "Asian Development Bank",
-    "authors": []
-   }
-  },
-  {
-   "id": "506a7d7aad4b0289",
-   "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
-   "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
-   "source": "The Guardian (Business)",
-   "source_id": "guardian-business",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-09T20:27:07Z",
-   "first_seen": "2026-11-10T02:28:15Z",
-   "window_days": 7,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Johana Bhuiyan"
-    ],
-    "container": "The Guardian"
-   }
-  },
-  {
    "id": "eec41a5bd7781e3b",
    "title": "Boeing to cut about 5% of its commercial plane workforce",
    "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
@@ -652,50 +356,12 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 7,
    "topics": [
-    "organizational-change",
     "labor-economics"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "layoffs",
-     "kind": "weak",
-     "in_title": false
-    },
     "labor-economics": {
-     "phrase": "job losses",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Agence France-Presse"
-    ],
-    "container": "The Guardian"
-   }
-  },
-  {
-   "id": "cb7863665107d049",
-   "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-   "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-   "source": "The Guardian (Technology)",
-   "source_id": "guardian-technology",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-09T17:58:05Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 7,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "ai tools",
-     "kind": "weak",
+     "phrase": "workforce",
+     "kind": "news",
      "in_title": true
     }
    },
@@ -705,7 +371,7 @@
    "cite": {
     "kind": "news",
     "authors": [
-     "Robert Booth UK"
+     "Agence France-Presse"
     ],
     "container": "The Guardian"
    }
@@ -726,9 +392,9 @@
    ],
    "why": {
     "ai-at-work": {
-     "phrase": "ai tools",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -754,12 +420,18 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 7,
    "topics": [
-    "future-of-work"
+    "future-of-work",
+    "labor-economics"
    ],
    "why": {
     "future-of-work": {
      "phrase": "skills",
      "kind": "news",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "job shortage",
+     "kind": "strong",
      "in_title": true
     }
    },
@@ -807,40 +479,6 @@
    }
   },
   {
-   "id": "11a2167fe1d6515d",
-   "title": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
-   "source": "The Guardian (Technology)",
-   "source_id": "guardian-technology",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-09T11:00:07Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 7,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Opinion"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Sunita Verma"
-    ],
-    "container": "The Guardian"
-   }
-  },
-  {
    "id": "7e49ac66595d452e",
    "title": "‘Who is it for?’: Labor group questions ASEAN Summit’s toll on workers",
    "url": "https://www.philstar.com/headlines/2026/11/09/2569002/who-it-for-labor-group-questions-asean-summits-toll-workers",
@@ -856,9 +494,9 @@
    ],
    "why": {
     "labor-economics": {
-     "phrase": "wages",
+     "phrase": "labor group",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": true,
@@ -870,70 +508,6 @@
      "Cristina Chi"
     ],
     "container": "Philstar Business"
-   }
-  },
-  {
-   "id": "df63007d36dfaeed",
-   "title": "It’s lonely at the top: Who tells you when you’re wrong?",
-   "url": "https://business.inquirer.net/620073/its-lonely-at-the-top-who-tells-you-when-youre-wrong",
-   "source": "Inquirer Business",
-   "source_id": "inquirer-business",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-09T02:02:00Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 7,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "merger",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "NewsPublish"
-    ],
-    "container": "Inquirer Business"
-   }
-  },
-  {
-   "id": "f22d837c2d1d7f6e",
-   "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-   "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-   "source": "The Guardian (Technology)",
-   "source_id": "guardian-technology",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-08T08:00:36Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 7,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Joanna Partridge"
-    ],
-    "container": "The Guardian"
    }
   },
   {
@@ -1033,49 +607,6 @@
    }
   },
   {
-   "id": "c8f0c38e82dab3fc",
-   "title": "Cognitive Offloading to Generative AI: A Theoretical Framework for Memory, Metacognition, and Consumer Decision-Making",
-   "url": "https://osf.io/preprints/psyarxiv/79fza_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-06T19:51:11Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work",
-    "behavioral-economics"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    },
-    "behavioral-economics": {
-     "phrase": "overconfidence",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/79fza_v2",
-    "authors": [
-     "Chen Chen",
-     "Kristy Hamilton",
-     "Jacob T. Fisher"
-    ]
-   }
-  },
-  {
    "id": "ca6847258fcdafff",
    "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
    "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
@@ -1087,13 +618,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 7,
    "topics": [
-    "ai-at-work"
+    "labor-economics"
    ],
    "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
+    "labor-economics": {
+     "phrase": "employment growth",
+     "kind": "strong",
+     "in_title": true
     }
    },
    "region": false,
@@ -1120,18 +651,12 @@
    "window_days": 7,
    "topics": [
     "well-being",
-    "ai-at-work",
     "labor-economics"
    ],
    "why": {
     "well-being": {
      "phrase": "burnout",
      "kind": "strong",
-     "in_title": false
-    },
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
      "in_title": false
     },
     "labor-economics": {
@@ -1149,66 +674,6 @@
      "Lara Ewen"
     ],
     "container": "HR Dive"
-   }
-  },
-  {
-   "id": "6c3cbccdc5183991",
-   "title": "Burnham aims for ‘quite radical change’ in support for young people",
-   "url": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
-   "source": "The Guardian (Work & careers)",
-   "source_id": "guardian-work",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-06T16:50:13Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 7,
-   "topics": [
-    "well-being"
-   ],
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Peter Walker"
-    ],
-    "container": "The Guardian"
-   }
-  },
-  {
-   "id": "1b5386a0b4744c33",
-   "title": "Designing Around the Human Creative Core: A Construct for Preserving Creative Agency in Human-AI Systems",
-   "url": "https://osf.io/preprints/psyarxiv/dq96z_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-06T16:41:08Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "generative ai",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/dq96z_v2",
-    "authors": [
-     "Eran Barak-Medina"
-    ]
    }
   },
   {
@@ -1253,19 +718,13 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 7,
    "topics": [
-    "organizational-change",
     "ai-at-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "layoffs",
-     "kind": "weak",
-     "in_title": false
-    },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -1295,9 +754,9 @@
    ],
    "why": {
     "labor-economics": {
-     "phrase": "job market",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "hiring",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": false,
@@ -1323,19 +782,13 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 7,
    "topics": [
-    "organizational-change",
     "labor-economics"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "layoffs",
-     "kind": "weak",
-     "in_title": false
-    },
     "labor-economics": {
-     "phrase": "labor market",
+     "phrase": "job growth",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -1365,9 +818,9 @@
    ],
    "why": {
     "labor-economics": {
-     "phrase": "unemployment",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "salaries",
+     "kind": "news",
+     "in_title": true
     }
    },
    "region": false,
@@ -1419,43 +872,6 @@
    }
   },
   {
-   "id": "19572968b1d43af2",
-   "title": "Better Late Than Early: How AI Integration Timing Shapes Creativity Judgments",
-   "url": "https://osf.io/preprints/psyarxiv/kfrux_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-06T00:54:36Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/kfrux_v2",
-    "authors": [
-     "Rajarshi Majumder",
-     "Joshua Mahaney",
-     "Jareef Martuza"
-    ]
-   }
-  },
-  {
    "id": "ee61115c1c3751a2",
    "title": "A network analysis of organizational justice, job engagement and life satisfaction among women in male-dominated industries: exploring diverse work models",
    "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1929968/pdf",
@@ -1495,55 +911,6 @@
    }
   },
   {
-   "id": "e0a6098ce3201cfb",
-   "title": "Job Crafting and Psychological Distress: A Self-Determination Theory Perspective",
-   "url": "https://doi.org/10.3390/bs16112115",
-   "source": "Behavioral Sciences",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-06T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy",
-    "well-being",
-    "future-of-work"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": false
-    },
-    "well-being": {
-     "phrase": "employee well-being",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Tingxi Wang"
-    ],
-    "container": "Behavioral Sciences",
-    "volume": "16",
-    "issue": "11",
-    "first_page": "2115",
-    "last_page": "2115",
-    "doi": "https://doi.org/10.3390/bs16112115"
-   }
-  },
-  {
    "id": "aafbe1c1e760068d",
    "title": "AI Grief at Work: Development and Initial Validation of a Self-Report Scale",
    "url": "https://osf.io/preprints/psyarxiv/5eu9m_v2/",
@@ -1555,19 +922,13 @@
    "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
-    "openness-to-change",
     "ai-at-work"
    ],
    "why": {
-    "openness-to-change": {
-     "phrase": "acceptance of ai",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -1621,42 +982,6 @@
    }
   },
   {
-   "id": "76503f2f31e05efd",
-   "title": "A Topology of the Psilocybin Experience Reveals Cognitive-Emotional Drivers, Unitive State Divergence, and Psychometric Feature Cancellation",
-   "url": "https://osf.io/preprints/psyarxiv/be5qp_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-05T23:18:27Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "reorganization",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/be5qp_v1",
-    "authors": [
-     "Amir Padovitz",
-     "Glenn Hartelius"
-    ]
-   }
-  },
-  {
    "id": "9a25d94ecb9c8cff",
    "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
    "url": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
@@ -1668,24 +993,12 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 7,
    "topics": [
-    "organizational-change",
-    "change-management",
-    "leadership"
+    "organizational-change"
    ],
    "why": {
     "organizational-change": {
      "phrase": "layoffs",
      "kind": "weak",
-     "in_title": true
-    },
-    "change-management": {
-     "phrase": "transition",
-     "kind": "news",
-     "in_title": false
-    },
-    "leadership": {
-     "phrase": "hr leaders",
-     "kind": "news",
      "in_title": true
     }
    },
@@ -1701,41 +1014,6 @@
    }
   },
   {
-   "id": "059f06d306fdabc1",
-   "title": "mirtverse: Accessible, AI-ready Item Response Theory in R with mirt",
-   "url": "https://osf.io/preprints/psyarxiv/j9ya7_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-05T08:35:38Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "generative ai",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/j9ya7_v1",
-    "authors": [
-     "Okan Bulut"
-    ]
-   }
-  },
-  {
    "id": "5a94466b8567c50b",
    "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
    "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
@@ -1747,15 +1025,9 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 7,
    "topics": [
-    "future-of-work",
     "labor-economics"
    ],
    "why": {
-    "future-of-work": {
-     "phrase": "skills",
-     "kind": "news",
-     "in_title": false
-    },
     "labor-economics": {
      "phrase": "labour market",
      "kind": "strong",
@@ -1786,7 +1058,6 @@
    "window_days": 60,
    "topics": [
     "leadership",
-    "well-being",
     "ai-at-work"
    ],
    "why": {
@@ -1794,11 +1065,6 @@
      "phrase": "transformational leadership",
      "kind": "strong",
      "in_title": true
-    },
-    "well-being": {
-     "phrase": "employee well-being",
-     "kind": "strong",
-     "in_title": false
     },
     "ai-at-work": {
      "phrase": "technostress",
@@ -1819,76 +1085,6 @@
     "container": "Frontiers in Psychology",
     "volume": "17",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1910745"
-   }
-  },
-  {
-   "id": "55bbbef8fd51dad8",
-   "title": "Psychology in 2125: A Developmental Science of Living Sense-Making",
-   "url": "https://osf.io/preprints/psyarxiv/d7y3n_v3/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-04T22:06:11Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/d7y3n_v3",
-    "authors": [
-     "Peter J. Marshall"
-    ]
-   }
-  },
-  {
-   "id": "a599fd464a9bc30e",
-   "title": "Objective Neurocognitive Assessment of Stress and Recovery in Military Personnel: The NPRO-8 MIL Two-Tier Screening Framework",
-   "url": "https://osf.io/preprints/psyarxiv/4gbke_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-04T07:34:20Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "change-readiness"
-   ],
-   "why": {
-    "change-readiness": {
-     "phrase": "readiness",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/4gbke_v1",
-    "authors": [
-     "Jerome I. Rotgans"
-    ]
    }
   },
   {
@@ -1939,15 +1135,9 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
     "ai-at-work"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "digital readiness",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "technostress",
      "kind": "strong",
@@ -2018,77 +1208,6 @@
    }
   },
   {
-   "id": "7cb733b2e2db038d",
-   "title": "Transitions in Teachers’ Technology Utilization: Evidence from a Large-Scale, Longitudinal, and International Panel Study",
-   "url": "https://osf.io/preprints/psyarxiv/uecdk_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-03T17:32:41Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/uecdk_v2",
-    "authors": [
-     "Evi Konstantinidou",
-     "Ronny Scherer"
-    ]
-   }
-  },
-  {
-   "id": "60378750007df6d6",
-   "title": "Persistence Through Transformation: A Processual Framework for Knowledge Systems Across Cognitive, Cultural, and Religious Domains",
-   "url": "https://osf.io/preprints/psyarxiv/e2zgd_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-03T17:25:56Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/e2zgd_v2",
-    "authors": [
-     "Alexandre Vieira  Souza"
-    ]
-   }
-  },
-  {
    "id": "507c77dd177c78de",
    "title": "Same Gossip, Different Judgment: Why Inappropriate Workplace Gossip Is More Acceptable When It Targets AI",
    "url": "https://osf.io/preprints/psyarxiv/9vuat_v1/",
@@ -2104,9 +1223,9 @@
    ],
    "why": {
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -2149,6 +1268,18 @@
      "Phillip Inman"
     ],
     "container": "The Guardian"
+   },
+   "why": {
+    "well-being": {
+     "phrase": "job satisfaction",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "flexible working",
+     "kind": "strong",
+     "in_title": true
+    }
    }
   },
   {
@@ -2198,25 +1329,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "leadership",
-    "psych-safety",
-    "labor-economics"
+    "leadership"
    ],
    "why": {
     "leadership": {
      "phrase": "leadership development",
      "kind": "strong",
      "in_title": true
-    },
-    "psych-safety": {
-     "phrase": "psychological safety",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
     }
    },
    "region": false,
@@ -2251,41 +1370,11 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
-    "openness-to-change",
-    "well-being",
-    "future-of-work",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "readiness to change",
-     "kind": "weak",
-     "in_title": false
-    },
-    "openness-to-change": {
-     "phrase": "attitudes toward ai",
-     "kind": "strong",
-     "in_title": false
-    },
-    "well-being": {
-     "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "workforce training",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai adoption",
-     "kind": "strong",
-     "in_title": true
-    },
-    "labor-economics": {
-     "phrase": "workforce",
      "kind": "strong",
      "in_title": true
     }
@@ -2418,72 +1507,6 @@
    }
   },
   {
-   "id": "e8a9b79f99c26e25",
-   "title": "Moving the needle: overcoming systemic inertia to foster collective sustainability agency in organizations",
-   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1860991/pdf",
-   "source": "Frontiers in Organizational Psychology",
-   "source_id": "frontiers-org-psych",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-02T00:00:00Z",
-   "first_seen": "2026-11-10T02:28:15Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy",
-    "organizational-change",
-    "change-management",
-    "well-being",
-    "psych-safety",
-    "labor-economics"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "collective efficacy",
-     "kind": "weak",
-     "in_title": false
-    },
-    "organizational-change": {
-     "phrase": "restructuring",
-     "kind": "weak",
-     "in_title": false
-    },
-    "change-management": {
-     "phrase": "lewin",
-     "kind": "strong",
-     "in_title": false
-    },
-    "well-being": {
-     "phrase": "employee engagement",
-     "kind": "strong",
-     "in_title": false
-    },
-    "psych-safety": {
-     "phrase": "psychological safety",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "hiring",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Maryalice Citera",
-     "Alice F. Stuhlmacher",
-     "Elise L. Amel"
-    ],
-    "container": "Frontiers in Organizational Psychology",
-    "volume": "4",
-    "doi": "https://doi.org/10.3389/forgp.2026.1860991"
-   }
-  },
-  {
    "id": "a44ecd3c88c90e4a",
    "title": "ORGANISATIONAL CHANGE MANAGEMENT AND IMPACT OF LEADERSHIP ON EMPLOYEE PERCEPTIONS",
    "url": "http://baltijapublishing.lv/index.php/issue/article/download/4929/4812",
@@ -2495,31 +1518,19 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "openness-to-change",
     "organizational-change",
-    "change-management",
-    "leadership"
+    "change-management"
    ],
    "why": {
-    "openness-to-change": {
-     "phrase": "employee attitudes",
-     "kind": "strong",
-     "in_title": false
-    },
     "organizational-change": {
      "phrase": "organisational change",
      "kind": "strong",
      "in_title": true
     },
     "change-management": {
-     "phrase": "change process",
+     "phrase": "change management",
      "kind": "strong",
-     "in_title": false
-    },
-    "leadership": {
-     "phrase": "trust in management",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -2551,21 +1562,9 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "change-management",
-    "leadership",
     "ai-at-work"
    ],
    "why": {
-    "change-management": {
-     "phrase": "change leadership",
-     "kind": "strong",
-     "in_title": false
-    },
-    "leadership": {
-     "phrase": "change leadership",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai adoption",
      "kind": "strong",
@@ -2591,52 +1590,6 @@
    }
   },
   {
-   "id": "7ff4650450f2067e",
-   "title": "The association between high-performance work systems and career calling among intensive care unit nurses: the roles of job crafting and thriving at work",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1949566/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-02T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work",
-    "labor-economics"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Min Chen",
-     "Huizi Wang",
-     "凌岳",
-     "Hongbin Zhu",
-     "Yuqin Liu",
-     "Yue Yuan",
-     "Cuiping Xu"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1949566"
-   }
-  },
-  {
    "id": "96756e8ac3561a63",
    "title": "More Than One Voice: Strengthening Organizational Readiness for Lived Experience Integration in Early Psychosis Services",
    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.70944",
@@ -2648,19 +1601,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
-    "labor-economics"
+    "change-readiness"
    ],
    "why": {
     "change-readiness": {
-     "phrase": "readiness for change",
+     "phrase": "organizational readiness",
      "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -2736,7 +1683,7 @@
    "topics": [
     "change-readiness",
     "future-of-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
     "change-readiness": {
@@ -2749,9 +1696,9 @@
      "kind": "strong",
      "in_title": true
     },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -2770,43 +1717,6 @@
     "first_page": "101621",
     "last_page": "101621",
     "doi": "https://doi.org/10.1016/j.indic.2026.101621"
-   }
-  },
-  {
-   "id": "4d74a608b037636b",
-   "title": "Toward a Program Theory of A Singaporean Single-Session, Synchronous Chat-Based Mental Health Support for Youths: The Behavior Change Techniques Workers Use and How They Relate to Outcome",
-   "url": "https://osf.io/preprints/psyarxiv/v6ta4_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-31T18:10:12Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": true,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/v6ta4_v2",
-    "authors": [
-     "Gerard Chung",
-     "Lim Tse Min",
-     "Joan R. Fang"
-    ]
    }
   },
   {
@@ -2855,47 +1765,6 @@
    }
   },
   {
-   "id": "03e862bf75fcbd63",
-   "title": "Modifiable Psychological Variables as Predictors of Return to Work: Temporal Patterns in a Longitudinal Observational Study",
-   "url": "https://osf.io/preprints/psyarxiv/89s2x_v3/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-30T19:46:02Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/89s2x_v3",
-    "authors": [
-     "Magnus Johansson",
-     "Alice Giöstad",
-     "Aleksandra Bujacz",
-     "Anna Ek",
-     "Petter Gustavsson",
-     "Lars-Göran Öst",
-     "Anna Finnes"
-    ]
-   }
-  },
-  {
    "id": "713a1e96addfcbed",
    "title": "Workplace Greenery and Work Engagement Among Live-In Shiftworkers: A Conceptual Replication of Popov et al. (2023)",
    "url": "https://osf.io/preprints/psyarxiv/b9uhq_v1/",
@@ -2933,79 +1802,6 @@
    }
   },
   {
-   "id": "d4e723c324f57b0d",
-   "title": "Cognitive Abilities and Trust Calibration: Understanding Individual Differences in Automation Trust Dynamics",
-   "url": "https://osf.io/preprints/psyarxiv/ucswj_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-30T09:45:25Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "automation",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/ucswj_v2",
-    "authors": [
-     "Connie Ku",
-     "Anne Collins McLaughlin",
-     "Richard Pak",
-     "Randall W Engle"
-    ]
-   }
-  },
-  {
-   "id": "b5188ba6f1948db3",
-   "title": "Barriers to professional mental health help-seeking and considerations for school-based interventions among Secondary School adolescents: an exploratory qualitative study",
-   "url": "https://osf.io/preprints/psyarxiv/gcta6_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-30T00:37:52Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/gcta6_v1",
-    "authors": [
-     "Christianah Dada"
-    ]
-   }
-  },
-  {
    "id": "8f926b4ae8b3c1e3",
    "title": "Organizational mechanisms in digital public health transformation: change communication, collective sensemaking, and cross-functional collaboration",
    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1978109/pdf",
@@ -3017,31 +1813,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
-    "leadership",
-    "psych-safety",
-    "ai-at-work"
+    "leadership"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "readiness for change",
-     "kind": "strong",
-     "in_title": false
-    },
     "leadership": {
      "phrase": "change communication",
      "kind": "strong",
      "in_title": true
-    },
-    "psych-safety": {
-     "phrase": "psychological safety",
-     "kind": "strong",
-     "in_title": false
-    },
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
     }
    },
    "region": false,
@@ -3135,82 +1913,6 @@
    }
   },
   {
-   "id": "3e1b6890615bcbea",
-   "title": "The conflicted student and the internal battle over generative AI use",
-   "url": "https://osf.io/preprints/psyarxiv/ahqns_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-29T22:23:02Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "generative ai",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/ahqns_v1",
-    "authors": [
-     "Stephen Harrison Dewitt",
-     "Metodi Siromahov",
-     "Duncan Brumby",
-     "Silvia Bodei"
-    ]
-   }
-  },
-  {
-   "id": "bededce5e9447c35",
-   "title": "Team Science: An Examination of Factors Associated with Citation Metrics",
-   "url": "https://osf.io/preprints/psyarxiv/37mcg_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-29T22:22:22Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "hiring",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/37mcg_v1",
-    "authors": [
-     "Kelly Cuccolo",
-     "Jordan Wagge",
-     "John Edlund",
-     "Erin Michelle Buchanan"
-    ]
-   }
-  },
-  {
    "id": "b6de553194ab80ae",
    "title": "Exploring organizational readiness for the early adoption of a digital obesity prevention program in Swedish child healthcare: an observational prospective study",
    "url": "https://doi.org/10.1186/s12913-026-15953-6",
@@ -3265,24 +1967,18 @@
    "window_days": 60,
    "topics": [
     "openness-to-change",
-    "future-of-work",
     "ai-at-work"
    ],
    "why": {
     "openness-to-change": {
-     "phrase": "attitudes toward ai",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
+     "phrase": "attitudes towards artificial intelligence",
      "kind": "strong",
      "in_title": true
     },
     "ai-at-work": {
-     "phrase": "ai adoption",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": false,
@@ -3313,17 +2009,17 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "leadership",
+    "well-being"
    ],
    "why": {
-    "well-being": {
-     "phrase": "employee engagement",
+    "leadership": {
+     "phrase": "leader humor",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     },
-    "future-of-work": {
-     "phrase": "job crafting",
+    "well-being": {
+     "phrase": "work engagement",
      "kind": "strong",
      "in_title": true
     }
@@ -3358,19 +2054,13 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "change-management"
+    "organizational-change"
    ],
    "why": {
     "organizational-change": {
      "phrase": "organizational change",
      "kind": "strong",
      "in_title": true
-    },
-    "change-management": {
-     "phrase": "change management",
-     "kind": "strong",
-     "in_title": false
     }
    },
    "region": false,
@@ -3399,25 +2089,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "future-of-work",
-    "labor-economics"
+    "organizational-change"
    ],
    "why": {
     "organizational-change": {
-     "phrase": "organizational change",
+     "phrase": "digital transformation",
      "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "flexible work",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -3446,25 +2124,25 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "self-efficacy",
     "openness-to-change",
+    "well-being",
     "ai-at-work"
    ],
    "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": false
-    },
     "openness-to-change": {
      "phrase": "ai acceptance",
      "kind": "strong",
      "in_title": true
     },
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
+    "well-being": {
+     "phrase": "wellbeing",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": true,
@@ -3494,23 +2172,11 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "future-of-work",
-    "labor-economics"
+    "future-of-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "digital transformation",
-     "kind": "strong",
-     "in_title": false
-    },
     "future-of-work": {
-     "phrase": "remote work",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
+     "phrase": "telework",
      "kind": "strong",
      "in_title": true
     }
@@ -3543,17 +2209,11 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "well-being"
    ],
    "why": {
     "well-being": {
      "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
      "kind": "strong",
      "in_title": true
     }
@@ -3653,170 +2313,6 @@
    }
   },
   {
-   "id": "96c3e36b907e8281",
-   "title": "“We love our jobs!” Systems Thinking and Participatory Action Research for the future of neurodiversity and skilled employment",
-   "url": "https://osf.io/preprints/psyarxiv/dg6at_v4/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-27T17:21:17Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "employee wellbeing",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/dg6at_v4",
-    "authors": [
-     "Dora M Raymaker",
-     "Shawna Spain",
-     "Nybelle Caruso",
-     "Joelle Maslak",
-     "Nicole Leblanc",
-     "Morénike Giwa Onaiwu",
-     "Jonathan Spector",
-     "Passion Ilea",
-     "Julia Crown",
-     "Kristin Akervall",
-     "Wayne Wakeland"
-    ]
-   }
-  },
-  {
-   "id": "53a78b53363fdf0b",
-   "title": "Development and description of Peers Actively Involved in Rehabilitation (PAIR): A co-designed peer support program for people with acquired brain injury",
-   "url": "https://osf.io/preprints/psyarxiv/k8ect_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-27T17:07:13Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self efficacy",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/k8ect_v1",
-    "authors": [
-     "Julia Schmidt",
-     "Janna Griffioen",
-     "Jade Abigail Witten",
-     "Adele Rogers",
-     "Nanaimo Brain Injury Society",
-     "Janelle Breese Biagioni"
-    ]
-   }
-  },
-  {
-   "id": "feb058313b849683",
-   "title": "Beyond anthropocentric workplaces: a multispecies perspective on human-animal interactions and employee outcomes",
-   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1903354/pdf",
-   "source": "Frontiers in Organizational Psychology",
-   "source_id": "frontiers-org-psych",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-27T00:00:00Z",
-   "first_seen": "2026-11-10T02:28:15Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "flexible work",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Ana Junça Silva"
-    ],
-    "container": "Frontiers in Organizational Psychology",
-    "volume": "4",
-    "doi": "https://doi.org/10.3389/forgp.2026.1903354"
-   }
-  },
-  {
-   "id": "f8cf40fae2311f9d",
-   "title": "Workforce consequences of implementing DRG-based payment reform in China: an explanatory sequential mixed-methods study of hospital consumables managers",
-   "url": "https://doi.org/10.1186/s12913-026-15937-6",
-   "source": "BMC Health Services Research",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-27T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change",
-    "labor-economics"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Xuelian Zheng",
-     "Diping Chen",
-     "Meng Yue",
-     "Jingrong Wei",
-     "Xiaomei Ren",
-     "Shengting Zhou",
-     "Huiling Rao"
-    ],
-    "container": "BMC Health Services Research",
-    "doi": "https://doi.org/10.1186/s12913-026-15937-6"
-   }
-  },
-  {
    "id": "244066e6249d968e",
    "title": "Towards an integrated framework for digital transformation in Moroccan higher education",
    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1912168/pdf",
@@ -3828,25 +2324,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "change-management",
-    "psych-safety"
+    "organizational-change"
    ],
    "why": {
     "organizational-change": {
      "phrase": "digital transformation",
      "kind": "strong",
      "in_title": true
-    },
-    "change-management": {
-     "phrase": "change management",
-     "kind": "strong",
-     "in_title": false
-    },
-    "psych-safety": {
-     "phrase": "organizational culture",
-     "kind": "strong",
-     "in_title": false
     }
    },
    "region": false,
@@ -3876,23 +2360,11 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
-    "ai-at-work",
-    "labor-economics"
+    "change-readiness"
    ],
    "why": {
     "change-readiness": {
      "phrase": "workforce readiness",
-     "kind": "strong",
-     "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
      "kind": "strong",
      "in_title": true
     }
@@ -3956,41 +2428,6 @@
    }
   },
   {
-   "id": "043459f78b4d8f14",
-   "title": "Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis",
-   "url": "https://osf.io/preprints/psyarxiv/jv4ah_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-26T07:32:05Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/jv4ah_v1",
-    "authors": [
-     "Jason Robert Potas"
-    ]
-   }
-  },
-  {
    "id": "96dea557525af812",
    "title": "Network analysis of the relationship between change fatigue and work withdrawal behavior among Chinese nurses",
    "url": "https://doi.org/10.1186/s12912-026-05535-6",
@@ -4042,12 +2479,24 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "openness-to-change"
+    "openness-to-change",
+    "well-being",
+    "ai-at-work"
    ],
    "why": {
     "openness-to-change": {
      "phrase": "ai acceptance",
      "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "well-being",
+     "kind": "weak",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -4076,25 +2525,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "leadership",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
-    "leadership": {
-     "phrase": "transformational leadership",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai adoption",
      "kind": "strong",
      "in_title": true
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
     }
    },
    "region": false,
@@ -4123,17 +2560,11 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "ai-at-work"
    ],
    "why": {
-    "well-being": {
-     "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
+    "ai-at-work": {
+     "phrase": "algorithmic management",
      "kind": "strong",
      "in_title": true
     }
@@ -4159,41 +2590,6 @@
    }
   },
   {
-   "id": "49be8eab1e498272",
-   "title": "The Quantitative Psychologist Is Dead, Long Live the Quantitative Psychologist",
-   "url": "https://osf.io/preprints/psyarxiv/8yxwb_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-25T23:21:37Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/8yxwb_v1",
-    "authors": [
-     "Sacha Epskamp"
-    ]
-   }
-  },
-  {
    "id": "c820667ebf3b3361",
    "title": "The AI Paradox: How Optimization May Undermine Meaningful Work in Helping Professions",
    "url": "https://osf.io/preprints/psyarxiv/jzngq_v1/",
@@ -4209,9 +2605,9 @@
    ],
    "why": {
     "ai-at-work": {
-     "phrase": "automation",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -4230,45 +2626,6 @@
    }
   },
   {
-   "id": "2920f8cbd76b616a",
-   "title": "Toward Evidence-Based Human-Centered AI and Human-AI Interaction: A Cross-Domain Systematic Review",
-   "url": "https://osf.io/preprints/psyarxiv/j9cha_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-23T15:20:17Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "ai adoption",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/j9cha_v1",
-    "authors": [
-     "Xinyi Wang",
-     "Christine Lo",
-     "Wei-Hsiang Lo",
-     "Manhua Wang",
-     "Gaojian Huang"
-    ]
-   }
-  },
-  {
    "id": "09923fbf1f5a3882",
    "title": "From Access to Governance: Generative AI Literacy for Extension Professionals and Small Businesses, and a Governance-Aware Design Framework",
    "url": "https://doi.org/10.3390/ai7110440",
@@ -4280,15 +2637,9 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
     "ai-at-work"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "organizational readiness",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai literacy",
      "kind": "strong",
@@ -4324,17 +2675,11 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "well-being"
    ],
    "why": {
     "well-being": {
      "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
      "kind": "strong",
      "in_title": true
     }
@@ -4367,15 +2712,9 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "openness-to-change",
     "ai-at-work"
    ],
    "why": {
-    "openness-to-change": {
-     "phrase": "attitudes toward ai",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai anxiety",
      "kind": "strong",
@@ -4410,19 +2749,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "openness-to-change",
     "ai-at-work"
    ],
    "why": {
-    "openness-to-change": {
-     "phrase": "attitudes toward ai",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
-     "phrase": "ai tools",
+     "phrase": "generative ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -4487,25 +2820,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "leadership",
-    "psych-safety"
+    "organizational-change"
    ],
    "why": {
     "organizational-change": {
-     "phrase": "organizational change",
+     "phrase": "organizational transformation",
      "kind": "strong",
-     "in_title": false
-    },
-    "leadership": {
-     "phrase": "middle managers",
-     "kind": "strong",
-     "in_title": false
-    },
-    "psych-safety": {
-     "phrase": "organizational culture",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -4540,16 +2861,10 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
     "change-management",
     "well-being"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": false
-    },
     "change-management": {
      "phrase": "change fatigue",
      "kind": "strong",
@@ -4591,15 +2906,9 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "well-being",
     "ai-at-work"
    ],
    "why": {
-    "well-being": {
-     "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "technostress",
      "kind": "strong",
@@ -4674,26 +2983,20 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
     "leadership",
     "well-being",
     "ai-at-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "digital transformation",
-     "kind": "strong",
-     "in_title": false
-    },
     "leadership": {
      "phrase": "transformational leadership",
      "kind": "strong",
      "in_title": true
     },
     "well-being": {
-     "phrase": "employee engagement",
+     "phrase": "work engagement",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     },
     "ai-at-work": {
      "phrase": "artificial intelligence",
@@ -4731,9 +3034,9 @@
    ],
    "why": {
     "leadership": {
-     "phrase": "leadership development",
+     "phrase": "authentic leadership",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -4769,12 +3072,12 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "future-of-work"
+    "well-being"
    ],
    "why": {
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
+    "well-being": {
+     "phrase": "well-being",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -4797,42 +3100,6 @@
    }
   },
   {
-   "id": "6a799c4246bdff57",
-   "title": "Synthetic Selves for AI Agents? Lessons from Psychology for Agent-Based Modeling",
-   "url": "https://osf.io/preprints/psyarxiv/67dhz_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-20T20:02:57Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "ai agents",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/67dhz_v1",
-    "authors": [
-     "Astghik Altunyan",
-     "Shimon Edelman"
-    ]
-   }
-  },
-  {
    "id": "e2b20c26c5eb7b36",
    "title": "Expected but not rewarded: Limited uptake of open science practices as hiring criterion in a national sample of academic job advertisements",
    "url": "https://osf.io/preprints/psyarxiv/2yvgx_v1/",
@@ -4849,7 +3116,7 @@
    "why": {
     "labor-economics": {
      "phrase": "hiring",
-     "kind": "strong",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -4885,41 +3152,6 @@
    }
   },
   {
-   "id": "f5b8e2fb0280c21c",
-   "title": "Learning Whether Work Can Still Move: Repairability Cues, Hope, and Organizational Demoralization",
-   "url": "https://osf.io/preprints/psyarxiv/ubhst_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-20T07:54:08Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "change-management"
-   ],
-   "why": {
-    "change-management": {
-     "phrase": "change initiatives",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/ubhst_v2",
-    "authors": [
-     "Robin Umbra"
-    ]
-   }
-  },
-  {
    "id": "258a0f68b16c96e6",
    "title": "AI Adoption for PMO Transformation in GCC Banks: An Expert-Refined TOE Model",
    "url": "https://doi.org/10.3390/systems14101330",
@@ -4931,15 +3163,9 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
     "ai-at-work"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "organizational readiness",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai adoption",
      "kind": "strong",
@@ -4962,42 +3188,6 @@
     "first_page": "1330",
     "last_page": "1330",
     "doi": "https://doi.org/10.3390/systems14101330"
-   }
-  },
-  {
-   "id": "d483d82a32304c44",
-   "title": "From Learner to Leader: Exploring the Influence of a Multi-Year Leadership Development Program on Student-Athletes",
-   "url": "https://journals.ku.edu/jis/article/download/24635/23008",
-   "source": "Journal of Intercollegiate Sport",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-20T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "leadership"
-   ],
-   "why": {
-    "leadership": {
-     "phrase": "leadership development",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Jake Simms",
-     "Christopher Woodside"
-    ],
-    "container": "Journal of Intercollegiate Sport",
-    "volume": "19",
-    "issue": "3",
-    "doi": "https://doi.org/10.17161/jis.v19i3.24635"
    }
   },
   {
@@ -5038,12 +3228,12 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "future-of-work"
+    "well-being"
    ],
    "why": {
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
+    "well-being": {
+     "phrase": "wellbeing",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -5077,30 +3267,18 @@
    "window_days": 60,
    "topics": [
     "change-readiness",
-    "organizational-change",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
     "change-readiness": {
-     "phrase": "ai readiness",
-     "kind": "strong",
-     "in_title": false
-    },
-    "organizational-change": {
-     "phrase": "organizational transformation",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": true
     },
     "ai-at-work": {
-     "phrase": "ai governance",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": false,
@@ -5134,21 +3312,9 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "leadership",
-    "well-being",
     "ai-at-work"
    ],
    "why": {
-    "leadership": {
-     "phrase": "transformational leadership",
-     "kind": "strong",
-     "in_title": false
-    },
-    "well-being": {
-     "phrase": "burnout",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "technostress",
      "kind": "strong",
@@ -5174,93 +3340,6 @@
    }
   },
   {
-   "id": "ade197479e7220b8",
-   "title": "Factors associated with job crafting among Chinese clinical nurses-a systematic review and meta-analysis",
-   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1961368/pdf",
-   "source": "Frontiers in Public Health",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-19T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy",
-    "leadership",
-    "future-of-work"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": false
-    },
-    "leadership": {
-     "phrase": "empowering leadership",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Fei Guo",
-     "Wei Zhao",
-     "周妹",
-     "Wen-Nv Hao"
-    ],
-    "container": "Frontiers in Public Health",
-    "volume": "14",
-    "first_page": "1961368",
-    "last_page": "1961368",
-    "doi": "https://doi.org/10.3389/fpubh.2026.1961368"
-   }
-  },
-  {
-   "id": "efa8d51a09330ad8",
-   "title": "Positive implicit followership theories relate to followers' innovative behavior via future work self salience and job crafting",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1935850/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-19T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Yanlei Yang"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "first_page": "1935850",
-    "last_page": "1935850",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1935850"
-   }
-  },
-  {
    "id": "ca61a1ada7473f23",
    "title": "Assessing healthcare organizational readiness to implement risk-stratified breast cancer screening in Canada: a cross-sectional questionnaire study",
    "url": "https://doi.org/10.1186/s12913-026-15626-4",
@@ -5272,19 +3351,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
-    "self-efficacy"
+    "change-readiness"
    ],
    "why": {
     "change-readiness": {
-     "phrase": "readiness for change",
+     "phrase": "organizational readiness",
      "kind": "strong",
-     "in_title": false
-    },
-    "self-efficacy": {
-     "phrase": "change efficacy",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -5368,15 +3441,9 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "openness-to-change",
     "organizational-change"
    ],
    "why": {
-    "openness-to-change": {
-     "phrase": "openness to change",
-     "kind": "strong",
-     "in_title": false
-    },
     "organizational-change": {
      "phrase": "organizational transformation",
      "kind": "strong",
@@ -5415,19 +3482,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "well-being"
    ],
    "why": {
     "well-being": {
-     "phrase": "employee engagement",
+     "phrase": "work engagement",
      "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "hybrid work",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -5459,21 +3520,9 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "psych-safety",
-    "future-of-work",
     "ai-at-work"
    ],
    "why": {
-    "psych-safety": {
-     "phrase": "organisational culture",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "workplace ai",
      "kind": "strong",
@@ -5508,17 +3557,11 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "leadership",
-    "future-of-work"
+    "leadership"
    ],
    "why": {
     "leadership": {
      "phrase": "ethical leadership",
-     "kind": "strong",
-     "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
      "kind": "strong",
      "in_title": true
     }
@@ -5541,156 +3584,6 @@
    }
   },
   {
-   "id": "678559b2f5641a1c",
-   "title": "From Access to Stabilisation: A Systems-Level Architecture of Cognitive Pathway Formation",
-   "url": "https://osf.io/preprints/psyarxiv/gr2s7_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-15T19:43:08Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "reorganisation",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/gr2s7_v2",
-    "authors": [
-     "Andrew Rockliffe"
-    ]
-   }
-  },
-  {
-   "id": "b6bf43e350302d3f",
-   "title": "Youth First Supports Adolescent Wellbeing: A Longitudinal Cluster-Randomized Controlled Trial of a Teacher-Delivered School-Based Program in India",
-   "url": "https://osf.io/preprints/psyarxiv/vg5ju_v3/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-15T19:39:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/vg5ju_v3",
-    "authors": [
-     "Peter L. Cooper",
-     "Katherine S. Leventhal",
-     "Gunjika Misra",
-     "Nandita Bhatla",
-     "Hari Shanker",
-     "Steve Leventhal"
-    ]
-   }
-  },
-  {
-   "id": "e2341b919d4cca59",
-   "title": "Social and psychological consequences of sustained civic engagement: Insights from the 2024/25 Student Blockades in Serbia",
-   "url": "https://osf.io/preprints/psyarxiv/vujys_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-15T16:33:46Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "burnout",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/vujys_v1",
-    "authors": [
-     "Ana Ivanov",
-     "Neda Janićijević",
-     "Milica Manojlović",
-     "Matija Gvozden",
-     "Vojin Simunović",
-     "Sanda Stanković"
-    ]
-   }
-  },
-  {
-   "id": "5879de207039cadc",
-   "title": "Looking for work as a disabled person? Recognize your strengths and find an accessible workplace",
-   "url": "https://theconversation.com/looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-accessible-workplace-293076",
-   "source": "The Conversation",
-   "source_id": "the-conversation",
-   "layer": "analysis",
-   "type": "Expert analysis",
-   "published": "2026-10-15T16:18:49Z",
-   "first_seen": "2026-11-10T04:14:27Z",
-   "window_days": 30,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "skills",
-     "kind": "news",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Erika Katzman",
-     "Assoctate Professor",
-     "King's University College",
-     "Western University"
-    ],
-    "container": "The Conversation"
-   }
-  },
-  {
    "id": "e3e1585bc3695016",
    "title": "AI chatbot integration in fashion e-retail: consumer behaviour shifts and pathways to organizational change",
    "url": "https://discovery.dundee.ac.uk/en/publications/79e4a31f-86f6-4ef6-b16c-d3f61179017a",
@@ -5702,31 +3595,19 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
     "organizational-change",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "readiness",
-     "kind": "weak",
-     "in_title": false
-    },
     "organizational-change": {
      "phrase": "organizational change",
      "kind": "strong",
      "in_title": true
     },
     "ai-at-work": {
-     "phrase": "automation",
+     "phrase": "chatbot",
      "kind": "weak",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -5747,41 +3628,6 @@
    }
   },
   {
-   "id": "af9d91d9f2276f2e",
-   "title": "From traits to trajectories: overcoming psychometric assessment gap through adaptive developmental potential in organizations",
-   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1990745/pdf",
-   "source": "Frontiers in Organizational Psychology",
-   "source_id": "frontiers-org-psych",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-15T00:00:00Z",
-   "first_seen": "2026-11-10T02:28:15Z",
-   "window_days": 60,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Pravallika Manam",
-     "Reeves J Wesley"
-    ],
-    "container": "Frontiers in Organizational Psychology",
-    "volume": "4",
-    "doi": "https://doi.org/10.3389/forgp.2026.1990745"
-   }
-  },
-  {
    "id": "e0617e6e3995de55",
    "title": "Team member perception of leader behavior associated with engagement and intent to stay in veterinary practice",
    "url": "https://doi.org/10.2460/ajvr.26.07.0316",
@@ -5793,25 +3639,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "leadership",
-    "well-being",
-    "psych-safety"
+    "leadership"
    ],
    "why": {
     "leadership": {
-     "phrase": "leadership development",
+     "phrase": "leader behavior",
      "kind": "strong",
-     "in_title": false
-    },
-    "well-being": {
-     "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": false
-    },
-    "psych-safety": {
-     "phrase": "psychological safety",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -5828,48 +3662,6 @@
     "first_page": "1",
     "last_page": "9",
     "doi": "https://doi.org/10.2460/ajvr.26.07.0316"
-   }
-  },
-  {
-   "id": "870d8250dc83bb13",
-   "title": "The Influence of Victim Gender and Professional Identity on Perceptions of AI-Generated Image Abuse",
-   "url": "https://osf.io/preprints/psyarxiv/vebyw_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-14T18:11:31Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "openness-to-change",
-    "ai-at-work"
-   ],
-   "why": {
-    "openness-to-change": {
-     "phrase": "perceptions of ai",
-     "kind": "strong",
-     "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "ai tools",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/vebyw_v2",
-    "authors": [
-     "Matthew Ivory",
-     "Sophie Nightingale"
-    ]
    }
   },
   {
@@ -5909,11 +3701,17 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-management"
+    "change-management",
+    "well-being"
    ],
    "why": {
     "change-management": {
      "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "job satisfaction",
      "kind": "strong",
      "in_title": true
     }
@@ -5937,119 +3735,6 @@
    }
   },
   {
-   "id": "1e43773b531aa35c",
-   "title": "What Do People Dream About? Themes and Emotions in 400,000+ Dream Reports Shared on Weibo (2018–2023)",
-   "url": "https://osf.io/preprints/psyarxiv/75tke_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-13T21:16:15Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "unemployment",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/75tke_v1",
-    "authors": [
-     "Yanqi Lyu",
-     "Wuwei Tang",
-     "Huanyu Liu"
-    ]
-   }
-  },
-  {
-   "id": "de8ed4bdc0a3baf2",
-   "title": "Making AI-mediated decisions culturally repairable",
-   "url": "https://osf.io/preprints/psyarxiv/3dknf_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-13T16:17:46Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/3dknf_v1",
-    "authors": [
-     "Hadi Mohamadpour",
-     "Soomaahey Heysieattalab",
-     "Jean-Claude Dreher"
-    ]
-   }
-  },
-  {
-   "id": "4fab49c37b3eaa9f",
-   "title": "French Validation of the Team Flow Monitor: Factor Structure and Validity Evidence in Student Teams",
-   "url": "https://osf.io/preprints/psyarxiv/wte5q_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-13T00:33:39Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/wte5q_v1",
-    "authors": [
-     "Victoire Vallier",
-     "Nicolas Verger",
-     "Rebecca Shankland",
-     "Roxane Turgon",
-     "Quentin Hallez"
-    ]
-   }
-  },
-  {
    "id": "985c9f76a7dec0a4",
    "title": "Managing change in the era of digital transformation. The case of Greek public sector",
    "url": "https://www.emerald.com/jocm/article-pdf/39/8/314/11905540/jocm-12-2025-1113en.pdf",
@@ -6061,20 +3746,14 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
     "organizational-change",
     "change-management"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "digital readiness",
-     "kind": "strong",
-     "in_title": false
-    },
     "organizational-change": {
-     "phrase": "organizational change",
+     "phrase": "digital transformation",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     },
     "change-management": {
      "phrase": "managing change",
@@ -6113,17 +3792,11 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "well-being"
    ],
    "why": {
     "well-being": {
      "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
      "kind": "strong",
      "in_title": true
     }
@@ -6181,116 +3854,6 @@
    }
   },
   {
-   "id": "2edf169017f9f125",
-   "title": "Questionable necessity effects on patient safety competency among nursing students: Re-examining Yang et al. (2027)",
-   "url": "https://osf.io/preprints/psyarxiv/h4ncm_v1/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-12T17:16:08Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/h4ncm_v1",
-    "authors": [
-     "Kimmo Sorjonen",
-     "Bo Melin",
-     "Marika Melin"
-    ]
-   }
-  },
-  {
-   "id": "32842b2af258acf6",
-   "title": "Basic psychological need satisfaction profiles at work: person-centered links to job crafting and intrinsic motivation",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1926358/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-12T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Lynelle Coxen"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "first_page": "1926358",
-    "last_page": "1926358",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1926358"
-   }
-  },
-  {
-   "id": "8d75056185b4ea0f",
-   "title": "Assessing User-Subjective Experience with Conversational Agents for Behavioral and Mental Health Interventions: Design and Psychometric Evaluation of CUE-Chat",
-   "url": "https://osf.io/preprints/psyarxiv/8cbds_v2/",
-   "source": "PsyArXiv",
-   "source_id": "psyarxiv",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-10-11T18:48:38Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "adoption of ai",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "preprint",
-    "container": "PsyArXiv",
-    "doi": "https://doi.org/10.31234/osf.io/8cbds_v2",
-    "authors": [
-     "Esther Mertens",
-     "Janis Butz",
-     "Jean-Louis van Gelder"
-    ]
-   }
-  },
-  {
    "id": "e025b74f71a56186",
    "title": "Long-term Effects of Schedule Change: Examining Work Stressors, Performance, and Change Process Factors in a Compressed Work Schedule Over Time",
    "url": "https://www.tandfonline.com/doi/pdf/10.1080/14697017.2026.2742141?needAccess=true",
@@ -6302,18 +3865,18 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "change-management"
+    "change-management",
+    "well-being"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": false
-    },
     "change-management": {
      "phrase": "change process",
      "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "stressors",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -6335,41 +3898,6 @@
    }
   },
   {
-   "id": "2eebe518436fe912",
-   "title": "Unpacking job crafting: a psychometric and latent class analysis of employee crafting behaviors",
-   "url": "https://www.nature.com/articles/s41599-026-08856-8_reference.pdf",
-   "source": "Humanities and Social Sciences Communications",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-10T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Yasir A. Alsamiri",
-     "Mehmed Ali",
-     "Saeed Abdullah AL-Dossary"
-    ],
-    "container": "Humanities and Social Sciences Communications",
-    "doi": "https://doi.org/10.1057/s41599-026-08856-8"
-   }
-  },
-  {
    "id": "fc41e26c299834a5",
    "title": "Perceived AI support and work outcomes: testing the mediating role of job crafting in AI-supported work",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1824712/pdf",
@@ -6381,25 +3909,13 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work",
     "ai-at-work"
    ],
    "why": {
-    "well-being": {
-     "phrase": "burnout",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -6432,19 +3948,13 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
-    "well-being",
     "ai-at-work"
    ],
    "why": {
-    "well-being": {
-     "phrase": "employee wellbeing",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -6512,21 +4022,9 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "self-efficacy",
-    "openness-to-change",
     "ai-at-work"
    ],
    "why": {
-    "self-efficacy": {
-     "phrase": "ai self-efficacy",
-     "kind": "strong",
-     "in_title": false
-    },
-    "openness-to-change": {
-     "phrase": "technology acceptance",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "technostress",
      "kind": "strong",
@@ -6561,19 +4059,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "ai-at-work"
+    "well-being"
    ],
    "why": {
     "well-being": {
      "phrase": "burnout",
      "kind": "strong",
      "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": false
     }
    },
    "region": false,
@@ -6606,8 +4098,7 @@
    "window_days": 60,
    "topics": [
     "openness-to-change",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
     "openness-to-change": {
@@ -6616,14 +4107,9 @@
      "in_title": true
     },
     "ai-at-work": {
-     "phrase": "ai literacy",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "labor market",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": false,
@@ -6655,17 +4141,11 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "well-being"
    ],
    "why": {
     "well-being": {
      "phrase": "burnout",
-     "kind": "strong",
-     "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
      "kind": "strong",
      "in_title": true
     }
@@ -6689,88 +4169,6 @@
    }
   },
   {
-   "id": "3dadc58f723bfda6",
-   "title": "How perceived restorativeness in rural tourism destinations influences job crafting willingness among knowledge workers through psychological restoration and psychological richness",
-   "url": "https://www.nature.com/articles/s41598-026-71903-6_reference.pdf",
-   "source": "Scientific Reports",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-08T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Zhuquan Yang",
-     "Qiaolan Su"
-    ],
-    "container": "Scientific Reports",
-    "doi": "https://doi.org/10.1038/s41598-026-71903-6"
-   }
-  },
-  {
-   "id": "48a7329c6d195c3f",
-   "title": "Digital health capacity building across health workforce and education sector in the WHO European region",
-   "url": "https://www.nature.com/articles/s41746-026-03337-3_reference.pdf",
-   "source": "npj Digital Medicine",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-07T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work",
-    "labor-economics"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "upskilling",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Wiriya Mahikul",
-     "Mabel Prendergast",
-     "Gabriele Keziah Kerr",
-     "Sara Sousi",
-     "Benedict W. J. Hayhoe",
-     "Geva Greenfield",
-     "David Novillo-Ortiz",
-     "Josip Car",
-     "Azeem Majeed",
-     "Ana Luísa Neves"
-    ],
-    "container": "npj Digital Medicine",
-    "doi": "https://doi.org/10.1038/s41746-026-03337-3"
-   }
-  },
-  {
    "id": "aae01e8dafc516b7",
    "title": "Leadership behavior, employee engagement, and retention: lessons from the COVID-19 pandemic in the hospitality industry",
    "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1851922/pdf",
@@ -6783,24 +4181,18 @@
    "window_days": 60,
    "topics": [
     "leadership",
-    "well-being",
-    "labor-economics"
+    "well-being"
    ],
    "why": {
     "leadership": {
-     "phrase": "leadership development",
+     "phrase": "leadership behavior",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     },
     "well-being": {
      "phrase": "employee engagement",
      "kind": "strong",
      "in_title": true
-    },
-    "labor-economics": {
-     "phrase": "unemployment",
-     "kind": "strong",
-     "in_title": false
     }
    },
    "region": false,
@@ -6871,9 +4263,9 @@
    ],
    "why": {
     "future-of-work": {
-     "phrase": "remote working",
+     "phrase": "hybrid workers",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -6902,62 +4294,6 @@
    }
   },
   {
-   "id": "6a3f11f21a0da544",
-   "title": "Industrial-organizational science that matters: Social impact and policy implications in the Journal of Applied Psychology.",
-   "url": "https://psycnet.apa.org/fulltext/2028-39920-001.pdf",
-   "source": "Journal of Applied Psychology",
-   "source_id": "jap",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-01T00:00:00Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 60,
-   "topics": [
-    "well-being",
-    "psych-safety",
-    "ai-at-work"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "workplace stress",
-     "kind": "strong",
-     "in_title": false
-    },
-    "psych-safety": {
-     "phrase": "organizational justice",
-     "kind": "strong",
-     "in_title": false
-    },
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Wendy J. Casper",
-     "Stephanie Brooke Escudero",
-     "Lillian Turner de Tormes Eby",
-     "Tianjun Sun",
-     "Talya N. Bauer",
-     "Bryan Edwards",
-     "Allison S. Gabriel",
-     "Jia Jasmine Hu"
-    ],
-    "container": "Journal of Applied Psychology",
-    "volume": "111",
-    "issue": "10",
-    "first_page": "1225",
-    "last_page": "1239",
-    "doi": "https://doi.org/10.1037/apl0001425"
-   }
-  },
-  {
    "id": "42c3a2250fe1cd94",
    "title": "Take the Bull by the Horns: Acquiring Firm‐Specific Human Capital From High‐Performance Work System Under AI Awareness",
    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1744-7941.70098",
@@ -6973,9 +4309,9 @@
    ],
    "why": {
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -7090,15 +4426,9 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
     "openness-to-change"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "readiness",
-     "kind": "weak",
-     "in_title": true
-    },
     "openness-to-change": {
      "phrase": "technology acceptance",
      "kind": "strong",
@@ -7143,9 +4473,9 @@
      "in_title": true
     },
     "future-of-work": {
-     "phrase": "remote work",
+     "phrase": "telework",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -7179,9 +4509,15 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
+    "well-being",
     "future-of-work"
    ],
    "why": {
+    "well-being": {
+     "phrase": "job satisfaction",
+     "kind": "strong",
+     "in_title": true
+    },
     "future-of-work": {
      "phrase": "reskilling",
      "kind": "strong",
@@ -7219,24 +4555,18 @@
    "window_days": 60,
    "topics": [
     "well-being",
-    "future-of-work",
     "ai-at-work"
    ],
    "why": {
     "well-being": {
-     "phrase": "burnout",
+     "phrase": "employee well-being",
      "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     },
     "ai-at-work": {
-     "phrase": "ai adoption",
+     "phrase": "artificial intelligence adoption",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -7269,19 +4599,13 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "future-of-work"
+    "well-being"
    ],
    "why": {
     "well-being": {
-     "phrase": "burnout",
+     "phrase": "boreout",
      "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "job crafting",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": true,
@@ -7310,9 +4634,15 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
+    "well-being",
     "psych-safety"
    ],
    "why": {
+    "well-being": {
+     "phrase": "wellbeing",
+     "kind": "weak",
+     "in_title": true
+    },
     "psych-safety": {
      "phrase": "organizational culture",
      "kind": "strong",
@@ -7348,9 +4678,9 @@
    ],
    "why": {
     "psych-safety": {
-     "phrase": "organizational culture",
+     "phrase": "learning culture",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -7417,7 +4747,6 @@
    "window_days": 60,
    "topics": [
     "change-readiness",
-    "future-of-work",
     "ai-at-work"
    ],
    "why": {
@@ -7425,11 +4754,6 @@
      "phrase": "organizational readiness",
      "kind": "strong",
      "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "upskilling",
-     "kind": "strong",
-     "in_title": false
     },
     "ai-at-work": {
      "phrase": "ai literacy",
@@ -7466,12 +4790,18 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change"
+    "organizational-change",
+    "ai-at-work"
    ],
    "why": {
     "organizational-change": {
      "phrase": "organizational redesign",
      "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -7503,19 +4833,13 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
-    "well-being",
-    "labor-economics"
+    "well-being"
    ],
    "why": {
     "well-being": {
-     "phrase": "workplace wellbeing",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "stress",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": false,
@@ -7536,43 +4860,6 @@
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
     "doi": "https://doi.org/10.3389/forgp.2026.1944537"
-   }
-  },
-  {
-   "id": "368d2942afa3ea9b",
-   "title": "Teacher autonomy support and music learning engagement: conditional associations of self-efficacy and discrete achievement emotions among university music students",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1947710/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-09-29T00:00:00Z",
-   "first_seen": "2026-11-10T02:45:12Z",
-   "window_days": 90,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Honghua Xu",
-     "WEI LIU"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "first_page": "1947710",
-    "last_page": "1947710",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1947710"
    }
   },
   {
@@ -7622,9 +4909,9 @@
    ],
    "why": {
     "well-being": {
-     "phrase": "employee wellbeing",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "wellbeing",
+     "kind": "weak",
+     "in_title": true
     },
     "psych-safety": {
      "phrase": "organizational culture",
@@ -7770,9 +5057,9 @@
      "in_title": true
     },
     "ai-at-work": {
-     "phrase": "human-ai collaboration",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": false,
@@ -7842,19 +5129,13 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-management",
-    "labor-economics"
+    "change-management"
    ],
    "why": {
     "change-management": {
      "phrase": "change fatigue",
      "kind": "strong",
      "in_title": true
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": false
     }
    },
    "region": false,
@@ -7888,18 +5169,12 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "ai-at-work"
+    "organizational-change"
    ],
    "why": {
     "organizational-change": {
      "phrase": "organizational change",
      "kind": "strong",
-     "in_title": false
-    },
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
      "in_title": false
     }
    },
@@ -7932,19 +5207,19 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
+    "change-management",
     "ai-at-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
+    "change-management": {
+     "phrase": "change strategies",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -8012,21 +5287,9 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "change-management",
-    "leadership",
     "well-being"
    ],
    "why": {
-    "change-management": {
-     "phrase": "change leadership",
-     "kind": "strong",
-     "in_title": false
-    },
-    "leadership": {
-     "phrase": "change leadership",
-     "kind": "strong",
-     "in_title": false
-    },
     "well-being": {
      "phrase": "employee engagement",
      "kind": "strong",
@@ -8137,15 +5400,9 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "future-of-work",
     "ai-at-work"
    ],
    "why": {
-    "future-of-work": {
-     "phrase": "upskilling",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai in the workplace",
      "kind": "strong",
@@ -8180,15 +5437,9 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
     "ai-at-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "ai literacy",
      "kind": "strong",
@@ -8254,7 +5505,8 @@
    "window_days": 60,
    "topics": [
     "organizational-change",
-    "change-management"
+    "change-management",
+    "ai-at-work"
    ],
    "why": {
     "organizational-change": {
@@ -8265,6 +5517,11 @@
     "change-management": {
      "phrase": "change agent",
      "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -8333,8 +5590,7 @@
    "window_days": 60,
    "topics": [
     "change-readiness",
-    "organizational-change",
-    "leadership"
+    "organizational-change"
    ],
    "why": {
     "change-readiness": {
@@ -8343,14 +5599,9 @@
      "in_title": true
     },
     "organizational-change": {
-     "phrase": "organizational change",
+     "phrase": "organizational transformation",
      "kind": "strong",
-     "in_title": false
-    },
-    "leadership": {
-     "phrase": "change communication",
-     "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -8380,31 +5631,19 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "change-management",
     "leadership",
     "ai-at-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "digital transformation",
-     "kind": "strong",
-     "in_title": false
-    },
-    "change-management": {
-     "phrase": "change leadership",
-     "kind": "strong",
-     "in_title": false
-    },
     "leadership": {
-     "phrase": "change leadership",
+     "phrase": "leadership practices",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     },
     "ai-at-work": {
-     "phrase": "ai adoption",
-     "kind": "strong",
-     "in_title": false
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
     }
    },
    "region": true,
@@ -8439,37 +5678,19 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change",
-    "change-management",
-    "future-of-work",
     "ai-at-work",
     "labor-economics"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": false
-    },
-    "change-management": {
-     "phrase": "change management",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "reskilling",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
      "phrase": "artificial intelligence",
      "kind": "weak",
      "in_title": true
     },
     "labor-economics": {
-     "phrase": "job market",
+     "phrase": "job displacement",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -8502,13 +5723,13 @@
    "first_seen": "2026-11-10T02:28:15Z",
    "window_days": 60,
    "topics": [
-    "well-being"
+    "leadership"
    ],
    "why": {
-    "well-being": {
-     "phrase": "work engagement",
+    "leadership": {
+     "phrase": "leader character",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -8575,24 +5796,12 @@
    "first_seen": "2026-11-10T02:31:16Z",
    "window_days": 60,
    "topics": [
-    "change-readiness",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "ai readiness",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
-     "phrase": "adoption of ai",
-     "kind": "strong",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
+     "phrase": "ai",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -8627,30 +5836,12 @@
    "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "openness-to-change",
-    "future-of-work",
-    "ai-at-work",
-    "labor-economics"
+    "ai-at-work"
    ],
    "why": {
-    "openness-to-change": {
-     "phrase": "technology adoption",
-     "kind": "strong",
-     "in_title": false
-    },
-    "future-of-work": {
-     "phrase": "reskilling",
-     "kind": "strong",
-     "in_title": false
-    },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
-    },
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
      "in_title": true
     }
    },
@@ -8684,9 +5875,9 @@
    ],
    "why": {
     "well-being": {
-     "phrase": "burnout",
+     "phrase": "employee well-being",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -8724,9 +5915,9 @@
    ],
    "why": {
     "psych-safety": {
-     "phrase": "employee voice",
+     "phrase": "remain silent",
      "kind": "strong",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": false,
@@ -8832,24 +6023,18 @@
    "window_days": 90,
    "topics": [
     "change-readiness",
-    "self-efficacy",
     "ai-at-work"
    ],
    "why": {
     "change-readiness": {
-     "phrase": "ai readiness",
-     "kind": "strong",
-     "in_title": false
-    },
-    "self-efficacy": {
-     "phrase": "self-efficacy",
+     "phrase": "readiness",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     },
     "ai-at-work": {
-     "phrase": "artificial intelligence",
+     "phrase": "ai",
      "kind": "weak",
-     "in_title": false
+     "in_title": true
     }
    },
    "region": true,
@@ -8911,82 +6096,6 @@
     ],
     "container": "BMC Psychiatry",
     "doi": "https://doi.org/10.1186/s12888-026-08591-z"
-   }
-  },
-  {
-   "id": "4a618f477aa405c1",
-   "title": "Measuring the composition and availability of human resources for health by sex in 204 countries and territories, 1990–2023, and workforce gaps for universal health coverage: a systematic analysis for the Global Burden of Disease Study 2023",
-   "url": "https://doi.org/10.1016/s2468-2667(26)00145-3",
-   "source": "The Lancet Public Health",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-08-18T00:00:00Z",
-   "first_seen": "2026-11-10T02:45:12Z",
-   "window_days": 90,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "workforce",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Megan Knight",
-     "Kelly Bienhoff",
-     "A. Bhoomadevi",
-     "Hazim S Ababneh",
-     "Madineh Abbasi",
-     "Zahra Abbasi Dolatabadi",
-     "Mitra Abbasifard",
-     "Samar Abd ElHafeez",
-     "Ashraf N. Abdalla",
-     "Reda Abdel-Hameed",
-     "Atef Abdelkader",
-     "Sherief Mohamed Abd-Elsalam",
-     "Deldar Morad Abdulah",
-     "Auwal Abdullahi",
-     "Meklit Girma Abebe",
-     "Tesfaye Birhanu Abebe",
-     "Habtamu Abebe Getahun",
-     "Armita Abedi",
-     "Asrat Agalu Abejew",
-     "E S Abhilash",
-     "Alemwork Abie",
-     "Richard Gyan Aboagye",
-     "Abdullahi Tunde Aborode",
-     "Nagah M. Abourashed",
-     "Mohamed Abouzid",
-     "Lucas Guimarães Abreu",
-     "Michael R.M. Abrigo",
-     "Dariush Abtahi",
-     "Amr Selim Abu Lila",
-     "Bilyaminu Abubakar",
-     "Rana Kamal Abu-Farha",
-     "Eman Abu-Gharbieh",
-     "Ahmad Y. Abuhelwa",
-     "Hana J Abukhadijah",
-     "Anirudh Balakrishna Acharya",
-     "Krishna Prasad Acharya",
-     "Swetha Acharya",
-     "Maryam Adabi",
-     "Lisa C. Adams",
-     "Nuhu Lawan Adamu"
-    ],
-    "container": "The Lancet Public Health",
-    "volume": "11",
-    "issue": "9",
-    "first_page": "e604",
-    "last_page": "e629",
-    "doi": "https://doi.org/10.1016/s2468-2667(26)00145-3"
    }
   }
  ]

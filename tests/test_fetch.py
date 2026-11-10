@@ -345,6 +345,37 @@ def test_labels_record_their_evidence():
     day = NOW - timedelta(days=1)
     [item] = build([("Staff push back on new rules", "https://example.org/w",
                      "Employees' readiness for change was low.", day)])
-    assert item["why"]["openness-to-change"] == {"phrase": "push back", "kind": "news", "in_title": True}
-    assert item["why"]["change-readiness"]["in_title"] is False
-    assert item["why"]["change-readiness"]["kind"] == "strong"
+    # The headline names a topic, so only headline labels are used.
+    assert item["why"] == {"openness-to-change": {"phrase": "push back", "kind": "news", "in_title": True}}
+    # Headline names no topic: news may fall back to strong phrases in the summary.
+    [item] = build([("What managers should know this week", "https://example.org/x",
+                     "Employees' readiness for change was low; automation spreads.", day)])
+    assert item["why"] == {"change-readiness": {"phrase": "readiness for change", "kind": "strong", "in_title": False}}
+
+
+def test_label_audit_cases():
+    """Wrong labels found in the 10 Nov 2026 label audit."""
+    m = MATCHER
+    research = lambda title, text="": m.labels(title, title + " " + text, False, False)
+    # Abstract-only words no longer label research papers.
+    assert research("What Do People Dream About? Themes in 400,000 Dream Reports",
+                    "unemployment workers") == {}
+    assert research("mirtverse: Accessible, AI-ready Item Response Theory in R",
+                    "generative AI employees") == {}
+    # Broad words need a work word in the headline itself.
+    assert "ai-at-work" not in research("Synthetic Selves for AI Agents? Lessons from Psychology")
+    assert "ai-at-work" in research("AI Grief at Work: Development of a Self-Report Scale")
+    assert "self-efficacy" not in research(
+        "Teacher autonomy support and self-efficacy among university music students")
+    assert "leadership" not in research(
+        "From Learner to Leader: a Leadership Development Program for Student-Athletes")
+    # Job crafting is no longer filed under Future of work.
+    assert "future-of-work" not in research("Resilience and work engagement: the role of job crafting")
+    # News headline fixes.
+    news = lambda title, text="": m.labels(title, title + " " + text, True, True)
+    assert "change-management" not in news("Marcos leads rollout of laptops for schoolteachers")
+    assert "leadership" not in news("Nearly two-thirds of HR leaders expect layoffs in 2027")
+    assert "organizational-change" in news("Nearly two-thirds of HR leaders expect layoffs in 2027")
+    assert "ai-at-work" not in news("Revealed: Palantir lobbied minister to stretch AI tools' reach")
+    assert "labor-economics" in news("Hiring jumps: The economy added 165,000 jobs last month")
+    assert "well-being" in news("UK job satisfaction at record low amid frustration over pay")

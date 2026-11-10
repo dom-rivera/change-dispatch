@@ -55,6 +55,11 @@ work_context:
   - labour
   - teacher
   - teachers
+  - nurse
+  - nurses
+  - healthcare workers
+  - health workers
+  - professionals
   - public sector
   - civil service
 
@@ -126,6 +131,7 @@ core:
       - sport
       - patients
       - clinical trial
+      - students
 
   - id: openness-to-change
     name: Openness to change
@@ -152,10 +158,11 @@ core:
       - cynicism about change
       - change cynicism
       - attitudes to ai
-      - perceptions of ai
       - ai resistance
       - technology adoption
       - acceptance of technology
+      - attitudes towards artificial intelligence
+      - attitudes toward artificial intelligence
     news_weak:
       - skeptical
       - sceptical
@@ -164,6 +171,8 @@ core:
       - backlash
       - resist
       - resisting
+    weak:
+      - perceptions of ai
 
   - id: organizational-change
     name: Organizational change
@@ -213,6 +222,9 @@ core:
       - outsources
       - outsourcing
       - offshoring
+      - slashes
+      - axes
+      - axe
 
   - id: change-management
     name: Change management
@@ -233,13 +245,10 @@ core:
       - kotter
       - adkar
       - lewin
+      - change strategies
+      - change strategy
     news_weak:
-      - rollout
-      - roll out
-      - rolls out
       - new system
-      - implementation
-      - transition
 
 context:
   - id: leadership
@@ -266,14 +275,25 @@ context:
       - leader behavior
       - leader behaviour
       - managerial support
+      - leadership behavior
+      - leadership behaviour
+      - leadership practices
+      - leader character
+      - leader humility
+      - leader humor
+      - leader humour
     news_weak:
       - new ceo
       - ceo steps down
       - chief people officer
       - chro
       - hr chief
-      - hr leaders
       - managers
+    exclude:
+      - athlete
+      - athletes
+      - student-athletes
+      - sport
 
   - id: well-being
     name: Employee well-being
@@ -298,10 +318,16 @@ context:
       - work-life balance
       - mental health at work
       - workplace mental health
+      - job satisfaction
+      - boreout
     exclude:
       - diagnosis
       - clinical trial
       - medication
+      - adolescent
+      - adolescents
+      - youth
+      - youths
     news_weak:
       - mental health
       - stress
@@ -311,6 +337,12 @@ context:
       - workload
       - workloads
       - harassment
+    weak:
+      - stress
+      - stressors
+      - wellbeing
+      - well-being
+      - mental health
 
   - id: psych-safety
     name: Psychological safety and culture
@@ -325,6 +357,9 @@ context:
       - employee voice
       - speak up culture
       - speaking up
+      - learning culture
+      - employee silence
+      - remain silent
     news_weak:
       - speak up
       - whistleblower
@@ -360,7 +395,6 @@ context:
       - telework
       - teleworking
       - telecommuting
-      - job crafting
       - skills-based hiring
       - platform workers
       - remote workers
@@ -397,6 +431,9 @@ context:
       - ai governance
       - ai literacy
       - human-ai collaboration
+      - artificial intelligence adoption
+      - adoption of artificial intelligence
+      - algorithmic management
     weak:
       - ai tools
       - ai agents
@@ -407,6 +444,10 @@ context:
       - generative ai
       - chatbot
       - chatbots
+      - ai
+      - chatgpt
+      - genai
+      - generative artificial intelligence
     exclude:
       - benchmark
       - model release
@@ -415,7 +456,6 @@ context:
       - share price
       - stock
     news_weak:
-      - ai
       - automated
       - algorithm
       - algorithms
@@ -428,7 +468,6 @@ context:
       - labor force
       - labour force
       - job market
-      - hiring
       - overseas filipino workers
       - ofws
       - underemployment
@@ -444,7 +483,6 @@ context:
       - labour productivity
       - job displacement
       - job losses
-      - workforce
       - 13th month pay
       - 13th-month pay
       - year-end bonus
@@ -463,6 +501,14 @@ context:
       - tesda
       - sss contributions
       - philhealth contributions
+      - job shortage
+      - job shortages
+      - employment growth
+      - job growth
+      - jobs report
+      - payrolls
+      - labor group
+      - labour group
     exclude:
       - stock market
       - share price
@@ -481,8 +527,10 @@ context:
       - pay raise
       - salary increase
       - salaries
+      - workforce
     weak:
       - endo
+      - hiring
 
   - id: behavioral-economics
     name: Behavioral economics

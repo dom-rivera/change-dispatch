@@ -148,7 +148,7 @@ class TopicMatcher:
     def has_news_context(self, text: str) -> bool:
         return any(p.search(text) for p in self.news_context)
 
-    def explain(self, text: str, news: bool = False) -> dict[str, dict]:
+    def explain(self, text: str, news: bool = False, exclude_text: str | None = None) -> dict[str, dict]:
         """Which topics apply, and why: the phrase that matched and whether
         it was a strong phrase, a weak one (needs a work word) or a
         news-only change event (needs a worker word).
@@ -169,7 +169,7 @@ class TopicMatcher:
         work = None
         staff = None
         for t in self.topics:
-            if any(p.search(text) for p in t["exclude"]):
+            if any(p.search(text) or (exclude_text and p.search(exclude_text)) for p in t["exclude"]):
                 continue
             phrase = first(t["match"])
             kind = "strong"
@@ -193,6 +193,22 @@ class TopicMatcher:
 
     def topics_for(self, text: str, news: bool = False) -> list[str]:
         return list(self.explain(text, news))
+
+    def labels(self, title: str, text: str, news: bool, fallback: bool) -> dict[str, dict]:
+        """Topic labels for an item, with their evidence.
+
+        Labels come from the headline: a broad (weak) word there counts only
+        when the headline itself is about work. When the headline names no
+        topic and fallback is allowed (news, analysis, reports, curated
+        change journals), strong phrases in the summary or abstract are used
+        instead. Exclusions anywhere in the text always apply."""
+        found = self.explain(title, news, exclude_text=text)
+        if found:
+            return {t: dict(w, in_title=True) for t, w in found.items()}
+        if not fallback:
+            return {}
+        return {t: dict(w, in_title=False) for t, w in self.explain(text, news).items()
+                if w["kind"] == "strong"}
 
     def is_regional(self, text: str, countries: set[str] | None = None) -> bool:
         if countries and countries & self.region_countries:
@@ -652,6 +668,13 @@ def cite_for(cand: dict, src: dict) -> dict:
     return {k: v for k, v in cite.items() if v not in (None, "", [])} | {"authors": cite["authors"]}
 
 
+def label_fallback(src: dict) -> bool:
+    """May labels come from the summary when the headline names no topic?
+    Yes for news, analysis and reports, and for curated journals that are
+    included whole (needs_topic: false). Not for searches and preprints."""
+    return src["layer"] in ("news", "analysis", "institutional") or src.get("needs_topic") is False
+
+
 def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
     if not safe_url(cand.get("url")):
         return None
@@ -667,11 +690,11 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
     if src.get("require_work_context") and not matcher.has_work_context(cand["text"]):
         return None
     news = src["layer"] in ("news", "analysis")
-    why = matcher.explain(cand["text"], news=news)
+    why = matcher.labels(cand["title"], cand["text"], news, label_fallback(src))
     topics = list(why)
     if src.get("needs_topic", True) and not topics:
         return None
-    if src.get("require_title_match") and not matcher.topics_for(cand["title"], news=news):
+    if src.get("require_title_match") and not any(w["in_title"] for w in why.values()):
         return None
     key = (cand.get("doi") or cand["url"]).lower()
     labels = []
@@ -693,9 +716,7 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         "topics": topics,
         # Evidence for each topic label: the phrase that matched, its kind,
         # and whether it is in the headline (else in the summary/abstract).
-        "why": {t: dict(w, in_title=bool(re.search(r"(?<!\w)" + re.escape(w["phrase"]) + r"(?!\w)",
-                                                   cand["title"], re.I)))
-                for t, w in why.items()},
+        "why": why,
         "region": bool(src.get("regional")) or matcher.is_regional(cand["text"], cand.get("countries")),
         "labels": labels,
         "access": "Free to read",

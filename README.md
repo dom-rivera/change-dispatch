@@ -45,6 +45,7 @@ Each morning (6:17 AM Manila, with backup runs at 7:47 AM, 10:17 AM and 5:47 PM 
 - runs two targeted research searches (core constructs, and authors at Philippine institutions) limited to DOAJ-listed journals with an h-index of 30+, English, with the topic in the title;
 - applies a **freshness window** per source (7 days for news, 30 for analysis and preprints, 60 for research and reports) using the real publication date;
 - drops items with no date, paywalled papers, retracted papers and anything that doesn't match a topic;
+- labels each item from its **headline**: a broad word (like "AI" or "readiness") counts only when the headline is also about work. If the headline names no topic, news, reports and the curated change journals may use a specific phrase from the summary instead; research searches and preprints may not. Each label's evidence (the phrase, and whether it came from the headline) is saved with the item;
 - for news and analysis only, also counts change events (an overhaul, layoffs, a return-to-office rule, an AI rollout) when the story names workers, staff or jobs; sponsored posts and reader call-outs are skipped;
 - removes duplicates, tags topics and the regional filter, and saves the result;
 - records which sources worked in `docs/data/status.json`, shown on the site's "About & sources" page;
