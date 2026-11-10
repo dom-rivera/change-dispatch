@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-10T04:01:12Z",
- "count": 214,
+ "count": 209,
  "topics": [
   {
    "id": "change-readiness",
@@ -440,54 +440,6 @@
    }
   },
   {
-   "id": "12a0973302cf8cfe",
-   "title": "Civil servant who secretly held five jobs found guilty of fraud",
-   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News (Business)",
-   "source_id": "bbc-business",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-09T17:17:16Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 7,
-   "topics": [
-    "labor-economics"
-   ],
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "container": "BBC News",
-    "authors": []
-   }
-  },
-  {
-   "id": "8ade1a18d0dc5355",
-   "title": "A job that changed me: As a bookseller I realised reading is more than an insular pleasure – it builds connection too",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/09/a-job-that-changed-me-as-a-bookseller-i-realised-reading-is-about-connection-and-community",
-   "source": "The Guardian (Work & careers)",
-   "source_id": "guardian-work",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-09T14:00:12Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 7,
-   "topics": [
-    "psych-safety"
-   ],
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Caitlin Cassidy"
-    ],
-    "container": "The Guardian"
-   }
-  },
-  {
    "id": "eea9b1843c8a5753",
    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
@@ -612,31 +564,6 @@
      "NewsPublish"
     ],
     "container": "Inquirer Business"
-   }
-  },
-  {
-   "id": "836d3453271e05d2",
-   "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
-   "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
-   "source": "The Guardian (Technology)",
-   "source_id": "guardian-technology",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-08T17:51:19Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 7,
-   "topics": [
-    "future-of-work"
-   ],
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Kiran Stacey"
-    ],
-    "container": "The Guardian"
    }
   },
   {
@@ -1377,31 +1304,6 @@
      "Penn State"
     ],
     "container": "The Conversation"
-   }
-  },
-  {
-   "id": "01bbe05481793acf",
-   "title": "Tell us: are you a young person in northern England struggling to find work?",
-   "url": "https://www.theguardian.com/uk-news/2026/jul/08/tell-us-are-you-a-young-person-in-northern-england-struggling-to-find-work",
-   "source": "The Guardian (Work & careers)",
-   "source_id": "guardian-work",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-04T11:02:50Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 7,
-   "topics": [
-    "labor-economics"
-   ],
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Guardian community team"
-    ],
-    "container": "The Guardian"
    }
   },
   {
@@ -3931,39 +3833,6 @@
     "first_page": "1935850",
     "last_page": "1935850",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1935850"
-   }
-  },
-  {
-   "id": "5d0b03914bcf5172",
-   "title": "Mapping the pulse of urban nighttime economy: spatial patterns and behavioral insights in Kunming, China",
-   "url": "https://www.nature.com/articles/s41599-026-09308-z_reference.pdf",
-   "source": "Humanities and Social Sciences Communications",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-19T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "behavioral-economics"
-   ],
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Ruiqu Ma",
-     "Ma Yanhui",
-     "Jian Xu",
-     "Huirong Yang",
-     "Linyue Liu",
-     "Genyu Xu",
-     "Xiaosen Huo",
-     "Mohan Li"
-    ],
-    "container": "Humanities and Social Sciences Communications",
-    "doi": "https://doi.org/10.1057/s41599-026-09308-z"
    }
   },
   {

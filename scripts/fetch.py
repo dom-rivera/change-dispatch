@@ -248,9 +248,11 @@ def fetch_rss(session, src) -> tuple[list[dict], dict]:
     """Read a source's feeds. Normally the first feed that works is used;
     with combine: true every listed feed is read (e.g. several topic
     sections of one outlet) and duplicates are dropped. Links matching an
-    exclude_urls pattern (e.g. sponsored posts) are skipped."""
+    exclude_urls pattern (e.g. sponsored posts) and titles matching an
+    exclude_titles pattern (e.g. reader call-outs) are skipped."""
     errors, used, cands, seen = [], [], [], set()
     skip = [re.compile(p) for p in src.get("exclude_urls", [])]
+    skip_titles = [re.compile(p, re.I) for p in src.get("exclude_titles", [])]
     for url in src.get("feeds", []):
         try:
             resp = http_get(session, url)
@@ -260,7 +262,8 @@ def fetch_rss(session, src) -> tuple[list[dict], dict]:
         used.append(url)
         for c in parse_feed(resp.content):
             link = c.get("url") or ""
-            if link in seen or any(p.search(link) for p in skip):
+            if (link in seen or any(p.search(link) for p in skip)
+                    or any(p.search(c.get("title") or "") for p in skip_titles)):
                 continue
             seen.add(link)
             cands.append(c)

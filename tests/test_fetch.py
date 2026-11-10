@@ -292,3 +292,15 @@ def test_combined_feeds_dedupe_and_skip_sponsored(monkeypatch):
     assert info["feed_used"] == list(feeds)
     cands, info = fetch.fetch_rss(None, dict(src, combine=False))
     assert len(cands) == 1 and info["feed_used"] == "https://a.example/1"
+
+
+def test_news_noise_cases_from_first_review():
+    day = NOW - timedelta(days=1)
+    kept = build([
+        ("Labour expected to cut EV targets for UK car industry", "https://example.org/1",
+         "Hybrid cars and skills for the sector.", day),
+        ("Civil servant who secretly held five jobs found guilty of fraud", "https://example.org/2", "", day),
+        ("Qantas to outsource 850 local jobs", "https://example.org/3", "", day),
+    ])
+    assert kept[0] is None and kept[1] is None
+    assert "organizational-change" in kept[2]["topics"]

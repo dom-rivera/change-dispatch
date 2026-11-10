@@ -73,8 +73,6 @@ news_context:
   - jobs
   - employer
   - employers
-  - labor
-  - labour
   - civil servants
   - government workers
   - teachers
@@ -211,6 +209,10 @@ core:
       - workforce reduction
       - job reductions
       - streamlining
+      - outsource
+      - outsources
+      - outsourcing
+      - offshoring
 
   - id: change-management
     name: Change management
@@ -324,7 +326,6 @@ context:
       - speak up culture
       - speaking up
     news_weak:
-      - culture
       - speak up
       - whistleblower
       - whistleblowers
@@ -362,13 +363,15 @@ context:
       - job crafting
       - skills-based hiring
       - platform workers
+      - remote workers
+      - remote employees
+      - hybrid workers
+      - hybrid employees
     news_weak:
       - return-to-office
       - back to the office
       - office return
       - four-day
-      - remote
-      - hybrid
       - gig
       - skills
 
@@ -446,6 +449,8 @@ context:
       - stock market
       - share price
       - bond yields
+      - found guilty
+      - fraud
     news_weak:
       - trade union
       - trade unions
@@ -480,8 +485,6 @@ context:
       - sunk cost
       - heuristics and biases
       - overconfidence
-      - behavioral insights
-      - behavioural insights
       - behavioral science
       - behavioural science
 
