@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T02:31:16Z",
- "count": 137,
+ "generated": "2026-11-10T02:41:02Z",
+ "count": 151,
  "topics": [
   {
    "id": "change-readiness",
@@ -87,6 +87,17 @@
     "Not yet peer-reviewed"
    ],
    "access": "Free to read",
+   "cite": {
+    "kind": "working_paper",
+    "authors": [
+     "Samantha Carter",
+     "Edward Jee",
+     "Dean Karlan",
+     "Patrick Premand"
+    ],
+    "container": "NBER Working Papers",
+    "publisher": "National Bureau of Economic Research"
+   },
    "date_estimated": true
   },
   {
@@ -107,10 +118,17 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Jonathan Barrett Business editor"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
-   "id": "5f0d029415c2495a",
+   "id": "8c84fb16317281c7",
    "title": "Supporting Early Career Development Through Volitional Personality Change: A Multi-Layered Evaluation of a Digital Intervention",
    "url": "https://osf.io/preprints/psyarxiv/tz8gb_v1/",
    "source": "PsyArXiv",
@@ -118,7 +136,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-10T00:56:28Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "labor-economics"
@@ -127,10 +145,22 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/tz8gb_v1",
+    "authors": [
+     "Sofie Dupré",
+     "Bart Wille",
+     "Barbara De Clercq",
+     "Janne Vanhalst",
+     "Joeri Hofmans"
+    ]
+   }
   },
   {
-   "id": "610a273a3ee6f848",
+   "id": "c64b50c2931381bb",
    "title": "What Drives Leaders to Serve? The Joint and Interactive Effects of HEXACO Personality Traits and Implicit Motives on Servant Leadership",
    "url": "https://osf.io/preprints/psyarxiv/2gf9e_v1/",
    "source": "PsyArXiv",
@@ -138,7 +168,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-10T00:54:10Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "leadership"
@@ -147,10 +177,21 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/2gf9e_v1",
+    "authors": [
+     "Justine Amory",
+     "Sofie Dupré",
+     "J. Malte Runge",
+     "Bart Wille"
+    ]
+   }
   },
   {
-   "id": "a8b4a7a7333a495d",
+   "id": "9b267c1fe35e43a2",
    "title": "Connected or drained? An experience sampling study on informal communication and well-being in hybrid work settings",
    "url": "https://osf.io/preprints/psyarxiv/d6vmp_v2/",
    "source": "PsyArXiv",
@@ -158,7 +199,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-10T00:45:43Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "well-being",
@@ -168,10 +209,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/d6vmp_v2",
+    "authors": [
+     "Alicia A. Meier-Ernst",
+     "Leonard Reinecke"
+    ]
+   }
   },
   {
-   "id": "497fc94f7bb89a5a",
+   "id": "4a7d7abb2a0afdd9",
    "title": "Trusting the Machine: Separating Trust in GenAI Authors from Trust in Their Content",
    "url": "https://osf.io/preprints/psyarxiv/jfpgu_v3/",
    "source": "PsyArXiv",
@@ -179,7 +229,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-10T00:45:28Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -188,7 +238,17 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/jfpgu_v3",
+    "authors": [
+     "Caroline Simpson",
+     "Clara Colombatto",
+     "Jonathan A. Fugelsang"
+    ]
+   }
   },
   {
    "id": "44bf67aa25b57dfc",
@@ -206,7 +266,12 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "web",
+    "container": "Asian Development Bank",
+    "authors": []
+   }
   },
   {
    "id": "506a7d7aad4b0289",
@@ -224,7 +289,14 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Johana Bhuiyan"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "eec41a5bd7781e3b",
@@ -243,7 +315,14 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Agence France-Presse"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "15d97949f4ab4b94",
@@ -264,6 +343,19 @@
     "Not yet peer-reviewed"
    ],
    "access": "Free to read",
+   "cite": {
+    "kind": "working_paper",
+    "authors": [
+     "Jennifer Wang",
+     "Andreas Haupt",
+     "Isaac Robinson",
+     "Phil Lewis",
+     "Erik Brynjolfsson",
+     "Diyi Yang"
+    ],
+    "container": "NBER Working Papers",
+    "publisher": "National Bureau of Economic Research"
+   },
    "date_estimated": true
   },
   {
@@ -285,6 +377,18 @@
     "Not yet peer-reviewed"
    ],
    "access": "Free to read",
+   "cite": {
+    "kind": "working_paper",
+    "authors": [
+     "Panle Jia Barwick",
+     "Lu Fang",
+     "Jinhan Liu",
+     "Huilan Xu",
+     "Zhe Yuan"
+    ],
+    "container": "NBER Working Papers",
+    "publisher": "National Bureau of Economic Research"
+   },
    "date_estimated": true
   },
   {
@@ -303,7 +407,14 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Robert Booth UK technology editor"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "eea9b1843c8a5753",
@@ -321,7 +432,14 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Maya Yang"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "11a2167fe1d6515d",
@@ -341,7 +459,14 @@
    "labels": [
     "Opinion"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Sunita Verma"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "7e49ac66595d452e",
@@ -359,7 +484,14 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Cristina Chi"
+    ],
+    "container": "Philstar Business"
+   }
   },
   {
    "id": "df63007d36dfaeed",
@@ -377,7 +509,14 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
   },
   {
    "id": "f22d837c2d1d7f6e",
@@ -395,7 +534,14 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Joanna Partridge"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "3ea2a30d4053208a",
@@ -413,7 +559,55 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "jcristobal"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "5266cfee27f34881",
+   "title": "Driving Organizational Transformation Through P.A.T.R.O.L. Plan 2030: A Comprehensive Blueprint Towards Sustainable Enhancement",
+   "url": "https://www.irejournals.com/formatedpaper/1724923.pdf",
+   "source": "Iconic Research and Engineering Journals",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Guilda Sheariah Besinga",
+     "Neleza Brelia Bucatcat",
+     "Kirby Angelou Livelo",
+     "Junaisah O. Sevillena",
+     "Reykel T. Romano",
+     "Jayson C. Ladio",
+     "Julia T. Canonigo",
+     "DM",
+     "DPA",
+     "DEV.",
+     "Jeffruss Jose T. Canonigo",
+     "DPA"
+    ],
+    "container": "Iconic Research and Engineering Journals",
+    "volume": "10",
+    "issue": "5",
+    "first_page": "1814",
+    "last_page": "1841",
+    "doi": "https://doi.org/10.64388/ire1724923"
+   }
   },
   {
    "id": "022e329a512042ed",
@@ -431,7 +625,14 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Arwa Mahdawi with visuals by Kriston Jae Bethel"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "d3206e9a07abfa81",
@@ -449,10 +650,17 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
   },
   {
-   "id": "a867d564e8351207",
+   "id": "c8f0c38e82dab3fc",
    "title": "Cognitive Offloading to Generative AI: A Theoretical Framework for Memory, Metacognition, and Consumer Decision-Making",
    "url": "https://osf.io/preprints/psyarxiv/79fza_v2/",
    "source": "PsyArXiv",
@@ -460,7 +668,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-06T19:51:11Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -469,10 +677,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/79fza_v2",
+    "authors": [
+     "Chen Chen",
+     "Kristy Hamilton",
+     "Jacob T. Fisher"
+    ]
+   }
   },
   {
-   "id": "8c8ab4fa4a9c0bf4",
+   "id": "1b5386a0b4744c33",
    "title": "Designing Around the Human Creative Core: A Construct for Preserving Creative Agency in Human-AI Systems",
    "url": "https://osf.io/preprints/psyarxiv/dq96z_v2/",
    "source": "PsyArXiv",
@@ -480,7 +698,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-06T16:41:08Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -489,7 +707,15 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/dq96z_v2",
+    "authors": [
+     "Eran Barak-Medina"
+    ]
+   }
   },
   {
    "id": "6d64941928f18c9a",
@@ -508,7 +734,14 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Amelia Penniman"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
    "id": "2a2c483ce3c39e44",
@@ -527,10 +760,17 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lauren Aratani in New York"
+    ],
+    "container": "The Guardian"
+   }
   },
   {
-   "id": "c07935d5e459d8b3",
+   "id": "0316107efc700997",
    "title": "Workplace Relationships and Artificial Intelligence",
    "url": "https://osf.io/preprints/psyarxiv/ehbjv_v1/",
    "source": "PsyArXiv",
@@ -538,7 +778,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-06T04:22:37Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -547,10 +787,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/ehbjv_v1",
+    "authors": [
+     "Maxine Parker",
+     "Celine Huang",
+     "Sekoul Krastev"
+    ]
+   }
   },
   {
-   "id": "fb3e96107a29922c",
+   "id": "19572968b1d43af2",
    "title": "Better Late Than Early: How AI Integration Timing Shapes Creativity Judgments",
    "url": "https://osf.io/preprints/psyarxiv/kfrux_v2/",
    "source": "PsyArXiv",
@@ -558,7 +808,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-06T00:54:36Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -567,7 +817,17 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/kfrux_v2",
+    "authors": [
+     "Rajarshi Majumder",
+     "Joshua Mahaney",
+     "Jareef Martuza"
+    ]
+   }
   },
   {
    "id": "ee61115c1c3751a2",
@@ -585,10 +845,24 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Sarvenaz Taridashti",
+     "Hojjatollah Farahani",
+     "Manuel Gonzalez",
+     "Sajjad Bagheri",
+     "Hamid Khanipour",
+     "Sahar Badiezadeh"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1929968"
+   }
   },
   {
-   "id": "aad9ad0f74df6c92",
+   "id": "aafbe1c1e760068d",
    "title": "AI Grief at Work: Development and Initial Validation of a Self-Report Scale",
    "url": "https://osf.io/preprints/psyarxiv/5eu9m_v2/",
    "source": "PsyArXiv",
@@ -596,7 +870,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-05T23:27:58Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "openness-to-change",
@@ -606,10 +880,18 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/5eu9m_v2",
+    "authors": [
+     "Jan Nehyba"
+    ]
+   }
   },
   {
-   "id": "2fef9508dfb0ec40",
+   "id": "05fa696d1a4179db",
    "title": "French Translation and Validation of the Job Search Self-Efficacy Scale",
    "url": "https://osf.io/preprints/psyarxiv/jnkse_v1/",
    "source": "PsyArXiv",
@@ -617,7 +899,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-05T23:24:39Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "self-efficacy"
@@ -626,10 +908,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/jnkse_v1",
+    "authors": [
+     "Charlotte Rauscher",
+     "Charly Marie"
+    ]
+   }
   },
   {
-   "id": "3d51822f4ee9ff25",
+   "id": "76503f2f31e05efd",
    "title": "A Topology of the Psilocybin Experience Reveals Cognitive-Emotional Drivers, Unitive State Divergence, and Psychometric Feature Cancellation",
    "url": "https://osf.io/preprints/psyarxiv/be5qp_v1/",
    "source": "PsyArXiv",
@@ -637,7 +928,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-05T23:18:27Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "organizational-change"
@@ -646,10 +937,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/be5qp_v1",
+    "authors": [
+     "Amir Padovitz",
+     "Glenn Hartelius"
+    ]
+   }
   },
   {
-   "id": "a8202869f57872ad",
+   "id": "059f06d306fdabc1",
    "title": "mirtverse: Accessible, AI-ready Item Response Theory in R with mirt",
    "url": "https://osf.io/preprints/psyarxiv/j9ya7_v1/",
    "source": "PsyArXiv",
@@ -657,7 +957,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-05T08:35:38Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -666,7 +966,15 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/j9ya7_v1",
+    "authors": [
+     "Okan Bulut"
+    ]
+   }
   },
   {
    "id": "5e9ad0beac960ef7",
@@ -686,10 +994,50 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Fei Liu",
+     "Minxuan Qu",
+     "Yixiao Zhang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1910745"
+   }
   },
   {
-   "id": "9fc7df7d842c1ead",
+   "id": "14bafa3e75c77aa3",
+   "title": "The Mediating Effects of Quality of Work Life and Workplace Spirituality in the Relationship Between Work-Life Balance and Professional Self-Esteem among Public School Teachers",
+   "url": "https://www.ijfmr.com/papers/2026/6/91352.pdf",
+   "source": "International Journal For Multidisciplinary Research",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Joycee G. Natayada",
+     "DM Eugenio S. Guhao"
+    ],
+    "container": "International Journal For Multidisciplinary Research",
+    "volume": "8",
+    "issue": "6",
+    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i06.91352"
+   }
+  },
+  {
+   "id": "55bbbef8fd51dad8",
    "title": "Psychology in 2125: A Developmental Science of Living Sense-Making",
    "url": "https://osf.io/preprints/psyarxiv/d7y3n_v3/",
    "source": "PsyArXiv",
@@ -697,7 +1045,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-04T22:06:11Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -706,10 +1054,18 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/d7y3n_v3",
+    "authors": [
+     "Peter J. Marshall"
+    ]
+   }
   },
   {
-   "id": "0c70261e0026c901",
+   "id": "a599fd464a9bc30e",
    "title": "Objective Neurocognitive Assessment of Stress and Recovery in Military Personnel: The NPRO-8 MIL Two-Tier Screening Framework",
    "url": "https://osf.io/preprints/psyarxiv/4gbke_v1/",
    "source": "PsyArXiv",
@@ -717,7 +1073,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-04T07:34:20Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "change-readiness"
@@ -726,7 +1082,15 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/4gbke_v1",
+    "authors": [
+     "Jerome I. Rotgans"
+    ]
+   }
   },
   {
    "id": "42e5d743175a67b8",
@@ -744,7 +1108,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Robyn McCormack",
+     "Jani Holopainen",
+     "Timo Dietrich"
+    ],
+    "container": "Frontiers in Sociology",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/fsoc.2026.1972294"
+   }
   },
   {
    "id": "0541540fa75ab1e6",
@@ -763,10 +1138,24 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lezcano",
+     "Pasini",
+     "Landuzzi"
+    ],
+    "container": "Rural and Remote Health",
+    "volume": "26",
+    "issue": "4",
+    "first_page": "10154",
+    "last_page": "10154",
+    "doi": "https://doi.org/10.22605/rrh10154"
+   }
   },
   {
-   "id": "77380bc4e8b25f43",
+   "id": "7cb733b2e2db038d",
    "title": "Transitions in Teachers’ Technology Utilization: Evidence from a Large-Scale, Longitudinal, and International Panel Study",
    "url": "https://osf.io/preprints/psyarxiv/uecdk_v2/",
    "source": "PsyArXiv",
@@ -774,7 +1163,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-03T17:32:41Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "self-efficacy"
@@ -783,10 +1172,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/uecdk_v2",
+    "authors": [
+     "Evi Konstantinidou",
+     "Ronny Scherer"
+    ]
+   }
   },
   {
-   "id": "0738437309b4683a",
+   "id": "60378750007df6d6",
    "title": "Persistence Through Transformation: A Processual Framework for Knowledge Systems Across Cognitive, Cultural, and Religious Domains",
    "url": "https://osf.io/preprints/psyarxiv/e2zgd_v2/",
    "source": "PsyArXiv",
@@ -794,7 +1192,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-03T17:25:56Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "organizational-change"
@@ -803,10 +1201,18 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/e2zgd_v2",
+    "authors": [
+     "Alexandre Vieira  Souza"
+    ]
+   }
   },
   {
-   "id": "0abcad35d4e9beea",
+   "id": "507c77dd177c78de",
    "title": "Same Gossip, Different Judgment: Why Inappropriate Workplace Gossip Is More Acceptable When It Targets AI",
    "url": "https://osf.io/preprints/psyarxiv/9vuat_v1/",
    "source": "PsyArXiv",
@@ -814,7 +1220,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-11-03T13:56:06Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -823,7 +1229,17 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/9vuat_v1",
+    "authors": [
+     "Clarissa Sabrina Arlinghaus",
+     "Lukas Kroner",
+     "Günter W. Maier"
+    ]
+   }
   },
   {
    "id": "c5ba1e0eaa0c1dd5",
@@ -841,7 +1257,17 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "C. Le Roux"
+    ],
+    "container": "Journal of Change Management",
+    "first_page": "1",
+    "last_page": "33",
+    "doi": "https://doi.org/10.1080/14697017.2026.2755075"
+   }
   },
   {
    "id": "e8a9b79f99c26e25",
@@ -864,7 +1290,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Maryalice Citera",
+     "Alice F. Stuhlmacher",
+     "Elise L. Amel"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1860991"
+   }
   },
   {
    "id": "a44ecd3c88c90e4a",
@@ -885,7 +1322,52 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mariam Beridze",
+     "Miron Tugushi"
+    ],
+    "container": "Baltic Journal of Economic Studies",
+    "volume": "12",
+    "issue": "5",
+    "first_page": "38",
+    "last_page": "46",
+    "doi": "https://doi.org/10.30525/2256-0742/2026-12-5-38-46"
+   }
+  },
+  {
+   "id": "6151f1ac101bb4e3",
+   "title": "Artificial Intelligence (AI) Integration in Education: Teachers’ Utilization, Perceptions, and Implementation Challenges",
+   "url": "https://ijtes.net/index.php/ijtes/article/download/7426/3300",
+   "source": "International Journal of Technology in Education and Science",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Aprille Mae A. Bunuan-Dela Cruz",
+     "Elsa Cajucom"
+    ],
+    "container": "International Journal of Technology in Education and Science",
+    "volume": "11",
+    "issue": "1",
+    "first_page": "166",
+    "last_page": "183",
+    "doi": "https://doi.org/10.46328/ijtes.7426"
+   }
   },
   {
    "id": "96756e8ac3561a63",
@@ -904,10 +1386,62 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Stephania L. Hayes",
+     "K Sanford",
+     "Alishia Dauterive",
+     "Naomi R. Jones",
+     "Shannon Pagdon",
+     "Maureen F. McSweeney",
+     "Josephine Lumaquin",
+     "Mark Savill",
+     "Tara A. Niendam"
+    ],
+    "container": "Health Expectations",
+    "volume": "29",
+    "issue": "6",
+    "doi": "https://doi.org/10.1111/hex.70944"
+   }
   },
   {
-   "id": "c776359cc0fa2bf2",
+   "id": "96b52e38e670f485",
+   "title": "Alignment of Workforce Competencies of Marketing Management Graduates in the Philippines: Evidence for Academia and Industry",
+   "url": "https://econjournals.com/index.php/irmm/article/download/24611/10479",
+   "source": "International Review of Management and Marketing",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lorna Lopio-Alas",
+     "Gretchen Yarra Lamela- Erno",
+     "Julieto F. Arniego",
+     "Jerry V. Orbeta",
+     "Aiza C. Guibijar"
+    ],
+    "container": "International Review of Management and Marketing",
+    "volume": "17",
+    "issue": "1",
+    "first_page": "621",
+    "last_page": "630",
+    "doi": "https://doi.org/10.32479/irmm.24611"
+   }
+  },
+  {
+   "id": "4d74a608b037636b",
    "title": "Toward a Program Theory of A Singaporean Single-Session, Synchronous Chat-Based Mental Health Support for Youths: The Behavior Change Techniques Workers Use and How They Relate to Outcome",
    "url": "https://osf.io/preprints/psyarxiv/v6ta4_v2/",
    "source": "PsyArXiv",
@@ -915,7 +1449,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-31T18:10:12Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "labor-economics"
@@ -924,7 +1458,17 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/v6ta4_v2",
+    "authors": [
+     "Gerard Chung",
+     "Lim Tse Min",
+     "Joan R. Fang"
+    ]
+   }
   },
   {
    "id": "6a088b67755b5f4e",
@@ -942,10 +1486,61 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Fei Wang",
+     "Yanqing Xia",
+     "Lingfang Zhu",
+     "Fang Cao",
+     "Weiyan Wu",
+     "Zhiping Shen",
+     "Xi Chen",
+     "Duoduo Wang",
+     "Wenxuan Wang",
+     "Yuehong Niu"
+    ],
+    "container": "Journal of Multidisciplinary Healthcare",
+    "volume": "Volume 19",
+    "first_page": "1",
+    "last_page": "13",
+    "doi": "https://doi.org/10.2147/jmdh.s637668"
+   }
   },
   {
-   "id": "0452336d8fca9dd2",
+   "id": "65f58759e3d66738",
+   "title": "Strategic management practices and organizational culture of secondary schools in Bambang I and II Districts and their relationship to organizational effectiveness",
+   "url": "https://consortiacademia.org/wp-content/uploads/2025/v15i23/26278_final.pdf",
+   "source": "International Journal of Research Studies in Education",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Leo A. Magastino",
+     "Serapio O Castriciones"
+    ],
+    "container": "International Journal of Research Studies in Education",
+    "volume": "15",
+    "issue": "23",
+    "first_page": "1",
+    "last_page": "1",
+    "doi": "https://doi.org/10.5861/ijrse.2026.26278"
+   }
+  },
+  {
+   "id": "03e862bf75fcbd63",
    "title": "Modifiable Psychological Variables as Predictors of Return to Work: Temporal Patterns in a Longitudinal Observational Study",
    "url": "https://osf.io/preprints/psyarxiv/89s2x_v3/",
    "source": "PsyArXiv",
@@ -953,7 +1548,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-30T19:46:02Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "self-efficacy"
@@ -962,10 +1557,24 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/89s2x_v3",
+    "authors": [
+     "Magnus Johansson",
+     "Alice Giöstad",
+     "Aleksandra Bujacz",
+     "Anna Ek",
+     "Petter Gustavsson",
+     "Lars-Göran Öst",
+     "Anna Finnes"
+    ]
+   }
   },
   {
-   "id": "f22f925afe3e946e",
+   "id": "713a1e96addfcbed",
    "title": "Workplace Greenery and Work Engagement Among Live-In Shiftworkers: A Conceptual Replication of Popov et al. (2023)",
    "url": "https://osf.io/preprints/psyarxiv/b9uhq_v1/",
    "source": "PsyArXiv",
@@ -973,7 +1582,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-30T14:39:07Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "well-being"
@@ -982,10 +1591,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/b9uhq_v1",
+    "authors": [
+     "Caroline Isabelle Ekeberg",
+     "Kristin Kloster",
+     "Peder M. Isager"
+    ]
+   }
   },
   {
-   "id": "aef1f97ef7871e58",
+   "id": "d4e723c324f57b0d",
    "title": "Cognitive Abilities and Trust Calibration: Understanding Individual Differences in Automation Trust Dynamics",
    "url": "https://osf.io/preprints/psyarxiv/ucswj_v2/",
    "source": "PsyArXiv",
@@ -993,7 +1612,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-30T09:45:25Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1002,10 +1621,21 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/ucswj_v2",
+    "authors": [
+     "Connie Ku",
+     "Anne Collins McLaughlin",
+     "Richard Pak",
+     "Randall W Engle"
+    ]
+   }
   },
   {
-   "id": "b1917025c27d6554",
+   "id": "b5188ba6f1948db3",
    "title": "Barriers to professional mental health help-seeking and considerations for school-based interventions among Secondary School adolescents: an exploratory qualitative study",
    "url": "https://osf.io/preprints/psyarxiv/gcta6_v1/",
    "source": "PsyArXiv",
@@ -1013,7 +1643,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-30T00:37:52Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1022,7 +1652,15 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/gcta6_v1",
+    "authors": [
+     "Christianah Dada"
+    ]
+   }
   },
   {
    "id": "8f926b4ae8b3c1e3",
@@ -1043,7 +1681,16 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Linxuan Ying"
+    ],
+    "container": "Frontiers in Public Health",
+    "volume": "14",
+    "doi": "https://doi.org/10.3389/fpubh.2026.1978109"
+   }
   },
   {
    "id": "ca25604bec64ae79",
@@ -1061,10 +1708,55 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Indra Nur Fauzi",
+     "Erlyn Yuly Astuti",
+     "Dimas Agung Trisliatanto",
+     "Albertus Eka Putra Haryanto"
+    ],
+    "container": "Journal of Economics Business and Accountancy Ventura",
+    "volume": "29",
+    "issue": "3",
+    "first_page": "1",
+    "last_page": "22",
+    "doi": "https://doi.org/10.14414/jebav.v29i3.5760"
+   }
   },
   {
-   "id": "20ffbc462f8b7cbc",
+   "id": "d46eb367acd6c244",
+   "title": "Maurice Blondel on Artificial Intelligence and Divine Action: The Insufficiency of Technical Work",
+   "url": "https://doi.org/10.3390/rel17111278",
+   "source": "Religions",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Blaise Ringor"
+    ],
+    "container": "Religions",
+    "volume": "17",
+    "issue": "11",
+    "first_page": "1278",
+    "last_page": "1278",
+    "doi": "https://doi.org/10.3390/rel17111278"
+   }
+  },
+  {
+   "id": "3e1b6890615bcbea",
    "title": "The conflicted student and the internal battle over generative AI use",
    "url": "https://osf.io/preprints/psyarxiv/ahqns_v1/",
    "source": "PsyArXiv",
@@ -1072,7 +1764,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-29T22:23:02Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1081,10 +1773,21 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/ahqns_v1",
+    "authors": [
+     "Stephen Harrison Dewitt",
+     "Metodi Siromahov",
+     "Duncan Brumby",
+     "Silvia Bodei"
+    ]
+   }
   },
   {
-   "id": "273e9448e03ee26e",
+   "id": "bededce5e9447c35",
    "title": "Team Science: An Examination of Factors Associated with Citation Metrics",
    "url": "https://osf.io/preprints/psyarxiv/37mcg_v1/",
    "source": "PsyArXiv",
@@ -1092,7 +1795,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-29T22:22:22Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "labor-economics"
@@ -1101,7 +1804,18 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/37mcg_v1",
+    "authors": [
+     "Kelly Cuccolo",
+     "Jordan Wagge",
+     "John Edlund",
+     "Erin Michelle Buchanan"
+    ]
+   }
   },
   {
    "id": "b6de553194ab80ae",
@@ -1119,7 +1833,114 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Maria Fagerström",
+     "Karin Festin",
+     "Maria da Salete Fonseca dos Santos Lundgren",
+     "Marie Löf",
+     "Jeanette Melin",
+     "Margit Neher",
+     "Christine Delisle Nyström",
+     "Kristin Thomas"
+    ],
+    "container": "BMC Health Services Research",
+    "volume": "26",
+    "issue": "1",
+    "doi": "https://doi.org/10.1186/s12913-026-15953-6"
+   }
+  },
+  {
+   "id": "ffcd0a15fd084bb8",
+   "title": "Work Immersion Readiness and Career Plan Preparedness Among Senior High School Learners: Basis for Developing A Career Readiness Enhancement Program (CREP)",
+   "url": "https://ijmra.in/v9i10/Doc/43.pdf",
+   "source": "INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Marife De La Cruz Bonior",
+     "Samboy Godoy Nabor"
+    ],
+    "container": "INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS",
+    "volume": "09",
+    "issue": "10",
+    "doi": "https://doi.org/10.47191/ijmra/v9-i10-43"
+   }
+  },
+  {
+   "id": "711514d2cdece55a",
+   "title": "Quality of Nursing Work Life as a Predictor of Burnout and Turnover Intention Among Expatriate Nurses in a Pediatric Tertiary Hospital in Riyadh, Saudi Arabia",
+   "url": "https://www.ijfmr.com/papers/2026/5/90862.pdf",
+   "source": "International Journal For Multidisciplinary Research",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "well-being",
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Joann Lelim",
+     "Maria Karmela Del Rosario"
+    ],
+    "container": "International Journal For Multidisciplinary Research",
+    "volume": "8",
+    "issue": "5",
+    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i05.90862"
+   }
+  },
+  {
+   "id": "131fa18acddb1ff3",
+   "title": "Authentic Leadership, Empowerment, Psychological Capital and Passion in Teaching: A Structural Equation Model on Self-Efficacy among Public School Teachers",
+   "url": "https://doi.org/10.55248/gengpi.07.1026.34085",
+   "source": "International Journal of Research Publication and Reviews",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "self-efficacy"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Amalia A. Jordan",
+     "Eugenio S. Guhao"
+    ],
+    "container": "International Journal of Research Publication and Reviews",
+    "volume": "7",
+    "issue": "10",
+    "first_page": "7055",
+    "last_page": "7074",
+    "doi": "https://doi.org/10.55248/gengpi.07.1026.34085"
+   }
   },
   {
    "id": "be2d5ad5e86caa24",
@@ -1138,7 +1959,17 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Malin Wieslander"
+    ],
+    "container": "Journal of Change Management",
+    "first_page": "1",
+    "last_page": "23",
+    "doi": "https://doi.org/10.1080/14697017.2026.2742144"
+   }
   },
   {
    "id": "7c87b3cb903cb67e",
@@ -1158,10 +1989,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pranav S. Joshi",
+     "Nandini Lakshmikantha"
+    ],
+    "container": "Frontiers in Sociology",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/fsoc.2026.1953897"
+   }
   },
   {
-   "id": "591c3bc58cc0bbff",
+   "id": "07a7d2da0b942fad",
    "title": "Inconclusive evidence for necessity effects of basic psychological need satisfaction on employee well-being: Re-examining Ding et al. (2026)",
    "url": "https://osf.io/preprints/psyarxiv/bw7mf_v1/",
    "source": "PsyArXiv",
@@ -1169,7 +2010,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-27T17:28:40Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "well-being"
@@ -1178,10 +2019,21 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/bw7mf_v1",
+    "authors": [
+     "Kimmo Sorjonen",
+     "Bo Melin",
+     "Filippa Folke",
+     "Marika Melin"
+    ]
+   }
   },
   {
-   "id": "3fb3391eacfa4b3b",
+   "id": "96c3e36b907e8281",
    "title": "“We love our jobs!” Systems Thinking and Participatory Action Research for the future of neurodiversity and skilled employment",
    "url": "https://osf.io/preprints/psyarxiv/dg6at_v4/",
    "source": "PsyArXiv",
@@ -1189,7 +2041,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-27T17:21:17Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "well-being"
@@ -1198,10 +2050,28 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/dg6at_v4",
+    "authors": [
+     "Dora M Raymaker",
+     "Shawna Spain",
+     "Nybelle Caruso",
+     "Joelle Maslak",
+     "Nicole Leblanc",
+     "Morénike Giwa Onaiwu",
+     "Jonathan Spector",
+     "Passion Ilea",
+     "Julia Crown",
+     "Kristin Akervall",
+     "Wayne Wakeland"
+    ]
+   }
   },
   {
-   "id": "ea5ad07364462b6e",
+   "id": "53a78b53363fdf0b",
    "title": "Development and description of Peers Actively Involved in Rehabilitation (PAIR): A co-designed peer support program for people with acquired brain injury",
    "url": "https://osf.io/preprints/psyarxiv/k8ect_v1/",
    "source": "PsyArXiv",
@@ -1209,7 +2079,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-27T17:07:13Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "self-efficacy"
@@ -1218,7 +2088,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/k8ect_v1",
+    "authors": [
+     "Julia Schmidt",
+     "Janna Griffioen",
+     "Jade Abigail Witten",
+     "Adele Rogers",
+     "Nanaimo Brain Injury Society",
+     "Janelle Breese Biagioni"
+    ]
+   }
   },
   {
    "id": "feb058313b849683",
@@ -1236,7 +2119,16 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ana Junça Silva"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1903354"
+   }
   },
   {
    "id": "f8cf40fae2311f9d",
@@ -1255,7 +2147,21 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xuelian Zheng",
+     "Diping Chen",
+     "Meng Yue",
+     "Jingrong Wei",
+     "Xiaomei Ren",
+     "Shengting Zhou",
+     "Huiling Rao"
+    ],
+    "container": "BMC Health Services Research",
+    "doi": "https://doi.org/10.1186/s12913-026-15937-6"
+   }
   },
   {
    "id": "244066e6249d968e",
@@ -1275,7 +2181,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mehdia Haddad",
+     "Khalifa Mansouri",
+     "Khalid Boukhdir"
+    ],
+    "container": "Frontiers in Education",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/feduc.2026.1912168"
+   }
   },
   {
    "id": "66c853f4f21454b1",
@@ -1295,10 +2212,60 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Michelle Ndiulor",
+     "Annesha White",
+     "Cynthia Powell",
+     "Angela Duah",
+     "Ugochinyerem Ike",
+     "Claudia Andrade Lara",
+     "Emmanuela Nwaogu",
+     "Minal Pingle",
+     "Howard Thompson"
+    ],
+    "container": "Pharmacy",
+    "volume": "14",
+    "issue": "8",
+    "first_page": "157",
+    "last_page": "157",
+    "doi": "https://doi.org/10.3390/pharmacy14080157"
+   }
   },
   {
-   "id": "b31ec780e28f118b",
+   "id": "f57e820c10d943c0",
+   "title": "THE MEDIATING EFFECTS OF TRANSFORMATIONAL LEADERSHIP OF SCHOOL HEADS AND WORK ENGAGEMENT ON THE RELATIONSHIP BETWEEN PROFESSIONAL SELF-ESTEEM AND TEACHER EFFICACY AMONG PUBLIC ELEMENTARY TEACHERS",
+   "url": "https://new.oapub.org/edu/index.php/ejes/article/download/7088/9711",
+   "source": "European Journal of Education Studies",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "leadership",
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Annabella H. Canada",
+     "Lyndon A. Quines"
+    ],
+    "container": "European Journal of Education Studies",
+    "volume": "13",
+    "issue": "11",
+    "doi": "https://doi.org/10.46827/yrnfc211"
+   }
+  },
+  {
+   "id": "043459f78b4d8f14",
    "title": "Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis",
    "url": "https://osf.io/preprints/psyarxiv/jv4ah_v1/",
    "source": "PsyArXiv",
@@ -1306,7 +2273,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-26T07:32:05Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1315,7 +2282,15 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/jv4ah_v1",
+    "authors": [
+     "Jason Robert Potas"
+    ]
+   }
   },
   {
    "id": "96dea557525af812",
@@ -1333,10 +2308,59 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yingying Zhong",
+     "Lingna Yu",
+     "Kun-Hong Xiao",
+     "HuiXia Cao",
+     "Gao Qin",
+     "Sifeng Li",
+     "Li Tang",
+     "Rui Wang"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05535-6"
+   }
   },
   {
-   "id": "306e5876accdf8f5",
+   "id": "69b1adf4cbed3fc9",
+   "title": "Brownouts, Burnout, and Unpaid Work: Risks and Risk Management Practices of Filipino Virtual Assistants",
+   "url": "https://www.irejournals.com/formatedpaper/1724297.pdf",
+   "source": "Iconic Research and Engineering Journals",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "MBA Lyndon Mark D. Obedoza",
+     "MBA Jonica M. Manuel",
+     "MBA Sheila Marie S. Rodriguez",
+     "Amalia G. Dela Cruz"
+    ],
+    "container": "Iconic Research and Engineering Journals",
+    "volume": "10",
+    "issue": "4",
+    "first_page": "3499",
+    "last_page": "3508",
+    "doi": "https://doi.org/10.64388/irev10i4-1724297"
+   }
+  },
+  {
+   "id": "49be8eab1e498272",
    "title": "The Quantitative Psychologist Is Dead, Long Live the Quantitative Psychologist",
    "url": "https://osf.io/preprints/psyarxiv/8yxwb_v1/",
    "source": "PsyArXiv",
@@ -1344,7 +2368,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-25T23:21:37Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1353,10 +2377,18 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/8yxwb_v1",
+    "authors": [
+     "Sacha Epskamp"
+    ]
+   }
   },
   {
-   "id": "8a95579541b17429",
+   "id": "c820667ebf3b3361",
    "title": "The AI Paradox: How Optimization May Undermine Meaningful Work in Helping Professions",
    "url": "https://osf.io/preprints/psyarxiv/jzngq_v1/",
    "source": "PsyArXiv",
@@ -1364,7 +2396,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-25T21:41:48Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1373,10 +2405,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/jzngq_v1",
+    "authors": [
+     "Matthew Monnot",
+     "Isaac Thompson"
+    ]
+   }
   },
   {
-   "id": "e9736233586e709c",
+   "id": "2920f8cbd76b616a",
    "title": "Toward Evidence-Based Human-Centered AI and Human-AI Interaction: A Cross-Domain Systematic Review",
    "url": "https://osf.io/preprints/psyarxiv/j9cha_v1/",
    "source": "PsyArXiv",
@@ -1384,7 +2425,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-23T15:20:17Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1393,7 +2434,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/j9cha_v1",
+    "authors": [
+     "Xinyi Wang",
+     "Christine Lo",
+     "Wei-Hsiang Lo",
+     "Manhua Wang",
+     "Gaojian Huang"
+    ]
+   }
   },
   {
    "id": "09923fbf1f5a3882",
@@ -1412,7 +2465,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xue A. Dong",
+     "Paul Hill"
+    ],
+    "container": "AI",
+    "volume": "7",
+    "issue": "11",
+    "first_page": "440",
+    "last_page": "440",
+    "doi": "https://doi.org/10.3390/ai7110440"
+   }
   },
   {
    "id": "74bea2d2f1fede6a",
@@ -1432,7 +2498,23 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Khaled ALDARABAH",
+     "Amer Zaid ALQUDAH",
+     "Mahmoud Allahham",
+     "Nidal ALQUDAH",
+     "A. Muhammad ALQUDAH"
+    ],
+    "container": "GeoJournal of Tourism and Geosites",
+    "volume": "68",
+    "issue": "4",
+    "first_page": "2919",
+    "last_page": "2933",
+    "doi": "https://doi.org/10.30892/gtg.68426-1907"
+   }
   },
   {
    "id": "59b67b1bde32d4bd",
@@ -1452,7 +2534,21 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Birol Yetim",
+     "Seval Selvi Sarıgül",
+     "İsmail Biçer",
+     "Yusuf Çeli̇k"
+    ],
+    "container": "Frontiers in Public Health",
+    "volume": "14",
+    "first_page": "1936291",
+    "last_page": "1936291",
+    "doi": "https://doi.org/10.3389/fpubh.2026.1936291"
+   }
   },
   {
    "id": "15f8c8ab0a7b97ec",
@@ -1471,7 +2567,22 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Caroline Remor",
+     "Alexandre Cappellozza",
+     "Juliane Ruffatto",
+     "Gustavo Hermínio Salati Marcondes de Moraes",
+     "Jandir Pauli"
+    ],
+    "container": "Revista de Gestão",
+    "volume": "33",
+    "first_page": "329",
+    "last_page": "343",
+    "doi": "https://doi.org/10.1108/rege-02-2026-0030"
+   }
   },
   {
    "id": "8700adc97be388e6",
@@ -1489,10 +2600,55 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yonghui Gao",
+     "Yu-feng Pan"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1916936",
+    "last_page": "1916936",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1916936"
+   }
   },
   {
-   "id": "cc2ab7e9d95a2f02",
+   "id": "0a79f12d0b69944e",
+   "title": "Teaching Experience and Teacher Readiness in Implementing Individualized Education Programs in Philippine Public Schools",
+   "url": "https://www.ijfmr.com/papers/2026/5/90167.pdf",
+   "source": "International Journal For Multidisciplinary Research",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "change-readiness",
+    "self-efficacy"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Elaine Love Tayao",
+     "Bonnibel Real",
+     "Mechelle Magalong",
+     "Grace Hufalar",
+     "Doris Hilario"
+    ],
+    "container": "International Journal For Multidisciplinary Research",
+    "volume": "8",
+    "issue": "5",
+    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i05.90167"
+   }
+  },
+  {
+   "id": "6a799c4246bdff57",
    "title": "Synthetic Selves for AI Agents? Lessons from Psychology for Agent-Based Modeling",
    "url": "https://osf.io/preprints/psyarxiv/67dhz_v1/",
    "source": "PsyArXiv",
@@ -1500,7 +2656,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-20T20:02:57Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1509,10 +2665,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/67dhz_v1",
+    "authors": [
+     "Astghik Altunyan",
+     "Shimon Edelman"
+    ]
+   }
   },
   {
-   "id": "55160d8a6f36b233",
+   "id": "e2b20c26c5eb7b36",
    "title": "Expected but not rewarded: Limited uptake of open science practices as hiring criterion in a national sample of academic job advertisements",
    "url": "https://osf.io/preprints/psyarxiv/2yvgx_v1/",
    "source": "PsyArXiv",
@@ -1520,7 +2685,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-20T16:47:22Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "labor-economics"
@@ -1529,10 +2694,35 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/2yvgx_v1",
+    "authors": [
+     "Bianka Crnković",
+     "Bernt Damian Glaser",
+     "Anastasia Bredenbrock",
+     "Agata Bochynska",
+     "Max Korbmacher",
+     "Wietske van der Ent",
+     "Ingebjørg Anjadatter Iversen",
+     "Sebastian J. Eikeland",
+     "Carmen Simonsen",
+     "Heemin Kang",
+     "Elisabeth Deilhaug",
+     "Nina M. Junker",
+     "Julien Mayor",
+     "Kjersti Mæhlum Walle",
+     "Alina I. Sartorius",
+     "Oskar Angell-Hansen",
+     "Tamara Kalandadze",
+     "Daniel Quintana"
+    ]
+   }
   },
   {
-   "id": "db0eddf7aca67031",
+   "id": "f5b8e2fb0280c21c",
    "title": "Learning Whether Work Can Still Move: Repairability Cues, Hope, and Organizational Demoralization",
    "url": "https://osf.io/preprints/psyarxiv/ubhst_v2/",
    "source": "PsyArXiv",
@@ -1540,7 +2730,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-20T07:54:08Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "change-management"
@@ -1549,7 +2739,15 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/ubhst_v2",
+    "authors": [
+     "Robin Umbra"
+    ]
+   }
   },
   {
    "id": "258a0f68b16c96e6",
@@ -1568,7 +2766,21 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Aditya Ajit Baswan",
+     "Nanda Kumar Karippur",
+     "Vanita Bhoola"
+    ],
+    "container": "Systems",
+    "volume": "14",
+    "issue": "10",
+    "first_page": "1330",
+    "last_page": "1330",
+    "doi": "https://doi.org/10.3390/systems14101330"
+   }
   },
   {
    "id": "55bffa6a9e0acb42",
@@ -1584,7 +2796,16 @@
    "topics": [],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Maritza Salazar Medina",
+     "Theresa K. Lant"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "doi": "https://doi.org/10.1177/00218863261487207"
+   }
   },
   {
    "id": "5beba2bbe3bb4322",
@@ -1605,7 +2826,22 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Shaikhah Alainati",
+     "Ahmed A. Al-Hunaiyyan",
+     "Salah Al-Sharhan",
+     "Abeer Essa Alomairi"
+    ],
+    "container": "Administrative Sciences",
+    "volume": "16",
+    "issue": "10",
+    "first_page": "517",
+    "last_page": "517",
+    "doi": "https://doi.org/10.3390/admsci16100517"
+   }
   },
   {
    "id": "fbaad11610f24eb1",
@@ -1625,7 +2861,21 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Eko Nurhaji Purnomo",
+     "Shaymaa M.H. Darwish",
+     "Susilo Wati",
+     "Mohamad S.J. Darwish",
+     "Abdur Rofik"
+    ],
+    "container": "Cogent Social Sciences",
+    "volume": "12",
+    "issue": "1",
+    "doi": "https://doi.org/10.1080/23311886.2026.2748775"
+   }
   },
   {
    "id": "ca61a1ada7473f23",
@@ -1644,7 +2894,28 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nareh Safieh Garabedian",
+     "Kristina M. Blackmore",
+     "Jocelyne Chiquette",
+     "Laurence Lambert-Côté",
+     "Julie Lapointe",
+     "Johanne Lessard",
+     "Hermann Nabi",
+     "Arian Omeranovic",
+     "Penny Soucy",
+     "Annie Turgeon",
+     "Meghan Walker",
+     "Anna Maria Chiarelli",
+     "Jacques Simard",
+     "Nora Pashayan"
+    ],
+    "container": "BMC Health Services Research",
+    "doi": "https://doi.org/10.1186/s12913-026-15626-4"
+   }
   },
   {
    "id": "6892da37f6bf18bd",
@@ -1663,7 +2934,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jingjing Niu",
+     "Yinghao Qi",
+     "Xiaobin Li"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1954386",
+    "last_page": "1954386",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1954386"
+   }
   },
   {
    "id": "a863dcc684f09284",
@@ -1682,10 +2966,26 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Olga Kapoula",
+     "Konstandinos Panitsidis",
+     "Konstantinos G. Spinthiropoulos",
+     "Marina Vezou",
+     "Aristeidis Xolopoulos"
+    ],
+    "container": "Societies",
+    "volume": "16",
+    "issue": "10",
+    "first_page": "355",
+    "last_page": "355",
+    "doi": "https://doi.org/10.3390/soc16100355"
+   }
   },
   {
-   "id": "20825135b9f582cf",
+   "id": "678559b2f5641a1c",
    "title": "From Access to Stabilisation: A Systems-Level Architecture of Cognitive Pathway Formation",
    "url": "https://osf.io/preprints/psyarxiv/gr2s7_v2/",
    "source": "PsyArXiv",
@@ -1693,7 +2993,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-15T19:43:08Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "organizational-change"
@@ -1702,10 +3002,18 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/gr2s7_v2",
+    "authors": [
+     "Andrew Rockliffe"
+    ]
+   }
   },
   {
-   "id": "739f25247cb66096",
+   "id": "b6bf43e350302d3f",
    "title": "Youth First Supports Adolescent Wellbeing: A Longitudinal Cluster-Randomized Controlled Trial of a Teacher-Delivered School-Based Program in India",
    "url": "https://osf.io/preprints/psyarxiv/vg5ju_v3/",
    "source": "PsyArXiv",
@@ -1713,7 +3021,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-15T19:39:00Z",
-   "first_seen": "2026-11-09T18:56:54Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "self-efficacy"
@@ -1722,10 +3030,23 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/vg5ju_v3",
+    "authors": [
+     "Peter L. Cooper",
+     "Katherine S. Leventhal",
+     "Gunjika Misra",
+     "Nandita Bhatla",
+     "Hari Shanker",
+     "Steve Leventhal"
+    ]
+   }
   },
   {
-   "id": "1f4359b25f2500bb",
+   "id": "e2341b919d4cca59",
    "title": "Social and psychological consequences of sustained civic engagement: Insights from the 2024/25 Student Blockades in Serbia",
    "url": "https://osf.io/preprints/psyarxiv/vujys_v1/",
    "source": "PsyArXiv",
@@ -1733,7 +3054,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-15T16:33:46Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "well-being"
@@ -1742,7 +3063,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/vujys_v1",
+    "authors": [
+     "Ana Ivanov",
+     "Neda Janićijević",
+     "Milica Manojlović",
+     "Matija Gvozden",
+     "Vojin Simunović",
+     "Sanda Stanković"
+    ]
+   }
   },
   {
    "id": "e3e1585bc3695016",
@@ -1763,7 +3097,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ying Wu",
+     "Malcolm Stewart",
+     "Fred A. Yamoah",
+     "Fahima Alam"
+    ],
+    "container": "Journal of Organizational Change Management",
+    "first_page": "1",
+    "last_page": "18",
+    "doi": "https://doi.org/10.1108/jocm-03-2025-0295"
+   }
   },
   {
    "id": "af9d91d9f2276f2e",
@@ -1781,10 +3128,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pravallika Manam",
+     "Reeves J Wesley"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1990745"
+   }
   },
   {
-   "id": "8ee8f2e5bf1910d0",
+   "id": "870d8250dc83bb13",
    "title": "The Influence of Victim Gender and Professional Identity on Perceptions of AI-Generated Image Abuse",
    "url": "https://osf.io/preprints/psyarxiv/vebyw_v2/",
    "source": "PsyArXiv",
@@ -1792,7 +3149,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-14T18:11:31Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1801,7 +3158,16 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/vebyw_v2",
+    "authors": [
+     "Matthew Ivory",
+     "Sophie Nightingale"
+    ]
+   }
   },
   {
    "id": "be6273eebc038b44",
@@ -1817,7 +3183,15 @@
    "topics": [],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yinnon Dryzin-Amit"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "doi": "https://doi.org/10.1177/00218863261498071"
+   }
   },
   {
    "id": "090b857f05bac051",
@@ -1835,10 +3209,24 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Zhang Ziying",
+     "Shiyu Li",
+     "Yuxuan Bao",
+     "Yipu Hao"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1925965",
+    "last_page": "1925965",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1925965"
+   }
   },
   {
-   "id": "1c20b5c9923b579f",
+   "id": "1e43773b531aa35c",
    "title": "What Do People Dream About? Themes and Emotions in 400,000+ Dream Reports Shared on Weibo (2018–2023)",
    "url": "https://osf.io/preprints/psyarxiv/75tke_v1/",
    "source": "PsyArXiv",
@@ -1846,7 +3234,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-13T21:16:15Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "labor-economics"
@@ -1855,10 +3243,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/75tke_v1",
+    "authors": [
+     "Yanqi Lyu",
+     "Wuwei Tang",
+     "Huanyu Liu"
+    ]
+   }
   },
   {
-   "id": "4d78a3978492d75e",
+   "id": "de8ed4bdc0a3baf2",
    "title": "Making AI-mediated decisions culturally repairable",
    "url": "https://osf.io/preprints/psyarxiv/3dknf_v1/",
    "source": "PsyArXiv",
@@ -1866,7 +3264,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-13T16:17:46Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1875,10 +3273,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/3dknf_v1",
+    "authors": [
+     "Hadi Mohamadpour",
+     "Soomaahey Heysieattalab",
+     "Jean-Claude Dreher"
+    ]
+   }
   },
   {
-   "id": "1251ab5ae0a6b947",
+   "id": "4fab49c37b3eaa9f",
    "title": "French Validation of the Team Flow Monitor: Factor Structure and Validity Evidence in Student Teams",
    "url": "https://osf.io/preprints/psyarxiv/wte5q_v1/",
    "source": "PsyArXiv",
@@ -1886,7 +3294,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-13T00:33:39Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "well-being"
@@ -1895,7 +3303,19 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/wte5q_v1",
+    "authors": [
+     "Victoire Vallier",
+     "Nicolas Verger",
+     "Rebecca Shankland",
+     "Roxane Turgon",
+     "Quentin Hallez"
+    ]
+   }
   },
   {
    "id": "985c9f76a7dec0a4",
@@ -1915,7 +3335,22 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ioannis Rossidis",
+     "Athanasios Mihiotis",
+     "Angelos Ntalakos",
+     "Dimitrios Belias"
+    ],
+    "container": "Journal of Organizational Change Management",
+    "volume": "39",
+    "issue": "8",
+    "first_page": "314",
+    "last_page": "345",
+    "doi": "https://doi.org/10.1108/jocm-12-2025-1113"
+   }
   },
   {
    "id": "7b399b4c3edea2bf",
@@ -1933,10 +3368,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Harshdeep Singh",
+     "Jangjeet Chahal"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1969428"
+   }
   },
   {
-   "id": "85ce32805985c6dd",
+   "id": "2edf169017f9f125",
    "title": "Questionable necessity effects on patient safety competency among nursing students: Re-examining Yang et al. (2027)",
    "url": "https://osf.io/preprints/psyarxiv/h4ncm_v1/",
    "source": "PsyArXiv",
@@ -1944,7 +3389,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-12T17:16:08Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "self-efficacy"
@@ -1953,10 +3398,20 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/h4ncm_v1",
+    "authors": [
+     "Kimmo Sorjonen",
+     "Bo Melin",
+     "Marika Melin"
+    ]
+   }
   },
   {
-   "id": "18044781f5ffaddb",
+   "id": "8d75056185b4ea0f",
    "title": "Assessing User-Subjective Experience with Conversational Agents for Behavioral and Mental Health Interventions: Design and Psychometric Evaluation of CUE-Chat",
    "url": "https://osf.io/preprints/psyarxiv/8cbds_v2/",
    "source": "PsyArXiv",
@@ -1964,7 +3419,7 @@
    "layer": "preprint",
    "type": "Preprint",
    "published": "2026-10-11T18:48:38Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:41:02Z",
    "window_days": 30,
    "topics": [
     "ai-at-work"
@@ -1973,7 +3428,17 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/8cbds_v2",
+    "authors": [
+     "Esther Mertens",
+     "Janis Butz",
+     "Jean-Louis van Gelder"
+    ]
+   }
   },
   {
    "id": "e025b74f71a56186",
@@ -1992,7 +3457,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Arabella Mühl",
+     "C. Korunka",
+     "E. Zedlacher",
+     "M. Hartner-Tiefentahler"
+    ],
+    "container": "Journal of Change Management",
+    "first_page": "1",
+    "last_page": "29",
+    "doi": "https://doi.org/10.1080/14697017.2026.2742141"
+   }
   },
   {
    "id": "9ff1e9e2dcd8be3c",
@@ -2011,7 +3489,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Alessandro Rovetta",
+     "Alessandro Bortolotti",
+     "Claudio Di Berardino"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1941058"
+   }
   },
   {
    "id": "031f98bc1a5c94a1",
@@ -2029,7 +3518,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "杨楠",
+     "Qing Tian",
+     "Lin Nie"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1972366",
+    "last_page": "1972366",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1972366"
+   }
   },
   {
    "id": "2031dd8bffd9b6e1",
@@ -2049,7 +3551,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Baris Demir",
+     "Rümeysa Beyazhançer"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1991429",
+    "last_page": "1991429",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1991429"
+   }
   },
   {
    "id": "e7c84127f403b783",
@@ -2068,7 +3582,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ema Štánerová",
+     "Eva Rošková",
+     "Milica Schraggeová"
+    ],
+    "container": "Telematics and Informatics Reports",
+    "volume": "24",
+    "first_page": "100377",
+    "last_page": "100377",
+    "doi": "https://doi.org/10.1016/j.teler.2026.100377"
+   }
   },
   {
    "id": "aae01e8dafc516b7",
@@ -2087,7 +3614,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Matthew Lawrence Cole",
+     "Patricia Ann Castelli",
+     "Yong Li"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1851922"
+   }
   },
   {
    "id": "54a58409598a864c",
@@ -2105,7 +3643,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ni Yao",
+     "Qiong Wang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1887403",
+    "last_page": "1887403",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1887403"
+   }
   },
   {
    "id": "6a3f11f21a0da544",
@@ -2125,7 +3675,26 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Wendy J. Casper",
+     "Stephanie Brooke Escudero",
+     "Lillian Turner de Tormes Eby",
+     "Tianjun Sun",
+     "Talya N. Bauer",
+     "Bryan Edwards",
+     "Allison S. Gabriel",
+     "Jia Jasmine Hu"
+    ],
+    "container": "Journal of Applied Psychology",
+    "volume": "111",
+    "issue": "10",
+    "first_page": "1225",
+    "last_page": "1239",
+    "doi": "https://doi.org/10.1037/apl0001425"
+   }
   },
   {
    "id": "42c3a2250fe1cd94",
@@ -2143,7 +3712,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Guanglei Zhang",
+     "Puzhen Xiong",
+     "Yuheng He",
+     "Huan Xin Cheng"
+    ],
+    "container": "Asia Pacific Journal of Human Resources",
+    "volume": "64",
+    "issue": "4",
+    "doi": "https://doi.org/10.1111/1744-7941.70098"
+   }
   },
   {
    "id": "5eb0b941014283fa",
@@ -2162,7 +3744,17 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pakzad Fadel Saleh"
+    ],
+    "container": "SAGE Open",
+    "volume": "16",
+    "issue": "4",
+    "doi": "https://doi.org/10.1177/21582440261506026"
+   }
   },
   {
    "id": "6a9eb0a44675a226",
@@ -2181,7 +3773,47 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Youming Yang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1997877",
+    "last_page": "1997877",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1997877"
+   }
+  },
+  {
+   "id": "50e0528383a3d8fd",
+   "title": "THE MEDIATING ROLES OF SCHOOL CULTURE AND WORK ENGAGEMENT ON THE RELATIONSHIP BETWEEN ORGANIZATIONAL CITIZENSHIP BEHAVIOR AND TOTAL QUALITY MANAGEMENT IN PUBLIC SCHOOLS",
+   "url": "https://doi.org/10.46827/ejes.v13i10.7044",
+   "source": "European Journal of Education Studies",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Edcel G. Jose",
+     "Eugenio S. Guhao"
+    ],
+    "container": "European Journal of Education Studies",
+    "volume": "13",
+    "issue": "10",
+    "doi": "https://doi.org/10.46827/ejes.v13i10.7044"
+   }
   },
   {
    "id": "7d8f5d75908f176f",
@@ -2199,7 +3831,17 @@
    ],
    "region": true,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Anisha Sultan Ali",
+     "Jhoanne Mae Carlos Toriaga"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1938501"
+   }
   },
   {
    "id": "917dcba4d432110a",
@@ -2217,7 +3859,16 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Hiromi Ono"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1927630"
+   }
   },
   {
    "id": "9dd0558250d57c24",
@@ -2235,7 +3886,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Timo Kortsch",
+     "Anja P. Schmitz",
+     "Rabea Germanus"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1746548"
+   }
   },
   {
    "id": "c8a089da487fa5b3",
@@ -2253,7 +3915,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Johann Füller"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "666",
+    "last_page": "676",
+    "doi": "https://doi.org/10.1177/00218863261491368"
+   }
   },
   {
    "id": "aa6fac0521360bd8",
@@ -2272,7 +3946,23 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Annelise Brochier",
+     "Sarah Davis",
+     "Sanika Kulkarni",
+     "Jane Miller",
+     "Mansoor Ahmad Malik",
+     "Matt Norvell",
+     "Cheryl A. Connors",
+     "Albert W. Wu"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1944537"
+   }
   },
   {
    "id": "d1836b6f112f4e8e",
@@ -2288,7 +3978,20 @@
    "topics": [],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Charlotta Kronblad",
+     "Anna Jönsson"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "636",
+    "last_page": "645",
+    "doi": "https://doi.org/10.1177/00218863261488837"
+   }
   },
   {
    "id": "1a89ff5fd8cd54b2",
@@ -2307,7 +4010,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lore Geldof",
+     "Alice Verlinden",
+     "Elfi Baillien",
+     "Ann DeSmet"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1919818"
+   }
   },
   {
    "id": "d53ed0c54eb10f81",
@@ -2326,7 +4041,22 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Melissa Vink",
+     "Jojanneke van der Toorn",
+     "Wiebren S. Jansen",
+     "Naomi Ellemers"
+    ],
+    "container": "Journal of Organizational Change Management",
+    "volume": "39",
+    "issue": "8",
+    "first_page": "295",
+    "last_page": "313",
+    "doi": "https://doi.org/10.1108/jocm-03-2025-0226"
+   }
   },
   {
    "id": "33944bdcb0acb028",
@@ -2345,7 +4075,24 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "John Amis",
+     "Michael Barrett",
+     "Gail Theus Fairhurst",
+     "Joel Gehman",
+     "David Grant",
+     "Richard Hall",
+     "Bradley J. Hastings",
+     "Linda L. Putnam",
+     "Patrice Elizabeth Rosenthal",
+     "Inger G. Stensaker"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "doi": "https://doi.org/10.1177/00218863261492319"
+   }
   },
   {
    "id": "9cb4329965cd9bc6",
@@ -2363,7 +4110,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Bastian Brechtelsbauer",
+     "Katja Schönian",
+     "Saskia Hasreiter",
+     "Sven Laumer",
+     "Sabine Pfeiffer",
+     "Martin Hoegl"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "doi": "https://doi.org/10.1177/00218863261481268"
+   }
   },
   {
    "id": "9d74dc2cb1ccd783",
@@ -2382,7 +4142,22 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Wei Qing",
+     "Jiquan Zhang",
+     "Haiyan Yang",
+     "Zhenfan Liu",
+     "Zhaohua Zou"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1756479",
+    "last_page": "1756479",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1756479"
+   }
   },
   {
    "id": "84c15b97220e7605",
@@ -2401,7 +4176,20 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Frank Thomas Piller",
+     "Tobias Fredberg"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "654",
+    "last_page": "665",
+    "doi": "https://doi.org/10.1177/00218863261490158"
+   }
   },
   {
    "id": "017411081cf966df",
@@ -2420,7 +4208,21 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Roman Briker",
+     "Katerina Gonzalez",
+     "Rouven Kanitz"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "590",
+    "last_page": "607",
+    "doi": "https://doi.org/10.1177/00218863261490153"
+   }
   },
   {
    "id": "9da7374d659f5af6",
@@ -2438,7 +4240,17 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Harshdeep Singh",
+     "Jangjeet Chahal"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1907256"
+   }
   },
   {
    "id": "e0d47d1ac641173b",
@@ -2456,7 +4268,21 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Susanne Tafvelin",
+     "Maria Forsgren",
+     "Andreas Stenling"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "608",
+    "last_page": "617",
+    "doi": "https://doi.org/10.1177/00218863261488834"
+   }
   },
   {
    "id": "36619619ac37b1e7",
@@ -2474,7 +4300,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mustafa Demir",
+     "İbrahim Erdoğan Yayla",
+     "Kübra Dombak",
+     "Mustafa Baloglu"
+    ],
+    "container": "Frontiers in Education",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/feduc.2026.1955848"
+   }
   },
   {
    "id": "896fe93fc54eadd3",
@@ -2493,7 +4331,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Richard N. Landers"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "618",
+    "last_page": "625",
+    "doi": "https://doi.org/10.1177/00218863261488831"
+   }
   },
   {
    "id": "d75d4639dd41bc61",
@@ -2509,7 +4359,20 @@
    "topics": [],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Felix Honecker",
+     "Dominic Michael Chalmers"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "626",
+    "last_page": "635",
+    "doi": "https://doi.org/10.1177/00218863261488999"
+   }
   },
   {
    "id": "d05e335ff312f0ff",
@@ -2528,7 +4391,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nicky H. D. Terblanche"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "volume": "62",
+    "issue": "4",
+    "first_page": "646",
+    "last_page": "653",
+    "doi": "https://doi.org/10.1177/00218863261488991"
+   }
   },
   {
    "id": "fa6dc5f2b873c49d",
@@ -2546,7 +4421,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Athena Xenikou",
+     "Alexandra Hantzi",
+     "Sofia Koroni"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1776476"
+   }
   },
   {
    "id": "39104969ba35f4b7",
@@ -2566,7 +4452,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jingjing Zhang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1860700",
+    "last_page": "1860700",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1860700"
+   }
   },
   {
    "id": "6967441cbb261728",
@@ -2588,7 +4485,21 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Wiston Mbhazima Baloyi",
+     "Natanya Meyer",
+     "Dirk Rossouw"
+    ],
+    "container": "Journal of Organizational Change Management",
+    "volume": "39",
+    "issue": "8",
+    "first_page": "274",
+    "last_page": "294",
+    "doi": "https://doi.org/10.1108/jocm-02-2026-0188"
+   }
   },
   {
    "id": "8dcad1f77d7d15f0",
@@ -2606,7 +4517,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lucas Monzani",
+     "Ana Cecilia Ruiz Pardo",
+     "Andriy Rozhdestvensky"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1900531"
+   }
   },
   {
    "id": "b117adc59d944a89",
@@ -2624,7 +4546,19 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Senne Letouche",
+     "Sofie Dupré",
+     "Maarten De Schryver",
+     "Bart Wille"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1819497"
+   }
   },
   {
    "id": "6627b704b7622317",
@@ -2644,7 +4578,22 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Muslim Abbas Syed",
+     "Ahmed Sameer Alnuaimi",
+     "Dana Bilal El Kaissi",
+     "Mohamed Ahmed Syed"
+    ],
+    "container": "PLoS ONE",
+    "volume": "21",
+    "issue": "9",
+    "first_page": "e0345347",
+    "last_page": "e0345347",
+    "doi": "https://doi.org/10.1371/journal.pone.0345347"
+   }
   },
   {
    "id": "932b751cce298314",
@@ -2662,7 +4611,22 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jan Digutsch",
+     "Richard N. Landers",
+     "Hannah M. Schade",
+     "Hans-Joachim Lincke",
+     "Matthias Nübling",
+     "Clemens Stachl",
+     "Gerhard Rinkenauer",
+     "Yannick A. Metzler"
+    ],
+    "container": "Journal of Applied Psychology",
+    "doi": "https://doi.org/10.1037/apl0001414"
+   }
   },
   {
    "id": "2837f5fa56a04d00",
@@ -2680,7 +4644,18 @@
    ],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Martina Wilson",
+     "Gunnel K. E. Hensing",
+     "Kristina J. Berglund"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1938613"
+   }
   },
   {
    "id": "74de9c9fb5223b8d",
@@ -2696,7 +4671,48 @@
    "topics": [],
    "region": false,
    "labels": [],
-   "access": "Free to read"
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ceri Pimblett",
+     "Mariann Hardey"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "doi": "https://doi.org/10.1177/00218863261488856"
+   }
+  },
+  {
+   "id": "0411545cc24c0d4f",
+   "title": "Work engagement and burnout among public school physical education teachers in the Philippines: The predictive role of absorption",
+   "url": "https://sportisjournal.com/index.php/sportis/article/download/maa8y670/maa8y670",
+   "source": "Sportis Scientific Journal of School Sport Physical Education and Psychomotricity",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:41:02Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Roque N. Langcoy",
+     "Stephen A. Fadare",
+     "Hendely A. Adlawan"
+    ],
+    "container": "Sportis Scientific Journal of School Sport Physical Education and Psychomotricity",
+    "volume": "12",
+    "issue": "5",
+    "first_page": "1",
+    "last_page": "24",
+    "doi": "https://doi.org/10.55040/maa8y670"
+   }
   }
  ]
 }

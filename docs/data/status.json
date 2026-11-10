@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T02:31:16Z",
+ "generated": "2026-11-10T02:41:02Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -128,7 +128,7 @@
    "layer": "research",
    "ok": true,
    "found": 126,
-   "kept": 37,
+   "kept": 36,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 16,
@@ -152,6 +152,33 @@
    "dropped_low_h_index": 61,
    "min_h_index": 30,
    "newest_item": "2026-11-07T00:00:00Z",
+   "stale": false
+  },
+  {
+   "id": "ph-research",
+   "name": "Philippine research search",
+   "layer": "research",
+   "ok": true,
+   "found": 53,
+   "kept": 14,
+   "error": null,
+   "results_per_phrase": {
+    "employees": 25,
+    "workplace": 25,
+    "organizational": 25,
+    "work engagement": 14,
+    "burnout": 25,
+    "leadership": 25,
+    "job satisfaction": 25,
+    "teachers": 25,
+    "nurses": 25,
+    "self-efficacy": 25,
+    "readiness": 25,
+    "artificial intelligence": 25
+   },
+   "dropped_low_h_index": 169,
+   "min_h_index": 20,
+   "newest_item": "2026-11-08T00:00:00Z",
    "stale": false
   },
   {
@@ -246,7 +273,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-10T02:07:48Z",
+   "newest_item": "2026-11-10T02:32:47Z",
    "stale": false
   },
   {
@@ -283,6 +310,36 @@
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
    "newest_item": "2026-11-10T01:40:32Z",
+   "stale": false
+  },
+  {
+   "id": "businessmirror",
+   "name": "BusinessMirror",
+   "layer": "news",
+   "ok": false,
+   "found": 0,
+   "kept": 0,
+   "error": "https://businessmirror.com.ph/feed/: 403 Client Error: Forbidden for url: https://businessmirror.com.ph/feed/; https://businessmirror.com.ph/feed: 403 Client Error: Forbidden for url: https://businessmirror.com.ph/feed"
+  },
+  {
+   "id": "manila-bulletin",
+   "name": "Manila Bulletin",
+   "layer": "news",
+   "ok": false,
+   "found": 0,
+   "kept": 0,
+   "error": "https://mb.com.ph/rss/articles: 403 Client Error: Forbidden for url: https://mb.com.ph/rss/articles"
+  },
+  {
+   "id": "rappler",
+   "name": "Rappler",
+   "layer": "news",
+   "ok": true,
+   "found": 10,
+   "kept": 0,
+   "error": null,
+   "feed_used": "https://www.rappler.com/feed/",
+   "newest_item": "2026-11-10T02:24:21Z",
    "stale": false
   }
  ]
