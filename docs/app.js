@@ -82,7 +82,7 @@
       filter: function (i) { return isCurrent(i) && i.region; }
     };
     if (h === "notes") return { key: h, title: "Editor\u2019s Notes", notesList: true,
-      note: "A weekly note from the editor connecting the week\u2019s news and research to theory on change at work." };
+      note: "A monthly note from the editor connecting recent news and research to theory on change at work." };
     if (h.indexOf("note/") === 0) return { key: "notes", noteSlug: h.slice(5) };
     if (h === "editions") return { key: h, title: "Past Editions", editionsList: true,
       note: "Every day's reading list is saved. Pick a date to see the list as it appeared that day." };
