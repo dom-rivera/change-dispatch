@@ -486,3 +486,10 @@ a:hover { text-decoration: underline; }
   .topics-menu ul { left: 0; transform: none; }
   .headline { font-size: 20px; }
 }
+
+/* Topic counts in the menu, and "Earlier in the archive" on thin topic pages */
+.topics-menu li a { display: flex; justify-content: space-between; gap: 16px; }
+.topics-menu li a .count { color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; }
+.earlier { margin: 28px 0 4px; padding-top: 14px; border-top: 2px solid var(--ink); }
+.earlier-head { font-family: var(--sans); font-size: 13px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; margin: 0 0 4px; }
+.earlier-note { font-family: var(--sans); font-size: 13px; color: var(--muted); margin: 0 0 8px; }

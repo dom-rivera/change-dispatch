@@ -96,7 +96,7 @@
     if (h.indexOf("topic/") === 0) {
       var id = h.slice(6);
       return {
-        key: h, title: topicName(id),
+        key: h, title: topicName(id), topicId: id,
         note: "Current items tagged with this topic.",
         filter: function (i) { return isCurrent(i) && i.topics.indexOf(id) >= 0; }
       };
@@ -209,7 +209,11 @@
     [["core", "Core"], ["context", "Context"]].forEach(function (g) {
       ul.appendChild(el("li", { class: "group", text: g[1] }));
       state.topics.filter(function (t) { return t.group === g[0]; }).forEach(function (t) {
-        ul.appendChild(el("li", {}, [el("a", { href: "#topic/" + t.id, text: t.name })]));
+        var n = state.items.filter(function (i) { return isCurrent(i) && i.topics.indexOf(t.id) >= 0; }).length;
+        ul.appendChild(el("li", {}, [el("a", { href: "#topic/" + t.id }, [
+          document.createTextNode(t.name),
+          el("span", { class: "count", text: " " + n, title: n + " current items" })
+        ])]));
       });
     });
   }
@@ -286,7 +290,26 @@
     if (sec.showEditionsLink && state.editions && state.editions.length > 1) {
       $("section-extra").appendChild(el("a", { href: "#editions", text: "Browse past editions →" }));
     }
-    renderList(applyFilters(state.items.filter(sec.filter)), { noLead: sec.key === "archive" });
+    var list = applyFilters(state.items.filter(sec.filter));
+    renderList(list, { noLead: sec.key === "archive",
+      emptyText: sec.topicId && state.items.length ? "No current items on this topic right now." : null });
+    if (sec.topicId && list.length < EARLIER_MIN) renderEarlier(sec.topicId);
+  }
+
+  // Thin topic pages also show the most recent older items, clearly marked,
+  // so a topic page is never empty. Older items keep their original dates.
+  var EARLIER_MIN = 5, EARLIER_MAX = 8;
+  function renderEarlier(id) {
+    var older = applyFilters(state.items.filter(function (i) {
+      return !isCurrent(i) && i.topics.indexOf(id) >= 0;
+    })).slice(0, EARLIER_MAX);
+    if (!older.length) return;
+    var box = $("stories");
+    box.appendChild(el("div", { class: "earlier" }, [
+      el("h3", { class: "earlier-head", text: "Earlier in the archive" }),
+      el("p", { class: "earlier-note", text: "Older than their freshness window, shown because this topic has few current items. Dates are when each item was published." })
+    ]));
+    older.forEach(function (item) { box.appendChild(storyNode(item, false)); });
   }
 
   /* ---------------- Past editions ---------------- */

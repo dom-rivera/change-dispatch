@@ -128,6 +128,29 @@ sources:
     enabled: true
     note: Fully open access; published by the Colegio Oficial de la Psicología de Madrid.
 
+  # Behavioral economics: two fully open-access, peer-reviewed journals.
+  - id: jdm
+    name: Judgment and Decision Making
+    layer: research
+    kind: openalex
+    journal: Judgment and Decision Making
+    issn: ["1930-2975"]
+    window_days: 120
+    needs_topic: true
+    enabled: true
+    note: "Fully open access; journal of the Society for Judgment and Decision Making and the European Association for Decision Making, published by Cambridge University Press. Only papers that match a topic appear."
+
+  - id: jbpa
+    name: Journal of Behavioral Public Administration
+    layer: research
+    kind: openalex
+    journal: Journal of Behavioral Public Administration
+    issn: ["2576-6465"]
+    window_days: 120
+    needs_topic: true
+    enabled: true
+    note: "Diamond open access (free to read and to publish); peer-reviewed; covers behavior in public organizations, including civil servants."
+
   # Targeted search: new articles about the core constructs in any
   # open-access journal listed in the Directory of Open Access Journals
   # (DOAJ), e.g. Frontiers in Psychology, PLOS ONE, SAGE Open, BMC
@@ -161,6 +184,23 @@ sources:
       - psychological safety
       - technostress
       - AI adoption employees
+      # thin topics (added Nov 2026), same safeguards
+      - attitudes toward AI
+      - AI acceptance
+      - technology acceptance employees
+      - change leadership
+      - transformational leadership
+      - leadership development
+      - remote work
+      - hybrid work
+      - reskilling
+      - upskilling
+      - job redesign
+      - job crafting
+      - nudge
+      - status quo bias
+      - loss aversion
+      - behavioral insights
     exclude_journals: []
     note: "Safeguards: DOAJ-listed, English, free copy, not retracted, journal h-index 30+, topic in the title, about work or organizations. Each item is labeled with its own journal name."
 
@@ -318,13 +358,18 @@ sources:
     name: The Conversation
     layer: analysis
     kind: rss
+    combine: true      # read every feed below; duplicates are dropped
     feeds:
       - https://theconversation.com/global/articles.atom
-      - https://theconversation.com/articles.atom
+      - https://theconversation.com/topics/work-401/articles.atom
+      - https://theconversation.com/topics/future-of-work-3473/articles.atom
+      - https://theconversation.com/topics/remote-working-39817/articles.atom
+      - https://theconversation.com/topics/automation-4443/articles.atom
+      - https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom
     window_days: 14
     needs_topic: true
     enabled: true
-    note: Written by academics, published under Creative Commons.
+    note: "Written by academics, edited by journalists, published under Creative Commons. Topic feeds (work, future of work, remote working, automation, AI) checked 10 Nov 2026."
 
   # ---------- Layer 5: quality news ----------
 
@@ -381,6 +426,75 @@ sources:
     needs_topic: true
     enabled: true
 
+  - id: guardian-work
+    name: The Guardian (Work & careers)
+    layer: news
+    kind: rss
+    combine: true
+    feeds:
+      - https://www.theguardian.com/money/work-and-careers/rss
+      - https://www.theguardian.com/technology/artificialintelligenceai/rss
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Work & careers and AI sections, checked 10 Nov 2026. Free to read worldwide."
+
+  - id: bbc-business
+    name: BBC News (Business)
+    layer: news
+    kind: rss
+    feeds:
+      - https://feeds.bbci.co.uk/news/business/rss.xml
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Public broadcaster; free to read. Feed checked 10 Nov 2026."
+
+  - id: npr-business
+    name: NPR (Business)
+    layer: news
+    kind: rss
+    feeds:
+      - https://feeds.npr.org/1006/rss.xml
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "US public radio newsroom; free to read. Feed checked 10 Nov 2026."
+
+  - id: cna-business
+    name: CNA (Business)
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Singapore-based regional broadcaster (Mediacorp); free to read; strong Southeast Asia coverage. Its feed terms allow headline-and-link use. Checked 10 Nov 2026."
+
+  - id: rest-of-world
+    name: Rest of World
+    layer: news
+    kind: rss
+    feeds:
+      - https://restofworld.org/feed/latest
+    window_days: 10
+    needs_topic: true
+    enabled: true
+    note: "Nonprofit newsroom on technology and work outside the West; no paywall. Feed checked 10 Nov 2026."
+
+  - id: hr-dive
+    name: HR Dive
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.hrdive.com/feeds/news/
+    exclude_urls: ["/spons/", "/press-release/", "/editors/"]
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Trade newsroom covering HR and workplace law; free to read. Sponsored posts and press releases are skipped. Checked 10 Nov 2026."
+
   - id: businessmirror
     name: BusinessMirror
     layer: news
@@ -415,6 +529,12 @@ sources:
     enabled: true
     note: Philippine news site. Only work-related stories pass the topic filter.
 
+  # Checked 10 Nov 2026 but not added:
+  #   World Economic Forum: blocks automated readers (HTTP 403), and it is
+  #     an advocacy organization rather than a newsroom.
+  #   People Matters and Gallup workplace: no public feed found.
+  #   Al Jazeera: only a general world-news feed; few work stories, more noise.
+  #
   # Checked but not added: Philippine Statistics Authority, Philippine News
   # Agency and DOLE publish no news feed. Their announcements still reach
   # the site through the Philippine newspapers above.

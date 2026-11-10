@@ -134,8 +134,10 @@ class TopicMatcher:
                     "match": _compile(t.get("match")),
                     "weak": _compile(t.get("weak")),
                     "exclude": _compile(t.get("exclude")),
+                    "news_weak": _compile(t.get("news_weak")),
                 })
         self.work_context = _compile(cfg.get("work_context"))
+        self.news_context = _compile(cfg.get("news_context"))
         region = cfg.get("region", {})
         self.region_match = _compile(region.get("match"))
         self.region_countries = {c.upper() for c in region.get("author_countries", [])}
@@ -143,12 +145,18 @@ class TopicMatcher:
     def has_work_context(self, text: str) -> bool:
         return any(p.search(text) for p in self.work_context)
 
-    def topics_for(self, text: str) -> list[str]:
+    def has_news_context(self, text: str) -> bool:
+        return any(p.search(text) for p in self.news_context)
+
+    def topics_for(self, text: str, news: bool = False) -> list[str]:
         """Strong phrases tag a topic on their own. Weak phrases (broad
         words like "automation") only count when the text is also about
-        work or organizations."""
+        work or organizations. For news and analysis only, "news_weak"
+        change-event phrases (like "overhaul") count when the story also
+        names workers, staff or jobs (the stricter news_context list)."""
         found = []
         work = None
+        staff = None
         for t in self.topics:
             if any(p.search(text) for p in t["exclude"]):
                 continue
@@ -157,6 +165,10 @@ class TopicMatcher:
                 if work is None:
                     work = self.has_work_context(text)
                 hit = work
+            if not hit and news and t["news_weak"] and any(p.search(text) for p in t["news_weak"]):
+                if staff is None:
+                    staff = self.has_news_context(text)
+                hit = staff
             if hit:
                 found.append(t["id"])
         return found
@@ -233,14 +245,33 @@ def parse_feed(content: bytes) -> list[dict]:
 
 
 def fetch_rss(session, src) -> tuple[list[dict], dict]:
-    errors = []
+    """Read a source's feeds. Normally the first feed that works is used;
+    with combine: true every listed feed is read (e.g. several topic
+    sections of one outlet) and duplicates are dropped. Links matching an
+    exclude_urls pattern (e.g. sponsored posts) are skipped."""
+    errors, used, cands, seen = [], [], [], set()
+    skip = [re.compile(p) for p in src.get("exclude_urls", [])]
     for url in src.get("feeds", []):
         try:
             resp = http_get(session, url)
-            return parse_feed(resp.content), {"feed_used": url}
         except Exception as exc:  # try the next candidate feed
             errors.append(f"{url}: {exc}")
-    raise RuntimeError("; ".join(errors) or "no feeds listed")
+            continue
+        used.append(url)
+        for c in parse_feed(resp.content):
+            link = c.get("url") or ""
+            if link in seen or any(p.search(link) for p in skip):
+                continue
+            seen.add(link)
+            cands.append(c)
+        if not src.get("combine"):
+            break
+    if not used:
+        raise RuntimeError("; ".join(errors) or "no feeds listed")
+    info = {"feed_used": used[0] if len(used) == 1 else used}
+    if errors:
+        info["feeds_failed"] = errors
+    return cands, info
 
 
 def openalex_params(api_key: str, **params) -> dict:
@@ -611,10 +642,11 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         return None
     if src.get("require_work_context") and not matcher.has_work_context(cand["text"]):
         return None
-    topics = matcher.topics_for(cand["text"])
+    news = src["layer"] in ("news", "analysis")
+    topics = matcher.topics_for(cand["text"], news=news)
     if src.get("needs_topic", True) and not topics:
         return None
-    if src.get("require_title_match") and not matcher.topics_for(cand["title"]):
+    if src.get("require_title_match") and not matcher.topics_for(cand["title"], news=news):
         return None
     key = (cand.get("doi") or cand["url"]).lower()
     labels = []

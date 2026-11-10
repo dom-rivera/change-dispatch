@@ -11,6 +11,11 @@
 #   when the item is also about work or organizations, meaning it
 #   contains one of the "work_context" words below.
 #
+#   "news_weak" phrases are change events (like "overhaul" or "return to
+#   office"). They count only for news and analysis stories, and only
+#   when the story also names workers, staff or jobs (the stricter
+#   "news_context" list below). Research papers ignore them.
+#
 # You can edit this file yourself: add or remove phrases, then save.
 # Keep phrases specific. One-word phrases like "change" would match
 # almost everything and flood the site.
@@ -53,6 +58,29 @@ work_context:
   - public sector
   - civil service
 
+# Stricter than work_context: used only for news change-event phrases.
+news_context:
+  - worker
+  - workers
+  - employee
+  - employees
+  - staff
+  - staffers
+  - workforce
+  - workplace
+  - workplaces
+  - job
+  - jobs
+  - employer
+  - employers
+  - labor
+  - labour
+  - civil servants
+  - government workers
+  - teachers
+  - nurses
+  - hr
+
 core:
   - id: change-readiness
     name: Change readiness
@@ -72,6 +100,9 @@ core:
     weak:
       - readiness to change
       - readiness
+    news_weak:
+      - preparing workers
+      - prepare workers
 
   - id: self-efficacy
     name: Self-efficacy
@@ -122,6 +153,19 @@ core:
       - change acceptance
       - cynicism about change
       - change cynicism
+      - attitudes to ai
+      - perceptions of ai
+      - ai resistance
+      - technology adoption
+      - acceptance of technology
+    news_weak:
+      - skeptical
+      - sceptical
+      - pushback
+      - push back
+      - backlash
+      - resist
+      - resisting
 
   - id: organizational-change
     name: Organizational change
@@ -152,6 +196,21 @@ core:
       - downsizing
       - layoffs
       - culture change
+    news_weak:
+      - overhaul
+      - shake-up
+      - shakeup
+      - cost-cutting
+      - cost cutting
+      - redundancies
+      - retrenchment
+      - retrenched
+      - voluntary separation
+      - early retirement
+      - hiring freeze
+      - workforce reduction
+      - job reductions
+      - streamlining
 
   - id: change-management
     name: Change management
@@ -172,6 +231,13 @@ core:
       - kotter
       - adkar
       - lewin
+    news_weak:
+      - rollout
+      - roll out
+      - rolls out
+      - new system
+      - implementation
+      - transition
 
 context:
   - id: leadership
@@ -191,6 +257,21 @@ context:
       - trust in management
       - trust in leadership
       - servant leadership
+      - change leadership
+      - leadership development
+      - authentic leadership
+      - empowering leadership
+      - leader behavior
+      - leader behaviour
+      - managerial support
+    news_weak:
+      - new ceo
+      - ceo steps down
+      - chief people officer
+      - chro
+      - hr chief
+      - hr leaders
+      - managers
 
   - id: well-being
     name: Employee well-being
@@ -219,6 +300,15 @@ context:
       - diagnosis
       - clinical trial
       - medication
+    news_weak:
+      - mental health
+      - stress
+      - wellbeing
+      - well-being
+      - sick leave
+      - workload
+      - workloads
+      - harassment
 
   - id: psych-safety
     name: Psychological safety and culture
@@ -231,6 +321,14 @@ context:
       - organisational justice
       - voice behavior
       - employee voice
+      - speak up culture
+      - speaking up
+    news_weak:
+      - culture
+      - speak up
+      - whistleblower
+      - whistleblowers
+      - toxic
 
   - id: future-of-work
     name: Future of work
@@ -258,6 +356,21 @@ context:
       - skills gap
       - skills gaps
       - four-day week
+      - telework
+      - teleworking
+      - telecommuting
+      - job crafting
+      - skills-based hiring
+      - platform workers
+    news_weak:
+      - return-to-office
+      - back to the office
+      - office return
+      - four-day
+      - remote
+      - hybrid
+      - gig
+      - skills
 
   - id: ai-at-work
     name: AI at work
@@ -298,6 +411,11 @@ context:
       - semiconductor
       - share price
       - stock
+    news_weak:
+      - ai
+      - automated
+      - algorithm
+      - algorithms
 
   - id: labor-economics
     name: Labor economics
@@ -328,6 +446,18 @@ context:
       - stock market
       - share price
       - bond yields
+    news_weak:
+      - trade union
+      - trade unions
+      - labor union
+      - labour union
+      - collective bargaining
+      - strike action
+      - walkout
+      - pay rise
+      - pay raise
+      - salary increase
+      - salaries
 
   - id: behavioral-economics
     name: Behavioral economics
@@ -341,6 +471,19 @@ context:
       - status quo bias
       - present bias
       - choice architecture
+      - default effect
+      - default effects
+      - default options
+      - choice overload
+      - framing effect
+      - framing effects
+      - sunk cost
+      - heuristics and biases
+      - overconfidence
+      - behavioral insights
+      - behavioural insights
+      - behavioral science
+      - behavioural science
 
 # Regional filter: tags items about the Philippines and Southeast Asia.
 # Research papers are also tagged when an author is at an institution

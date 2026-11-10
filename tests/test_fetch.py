@@ -257,3 +257,38 @@ def test_rss_feed(tmp_path):
     assert note.title == "Editor’s Note: First note" and note.link.endswith("#note/2026-11-11-n")
     assert news.title == 'Pay & <bonuses> in "AI" era' and news.link == "https://x.org/a?b=1&c=2"
     assert "Opinion" in news.description and "Philippines & Southeast Asia" in news.description
+
+
+def test_news_change_events_need_staff_words_and_skip_research():
+    day = NOW - timedelta(days=1)
+    kept = build([
+        ("Qantas to cut 850 jobs under AI-driven overhaul", "https://example.org/q", "", day),
+        ("Bank overhaul of mobile app delights customers", "https://example.org/b", "", day),
+        ("Staff push back on return-to-office mandate", "https://example.org/r", "", day),
+    ])
+    assert "organizational-change" in kept[0]["topics"] and "ai-at-work" in kept[0]["topics"]
+    assert kept[1] is None          # change word but no workers, staff or jobs
+    assert "future-of-work" in kept[2]["topics"]
+    # The same change-event words do not count for research papers.
+    research = dict(NEWS, layer="research")
+    [paper] = build([("An overhaul of staff rostering", "https://example.org/p", "", day)], research)
+    assert paper is None
+
+
+def test_combined_feeds_dedupe_and_skip_sponsored(monkeypatch):
+    day = NOW - timedelta(days=1)
+    feeds = {
+        "https://a.example/1": rss([("Remote work and teams", "https://a.example/x", "", day),
+                                    ("Sponsored: our HR suite", "https://a.example/spons/y", "", day)]),
+        "https://a.example/2": rss([("Remote work and teams", "https://a.example/x", "", day),
+                                    ("Hybrid work rules", "https://a.example/z", "", day)]),
+    }
+    class Resp:
+        def __init__(self, c): self.content = c
+    monkeypatch.setattr(fetch, "http_get", lambda s, url, **kw: Resp(feeds[url]))
+    src = {"feeds": list(feeds), "combine": True, "exclude_urls": ["/spons/"]}
+    cands, info = fetch.fetch_rss(None, src)
+    assert [c["url"] for c in cands] == ["https://a.example/x", "https://a.example/z"]
+    assert info["feed_used"] == list(feeds)
+    cands, info = fetch.fetch_rss(None, dict(src, combine=False))
+    assert len(cands) == 1 and info["feed_used"] == "https://a.example/1"
