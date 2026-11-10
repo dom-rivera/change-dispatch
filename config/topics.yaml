@@ -126,12 +126,6 @@ core:
   - id: organizational-change
     name: Organizational change
     match:
-      - reorganization
-      - reorganisation
-      - reorganize
-      - reorganise
-      - restructure
-      - restructured
       - rightsizing
       - job cuts
       - transformation program
@@ -144,10 +138,17 @@ core:
       - organizational transformation
       - organisational transformation
       - digital transformation
+      - mergers and acquisitions
+    weak:
       - restructuring
       - corporate restructuring
+      - reorganization
+      - reorganisation
+      - reorganize
+      - reorganise
+      - restructure
+      - restructured
       - merger
-      - mergers and acquisitions
       - downsizing
       - layoffs
       - culture change
