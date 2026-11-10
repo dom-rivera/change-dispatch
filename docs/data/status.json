@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T02:49:30Z",
+ "generated": "2026-11-10T03:35:30Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -284,7 +284,7 @@
    "kept": 3,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-10T05:35:00Z",
+   "newest_item": "2026-11-10T11:19:50Z",
    "stale": false
   },
   {
@@ -296,7 +296,7 @@
    "kept": 4,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-09T20:27:07Z",
+   "newest_item": "2026-11-10T02:54:54Z",
    "stale": false
   },
   {
@@ -308,7 +308,7 @@
    "kept": 7,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-10T02:31:08Z",
+   "newest_item": "2026-11-10T02:54:54Z",
    "stale": false
   },
   {
@@ -320,7 +320,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.rappler.com/feed/",
-   "newest_item": "2026-11-10T02:24:21Z",
+   "newest_item": "2026-11-10T03:30:00Z",
    "stale": false
   }
  ]
