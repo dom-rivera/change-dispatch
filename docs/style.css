@@ -429,6 +429,7 @@ a:hover { text-decoration: underline; }
 .about .editor-name { font-family: var(--serif); font-size: 24px; font-weight: 700; color: var(--ink); margin: 0; }
 .about .editor-role { font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: .03em;
   text-transform: uppercase; color: var(--muted); margin: 2px 0 12px; }
+.about .editor-links { font-family: var(--sans); font-size: 15px; font-weight: 600; margin-top: -4px; }
 .about a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
 
 /* ---------- Footer ---------- */

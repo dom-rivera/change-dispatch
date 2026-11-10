@@ -373,10 +373,12 @@
     box.textContent = "";
 
     box.appendChild(el("h3", { text: "About the editor" }));
+    var bio = el("p", { text: "Dom Rivera is a Registered Psychometrician and a Master of Arts in Psychology graduate candidate at Lyceum of the Philippines University \u2013 Batangas, where his thesis examines AI change readiness and organizational change. He works in HR shared services and previously taught psychology at the college level. He started The Change Dispatch to follow new research and news on how people respond to change at work, and to keep that reading list open to anyone." });
     box.appendChild(el("div", { class: "editor" }, [
       el("p", { class: "editor-name", text: "Dom Rivera" }),
-      el("p", { class: "editor-role", text: "Editor \u00b7 Master of Arts in Psychology student" }),
-      para("Dom researches how people respond to change at work, focusing on change readiness, self-efficacy and openness to organizational change. The Change Dispatch began as a way to follow new research and news on these questions every day, and to make that reading list open to anyone."),
+      el("p", { class: "editor-role", text: "Editor \u00b7 Registered Psychometrician" }),
+      bio,
+      el("p", { class: "editor-links" }, [link("https://www.linkedin.com/in/dom-joseph-rivera", "LinkedIn")]),
       para("The editor chooses the sources, topics and rules. The daily collection is automated and applies those rules the same way every day; the editor reviews corrections and source suggestions.")
     ]));
 
