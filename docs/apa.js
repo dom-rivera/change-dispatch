@@ -17,6 +17,8 @@
   function apaName(full) {
     full = String(full || "").replace(/\s+/g, " ").trim();
     if (!full) return "";
+    // Organisations and news agencies keep their full name (APA group authors)
+    if (/\b(agence|press|presse|reuters|bloomberg|associated|agency|news|newswire|bulletin|times|inquirer|staff|desk|organisation|organization|institute|bank|ministry|department|authority|university|council|association|foundation|OECD|IMF|ILO|PSA|DOLE|AFP|AP)\b/i.test(full)) return full;
     var family, given;
     if (full.indexOf(",") > 0) {
       family = full.slice(0, full.indexOf(",")).trim();
