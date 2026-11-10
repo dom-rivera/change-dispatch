@@ -524,12 +524,66 @@ sources:
     kind: rss
     feeds:
       - https://www.rappler.com/feed/
+      - https://www.rappler.com/business/feed/
+    combine: true
     window_days: 7
     needs_topic: true
     enabled: true
     note: Philippine news site. Only work-related stories pass the topic filter.
 
+  - id: gma-news
+    name: GMA News
+    layer: news
+    kind: rss
+    combine: true
+    feeds:
+      - https://data.gmanetwork.com/gno/rss/money/feed.xml
+      - https://data.gmanetwork.com/gno/rss/news/feed.xml
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Major Philippine broadcaster's news site; free to read. Money and News feeds checked 10 Nov 2026."
+
+  - id: inquirer-news
+    name: Inquirer News
+    layer: news
+    kind: rss
+    feeds:
+      - https://newsinfo.inquirer.net/feed
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Philippine Daily Inquirer's general news section (labor, DOLE and public-sector stories). Checked 10 Nov 2026."
+
+  - id: sunstar
+    name: SunStar
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.sunstar.com.ph/feed
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Regional Philippine newspapers (Cebu, Davao, Iloilo and others); free to read. Its feed sometimes carries company announcements; watch the weekly review. Checked 10 Nov 2026."
+
+  - id: malay-mail
+    name: Malay Mail (Money)
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.malaymail.com/feed/rss/money
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: "Malaysian news site; free to read. Checked 10 Nov 2026."
+
   # Checked 10 Nov 2026 but not added:
+  #   ABS-CBN News: blocks automated readers (HTTP 403).
+  #   Bangkok Post: paywall since August 2026.
+  #   Manila Times: its feeds mix in sponsored and company notices.
+  #   Thai PBS World, Philippine News Agency: no working feed.
+  #   VnExpress International, ANTARA: free, but state-controlled media;
+  #     not added for now (editor's decision pending).
   #   World Economic Forum: blocks automated readers (HTTP 403), and it is
   #     an advocacy organization rather than a newsroom.
   #   People Matters and Gallup workplace: no public feed found.

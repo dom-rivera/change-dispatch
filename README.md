@@ -71,6 +71,7 @@ Items and editions stay available for a year. The same run then publishes any Ed
 - **Run an update now:** Actions tab → Daily edition → Run workflow.
 - **Write an Editor's Note:** see `notes/README.md`; copy `notes/_template.md` into a new file and commit.
 - **Check a suggested feed before adding it:** Actions tab → Check candidate feeds → Run workflow, paste the feed address. It reports whether the site allows automated readers and shows recent headlines and links.
+- **Weekly review:** every Monday at 8:47 AM Manila a GitHub issue lists the week's new items (news first). Skim it, remove anything off-topic via `config/removed.yaml`, then close the issue. Run it anytime: Actions tab → Weekly review → Run workflow.
 - **Check every link:** Actions tab → Audit links → Run workflow (also confirms each research paper's free-access status and that the live site matches this repository).
 
 ## Setup (one time)

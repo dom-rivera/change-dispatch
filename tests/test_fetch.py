@@ -311,3 +311,24 @@ def test_editor_removed_items_are_dropped():
     assert fetch.drop_removed(items, {"https://a.example/1"}) == [items[1]]
     assert fetch.drop_removed(items, {"10.1/x"}) == [items[0]]
     assert all(r.startswith("https://") for r in fetch.removed_urls())
+
+
+def test_weekly_review_lists_recent_items_safely():
+    import weekly_review as wr
+    now = NOW
+    doc = {"topics": [{"id": "ai-at-work", "name": "AI at work"}], "items": [
+        {"title": "Hi @octocat see #12 *bold* [x](javascript:1)", "url": "https://n.example/a",
+         "source": "Test News", "layer": "news", "topics": ["ai-at-work"], "region": True,
+         "first_seen": (now - timedelta(days=1)).isoformat()},
+        {"title": "Old story", "url": "https://n.example/old", "source": "Test News", "layer": "news",
+         "topics": [], "first_seen": (now - timedelta(days=9)).isoformat()},
+        {"title": "A paper", "url": "javascript:alert(1)", "source": "J", "layer": "research",
+         "topics": [], "first_seen": (now - timedelta(days=2)).isoformat()},
+    ]}
+    title, body = wr.build(doc, None, now, "owner/repo")
+    assert title.startswith("Weekly review:")
+    assert "**2 items**" in body and "Old story" not in body
+    assert "@octocat" not in body and "@​octocat" in body
+    assert "\\#12" in body and "\\*bold\\*" in body
+    assert "](https://n.example/a)" in body and "](javascript" not in body
+    assert "<details>" in body and "AI at work" in body and "PH & SE Asia" in body

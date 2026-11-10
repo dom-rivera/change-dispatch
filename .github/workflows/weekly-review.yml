@@ -1,0 +1,24 @@
+name: Weekly review
+
+on:
+  schedule:
+    - cron: "47 0 * * 1"   # Mondays 8:47 AM Manila
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0  # v7.1.0
+        with:
+          python-version: "3.12"
+      - name: Open this week's review issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/weekly_review.py
