@@ -45,6 +45,9 @@ jobs:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: python scripts/fetch.py
 
+      - name: Build the editor's notes (publishes notes scheduled for today)
+        run: python scripts/build_notes.py
+
       - name: Publish the new edition
         run: |
           git config user.name "dom-rivera"

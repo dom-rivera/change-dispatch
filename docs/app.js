@@ -13,7 +13,7 @@
 
   var state = {
     items: [], byId: {}, topics: [], region: null, status: null, generated: null,
-    editions: null, editionCache: {}, type: "All", query: ""
+    editions: null, editionCache: {}, notes: [], type: "All", query: ""
   };
 
   var $ = function (id) { return document.getElementById(id); };
@@ -81,6 +81,9 @@
       note: "Current items about the region, or research by authors at institutions in the region.",
       filter: function (i) { return isCurrent(i) && i.region; }
     };
+    if (h === "notes") return { key: h, title: "Editor\u2019s Notes", notesList: true,
+      note: "A weekly note from the editor connecting the week\u2019s news and research to theory on change at work." };
+    if (h.indexOf("note/") === 0) return { key: "notes", noteSlug: h.slice(5) };
     if (h === "editions") return { key: h, title: "Past Editions", editionsList: true,
       note: "Every day's reading list is saved. Pick a date to see the list as it appeared that day." };
     if (h.indexOf("edition/") === 0) return { key: "editions", edition: h.slice(8) };
@@ -227,6 +230,8 @@
     $("stories").hidden = mode !== "stories";
     $("about-page").hidden = mode !== "about";
     $("editions-page").hidden = mode !== "editions";
+    $("notes-page").hidden = mode !== "notes";
+    $("note-box").hidden = true;
     $("edition-nav").hidden = true;
     $("empty").hidden = true;
   }
@@ -270,11 +275,14 @@
     $("section-note").textContent = sec.note || "";
     $("section-extra").textContent = "";
 
+    if (sec.noteSlug) { show("notes"); renderNote(sec.noteSlug); return; }
+    if (sec.notesList) { show("notes"); renderNotesList(); return; }
     if (sec.about) { show("about"); renderAbout($("about-page")); return; }
     if (sec.editionsList) { show("editions"); renderEditionsList(); return; }
 
     show("stories");
     renderChips();
+    if (sec.key === "today") renderNoteBox();
     if (sec.showEditionsLink && state.editions && state.editions.length > 1) {
       $("section-extra").appendChild(el("a", { href: "#editions", text: "Browse past editions →" }));
     }
@@ -359,6 +367,70 @@
       $("empty").hidden = false;
       $("empty").textContent = "There is no saved edition for this date.";
     });
+  }
+
+  /* ---------------- Editor's Notes ---------------- */
+
+  function noteMeta(n) {
+    return "By " + n.author + " \u00b7 " + longDate(n.date) + " \u00b7 " + n.minutes + " min read";
+  }
+
+  function renderNoteBox() {
+    var box = $("note-box");
+    box.textContent = "";
+    var n = state.notes[0];
+    if (!n) return;
+    box.appendChild(el("p", { class: "note-kicker", text: "Editor\u2019s Note" }));
+    box.appendChild(el("h3", { class: "note-box-title" }, [el("a", { href: "#note/" + n.slug, text: n.title })]));
+    box.appendChild(el("p", { class: "note-box-summary", text: n.summary }));
+    box.appendChild(el("p", { class: "note-box-meta" }, [
+      document.createTextNode(noteMeta(n) + " \u00b7 "),
+      el("a", { href: "#note/" + n.slug, text: "Read the note \u2192" })
+    ]));
+    box.hidden = false;
+  }
+
+  function renderNotesList() {
+    var box = $("notes-page");
+    box.textContent = "";
+    if (!state.notes.length) {
+      box.appendChild(el("p", { class: "empty", text: "The first Editor\u2019s Note is coming soon." }));
+      return;
+    }
+    state.notes.forEach(function (n) {
+      box.appendChild(el("article", { class: "note-item" }, [
+        el("h3", { class: "headline" }, [el("a", { href: "#note/" + n.slug, text: n.title })]),
+        el("p", { class: "note-box-summary", text: n.summary }),
+        el("p", { class: "note-box-meta", text: noteMeta(n) })
+      ]));
+    });
+  }
+
+  function renderNote(slug) {
+    var box = $("notes-page");
+    box.textContent = "";
+    var n = null;
+    state.notes.forEach(function (x) { if (x.slug === slug) n = x; });
+    if (!n) {
+      $("section-title").textContent = "Editor\u2019s Notes";
+      $("section-note").textContent = "";
+      box.appendChild(el("p", { class: "empty", text: "This note could not be found. It may have been moved or removed." }));
+      box.appendChild(el("p", {}, [el("a", { href: "#notes", text: "All notes" })]));
+      return;
+    }
+    $("section-title").textContent = n.title;
+    $("section-note").textContent = noteMeta(n);
+    $("section-extra").textContent = "";
+    var body = el("div", { class: "note-body" });
+    body.innerHTML = n.html;   // built by scripts/build_notes.py: raw HTML escaped, only http(s) links
+    box.appendChild(el("p", { class: "note-kicker", text: "Editor\u2019s Note" }));
+    box.appendChild(body);
+    box.appendChild(el("p", { class: "note-footer" }, [
+      document.createTextNode("Views are the editor\u2019s own. "),
+      el("a", { href: "#notes", text: "All notes" }),
+      document.createTextNode(" \u00b7 "),
+      el("a", { href: "#today", text: "Today\u2019s Dispatch" })
+    ]));
   }
 
   /* ---------------- About ---------------- */
@@ -462,11 +534,13 @@
   Promise.all([
     getJSON("data/items.json").catch(function () { return null; }),
     getJSON("data/status.json").catch(function () { return null; }),
-    getJSON("data/editions/index.json").catch(function () { return null; })
+    getJSON("data/editions/index.json").catch(function () { return null; }),
+    getJSON("data/notes.json").catch(function () { return null; })
   ]).then(function (res) {
     var data = res[0];
     state.status = res[1];
     state.editions = res[2] ? res[2].editions : [];
+    state.notes = res[3] ? res[3].notes || [] : [];
     if (data) {
       state.items = data.items || [];
       state.items.forEach(function (i) { state.byId[i.id] = i; });

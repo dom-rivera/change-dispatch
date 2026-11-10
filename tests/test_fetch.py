@@ -214,3 +214,25 @@ def test_bylines_drop_job_titles_and_places():
     assert fetch.clean_byline("Ben Reyes, Technology correspondent".split(", ")[0]) == "Ben Reyes"
     assert fetch.clean_byline("Staff reporter") == ""
     assert fetch.clean_byline("Maria Santos") == "Maria Santos"
+
+
+def test_editors_notes(tmp_path):
+    import build_notes
+    (tmp_path / "_template.md").write_text("---\ntitle: T\ndate: 2026-01-01\n---\nx")
+    (tmp_path / "2026-11-10-first.md").write_text(
+        "---\ntitle: \"Readiness: a first look\"\ndate: 2026-11-10\n---\n"
+        "Layoffs test *readiness*. <script>alert(1)</script> [bad](javascript:alert(1)) "
+        "[paper](https://doi.org/10.1/x)\n\n## Theory\n\nMore text.")
+    (tmp_path / "2026-11-20-later.md").write_text("---\ntitle: Later\ndate: 2026-11-20\n---\nSoon.")
+    (tmp_path / "draft.md").write_text("---\ntitle: D\ndate: 2026-11-01\ndraft: true\n---\nWIP")
+    notes = build_notes.build(tmp_path, today="2026-11-10")
+    assert [n["slug"] for n in notes] == ["2026-11-10-first"]   # template, draft, future skipped
+    n = notes[0]
+    assert n["title"] == "Readiness: a first look" and n["author"] == "Dom Rivera"
+    assert "<script>" not in n["html"] and "javascript:" not in n["html"].split("href=")[-1][:20]
+    assert 'target="_blank" rel="noopener noreferrer"' in n["html"]
+    assert n["summary"].startswith("Layoffs test readiness.")
+    (tmp_path / "broken.md").write_text("no front matter")
+    import pytest
+    with pytest.raises(build_notes.NoteError):
+        build_notes.build(tmp_path, today="2026-11-10")
