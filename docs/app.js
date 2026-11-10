@@ -103,7 +103,7 @@
     }
     return {
       key: "today", title: "Today’s Dispatch",
-      note: "Everything still inside its freshness window: 7 days for news, 14 for analysis, 30 for preprints, 60 for research and reports.",
+      note: "Everything still inside its freshness window: 7 days for news, 30 for analysis and preprints, 60 for research and reports.",
       filter: isCurrent, showEditionsLink: true
     };
   }

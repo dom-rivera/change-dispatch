@@ -43,8 +43,9 @@ Each morning (6:17 AM Manila, with backup runs at 7:47 AM, 10:17 AM and 5:47 PM 
 
 - reads news feeds (RSS), journal papers through [OpenAlex](https://openalex.org) and PsyArXiv preprints through the OSF API;
 - runs two targeted research searches (core constructs, and authors at Philippine institutions) limited to DOAJ-listed journals with an h-index of 30+, English, with the topic in the title;
-- applies a **freshness window** per source (7 days for news, 14 for analysis, 30 for preprints, 60 for research and reports) using the real publication date;
+- applies a **freshness window** per source (7 days for news, 30 for analysis and preprints, 60 for research and reports) using the real publication date;
 - drops items with no date, paywalled papers, retracted papers and anything that doesn't match a topic;
+- for news and analysis only, also counts change events (an overhaul, layoffs, a return-to-office rule, an AI rollout) when the story names workers, staff or jobs; sponsored posts and reader call-outs are skipped;
 - removes duplicates, tags topics and the regional filter, and saves the result;
 - records which sources worked in `docs/data/status.json`, shown on the site's "About & sources" page;
 - saves the day's edition in `docs/data/editions/` so readers can browse past days under "Past Editions".
@@ -54,6 +55,7 @@ Items and editions stay available for a year. The same run then publishes any Ed
 ## Site features
 
 - Today's Dispatch, Front Page (core topics), Research Desk, Philippines & SE Asia, a page per topic, Archive (a year, searchable)
+- Topics menu with the number of current items per topic; a topic page with few current items also shows recent older ones under "Earlier in the archive"
 - Past Editions: each day's reading list, with day-to-day navigation
 - Editor's Notes: a monthly note by the editor
 - Cite (APA 7) on every item, copied with italics for Word or Google Docs
@@ -67,6 +69,7 @@ Items and editions stay available for a year. The same run then publishes any Ed
 - **Adjust a topic:** edit the phrases in `config/topics.yaml`.
 - **Run an update now:** Actions tab → Daily edition → Run workflow.
 - **Write an Editor's Note:** see `notes/README.md`; copy `notes/_template.md` into a new file and commit.
+- **Check a suggested feed before adding it:** Actions tab → Check candidate feeds → Run workflow, paste the feed address. It reports whether the site allows automated readers and shows recent headlines and links.
 - **Check every link:** Actions tab → Audit links → Run workflow (also confirms each research paper's free-access status and that the live site matches this repository).
 
 ## Setup (one time)

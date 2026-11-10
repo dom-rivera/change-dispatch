@@ -365,7 +365,7 @@ sources:
       - https://theconversation.com/topics/remote-working-39817/articles.atom
       - https://theconversation.com/topics/automation-4443/articles.atom
       - https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom
-    window_days: 14
+    window_days: 30     # commentary stays useful longer than breaking news
     needs_topic: true
     enabled: true
     note: "Written by academics, edited by journalists, published under Creative Commons. Topic feeds (work, future of work, remote working, automation, AI) checked 10 Nov 2026."
