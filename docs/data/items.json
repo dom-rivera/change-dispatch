@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T02:41:02Z",
- "count": 137,
+ "generated": "2026-11-10T02:45:12Z",
+ "count": 143,
  "topics": [
   {
    "id": "change-readiness",
@@ -1712,6 +1712,42 @@
     "container": "Frontiers in Sociology",
     "volume": "11",
     "doi": "https://doi.org/10.3389/fsoc.2026.1953897"
+   }
+  },
+  {
+   "id": "1094a2b6bf360a51",
+   "title": "Assessment of teacher performance and learner behavior using artificial intelligence in higher education: an integrative review of literature",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1949516/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:45:12Z",
+   "window_days": 90,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Michael Joseph S. Diño",
+     "Princess Sarah Bahaynon",
+     "Jelaine Beniopa",
+     "Mary France Villaluz",
+     "Shiena Mae Maravillas",
+     "Luis Ezra Cruz",
+     "Jian Zhou",
+     "Elaine Lanuza",
+     "Potenciana Maroma",
+     "Mona M Shattell"
+    ],
+    "container": "Frontiers in Education",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/feduc.2026.1949516"
    }
   },
   {
@@ -3552,6 +3588,36 @@
    }
   },
   {
+   "id": "368d2942afa3ea9b",
+   "title": "Teacher autonomy support and music learning engagement: conditional associations of self-efficacy and discrete achievement emotions among university music students",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1947710/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:45:12Z",
+   "window_days": 90,
+   "topics": [
+    "self-efficacy"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Honghua Xu",
+     "WEI LIU"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1947710",
+    "last_page": "1947710",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1947710"
+   }
+  },
+  {
    "id": "d1836b6f112f4e8e",
    "title": "Beyond the Paper: Who is the Researcher When Generative Artificial Intelligence (GenAI) Does the Writing?",
    "url": "https://doi.org/10.1177/00218863261488837",
@@ -4267,6 +4333,179 @@
     ],
     "container": "The Journal of Applied Behavioral Science",
     "doi": "https://doi.org/10.1177/00218863261488856"
+   }
+  },
+  {
+   "id": "f3a02e5da4dc3fba",
+   "title": "When personal resources may not be enough: burnout, psychological capital, and empathy among pediatric nurses in a Chinese tertiary hospital — an explanatory sequential mixed methods study",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1912710/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-09T00:00:00Z",
+   "first_seen": "2026-11-10T02:45:12Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Qiong Chen",
+     "Ying Xin Li",
+     "張秀娟",
+     "Yanling Hu",
+     "Hongyu Huang",
+     "Yuan Li"
+    ],
+    "container": "Frontiers in Public Health",
+    "volume": "14",
+    "first_page": "1912710",
+    "last_page": "1912710",
+    "doi": "https://doi.org/10.3389/fpubh.2026.1912710"
+   }
+  },
+  {
+   "id": "0a4bc6d4dabb0510",
+   "title": "Preservice life sciences teachers’ readiness for AI integration in teaching across varying socioeconomic contexts",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02140-2.pdf",
+   "source": "Discover Education",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-09T00:00:00Z",
+   "first_seen": "2026-11-10T02:45:12Z",
+   "window_days": 90,
+   "topics": [
+    "change-readiness",
+    "self-efficacy",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lindelani E. Mnguni",
+     "Prasart Nuangchalerm",
+     "Indah Juwita Sari",
+     "Moleboheng Ramulumo",
+     "Jun Solver Camara",
+     "Nguyễn Văn Biên",
+     "R. Ahmad Zaky El Islami"
+    ],
+    "container": "Discover Education",
+    "volume": "5",
+    "issue": "1",
+    "doi": "https://doi.org/10.1007/s44217-026-02140-2"
+   }
+  },
+  {
+   "id": "d97a76847599ebec",
+   "title": "Burnout indicators among operators of Lebanon’s national suicide prevention lifeline during the 2024 war: organizational correlates and implications for hotline practice",
+   "url": "https://doi.org/10.1186/s12888-026-08591-z",
+   "source": "BMC Psychiatry",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-07T00:00:00Z",
+   "first_seen": "2026-11-10T02:45:12Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Dina Farran",
+     "Mahatab El Haj",
+     "Ghida Chiha",
+     "Rahaf El Fouani",
+     "Jinane Abi Ramia",
+     "Philip Noun",
+     "Lea Zeinoun",
+     "Mia Atoui",
+     "Rabih El Chammay"
+    ],
+    "container": "BMC Psychiatry",
+    "doi": "https://doi.org/10.1186/s12888-026-08591-z"
+   }
+  },
+  {
+   "id": "4a618f477aa405c1",
+   "title": "Measuring the composition and availability of human resources for health by sex in 204 countries and territories, 1990–2023, and workforce gaps for universal health coverage: a systematic analysis for the Global Burden of Disease Study 2023",
+   "url": "https://doi.org/10.1016/s2468-2667(26)00145-3",
+   "source": "The Lancet Public Health",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-08-18T00:00:00Z",
+   "first_seen": "2026-11-10T02:45:12Z",
+   "window_days": 90,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Megan Knight",
+     "Kelly Bienhoff",
+     "A. Bhoomadevi",
+     "Hazim S Ababneh",
+     "Madineh Abbasi",
+     "Zahra Abbasi Dolatabadi",
+     "Mitra Abbasifard",
+     "Samar Abd ElHafeez",
+     "Ashraf N. Abdalla",
+     "Reda Abdel-Hameed",
+     "Atef Abdelkader",
+     "Sherief Mohamed Abd-Elsalam",
+     "Deldar Morad Abdulah",
+     "Auwal Abdullahi",
+     "Meklit Girma Abebe",
+     "Tesfaye Birhanu Abebe",
+     "Habtamu Abebe Getahun",
+     "Armita Abedi",
+     "Asrat Agalu Abejew",
+     "E S Abhilash",
+     "Alemwork Abie",
+     "Richard Gyan Aboagye",
+     "Abdullahi Tunde Aborode",
+     "Nagah M. Abourashed",
+     "Mohamed Abouzid",
+     "Lucas Guimarães Abreu",
+     "Michael R.M. Abrigo",
+     "Dariush Abtahi",
+     "Amr Selim Abu Lila",
+     "Bilyaminu Abubakar",
+     "Rana Kamal Abu-Farha",
+     "Eman Abu-Gharbieh",
+     "Ahmad Y. Abuhelwa",
+     "Hana J Abukhadijah",
+     "Anirudh Balakrishna Acharya",
+     "Krishna Prasad Acharya",
+     "Swetha Acharya",
+     "Maryam Adabi",
+     "Lisa C. Adams",
+     "Nuhu Lawan Adamu"
+    ],
+    "container": "The Lancet Public Health",
+    "volume": "11",
+    "issue": "9",
+    "first_page": "e604",
+    "last_page": "e629",
+    "doi": "https://doi.org/10.1016/s2468-2667(26)00145-3"
    }
   }
  ]

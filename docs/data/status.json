@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T02:41:02Z",
+ "generated": "2026-11-10T02:45:12Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -159,26 +159,25 @@
    "name": "Philippine research search",
    "layer": "research",
    "ok": true,
-   "found": 53,
-   "kept": 14,
+   "found": 66,
+   "kept": 6,
    "error": null,
    "results_per_phrase": {
-    "employees": 25,
-    "workplace": 25,
+    "employees": 13,
+    "workplace": 13,
     "organizational": 25,
-    "work engagement": 14,
-    "burnout": 25,
+    "work engagement": 2,
+    "burnout": 6,
     "leadership": 25,
-    "job satisfaction": 25,
+    "job satisfaction": 2,
     "teachers": 25,
-    "nurses": 25,
-    "self-efficacy": 25,
-    "readiness": 25,
-    "artificial intelligence": 25
+    "nurses": 11,
+    "self-efficacy": 13,
+    "change": 25
    },
-   "dropped_low_h_index": 169,
-   "min_h_index": 20,
-   "newest_item": "2026-11-08T00:00:00Z",
+   "dropped_low_h_index": 57,
+   "min_h_index": 30,
+   "newest_item": "2026-11-07T00:00:00Z",
    "stale": false
   },
   {
@@ -311,24 +310,6 @@
    "feed_used": "https://www.theguardian.com/technology/rss",
    "newest_item": "2026-11-10T01:40:32Z",
    "stale": false
-  },
-  {
-   "id": "businessmirror",
-   "name": "BusinessMirror",
-   "layer": "news",
-   "ok": false,
-   "found": 0,
-   "kept": 0,
-   "error": "https://businessmirror.com.ph/feed/: 403 Client Error: Forbidden for url: https://businessmirror.com.ph/feed/; https://businessmirror.com.ph/feed: 403 Client Error: Forbidden for url: https://businessmirror.com.ph/feed"
-  },
-  {
-   "id": "manila-bulletin",
-   "name": "Manila Bulletin",
-   "layer": "news",
-   "ok": false,
-   "found": 0,
-   "kept": 0,
-   "error": "https://mb.com.ph/rss/articles: 403 Client Error: Forbidden for url: https://mb.com.ph/rss/articles"
   },
   {
    "id": "rappler",
