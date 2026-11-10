@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T04:38:02Z",
- "count": 213,
+ "generated": "2026-11-10T04:43:01Z",
+ "count": 216,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,31 @@
  },
  "items": [
   {
+   "id": "c192059b41fa366e",
+   "title": "BARMM employees eager for year-end bonus under regular parliament",
+   "url": "https://newsinfo.inquirer.net/2339030/barmm-employees-eager-for-year-end-bonus-under-regular-parliament",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T12:34:55Z",
+   "first_seen": "2026-11-10T04:43:01Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cavendano"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
    "id": "fcb3f7e4a4ca1eef",
    "title": "Marcos leads rollout of laptops for schoolteachers",
    "url": "https://newsinfo.inquirer.net/2338731/marcos-leads-rollout-of-laptops-for-schoolteachers",
@@ -91,6 +116,29 @@
      "cbuban"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "5e28a2dd8960ab30",
+   "title": "DOLE to employers: Release 13th month pay by Christmas Eve 2026",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1008943/dole-to-employers-release-13th-month-pay-by-istmas-eve-2026/story/",
+   "source": "GMA News",
+   "source_id": "gma-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T04:06:15Z",
+   "first_seen": "2026-11-10T04:43:01Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "GMA News",
+    "authors": []
    }
   },
   {
@@ -559,6 +607,31 @@
      "CEDTyClea"
     ],
     "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "26a21b3e26729c78",
+   "title": "DBM: Release year-end bonus, cash gift with first November salary",
+   "url": "https://www.sunstar.com.ph/cebu/dbm-release-year-end-bonus-cash-gift-with-first-nov-salary",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T11:52:05Z",
+   "first_seen": "2026-11-10T04:43:01Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "SunStar Cebu"
+    ],
+    "container": "SunStar"
    }
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:38:02Z",
+ "generated": "2026-11-10T04:43:01Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -458,13 +458,13 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": [
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-10T04:19:16Z",
+   "newest_item": "2026-11-10T04:44:42Z",
    "stale": false
   },
   {
@@ -473,7 +473,7 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
    "newest_item": "2026-11-10T12:34:55Z",
@@ -485,7 +485,7 @@
    "layer": "news",
    "ok": true,
    "found": 7,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
    "newest_item": "2026-11-10T02:56:29Z",

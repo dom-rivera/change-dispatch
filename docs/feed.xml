@@ -6,13 +6,42 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:38:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:43:01 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>BARMM employees eager for year-end bonus under regular parliament</title>
+      <link>https://newsinfo.inquirer.net/2339030/barmm-employees-eager-for-year-end-bonus-under-regular-parliament</link>
+      <guid isPermaLink="false">c192059b41fa366e</guid>
+      <pubDate>Tue, 10 Nov 2026 04:43:01 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 10, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>cavendano</dc:creator>
+    </item>
+    <item>
+      <title>DOLE to employers: Release 13th month pay by Christmas Eve 2026</title>
+      <link>https://www.gmanetwork.com/news/topstories/nation/1008943/dole-to-employers-release-13th-month-pay-by-istmas-eve-2026/story/</link>
+      <guid isPermaLink="false">5e28a2dd8960ab30</guid>
+      <pubDate>Tue, 10 Nov 2026 04:43:01 GMT</pubDate>
+      <description>News · GMA News · Published Nov 10, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
+    <item>
+      <title>DBM: Release year-end bonus, cash gift with first November salary</title>
+      <link>https://www.sunstar.com.ph/cebu/dbm-release-year-end-bonus-cash-gift-with-first-nov-salary</link>
+      <guid isPermaLink="false">26a21b3e26729c78</guid>
+      <pubDate>Tue, 10 Nov 2026 04:43:01 GMT</pubDate>
+      <description>News · SunStar · Published Nov 9, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>SunStar Cebu</dc:creator>
+    </item>
     <item>
       <title>Marcos leads rollout of laptops for schoolteachers</title>
       <link>https://newsinfo.inquirer.net/2338731/marcos-leads-rollout-of-laptops-for-schoolteachers</link>
@@ -639,39 +668,6 @@
       <category>Employee well-being</category>
       <category>Future of work</category>
       <dc:creator>Yasue Yamazumi, Mina Sakurai, Rika Matsumoto</dc:creator>
-    </item>
-    <item>
-      <title>How perceived restorativeness in rural tourism destinations influences job crafting willingness among knowledge workers through psychological restoration and psychological richness</title>
-      <link>https://www.nature.com/articles/s41598-026-71903-6_reference.pdf</link>
-      <guid isPermaLink="false">3dadc58f723bfda6</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Scientific Reports · Published Oct 8, 2026 · Free to read. Topics: Future of work.</description>
-      <category>Peer-reviewed</category>
-      <category>Future of work</category>
-      <dc:creator>Zhuquan Yang, Qiaolan Su</dc:creator>
-    </item>
-    <item>
-      <title>Digital health capacity building across health workforce and education sector in the WHO European region</title>
-      <link>https://www.nature.com/articles/s41746-026-03337-3_reference.pdf</link>
-      <guid isPermaLink="false">48a7329c6d195c3f</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · npj Digital Medicine · Published Oct 7, 2026 · Free to read. Topics: Future of work, Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Future of work</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Wiriya Mahikul, Mabel Prendergast, Gabriele Keziah Kerr, Sara Sousi, Benedict W. J. Hayhoe, Geva Greenfield</dc:creator>
-    </item>
-    <item>
-      <title>Beyond technology acceptance: AI-application readiness and continuance intention among Chinese university students—a measurement-aware secondary analysis</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1963259/pdf</link>
-      <guid isPermaLink="false">dd3067925eacd292</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 1, 2026 · Free to read. Topics: Change readiness, Openness to change.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <category>Openness to change</category>
-      <dc:creator>Yunxia Sun, Yan Li</dc:creator>
     </item>
   </channel>
 </rss>
