@@ -163,6 +163,8 @@ core:
       - acceptance of technology
       - attitudes towards artificial intelligence
       - attitudes toward artificial intelligence
+      - artificial intelligence acceptance
+      - acceptance of artificial intelligence
     news_weak:
       - skeptical
       - sceptical
@@ -338,7 +340,6 @@ context:
       - workloads
       - harassment
     weak:
-      - stress
       - stressors
       - wellbeing
       - well-being
