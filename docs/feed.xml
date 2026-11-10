@@ -6,7 +6,7 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:19:27 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
@@ -158,16 +158,6 @@
       <category>Future of work</category>
       <category>Labor economics</category>
       <dc:creator>Patrick Butler</dc:creator>
-    </item>
-    <item>
-      <title>Pennsylvania Democrats now have power to push forward on election reform, marijuana legalization and minimum wage increases</title>
-      <link>https://theconversation.com/pennsylvania-democrats-now-have-power-to-push-forward-on-election-reform-marijuana-legalization-and-minimum-wage-increases-295731</link>
-      <guid isPermaLink="false">585ee1e6e2d74964</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Expert analysis · The Conversation · Published Nov 4, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>Expert analysis</category>
-      <category>Labor economics</category>
-      <dc:creator>Daniel J. Mallinson, Associate Professor of Public Policy, Administration, Penn State</dc:creator>
     </item>
     <item>
       <title>Building innovative work behavior in MSMEs: the role of transformational leadership, adaptive organizational culture, and employee resilience</title>
@@ -673,6 +663,16 @@
       <category>Employee well-being</category>
       <category>Future of work</category>
       <dc:creator>E Bracho Montes de Oca, K De Meulemeester, L Bernaers, B Cagnie, B De Geus, Rani De Pauw</dc:creator>
+    </item>
+    <item>
+      <title>Upskilling, reskilling, or deskilling? Welfare technology and job satisfaction in care work</title>
+      <link>https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.332/72462598/ckag169.332.pdf</link>
+      <guid isPermaLink="false">2f7297b18d23aff9</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>Peer-reviewed · European Journal of Public Health · Published Oct 1, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>E Nordlander, D Dellve, S Frennert, M Naseer, K Skagert</dc:creator>
     </item>
   </channel>
 </rss>

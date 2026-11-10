@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T04:14:27Z",
- "count": 212,
+ "generated": "2026-11-10T04:19:27Z",
+ "count": 211,
  "topics": [
   {
    "id": "change-readiness",
@@ -1300,34 +1300,6 @@
     "authors": [
      "Peter J. Marshall"
     ]
-   }
-  },
-  {
-   "id": "585ee1e6e2d74964",
-   "title": "Pennsylvania Democrats now have power to push forward on election reform, marijuana legalization and minimum wage increases",
-   "url": "https://theconversation.com/pennsylvania-democrats-now-have-power-to-push-forward-on-election-reform-marijuana-legalization-and-minimum-wage-increases-295731",
-   "source": "The Conversation",
-   "source_id": "the-conversation",
-   "layer": "analysis",
-   "type": "Expert analysis",
-   "published": "2026-11-04T19:42:28Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 30,
-   "topics": [
-    "labor-economics"
-   ],
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Daniel J. Mallinson",
-     "Associate Professor of Public Policy",
-     "Administration",
-     "Penn State"
-    ],
-    "container": "The Conversation"
    }
   },
   {
