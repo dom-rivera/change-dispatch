@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T05:10:30Z",
- "count": 171,
+ "generated": "2026-11-10T17:19:52Z",
+ "count": 175,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,116 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "26e9c353b051e76a",
+   "title": "Defense sees no need to change strategy, says it does not coach witnesses",
+   "url": "https://newsinfo.inquirer.net/2339415/defense-sees-no-need-to-change-strategy-says-it-does-not-coach-witnesses",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T23:01:14Z",
+   "first_seen": "2026-11-10T17:19:52Z",
+   "window_days": 7,
+   "topics": [
+    "change-management"
+   ],
+   "why": {
+    "change-management": {
+     "phrase": "change strategy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "3fe539ede43920ab",
+   "title": "Palace: Corruption issues affecting OVP employees’ mental health",
+   "url": "https://newsinfo.inquirer.net/2339272/palace-corruption-issues-affecting-ovp-employees-mental-health",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T17:59:26Z",
+   "first_seen": "2026-11-10T17:19:52Z",
+   "window_days": 7,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "mental health",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "mesarangay"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "3351b7576855b264",
+   "title": "Are Workplace Tolerance and Individual Autonomy associated with Work Engagement? —Mediation analyses with Psychological Safety and Intrinsic Motivation",
+   "url": "https://osf.io/preprints/psyarxiv/bu7jp_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T15:08:46Z",
+   "first_seen": "2026-11-10T17:19:52Z",
+   "window_days": 30,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/bu7jp_v1",
+    "authors": [
+     "Takazumi Ono",
+     "Ryota Shin",
+     "Aoba Tamura",
+     "Yukihiko Okada",
+     "Hiroko Costantini",
+     "Misato Nihei"
+    ]
+   }
+  },
   {
    "id": "c192059b41fa366e",
    "title": "BARMM employees eager for year-end bonus under regular parliament",
@@ -511,6 +621,41 @@
    }
   },
   {
+   "id": "ab3800fea21650d7",
+   "title": "Digitally transformed academic work and wellbeing: developing the Digital Academic Work Reconfiguration and Wellbeing Framework",
+   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1987590/pdf",
+   "source": "Frontiers in Sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-09T00:00:00Z",
+   "first_seen": "2026-11-10T17:19:52Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "wellbeing",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Bronwyn Wright",
+     "Nthabeleng Innocentia Mdhluli"
+    ],
+    "container": "Frontiers in Sociology",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/fsoc.2026.1987590"
+   }
+  },
+  {
    "id": "3ea2a30d4053208a",
    "title": "AI adoption pays off only when businesses invest in people",
    "url": "https://business.inquirer.net/620041/ai-adoption-pays-off-only-when-businesses-invest-in-people",
@@ -607,38 +752,6 @@
    }
   },
   {
-   "id": "ca6847258fcdafff",
-   "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
-   "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
-   "source": "HR Dive",
-   "source_id": "hr-dive",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-06T18:51:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 7,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "employment growth",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Kathryn Moody"
-    ],
-    "container": "HR Dive"
-   }
-  },
-  {
    "id": "7ed33e78030ce300",
    "title": "Workers are facing a ‘crisis of disengagement’",
    "url": "https://www.hrdive.com/news/workers-are-facing-a-crisis-of-disengagement/874016/",
@@ -672,6 +785,38 @@
     "kind": "news",
     "authors": [
      "Lara Ewen"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "ca6847258fcdafff",
+   "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
+   "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-06T18:51:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "employment growth",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Kathryn Moody"
     ],
     "container": "HR Dive"
    }
@@ -2115,7 +2260,7 @@
   {
    "id": "b6de553194ab80ae",
    "title": "Exploring organizational readiness for the early adoption of a digital obesity prevention program in Swedish child healthcare: an observational prospective study",
-   "url": "https://doi.org/10.1186/s12913-026-15953-6",
+   "url": "https://link.springer.com/content/pdf/10.1186/s12913-026-15953-6.pdf",
    "source": "BMC Health Services Research",
    "source_id": "core-search",
    "layer": "research",
@@ -3278,7 +3423,7 @@
      "Birol Yetim",
      "Seval Selvi Sarıgül",
      "İsmail Biçer",
-     "Yusuf Çeli̇k"
+     "Yusuf Çelik"
     ],
     "container": "Frontiers in Public Health",
     "volume": "14",
@@ -4919,48 +5064,6 @@
    }
   },
   {
-   "id": "6a9eb0a44675a226",
-   "title": "AI technostress and professional identity among Chinese university teachers: the mediating role of teaching self-efficacy and the moderating role of perceived organizational support",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1997877/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-01T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy",
-    "ai-at-work"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Youming Yang"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "first_page": "1997877",
-    "last_page": "1997877",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1997877"
-   }
-  },
-  {
    "id": "dd3067925eacd292",
    "title": "Beyond technology acceptance: AI-application readiness and continuance intention among Chinese university students—a measurement-aware secondary analysis",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1963259/pdf",
@@ -5164,6 +5267,48 @@
     "volume": "36",
     "issue": "Supplement_5",
     "doi": "https://doi.org/10.1093/eurpub/ckag169.332"
+   }
+  },
+  {
+   "id": "6a9eb0a44675a226",
+   "title": "AI technostress and professional identity among Chinese university teachers: the mediating role of teaching self-efficacy and the moderating role of perceived organizational support",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1997877/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "ai-at-work"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Youming Yang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1997877",
+    "last_page": "1997877",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1997877"
    }
   },
   {

@@ -6,13 +6,56 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:19:52 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Defense sees no need to change strategy, says it does not coach witnesses</title>
+      <link>https://newsinfo.inquirer.net/2339415/defense-sees-no-need-to-change-strategy-says-it-does-not-coach-witnesses</link>
+      <guid isPermaLink="false">26e9c353b051e76a</guid>
+      <pubDate>Tue, 10 Nov 2026 17:19:52 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 10, 2026 · Free to read. Topics: Change management, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Change management</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
+    <item>
+      <title>Palace: Corruption issues affecting OVP employees’ mental health</title>
+      <link>https://newsinfo.inquirer.net/2339272/palace-corruption-issues-affecting-ovp-employees-mental-health</link>
+      <guid isPermaLink="false">3fe539ede43920ab</guid>
+      <pubDate>Tue, 10 Nov 2026 17:19:52 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 10, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>mesarangay</dc:creator>
+    </item>
+    <item>
+      <title>Are Workplace Tolerance and Individual Autonomy associated with Work Engagement? —Mediation analyses with Psychological Safety and Intrinsic Motivation</title>
+      <link>https://osf.io/preprints/psyarxiv/bu7jp_v1/</link>
+      <guid isPermaLink="false">3351b7576855b264</guid>
+      <pubDate>Tue, 10 Nov 2026 17:19:52 GMT</pubDate>
+      <description>Preprint · PsyArXiv · Published Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being, Psychological safety and culture.</description>
+      <category>Preprint</category>
+      <category>Employee well-being</category>
+      <category>Psychological safety and culture</category>
+      <dc:creator>Takazumi Ono, Ryota Shin, Aoba Tamura, Yukihiko Okada, Hiroko Costantini, Misato Nihei</dc:creator>
+    </item>
+    <item>
+      <title>Digitally transformed academic work and wellbeing: developing the Digital Academic Work Reconfiguration and Wellbeing Framework</title>
+      <link>https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1987590/pdf</link>
+      <guid isPermaLink="false">ab3800fea21650d7</guid>
+      <pubDate>Tue, 10 Nov 2026 17:19:52 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Sociology · Published Nov 9, 2026 · Free to read. Topics: Employee well-being.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <dc:creator>Bronwyn Wright, Nthabeleng Innocentia Mdhluli</dc:creator>
+    </item>
     <item>
       <title>Nurses’ Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review</title>
       <link>https://doi.org/10.2196/99489</link>
@@ -66,16 +109,6 @@
       <dc:creator>Xian Lin, Yaling Qin, Yuxuan Zeng, Xinqing Zhu, Jingyi Li, Qiaosong Wang</dc:creator>
     </item>
     <item>
-      <title>Examining the relationship between teacher candidates' techno-stress levels and information and communication technologies competencies</title>
-      <link>https://doi.org/10.21831/cp.v45i3.95674</link>
-      <guid isPermaLink="false">f18703e219f47dd0</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Jurnal Cakrawala Pendidikan · Published Oct 30, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>Osman AKHAN, Gökhan Ayçilek</dc:creator>
-    </item>
-    <item>
       <title>Quiet coping and mental health disclosure among university employees in the Philippines</title>
       <link>https://www.nature.com/articles/s41598-026-74347-0_reference.pdf</link>
       <guid isPermaLink="false">0d7e6c8a1ff1ad1b</guid>
@@ -91,8 +124,9 @@
       <link>https://doi.org/10.3390/nursrep16110383</link>
       <guid isPermaLink="false">36dc6a3cd547a540</guid>
       <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Nursing Reports · Published Oct 28, 2026 · Free to read. Topics: AI at work.</description>
+      <description>Peer-reviewed · Nursing Reports · Published Oct 28, 2026 · Free to read. Topics: Openness to change, AI at work.</description>
       <category>Peer-reviewed</category>
+      <category>Openness to change</category>
       <category>AI at work</category>
       <dc:creator>A. García, Elena Andina Díaz, Silvia Pérez‐González</dc:creator>
     </item>
@@ -125,16 +159,6 @@
       <category>Preprint</category>
       <category>Employee well-being</category>
       <dc:creator>Peter Haehner, Catherine M. Shirima, Marie Kura, Luzelle Naude, Chris Hopwood, Amber Gayle Thalmayer</dc:creator>
-    </item>
-    <item>
-      <title>Inconclusive mediated effect of empathy on perceived stress among nurses: A comment on Wang et al. (2026)</title>
-      <link>https://osf.io/preprints/psyarxiv/syn4k_v1/</link>
-      <guid isPermaLink="false">073f7f7f274241d5</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 22, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Kimmo Sorjonen, Bo Melin, Marika Melin</dc:creator>
     </item>
     <item>
       <title>AI-enabled project monitoring and control: Toward a configurational framework for human–AI collaboration in project leadership</title>
@@ -196,16 +220,6 @@
       <category>Peer-reviewed</category>
       <category>Employee well-being</category>
       <dc:creator>E Bracho Montes de Oca, M Vacchiano, Rani De Pauw, B De Geus, B Cagnie</dc:creator>
-    </item>
-    <item>
-      <title>When and Why Do Leaders Endorse Radical Ideas? A Transactional Theory of Stress Perspective</title>
-      <link>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.70131</link>
-      <guid isPermaLink="false">6b20509b67c2b0a4</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Organizational Behavior · Published Sep 25, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>Xuting Jiang, Chak Fu Lam, Yaping Gong, Wenxing Liu</dc:creator>
     </item>
     <item>
       <title>Agentic AI in organisations</title>
@@ -301,16 +315,6 @@
       <dc:creator>CEDTyClea</dc:creator>
     </item>
     <item>
-      <title>Week in review: Employment growth hits unexpected high after months of tepid gains</title>
-      <link>https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/</link>
-      <guid isPermaLink="false">ca6847258fcdafff</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Kathryn Moody</dc:creator>
-    </item>
-    <item>
       <title>Workers are facing a ‘crisis of disengagement’</title>
       <link>https://www.hrdive.com/news/workers-are-facing-a-crisis-of-disengagement/874016/</link>
       <guid isPermaLink="false">7ed33e78030ce300</guid>
@@ -320,6 +324,16 @@
       <category>Employee well-being</category>
       <category>Labor economics</category>
       <dc:creator>Lara Ewen</dc:creator>
+    </item>
+    <item>
+      <title>Week in review: Employment growth hits unexpected high after months of tepid gains</title>
+      <link>https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/</link>
+      <guid isPermaLink="false">ca6847258fcdafff</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Kathryn Moody</dc:creator>
     </item>
     <item>
       <title>PM tells firms to publish salaries in job adverts ahead of new law</title>
@@ -627,16 +641,6 @@
       <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Fitri Rezeki, Fachrurazi Fachrurazi</dc:creator>
-    </item>
-    <item>
-      <title>Mitigating workplace bullying through authentic leadership: Evidence from hospital nurses in Jordan</title>
-      <link>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359313&amp;type=printable</link>
-      <guid isPermaLink="false">837926475d296fa2</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · PLoS ONE · Published Oct 21, 2026 · Free to read. Topics: Leadership and change communication.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <dc:creator>Rahaf Abdulsalam Al-Laham, Ali Saleh, Waddah Mohammad D’emeh, Muhammad Waleed Darawad, Duaa Izzat Zaidiyah, Tariq Noureddin Mkhaimer</dc:creator>
     </item>
   </channel>
 </rss>
