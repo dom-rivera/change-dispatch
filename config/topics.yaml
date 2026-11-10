@@ -445,6 +445,24 @@ context:
       - job displacement
       - job losses
       - workforce
+      - 13th month pay
+      - 13th-month pay
+      - year-end bonus
+      - department of labor and employment
+      - dole
+      - wage hike
+      - wage hikes
+      - wage board
+      - regional wage board
+      - daily minimum wage
+      - contractualization
+      - labor groups
+      - labour groups
+      - job fair
+      - job fairs
+      - tesda
+      - sss contributions
+      - philhealth contributions
     exclude:
       - stock market
       - share price
@@ -463,6 +481,8 @@ context:
       - pay raise
       - salary increase
       - salaries
+    weak:
+      - endo
 
   - id: behavioral-economics
     name: Behavioral economics
