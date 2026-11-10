@@ -1,0 +1,47 @@
+name: Suggest a source
+description: Propose a journal, institution or news outlet for The Change Dispatch.
+title: "Source suggestion: "
+labels: ["source-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every source must meet the inclusion policy: an established institution with editorial standards or peer review, dated items with named authors or institutions, and **every item free to read**.
+  - type: input
+    id: name
+    attributes:
+      label: Source name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Website or feed link
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Peer-reviewed journal
+        - Preprint or working paper series
+        - Institution (government, university, international organization)
+        - Expert analysis
+        - News
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Inclusion policy
+      options:
+        - label: Its articles are free to read (no paywall or registration wall)
+          required: true
+        - label: It has editorial standards, corrections or peer review
+          required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it fits
+      description: Which topics does it cover (change readiness, self-efficacy, openness to change, AI at work, Philippines and Southeast Asia, ...)?

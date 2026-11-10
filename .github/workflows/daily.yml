@@ -35,8 +35,10 @@ jobs:
         # Every package and sub-package is checked against a recorded checksum.
         run: pip install --require-hashes -r requirements.txt
 
-      - name: Check the filtering rules
-        run: python -m pytest -q tests
+      - name: Check the filtering rules and citation format
+        run: |
+          python -m pytest -q tests
+          node tests/apa.test.js
 
       - name: Fetch today's items
         env:

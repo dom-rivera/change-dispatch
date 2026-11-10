@@ -192,3 +192,17 @@ def test_title_match_required_when_configured():
     on = dict(off, title="Organizational change in rail companies")
     assert fetch.build_item(off, src, MATCHER) is None
     assert fetch.build_item(on, src, MATCHER) is not None
+
+
+def test_citation_details_for_feeds_and_nber():
+    feed = rss([("Remote work rules for BPO workers", "https://example.org/p", "", NOW - timedelta(hours=3))])
+    feed = feed.replace(b"<description>", b"<author>By Ana Cruz and Ben Reyes</author><description>")
+    [item] = [fetch.build_item(c, NEWS, MATCHER) for c in fetch.parse_feed(feed)]
+    assert item["cite"]["kind"] == "news" and item["cite"]["authors"] == ["Ana Cruz", "Ben Reyes"]
+    assert item["cite"]["container"] == "Test News"
+    nber = dict(PRE, id="nber", name="NBER Working Papers", date_fallback="first_seen")
+    [c] = fetch.parse_feed(rss([("Labor market effects of AI -- by Jennifer Wang, Erik B Smith", "https://nber.org/w1", "", None)]))
+    item = fetch.build_item(c, nber, MATCHER)
+    assert item["title"] == "Labor market effects of AI"
+    assert item["cite"]["authors"] == ["Jennifer Wang", "Erik B Smith"]
+    assert item["cite"]["kind"] == "working_paper"

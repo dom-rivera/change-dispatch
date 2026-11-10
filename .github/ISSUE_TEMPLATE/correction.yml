@@ -1,0 +1,36 @@
+name: Report a correction
+description: Something on The Change Dispatch is wrong, mislabeled, off-topic or no longer free to read.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep The Change Dispatch accurate. Corrections are reviewed by the editor, and fixes are noted in the repository history.
+  - type: input
+    id: item
+    attributes:
+      label: Which item?
+      description: Paste the headline or the link.
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong?
+      options:
+        - The link is broken or paywalled
+        - Wrong label (type, date, topic or region)
+        - Off-topic for this site
+        - Misleading or unreliable source
+        - Citation (APA) is wrong
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What should it say instead? Include a source if you can.
+    validations:
+      required: true

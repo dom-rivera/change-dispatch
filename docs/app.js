@@ -134,11 +134,60 @@
     (item.labels || []).forEach(function (l) { meta.appendChild(el("span", { class: "badge warn", text: l })); });
     meta.appendChild(el("span", { class: "badge free", text: item.access || "Free to read" }));
 
+    var cite = el("button", { type: "button", class: "cite-btn", "aria-expanded": "false", text: "Cite (APA 7)" });
+    meta.appendChild(cite);
+
     var tags = el("div", { class: "tags" });
     item.topics.forEach(function (t) { tags.appendChild(el("a", { href: "#topic/" + t, text: topicName(t) })); });
     if (item.region && state.region) tags.appendChild(el("a", { href: "#region", text: state.region.name }));
 
-    return el("article", { class: "story" + (lead ? " lead" : "") }, [kicker, head, meta, tags]);
+    var article = el("article", { class: "story" + (lead ? " lead" : "") }, [kicker, head, meta, tags]);
+    cite.addEventListener("click", function () { toggleCitation(article, item, cite); });
+    return article;
+  }
+
+  /* ---------------- APA 7 citations ---------------- */
+
+  function copyCitation(ref, button) {
+    var done = function () {
+      button.textContent = "Copied";
+      setTimeout(function () { button.textContent = "Copy"; }, 1800);
+    };
+    try {
+      if (window.ClipboardItem && navigator.clipboard && navigator.clipboard.write) {
+        // Rich text keeps the italics when pasted into Word or Google Docs
+        navigator.clipboard.write([new ClipboardItem({
+          "text/html": new Blob([ref.html], { type: "text/html" }),
+          "text/plain": new Blob([ref.text], { type: "text/plain" })
+        })]).then(done, function () { navigator.clipboard.writeText(ref.text).then(done); });
+        return;
+      }
+      navigator.clipboard.writeText(ref.text).then(done);
+    } catch (e) {
+      button.textContent = "Select the text to copy";
+    }
+  }
+
+  function toggleCitation(article, item, button) {
+    var open = article.querySelector(".citation");
+    if (open) {
+      open.remove();
+      button.setAttribute("aria-expanded", "false");
+      return;
+    }
+    var ref = window.APA.format(item);
+    var text = el("p", { class: "citation-text" });
+    text.innerHTML = ref.html;   // built from escaped fields by apa.js
+    var copy = el("button", { type: "button", class: "copy-btn", text: "Copy" });
+    copy.addEventListener("click", function () { copyCitation(ref, copy); });
+    var notes = ["APA 7 uses sentence case for article titles: lower-case words after the first, except proper nouns."];
+    if (ref.missingAuthors) notes.unshift("No author was listed by the source, so the title comes first. Check the original for an author.");
+    var panel = el("div", { class: "citation", role: "region", "aria-label": "APA 7 citation" }, [
+      text,
+      el("div", { class: "citation-actions" }, [copy, el("span", { class: "citation-note", text: notes.join(" ") })])
+    ]);
+    article.appendChild(panel);
+    button.setAttribute("aria-expanded", "true");
   }
 
   function renderChips() {
@@ -316,8 +365,30 @@
 
   function para(text) { return el("p", { text: text }); }
 
+  var REPO = "https://github.com/dom-rivera/change-dispatch";
+
+  function link(href, text) { return el("a", { href: href, rel: "noopener", target: "_blank", text: text }); }
+
   function renderAbout(box) {
     box.textContent = "";
+
+    box.appendChild(el("h3", { text: "About the editor" }));
+    box.appendChild(el("div", { class: "editor" }, [
+      el("p", { class: "editor-name", text: "Dom Rivera" }),
+      el("p", { class: "editor-role", text: "Editor \u00b7 Master of Arts in Psychology student" }),
+      para("Dom researches how people respond to change at work, focusing on change readiness, self-efficacy and openness to organizational change. The Change Dispatch began as a way to follow new research and news on these questions every day, and to make that reading list open to anyone."),
+      para("The editor chooses the sources, topics and rules. The daily collection is automated and applies those rules the same way every day; the editor reviews corrections and source suggestions.")
+    ]));
+
+    box.appendChild(el("h3", { text: "Corrections and suggestions" }));
+    var help = el("p");
+    help.appendChild(document.createTextNode("Found a broken link, a wrong label or an unreliable item? "));
+    help.appendChild(link(REPO + "/issues/new?template=correction.yml", "Report a correction"));
+    help.appendChild(document.createTextNode(". Know a free, reputable source we should add? "));
+    help.appendChild(link(REPO + "/issues/new?template=suggest-source.yml", "Suggest a source"));
+    help.appendChild(document.createTextNode(". Both forms are on GitHub and need a free GitHub account. Every change to the site is public in the repository history."));
+    box.appendChild(help);
+
     box.appendChild(el("h3", { text: "What this is" }));
     box.appendChild(para("The Change Dispatch collects timely, credible news and research on organizational change, AI at work, psychology and economics, with a section on the Philippines and Southeast Asia. It updates itself every morning, Manila time, and saves each day’s edition so readers can go back to it."));
 

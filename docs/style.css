@@ -329,6 +329,38 @@ a:hover { text-decoration: underline; }
 .badge.new { background: var(--flag); color: #fff; }
 .badge.warn { border: 1px solid var(--flag); background: var(--paper); color: var(--flag); }
 .badge.free { border: 1px solid #c7c7c7; background: var(--paper); color: var(--muted); }
+.cite-btn, .copy-btn {
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border: 1px solid #c7c7c7;
+  border-radius: 2px;
+  background: var(--paper);
+  color: var(--accent);
+  cursor: pointer;
+}
+.cite-btn:hover, .copy-btn:hover { border-color: var(--accent); }
+.cite-btn[aria-expanded="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+.citation {
+  margin-top: 12px;
+  padding: 12px 14px;
+  background: #f7f7f5;
+  border-left: 3px solid var(--accent);
+}
+.citation-text {
+  margin: 0 0 10px;
+  padding-left: 2em;
+  text-indent: -2em;            /* APA hanging indent */
+  font-family: var(--serif);
+  font-size: 16px;
+  line-height: 1.55;
+  word-break: break-word;
+  user-select: all;
+}
+.citation-actions { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+.citation-note { font-family: var(--sans); font-size: 12px; color: var(--muted); }
+
 .tags {
   margin-top: 8px;
   display: flex;
@@ -392,6 +424,12 @@ a:hover { text-decoration: underline; }
 .about th { border-bottom: 1px solid var(--rule); font-weight: 700; color: var(--ink); }
 .status-ok { color: #1a6b37; font-weight: 600; }
 .status-bad { color: var(--flag); font-weight: 600; }
+
+.editor { border-top: 1px solid var(--rule); padding-top: 12px; }
+.editor-name { font-family: var(--serif); font-size: 24px; font-weight: 700; color: var(--ink); margin: 0; }
+.editor-role { font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: .03em;
+  text-transform: uppercase; color: var(--muted); margin: 2px 0 12px; }
+.about a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
 
 /* ---------- Footer ---------- */
 .footer {

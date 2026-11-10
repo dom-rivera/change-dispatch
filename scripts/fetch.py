@@ -207,7 +207,11 @@ def parse_feed(content: bytes) -> list[dict]:
     out = []
     for e in feed.entries:
         # NBER-style titles end with " -- by Author, Author"; keep the title only
-        title = re.sub(r"\s+--\s+by\s+.*$", "", clean_text(e.get("title")))
+        raw_title = clean_text(e.get("title"))
+        byline = re.search(r"\s+--\s+by\s+(.*)$", raw_title)
+        title = re.sub(r"\s+--\s+by\s+.*$", "", raw_title)
+        authors = ([a.strip() for a in re.split(r",\s*|\s+and\s+|\s*&\s*", byline.group(1)) if a.strip()]
+                   if byline else feed_authors(e))
         link = e.get("link") or ""
         if not title or not link.startswith("http"):
             continue
@@ -223,6 +227,7 @@ def parse_feed(content: bytes) -> list[dict]:
             "opinion": any(h in link.lower() for h in OPINION_HINTS)
             or "opinion" in tags.split(),
             "countries": set(),
+            "cite": {"kind": "web", "authors": authors},
         })
     return out
 
@@ -297,7 +302,7 @@ def fetch_openalex(session, src, api_key) -> tuple[list[dict], dict]:
     while cursor and pages < 5:
         resp = http_get(session, f"{OPENALEX}/works", params=openalex_params(
             api_key, filter=filt, per_page=100, cursor=cursor,
-            select="id,doi,display_name,publication_date,open_access,"
+            select="id,doi,display_name,publication_date,open_access,biblio,"
                    "primary_location,authorships,abstract_inverted_index,is_retracted"))
         body = resp.json()
         for w in body.get("results", []):
@@ -323,6 +328,8 @@ def fetch_openalex(session, src, api_key) -> tuple[list[dict], dict]:
                 "text": f"{title} {abstract_text(w.get('abstract_inverted_index'))}",
                 "opinion": False,
                 "countries": countries,
+                "cite": openalex_cite(w, display,
+                                      "report" if src.get("layer") == "institutional" else "journal"),
             })
         cursor = (body.get("meta") or {}).get("next_cursor")
         pages += 1
@@ -368,6 +375,7 @@ def _openalex_work_to_cand(w: dict) -> dict | None:
         "opinion": False,
         "countries": countries,
         "source_name": source.get("display_name"),
+        "cite": openalex_cite(w, source.get("display_name")),
     }
 
 
@@ -394,13 +402,13 @@ def fetch_openalex_search(session, src, api_key) -> tuple[list[dict], dict]:
             "is_retracted:false",
             "type:article|review",
             "primary_location.source.type:journal",
-            "primary_location.source.is_in_doaj:true",
             "language:en",
-        ])
+        ] + (["primary_location.source.is_in_doaj:true"] if src.get("doaj_only", True) else [])
+          + ([src["extra_filter"]] if src.get("extra_filter") else []))
         try:
             resp = http_get(session, f"{OPENALEX}/works", params=openalex_params(
                 api_key, filter=filt, per_page=src.get("per_phrase", 25), sort="publication_date:desc",
-                select="id,doi,display_name,publication_date,open_access,"
+                select="id,doi,display_name,publication_date,open_access,biblio,"
                        "primary_location,authorships,abstract_inverted_index,is_retracted"))
         except Exception as exc:  # keep going with the other phrases
             errors.append(f"{phrase}: {str(exc)[:120]}")
@@ -462,18 +470,73 @@ def fetch_osf(session, src) -> tuple[list[dict], dict]:
             link = (p.get("links") or {}).get("html")
             if not title or not link:
                 continue
+            doi = (p.get("links") or {}).get("preprint_doi") or a.get("doi")
+            if doi and not doi.startswith("http"):
+                doi = "https://doi.org/" + doi
             out.append({
                 "title": title,
                 "url": link,
-                "doi": a.get("doi"),
+                "doi": doi,
                 "published": parse_iso(a.get("date_published") or ""),
                 "text": f"{title} {clean_text(a.get('description'))}",
                 "opinion": False,
                 "countries": set(),
+                "osf_id": p.get("id"),
+                "cite": {"kind": "preprint", "authors": [], "container": "PsyArXiv", "doi": doi},
             })
         url = (body.get("links") or {}).get("next")
         pages += 1
     return out, {}
+
+
+# --------------------------------------------------------------------------
+# Citation details (used by the site's "Cite in APA 7" button)
+# --------------------------------------------------------------------------
+
+def openalex_cite(w: dict, container: str | None, kind: str = "journal") -> dict:
+    biblio = w.get("biblio") or {}
+    authors = [((a.get("author") or {}).get("display_name") or "").strip()
+               for a in (w.get("authorships") or [])]
+    return {
+        "kind": kind,
+        "authors": [a for a in authors if a][:40],
+        "container": container,
+        "volume": biblio.get("volume"),
+        "issue": biblio.get("issue"),
+        "first_page": biblio.get("first_page"),
+        "last_page": biblio.get("last_page"),
+        "doi": w.get("doi"),
+    }
+
+
+def feed_authors(entry) -> list[str]:
+    names = [clean_text(a.get("name")) for a in entry.get("authors", []) if isinstance(a, dict)]
+    names = [n for n in names if n]
+    if not names and entry.get("author"):
+        names = [clean_text(entry.get("author"))]
+    # Bylines like "By Jane Cruz and Ana Reyes" or "Jane Cruz, Ana Reyes"
+    out = []
+    for n in names:
+        n = re.sub(r"^by\s+", "", n, flags=re.I)
+        out += [x.strip() for x in re.split(r",\s*|\s+and\s+|\s*&\s*", n) if x.strip()]
+    return out[:20]
+
+
+def osf_authors(session, preprint_id: str) -> list[str]:
+    try:
+        resp = http_get(session, f"{OSF}/preprints/{preprint_id}/contributors/",
+                        params={"embed": "users", "page[size]": 50})
+        names = []
+        for c in resp.json().get("data", []):
+            if not (c.get("attributes") or {}).get("bibliographic", True):
+                continue
+            user = (((c.get("embeds") or {}).get("users") or {}).get("data") or {})
+            name = ((user.get("attributes") or {}).get("full_name") or "").strip()
+            if name:
+                names.append(name)
+        return names
+    except Exception:
+        return []
 
 
 # --------------------------------------------------------------------------
@@ -486,6 +549,27 @@ def safe_url(url: str | None) -> bool:
         return False
     parts = urlparse(url)
     return parts.scheme in ("http", "https") and bool(parts.netloc)
+
+
+def cite_for(cand: dict, src: dict) -> dict:
+    cite = dict(cand.get("cite") or {})
+    kind = cite.get("kind")
+    if src["layer"] == "preprint" and kind != "preprint":
+        kind = "working_paper" if src["id"] == "nber" else "preprint"
+    elif src["layer"] in ("news", "analysis"):
+        kind = "news"
+    elif src["layer"] == "institutional" and kind != "report":
+        kind = "report" if kind == "journal" else "web"
+    cite["kind"] = kind or "web"
+    cite.setdefault("authors", [])
+    if not cite.get("container"):
+        # the site name for news and web items, e.g. "The Guardian"
+        cite["container"] = re.sub(r"\s*\(.*\)$", "", src["name"])
+    if cite["kind"] == "working_paper":
+        cite["publisher"] = "National Bureau of Economic Research"
+    if not cite.get("doi") and cand.get("doi"):
+        cite["doi"] = cand["doi"]
+    return {k: v for k, v in cite.items() if v not in (None, "", [])} | {"authors": cite["authors"]}
 
 
 def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
@@ -528,6 +612,7 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         "region": matcher.is_regional(cand["text"], cand.get("countries")),
         "labels": labels,
         "access": "Free to read",
+        "cite": cite_for(cand, src),
         **({"date_estimated": True} if estimated else {}),
     }
 
@@ -645,6 +730,8 @@ def main() -> int:
             for c in cands:
                 item = build_item(c, src, matcher)
                 if item:
+                    if src["kind"] == "osf" and c.get("osf_id"):
+                        item["cite"]["authors"] = osf_authors(session, c["osf_id"])
                     fresh.append(item)
                     entry["kept"] += 1
         except Exception as exc:

@@ -164,6 +164,36 @@ sources:
     exclude_journals: []
     note: "Safeguards: DOAJ-listed, English, free copy, not retracted, journal h-index 30+, topic in the title, about work or organizations. Each item is labeled with its own journal name."
 
+  # Philippine research: new free-to-read articles by authors at Philippine
+  # institutions, in established journals (h-index 20+), on work topics.
+  - id: ph-research
+    name: Philippine research search
+    layer: research
+    kind: openalex_search
+    window_days: 90
+    needs_topic: true
+    require_work_context: true
+    require_title_match: true
+    doaj_only: false
+    extra_filter: "authorships.institutions.country_code:PH"
+    min_h_index: 20
+    per_phrase: 25
+    enabled: true
+    queries:
+      - employees
+      - workplace
+      - organizational
+      - work engagement
+      - burnout
+      - leadership
+      - job satisfaction
+      - teachers
+      - nurses
+      - self-efficacy
+      - readiness
+      - artificial intelligence
+    note: "Free copy, not retracted, English, journal h-index 20+, topic in the title, about work. Items are tagged Philippines & SE Asia."
+
   # ---------- Layer 2: preprints and working papers ----------
 
   - id: psyarxiv
@@ -351,3 +381,41 @@ sources:
     window_days: 7
     needs_topic: true
     enabled: true
+
+  - id: businessmirror
+    name: BusinessMirror
+    layer: news
+    kind: rss
+    feeds:
+      - https://businessmirror.com.ph/feed/
+      - https://businessmirror.com.ph/feed
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: Philippine business daily.
+
+  - id: manila-bulletin
+    name: Manila Bulletin
+    layer: news
+    kind: rss
+    feeds:
+      - https://mb.com.ph/rss/articles
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: Philippine daily; feed confirmed. Only work-related stories pass the topic filter.
+
+  - id: rappler
+    name: Rappler
+    layer: news
+    kind: rss
+    feeds:
+      - https://www.rappler.com/feed/
+    window_days: 7
+    needs_topic: true
+    enabled: true
+    note: Philippine news site. Only work-related stories pass the topic filter.
+
+  # Checked but not added: Philippine Statistics Authority, Philippine News
+  # Agency and DOLE publish no news feed. Their announcements still reach
+  # the site through the Philippine newspapers above.
