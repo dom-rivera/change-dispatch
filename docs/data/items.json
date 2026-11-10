@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T02:28:15Z",
- "count": 101,
+ "generated": "2026-11-10T02:31:16Z",
+ "count": 138,
  "topics": [
   {
    "id": "change-readiness",
@@ -669,6 +669,26 @@
    "access": "Free to read"
   },
   {
+   "id": "5e9ad0beac960ef7",
+   "title": "The dark side of GenAI in the workplace: technostress, loneliness, and the buffering role of transformational leadership",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1910745/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "9fc7df7d842c1ead",
    "title": "Psychology in 2125: A Developmental Science of Living Sense-Making",
    "url": "https://osf.io/preprints/psyarxiv/d7y3n_v3/",
@@ -706,6 +726,43 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
+   "access": "Free to read"
+  },
+  {
+   "id": "42e5d743175a67b8",
+   "title": "Expanding a university-based social enterprise: organizational change across 15 years",
+   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1972294/pdf",
+   "source": "Frontiers in Sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "0541540fa75ab1e6",
+   "title": "Technostress and telemedicine in rural communities: insights from healthcare professionals in the Italian Dolomites",
+   "url": "https://www.rrh.org.au/assets/article_documents/article_print_10154.pdf",
+   "source": "Rural and Remote Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
    "access": "Free to read"
   },
   {
@@ -810,6 +867,46 @@
    "access": "Free to read"
   },
   {
+   "id": "a44ecd3c88c90e4a",
+   "title": "ORGANISATIONAL CHANGE MANAGEMENT AND IMPACT OF LEADERSHIP ON EMPLOYEE PERCEPTIONS",
+   "url": "http://baltijapublishing.lv/index.php/issue/article/download/4929/4812",
+   "source": "Baltic Journal of Economic Studies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change",
+    "change-management",
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "96756e8ac3561a63",
+   "title": "More Than One Voice: Strengthening Organizational Readiness for Lived Experience Integration in Early Psychosis Services",
+   "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.70944",
+   "source": "Health Expectations",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "c776359cc0fa2bf2",
    "title": "Toward a Program Theory of A Singaporean Single-Session, Synchronous Chat-Based Mental Health Support for Youths: The Behavior Change Techniques Workers Use and How They Relate to Outcome",
    "url": "https://osf.io/preprints/psyarxiv/v6ta4_v2/",
@@ -827,6 +924,24 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
+   "access": "Free to read"
+  },
+  {
+   "id": "6a088b67755b5f4e",
+   "title": "Team Psychological Safety Atmosphere and Professional Identity Among New Nurses in China: The Mediating Role of Impostor Phenomenon",
+   "url": "https://www.dovepress.com/article/download/121678",
+   "source": "Journal of Multidisciplinary Healthcare",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
    "access": "Free to read"
   },
   {
@@ -910,6 +1025,45 @@
    "access": "Free to read"
   },
   {
+   "id": "8f926b4ae8b3c1e3",
+   "title": "Organizational mechanisms in digital public health transformation: change communication, collective sensemaking, and cross-functional collaboration",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1978109/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "leadership",
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ca25604bec64ae79",
+   "title": "The Mediating Role of Organizational Change Capability and Leadership Effectiveness in the Relationship Between Managerial Cognitive Capability and Sustainable Performance",
+   "url": "https://journal.perbanas.ac.id/index.php/jebav/article/download/5760/2092",
+   "source": "Journal of Economics Business and Accountancy Ventura",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "20ffbc462f8b7cbc",
    "title": "The conflicted student and the internal battle over generative AI use",
    "url": "https://osf.io/preprints/psyarxiv/ahqns_v1/",
@@ -950,6 +1104,24 @@
    "access": "Free to read"
   },
   {
+   "id": "b6de553194ab80ae",
+   "title": "Exploring organizational readiness for the early adoption of a digital obesity prevention program in Swedish child healthcare: an observational prospective study",
+   "url": "https://doi.org/10.1186/s12913-026-15953-6",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "be2d5ad5e86caa24",
    "title": "An Accountability Matrix for Organizational Change: Navigating Transitions from Individual Blame to Organizational Learning in the Swedish Police",
    "url": "https://www.tandfonline.com/doi/pdf/10.1080/14697017.2026.2742144?needAccess=true",
@@ -963,6 +1135,26 @@
    "topics": [
     "organizational-change",
     "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7c87b3cb903cb67e",
+   "title": "Understanding adaptation to digital transformation: evidence from Indian advertising industry",
+   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1953897/pdf",
+   "source": "Frontiers in Sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "future-of-work",
+    "labor-economics"
    ],
    "region": false,
    "labels": [],
@@ -1047,6 +1239,65 @@
    "access": "Free to read"
   },
   {
+   "id": "f8cf40fae2311f9d",
+   "title": "Workforce consequences of implementing DRG-based payment reform in China: an explanatory sequential mixed-methods study of hospital consumables managers",
+   "url": "https://doi.org/10.1186/s12913-026-15937-6",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "244066e6249d968e",
+   "title": "Towards an integrated framework for digital transformation in Moroccan higher education",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1912168/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "66c853f4f21454b1",
+   "title": "Digital Fatigue, Workforce Readiness, and Medication Safety: A Systems Perspective for Pharmacy Education",
+   "url": "https://doi.org/10.3390/pharmacy14080157",
+   "source": "Pharmacy",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "b31ec780e28f118b",
    "title": "Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis",
    "url": "https://osf.io/preprints/psyarxiv/jv4ah_v1/",
@@ -1064,6 +1315,24 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
+   "access": "Free to read"
+  },
+  {
+   "id": "96dea557525af812",
+   "title": "Network analysis of the relationship between change fatigue and work withdrawal behavior among Chinese nurses",
+   "url": "https://doi.org/10.1186/s12912-026-05535-6",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
    "access": "Free to read"
   },
   {
@@ -1127,6 +1396,102 @@
    "access": "Free to read"
   },
   {
+   "id": "09923fbf1f5a3882",
+   "title": "From Access to Governance: Generative AI Literacy for Extension Professionals and Small Businesses, and a Governance-Aware Design Framework",
+   "url": "https://doi.org/10.3390/ai7110440",
+   "source": "AI",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "74bea2d2f1fede6a",
+   "title": "SUSTAINABLE E-LEADERSHIP AND ORGANIZATIONAL TRANSFORMATION: THE ROLES OF FLEXIBILITY, DIGITALIZATION, AND CULTURE IN ENHANCING OPERATIONAL EFFICIENCY",
+   "url": "https://doi.org/10.30892/gtg.68426-1907",
+   "source": "GeoJournal of Tourism and Geosites",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "leadership",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "59b67b1bde32d4bd",
+   "title": "Associations of workload, work satisfaction, change fatigue, and presenteeism with quiet quitting among healthcare professionals: a structural equation modeling study",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1936291/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "15f8c8ab0a7b97ec",
+   "title": "Effects of technostress on professional performance",
+   "url": "https://www.emerald.com/rege/article-pdf/doi/10.1108/REGE-02-2026-0030/11921791/rege-02-2026-0030en.pdf",
+   "source": "Revista de Gestão",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8700adc97be388e6",
+   "title": "Algorithmic management and employees’ work withdrawal behavior: the roles of AI anxiety and perceived algorithmic transparency",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1916936/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "cc2ab7e9d95a2f02",
    "title": "Synthetic Selves for AI Agents? Lessons from Psychology for Agent-Based Modeling",
    "url": "https://osf.io/preprints/psyarxiv/67dhz_v1/",
@@ -1187,6 +1552,25 @@
    "access": "Free to read"
   },
   {
+   "id": "258a0f68b16c96e6",
+   "title": "AI Adoption for PMO Transformation in GCC Banks: An Expert-Refined TOE Model",
+   "url": "https://doi.org/10.3390/systems14101330",
+   "source": "Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "55bffa6a9e0acb42",
    "title": "Scaffolding for Nascent Knowledge: Diverse Teams Tackling Grand Challenges",
    "url": "https://doi.org/10.1177/00218863261487207",
@@ -1198,6 +1582,104 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5beba2bbe3bb4322",
+   "title": "Employee AI Use and Readiness in Applied Higher Education: Awareness, Barriers, and HRM Implications",
+   "url": "https://doi.org/10.3390/admsci16100517",
+   "source": "Administrative Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "fbaad11610f24eb1",
+   "title": "Teachers’ technostress in the emerging generative AI era: a systematic review and bibliometric mapping (2005–2025)",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2748775?needAccess=true",
+   "source": "Cogent Social Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ca61a1ada7473f23",
+   "title": "Assessing healthcare organizational readiness to implement risk-stratified breast cancer screening in Canada: a cross-sectional questionnaire study",
+   "url": "https://doi.org/10.1186/s12913-026-15626-4",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-17T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "self-efficacy"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6892da37f6bf18bd",
+   "title": "When voices can be cloned: vocal identity threat and occupational self-efficacy among singers in the era of generative AI audio",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1954386/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a863dcc684f09284",
+   "title": "Managing Educational Innovation and Organizational Transformation in Military Academies: A Socio-Technical Systems Approach",
+   "url": "https://doi.org/10.3390/soc16100355",
+   "source": "Societies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change"
+   ],
    "region": false,
    "labels": [],
    "access": "Free to read"
@@ -1333,6 +1815,42 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6314c52ed02e05c4",
+   "title": "Apparent ecological network expansion masks structural reorganization and corridor vulnerability in the Central Plains Urban Agglomeration",
+   "url": "https://www.nature.com/articles/s41598-026-74015-3_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "090b857f05bac051",
+   "title": "Associations between change fatigue and teaching enthusiasm among Shanghai teachers: the roles of teaching motivation and job satisfaction",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1925965/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
    "region": false,
    "labels": [],
    "access": "Free to read"
@@ -1514,6 +2032,63 @@
    "access": "Free to read"
   },
   {
+   "id": "031f98bc1a5c94a1",
+   "title": "The chain-mediating role of workplace social capital and resilience in the relationship between change fatigue and proactive work behavior among nurses",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1972366/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "2031dd8bffd9b6e1",
+   "title": "Cognitive flexibility, technostress, and mathematics teachers' acceptance of ChatGPT: a cross-sectional indirect-effect analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1991429/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e7c84127f403b783",
+   "title": "Digital detox as prevention and coping: examining techno-overload, cognitive overload, and burnout in knowledge workers",
+   "url": "https://doi.org/10.1016/j.teler.2026.100377",
+   "source": "Telematics and Informatics Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "aae01e8dafc516b7",
    "title": "Leadership behavior, employee engagement, and retention: lessons from the COVID-19 pandemic in the hospitality industry",
    "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1851922/pdf",
@@ -1527,6 +2102,24 @@
    "topics": [
     "well-being",
     "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "54a58409598a864c",
+   "title": "Understanding teachers’ technostress creators due to IT use at work: a mixed-methods study",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1887403/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -1564,6 +2157,44 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5eb0b941014283fa",
+   "title": "When Digital Transformation Hurts Performance in Public Organizations: The Roles of Change Fatigue and Digital Meaningfulness",
+   "url": "https://doi.org/10.1177/21582440261506026",
+   "source": "SAGE Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6a9eb0a44675a226",
+   "title": "AI technostress and professional identity among Chinese university teachers: the mediating role of teaching self-efficacy and the moderating role of perceived organizational support",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1997877/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
     "ai-at-work"
    ],
    "region": false,
@@ -1753,6 +2384,25 @@
    "access": "Free to read"
   },
   {
+   "id": "9d74dc2cb1ccd783",
+   "title": "Associations of psychological resilience and change fatigue with innovative behavior among hemodialysis nurses in Chinese public hospitals: a cross-sectional mediation analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1756479/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-23T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "84c15b97220e7605",
    "title": "New Dynamics of Change? AI-Led and AI-Generated Change in the Electrical Grid",
    "url": "https://doi.org/10.1177/00218863261490158",
@@ -1821,6 +2471,24 @@
    "window_days": 60,
    "topics": [
     "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "36619619ac37b1e7",
+   "title": "Role of occupational self-efficacy and professional identity as mediators in the relationship between person-job fit and career sustainability among teachers",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1955848/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-18T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy"
    ],
    "region": false,
    "labels": [],
@@ -1899,6 +2567,26 @@
    "access": "Free to read"
   },
   {
+   "id": "39104969ba35f4b7",
+   "title": "Co-development of psychological resilience and commitment to change during organizational transformation: a three-wave parallel-process latent growth modeling study",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1860700/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "6967441cbb261728",
    "title": "A systematic analysis of the impact of artificial intelligence on job displacement",
    "url": "https://doi.org/10.1108/jocm-02-2026-0188",
@@ -1951,6 +2639,26 @@
    "window_days": 60,
    "topics": [
     "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6627b704b7622317",
+   "title": "Preparing for the future: A mixed methods study protocol on AI awareness and educational integration in Qatar’s Primary Health Care Workforce",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0345347&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work",
+    "labor-economics"
    ],
    "region": false,
    "labels": [],

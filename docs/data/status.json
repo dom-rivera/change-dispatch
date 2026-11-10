@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T02:28:15Z",
+ "generated": "2026-11-10T02:31:16Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -127,28 +127,30 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 315,
-   "kept": 239,
+   "found": 126,
+   "kept": 37,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 16,
     "change readiness": 3,
-    "organizational readiness": 50,
+    "organizational readiness": 25,
     "commitment to change": 2,
     "change self-efficacy": 1,
     "change efficacy": 2,
     "occupational self-efficacy": 3,
-    "openness to change": 13,
-    "resistance to change": 37,
+    "openness to change": 12,
+    "resistance to change": 25,
     "attitudes toward change": 1,
     "change cynicism": 0,
-    "organizational change": 50,
-    "change management": 50,
+    "organizational change": 25,
+    "change management": 25,
     "change fatigue": 9,
-    "psychological safety": 50,
-    "technostress": 47,
+    "psychological safety": 25,
+    "technostress": 25,
     "AI adoption employees": 0
    },
+   "dropped_low_h_index": 61,
+   "min_h_index": 30,
    "newest_item": "2026-11-07T00:00:00Z",
    "stale": false
   },
@@ -232,7 +234,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-09T23:00:00Z",
+   "newest_item": "2026-11-10T01:12:00Z",
    "stale": false
   },
   {
