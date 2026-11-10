@@ -66,6 +66,7 @@ Items and editions stay available for a year. The same run then publishes any Ed
 ## Editing without code
 
 - **Add or remove a source:** edit `config/sources.yaml` on GitHub (pencil icon), copy an existing block, change it, and commit.
+- **Remove one item:** add its link and a short reason to `config/removed.yaml`; it disappears at the next update and stays out.
 - **Adjust a topic:** edit the phrases in `config/topics.yaml`.
 - **Run an update now:** Actions tab → Daily edition → Run workflow.
 - **Write an Editor's Note:** see `notes/README.md`; copy `notes/_template.md` into a new file and commit.

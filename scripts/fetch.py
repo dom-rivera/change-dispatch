@@ -677,6 +677,19 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
     }
 
 
+def removed_urls() -> set[str]:
+    """Links the editor removed by hand (config/removed.yaml)."""
+    path = CONFIG / "removed.yaml"
+    if not path.exists():
+        return set()
+    cfg = load_yaml("removed.yaml") or {}
+    return {str(r["url"]).strip() for r in cfg.get("removed") or [] if r.get("url")}
+
+
+def drop_removed(items: list[dict], urls: set[str]) -> list[dict]:
+    return [i for i in items if i["url"] not in urls and (i.get("doi") or "") not in urls]
+
+
 def merge(existing: list[dict], fresh: list[dict], enabled_ids: set[str]) -> list[dict]:
     """Combine today's items with the archive, dropping duplicates and
     anything past the archive limit or from a removed source."""
@@ -802,6 +815,7 @@ def main() -> int:
               f"kept={entry['kept']:3} {entry['error'] or ''}")
 
     items = merge(existing, fresh, {s["id"] for s in enabled})
+    items = drop_removed(items, removed_urls())
 
     topics_cfg = load_yaml("topics.yaml")
     topic_names = [

@@ -304,3 +304,10 @@ def test_news_noise_cases_from_first_review():
     ])
     assert kept[0] is None and kept[1] is None
     assert "organizational-change" in kept[2]["topics"]
+
+
+def test_editor_removed_items_are_dropped():
+    items = [{"url": "https://a.example/1"}, {"url": "https://a.example/2", "doi": "10.1/x"}]
+    assert fetch.drop_removed(items, {"https://a.example/1"}) == [items[1]]
+    assert fetch.drop_removed(items, {"10.1/x"}) == [items[0]]
+    assert all(r.startswith("https://") for r in fetch.removed_urls())

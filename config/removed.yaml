@@ -1,0 +1,13 @@
+# The Change Dispatch: items removed by the editor
+#
+# Use this when an item passed the automatic rules but is off-topic or
+# should not appear (for example after a correction request). Removed
+# items are dropped from the site and the archive and never come back.
+# Keep the reason short and factual; this list is public.
+#
+# Fields: url (the item's link, exactly as on the site), reason, date.
+
+removed:
+  - url: https://theconversation.com/pennsylvania-democrats-now-have-power-to-push-forward-on-election-reform-marijuana-legalization-and-minimum-wage-increases-295731
+    reason: Mainly about state elections; minimum wage is a side point.
+    date: 2026-11-10
