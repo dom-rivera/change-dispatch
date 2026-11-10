@@ -2,12 +2,17 @@ name: Daily edition
 
 on:
   schedule:
-    # 22:17 UTC = 6:17 AM Manila time, every day
-    - cron: "17 22 * * *"
-  workflow_dispatch: {}   # adds a "Run workflow" button on the Actions tab
+    # GitHub sometimes delays or skips scheduled runs, so there are backups.
+    # Extra runs are harmless: they just refresh the same day's edition.
+    - cron: "17 22 * * *"   # 6:17 AM Manila (main run)
+    - cron: "47 23 * * *"   # 7:47 AM Manila (backup)
+    - cron: "17 2 * * *"    # 10:17 AM Manila (backup)
+    - cron: "47 9 * * *"    # 5:47 PM Manila (evening refresh)
+  workflow_dispatch: {}     # adds a "Run workflow" button on the Actions tab
 
 permissions:
   contents: write
+  issues: write             # to open an alert issue when something goes wrong
 
 concurrency:
   group: daily-edition
@@ -44,8 +49,17 @@ jobs:
           git config user.email "94301308+dom-rivera@users.noreply.github.com"
           git add docs/data
           if git diff --cached --quiet; then
-            echo "No changes today."
+            echo "No changes."
           else
-            git commit -m "Daily edition $(date -u +%Y-%m-%d)"
+            git commit -m "Daily edition $(TZ=Asia/Manila date +%Y-%m-%d) ($(TZ=Asia/Manila date +%H:%M) Manila)"
+            git pull --rebase --autostash origin main
             git push
           fi
+
+      - name: Alert if sources are failing
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          JOB_STATUS: ${{ job.status }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: python scripts/health_alert.py

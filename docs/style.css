@@ -184,6 +184,18 @@ a:hover { text-decoration: underline; }
   margin: 8px 0 0;
 }
 
+.stale {
+  margin: 14px auto 0;
+  max-width: 760px;
+  padding: 10px 14px;
+  border: 1px solid #e3c08a;
+  background: #fdf6e8;
+  color: #5c4100;
+  font-family: var(--sans);
+  font-size: 14px;
+  text-align: center;
+}
+
 /* ---------- Section head and filters ---------- */
 .section-head {
   margin: 28px 0 6px;

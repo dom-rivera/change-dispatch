@@ -347,6 +347,82 @@ def fetch_openalex(session, src, api_key) -> tuple[list[dict], dict]:
     return out, info
 
 
+def _openalex_work_to_cand(w: dict) -> dict | None:
+    oa_url = (w.get("open_access") or {}).get("oa_url")
+    title = clean_text(w.get("display_name"))
+    if not oa_url or not title or w.get("is_retracted"):
+        return None
+    countries = set()
+    for a in w.get("authorships") or []:
+        countries.update(c.upper() for c in a.get("countries") or [])
+        for inst in a.get("institutions") or []:
+            if inst.get("country_code"):
+                countries.add(inst["country_code"].upper())
+    source = ((w.get("primary_location") or {}).get("source") or {})
+    return {
+        "title": title,
+        "url": oa_url,
+        "doi": w.get("doi"),
+        "published": parse_iso(w.get("publication_date") or ""),
+        "text": f"{title} {abstract_text(w.get('abstract_inverted_index'))}",
+        "opinion": False,
+        "countries": countries,
+        "source_name": source.get("display_name"),
+    }
+
+
+def fetch_openalex_search(session, src, api_key) -> tuple[list[dict], dict]:
+    """Targeted research search: find new open-access journal articles that
+    mention a core construct in their title or abstract.
+
+    Safeguards: journal articles only, free to read, not retracted, and the
+    journal must be listed in the Directory of Open Access Journals (DOAJ),
+    which screens journals for quality and transparent peer review.
+    Journals named in "exclude_journals" are skipped.
+    """
+    if not api_key:
+        raise RuntimeError("OPENALEX_API_KEY is not set; search skipped")
+    since = (NOW - timedelta(days=src["window_days"])).strftime("%Y-%m-%d")
+    excluded = {norm_title(j) for j in src.get("exclude_journals", [])}
+    out, seen, per_query, errors = [], set(), {}, []
+    for phrase in src["queries"]:
+        phrase = phrase.replace('"', "").replace(",", " ").strip()
+        filt = ",".join([
+            f'title_and_abstract.search:"{phrase}"',
+            f"from_publication_date:{since}",
+            "is_oa:true",
+            "is_retracted:false",
+            "type:article|review",
+            "primary_location.source.type:journal",
+            "primary_location.source.is_in_doaj:true",
+        ])
+        try:
+            resp = http_get(session, f"{OPENALEX}/works", params=openalex_params(
+                api_key, filter=filt, per_page=50, sort="publication_date:desc",
+                select="id,doi,display_name,publication_date,open_access,"
+                       "primary_location,authorships,abstract_inverted_index,is_retracted"))
+        except Exception as exc:  # keep going with the other phrases
+            errors.append(f"{phrase}: {str(exc)[:120]}")
+            continue
+        results = resp.json().get("results", [])
+        per_query[phrase] = len(results)
+        for w in results:
+            cand = _openalex_work_to_cand(w)
+            if not cand or norm_title(cand.get("source_name") or "") in excluded:
+                continue
+            key = (cand.get("doi") or cand["url"]).lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append(cand)
+    if errors and not per_query:
+        raise RuntimeError("; ".join(errors))
+    info = {"results_per_phrase": per_query}
+    if errors:
+        info["phrase_errors"] = errors
+    return out, info
+
+
 def fetch_osf(session, src) -> tuple[list[dict], dict]:
     since = (NOW - timedelta(days=src["window_days"])).strftime("%Y-%m-%d")
     base = f"{OSF}/preprints/"
@@ -356,7 +432,7 @@ def fetch_osf(session, src) -> tuple[list[dict], dict]:
         "page[size]": 100,
     }
     out, url, pages = [], base, 0
-    while url and pages < 10:
+    while url and pages < src.get("max_pages", 30):
         resp = http_get(session, url, params=params if url == base else None)
         body = resp.json()
         for p in body.get("data", []):
@@ -420,7 +496,7 @@ def build_item(cand: dict, src: dict, matcher: TopicMatcher) -> dict | None:
         "id": item_id(key),
         "title": cand["title"],
         "url": cand["url"],
-        "source": src["name"],
+        "source": cand.get("source_name") or src["name"],
         "source_id": src["id"],
         "layer": src["layer"],
         "type": LAYER_LABELS[src["layer"]],
@@ -531,6 +607,8 @@ def main() -> int:
                 cands, info = fetch_rss(session, src)
             elif src["kind"] == "openalex":
                 cands, info = fetch_openalex(session, src, api_key)
+            elif src["kind"] == "openalex_search":
+                cands, info = fetch_openalex_search(session, src, api_key)
             elif src["kind"] == "osf":
                 cands, info = fetch_osf(session, src)
             else:

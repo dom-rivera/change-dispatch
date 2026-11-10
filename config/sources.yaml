@@ -108,6 +108,59 @@ sources:
     needs_topic: true
     enabled: true
 
+  - id: frontiers-org-psych
+    name: Frontiers in Organizational Psychology
+    layer: research
+    kind: openalex
+    journal: Frontiers in Organizational Psychology
+    window_days: 60
+    needs_topic: true
+    enabled: true
+    note: Fully open access (DOAJ-listed); launched 2023.
+
+  - id: jwop
+    name: Journal of Work and Organizational Psychology
+    layer: research
+    kind: openalex
+    journal: ["Journal of Work and Organizational Psychology", "Revista de Psicología del Trabajo y de las Organizaciones"]
+    window_days: 90
+    needs_topic: true
+    enabled: true
+    note: Fully open access; published by the Colegio Oficial de la Psicología de Madrid.
+
+  # Targeted search: new articles about the core constructs in any
+  # open-access journal listed in the Directory of Open Access Journals
+  # (DOAJ), e.g. Frontiers in Psychology, PLOS ONE, SAGE Open, BMC
+  # Psychology. Each article must also be about work or organizations.
+  - id: core-search
+    name: Research search (open-access journals)
+    layer: research
+    kind: openalex_search
+    window_days: 60
+    needs_topic: true
+    require_work_context: true
+    enabled: true
+    queries:
+      - readiness for change
+      - change readiness
+      - organizational readiness
+      - commitment to change
+      - change self-efficacy
+      - change efficacy
+      - occupational self-efficacy
+      - openness to change
+      - resistance to change
+      - attitudes toward change
+      - change cynicism
+      - organizational change
+      - change management
+      - change fatigue
+      - psychological safety
+      - technostress
+      - AI adoption employees
+    exclude_journals: []
+    note: Only DOAJ-listed journals; each item is labeled with its own journal name.
+
   # ---------- Layer 2: preprints and working papers ----------
 
   - id: psyarxiv

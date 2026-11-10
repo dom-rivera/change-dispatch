@@ -148,3 +148,30 @@ def test_unsafe_links_are_rejected():
 
 def test_abstract_rebuild():
     assert fetch.abstract_text({"readiness": [0], "change": [2], "for": [1]}) == "readiness for change"
+
+
+def test_core_search_keeps_only_free_work_related_articles(monkeypatch):
+    class Resp:
+        def __init__(self, body): self.body = body
+        def json(self): return self.body
+    work = {"display_name": "Readiness for change among nurses during hospital restructuring",
+            "doi": "https://doi.org/10.1/a", "publication_date": NOW.strftime("%Y-%m-%d"),
+            "open_access": {"oa_url": "https://journal.org/a"},
+            "primary_location": {"source": {"display_name": "Frontiers in Psychology"}},
+            "authorships": [{"countries": ["PH"]}], "abstract_inverted_index": {"employees": [0]}}
+    paywalled = dict(work, doi="https://doi.org/10.1/b", open_access={"oa_url": None})
+    clinical = dict(work, doi="https://doi.org/10.1/c", display_name="Readiness for change in smokers",
+                    abstract_inverted_index={"patients": [0]})
+    calls = []
+    def fake_get(session, url, **kw):
+        calls.append(kw["params"]["filter"])
+        return Resp({"results": [work, paywalled, clinical, work]})
+    monkeypatch.setattr(fetch, "http_get", fake_get)
+    src = {"id": "s", "name": "Research search", "layer": "research", "window_days": 60,
+           "needs_topic": True, "require_work_context": True, "queries": ["readiness for change"]}
+    cands, info = fetch.fetch_openalex_search(None, src, "key")
+    assert "primary_location.source.is_in_doaj:true" in calls[0] and "is_oa:true" in calls[0]
+    assert len(cands) == 2                      # paywalled dropped, duplicate merged
+    items = [fetch.build_item(c, src, MATCHER) for c in cands]
+    kept = [i for i in items if i]
+    assert len(kept) == 1 and kept[0]["source"] == "Frontiers in Psychology" and kept[0]["region"]

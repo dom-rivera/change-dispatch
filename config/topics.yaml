@@ -57,17 +57,30 @@ core:
   - id: change-readiness
     name: Change readiness
     match:
+      - workforce readiness
+      - ai readiness
+      - digital readiness
+      - ready for change
+      - prepared for change
+      - change preparedness
       - readiness for change
       - change readiness
-      - readiness to change
       - organizational readiness
       - organisational readiness
       - commitment to change
       - change commitment
+    weak:
+      - readiness to change
+      - readiness
 
   - id: self-efficacy
     name: Self-efficacy
     match:
+      - digital self-efficacy
+      - ai self-efficacy
+      - technology self-efficacy
+      - computer self-efficacy
+      - teacher self-efficacy
       - change efficacy
       - change-related efficacy
       - change self-efficacy
@@ -88,6 +101,18 @@ core:
   - id: openness-to-change
     name: Openness to change
     match:
+      - resist change
+      - resisting change
+      - resistance to ai
+      - openness to ai
+      - attitudes toward ai
+      - attitudes towards ai
+      - acceptance of ai
+      - ai acceptance
+      - technology acceptance
+      - employee sentiment
+      - employee attitudes
+      - willingness to adopt
       - openness to change
       - attitudes toward change
       - attitudes towards change
@@ -101,6 +126,19 @@ core:
   - id: organizational-change
     name: Organizational change
     match:
+      - reorganization
+      - reorganisation
+      - reorganize
+      - reorganise
+      - restructure
+      - restructured
+      - rightsizing
+      - job cuts
+      - transformation program
+      - transformation programme
+      - business transformation
+      - organizational redesign
+      - organisational redesign
       - organizational change
       - organisational change
       - organizational transformation
@@ -117,6 +155,12 @@ core:
   - id: change-management
     name: Change management
     match:
+      - managing change
+      - leading change
+      - change process
+      - transition management
+      - change programme
+      - change program
       - change management
       - change leadership
       - change agent
@@ -132,6 +176,12 @@ context:
   - id: leadership
     name: Leadership and change communication
     match:
+      - leadership change
+      - management shake-up
+      - ceo succession
+      - ethical leadership
+      - inclusive leadership
+      - middle managers
       - transformational leadership
       - leader support
       - leadership style
@@ -144,6 +194,14 @@ context:
   - id: well-being
     name: Employee well-being
     match:
+      - quiet quitting
+      - employee morale
+      - staff morale
+      - toxic workplace
+      - overwork
+      - long working hours
+      - workplace wellbeing
+      - workplace well-being
       - burnout
       - job stress
       - work stress
@@ -176,6 +234,18 @@ context:
   - id: future-of-work
     name: Future of work
     match:
+      - hybrid working
+      - remote working
+      - flexible work
+      - flexible working
+      - gig economy
+      - gig workers
+      - workforce training
+      - skills training
+      - lifelong learning
+      - it-bpm
+      - bpo industry
+      - bpo workers
       - future of work
       - hybrid work
       - remote work
@@ -211,6 +281,10 @@ context:
       - ai literacy
       - human-ai collaboration
     weak:
+      - ai tools
+      - ai agents
+      - ai assistants
+      - copilot
       - automation
       - artificial intelligence
       - generative ai
@@ -227,6 +301,15 @@ context:
   - id: labor-economics
     name: Labor economics
     match:
+      - jobless
+      - jobless rate
+      - labor force
+      - labour force
+      - job market
+      - hiring
+      - overseas filipino workers
+      - ofws
+      - underemployment
       - labor market
       - labour market
       - unemployment

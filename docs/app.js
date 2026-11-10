@@ -401,6 +401,15 @@
       state.region = data.region || null;
       state.generated = data.generated;
       $("updated").textContent = "Updated " + fmtDate(new Date(data.generated), true);
+      // Tell readers if the daily update has not run for more than a day
+      var hours = (Date.now() - new Date(data.generated).getTime()) / 3600000;
+      if (hours > 30) {
+        var stale = $("stale");
+        stale.textContent = "This edition was last updated " + Math.floor(hours / 24 >= 1 ? hours / 24 : hours) +
+          (hours >= 48 ? " days" : hours >= 24 ? " day" : " hours") +
+          " ago. Today\u2019s update is delayed; the items below may be out of date.";
+        stale.hidden = false;
+      }
     } else {
       $("updated").textContent = "First edition coming soon";
     }
