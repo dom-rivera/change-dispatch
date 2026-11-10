@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:47:38Z",
+ "generated": "2026-11-10T05:01:22Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -368,7 +368,7 @@
    "layer": "news",
    "ok": true,
    "found": 39,
-   "kept": 9,
+   "kept": 8,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
@@ -442,14 +442,14 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 17,
+   "found": 18,
    "kept": 0,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-10T04:46:48Z",
+   "newest_item": "2026-11-10T05:00:00Z",
    "stale": false
   },
   {
@@ -464,7 +464,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-10T04:46:03Z",
+   "newest_item": "2026-11-10T04:50:45Z",
    "stale": false
   },
   {
@@ -484,11 +484,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 7,
+   "found": 9,
    "kept": 1,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-10T02:56:29Z",
+   "newest_item": "2026-11-10T04:37:41Z",
    "stale": false
   },
   {

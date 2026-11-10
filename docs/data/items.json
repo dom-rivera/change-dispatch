@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:47:38Z",
+ "generated": "2026-11-10T05:01:22Z",
  "count": 216,
  "topics": [
   {
@@ -82,6 +82,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "year-end bonus",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -107,6 +114,13 @@
    "topics": [
     "change-management"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "rollout",
+     "kind": "news",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -132,6 +146,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "13th month pay",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -155,6 +176,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "news",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -178,6 +206,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -201,6 +236,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -235,6 +277,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills training",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -267,6 +316,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -301,6 +357,18 @@
     "organizational-change",
     "ai-at-work"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "outsource",
+     "kind": "news",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "news",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -326,6 +394,23 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "restructuring",
+     "kind": "weak",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -351,6 +436,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -383,6 +475,13 @@
    "topics": [
     "leadership"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "servant leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -415,6 +514,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "hybrid work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -444,6 +555,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -474,6 +592,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -497,6 +622,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -523,6 +655,18 @@
     "organizational-change",
     "labor-economics"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "layoffs",
+     "kind": "weak",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "job losses",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -548,6 +692,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai tools",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -573,6 +724,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai tools",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -598,6 +756,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills",
+     "kind": "news",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -623,6 +788,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "year-end bonus",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -648,6 +820,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Opinion"
@@ -675,6 +854,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -700,6 +886,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "merger",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -725,6 +918,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -750,6 +950,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -775,6 +982,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "gig economy",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -800,6 +1014,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "jobless",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -826,6 +1047,18 @@
     "ai-at-work",
     "behavioral-economics"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    },
+    "behavioral-economics": {
+     "phrase": "overconfidence",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -856,6 +1089,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -883,6 +1123,23 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "job market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -933,6 +1190,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -961,6 +1225,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "salaries",
+     "kind": "news",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -985,6 +1256,18 @@
     "organizational-change",
     "ai-at-work"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "layoffs",
+     "kind": "weak",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1010,6 +1293,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "job market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1036,6 +1326,18 @@
     "organizational-change",
     "labor-economics"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "layoffs",
+     "kind": "weak",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "labor market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1061,6 +1363,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1086,6 +1395,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1116,6 +1432,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1146,6 +1469,13 @@
    "topics": [
     "psych-safety"
    ],
+   "why": {
+    "psych-safety": {
+     "phrase": "organizational justice",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1180,6 +1510,23 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    },
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1211,6 +1558,18 @@
     "openness-to-change",
     "ai-at-work"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "acceptance of ai",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1239,6 +1598,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "job search self-efficacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1268,6 +1634,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "reorganization",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1299,6 +1672,23 @@
     "change-management",
     "leadership"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "layoffs",
+     "kind": "weak",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "transition",
+     "kind": "news",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "hr leaders",
+     "kind": "news",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1324,6 +1714,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1353,6 +1750,18 @@
     "future-of-work",
     "labor-economics"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills",
+     "kind": "news",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "labour market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1380,6 +1789,23 @@
     "well-being",
     "ai-at-work"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1409,6 +1835,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1437,6 +1870,13 @@
    "topics": [
     "change-readiness"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1465,6 +1905,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1495,6 +1942,18 @@
     "change-readiness",
     "ai-at-work"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "digital readiness",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1528,6 +1987,18 @@
     "leadership",
     "psych-safety"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -1560,6 +2031,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1589,6 +2067,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1617,6 +2102,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -1673,6 +2165,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1703,6 +2202,23 @@
     "psych-safety",
     "labor-economics"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1742,6 +2258,38 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness to change",
+     "kind": "weak",
+     "in_title": false
+    },
+    "openness-to-change": {
+     "phrase": "attitudes toward ai",
+     "kind": "strong",
+     "in_title": false
+    },
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "workforce training",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1792,6 +2340,23 @@
     "leadership",
     "well-being"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    },
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1826,6 +2391,13 @@
    "topics": [
     "leadership"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1864,6 +2436,38 @@
     "psych-safety",
     "labor-economics"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "collective efficacy",
+     "kind": "weak",
+     "in_title": false
+    },
+    "organizational-change": {
+     "phrase": "restructuring",
+     "kind": "weak",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "lewin",
+     "kind": "strong",
+     "in_title": false
+    },
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "hiring",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1896,6 +2500,28 @@
     "change-management",
     "leadership"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "employee attitudes",
+     "kind": "strong",
+     "in_title": false
+    },
+    "organizational-change": {
+     "phrase": "organisational change",
+     "kind": "strong",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "change process",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "trust in management",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1929,6 +2555,23 @@
     "leadership",
     "ai-at-work"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1962,6 +2605,18 @@
     "future-of-work",
     "labor-economics"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -1996,6 +2651,18 @@
     "change-readiness",
     "labor-economics"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness for change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2032,6 +2699,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "remote work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2064,6 +2738,23 @@
     "future-of-work",
     "labor-economics"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "ai readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "upskilling",
+     "kind": "strong",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2095,6 +2786,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": true,
    "labels": [
     "Not yet peer-reviewed"
@@ -2125,6 +2823,13 @@
    "topics": [
     "psych-safety"
    ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2163,6 +2868,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2197,6 +2909,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2227,6 +2946,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "automation",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2258,6 +2984,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2289,6 +3022,28 @@
     "psych-safety",
     "ai-at-work"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness for change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "change communication",
+     "kind": "strong",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2316,6 +3071,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -2349,6 +3111,13 @@
    "topics": [
     "behavioral-economics"
    ],
+   "why": {
+    "behavioral-economics": {
+     "phrase": "nudges",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2379,6 +3148,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2410,6 +3186,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "hiring",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2441,6 +3224,13 @@
    "topics": [
     "change-readiness"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2478,6 +3268,23 @@
     "future-of-work",
     "ai-at-work"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "attitudes toward ai",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2509,6 +3316,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2542,6 +3361,18 @@
     "organizational-change",
     "change-management"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "change management",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2572,6 +3403,23 @@
     "future-of-work",
     "labor-economics"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "flexible work",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2602,6 +3450,23 @@
     "openness-to-change",
     "ai-at-work"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    },
+    "openness-to-change": {
+     "phrase": "ai acceptance",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -2633,6 +3498,23 @@
     "future-of-work",
     "labor-economics"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "remote work",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -2664,6 +3546,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2691,6 +3585,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -2727,6 +3628,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2758,6 +3666,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "employee wellbeing",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2796,6 +3711,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self efficacy",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -2829,6 +3751,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "flexible work",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2857,6 +3786,18 @@
     "organizational-change",
     "labor-economics"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2891,6 +3832,23 @@
     "change-management",
     "psych-safety"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "change management",
+     "kind": "strong",
+     "in_title": false
+    },
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2922,6 +3880,23 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "workforce readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2960,6 +3935,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "hybrid work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -2987,6 +3969,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -3015,6 +4004,13 @@
    "topics": [
     "change-management"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3048,6 +4044,13 @@
    "topics": [
     "openness-to-change"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "ai acceptance",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3077,6 +4080,23 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3106,6 +4126,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3140,6 +4172,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -3168,6 +4207,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "automation",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -3197,6 +4243,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -3230,6 +4283,18 @@
     "change-readiness",
     "ai-at-work"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai literacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3262,6 +4327,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3293,6 +4370,18 @@
     "openness-to-change",
     "ai-at-work"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "attitudes toward ai",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai anxiety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3324,6 +4413,18 @@
     "openness-to-change",
     "ai-at-work"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "attitudes toward ai",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai tools",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3352,6 +4453,13 @@
    "topics": [
     "leadership"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "ethical leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3383,6 +4491,23 @@
     "leadership",
     "psych-safety"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "middle managers",
+     "kind": "strong",
+     "in_title": false
+    },
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3419,6 +4544,23 @@
     "change-management",
     "well-being"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "quiet quitting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3452,6 +4594,18 @@
     "well-being",
     "ai-at-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3485,6 +4639,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai anxiety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3518,6 +4679,28 @@
     "well-being",
     "ai-at-work"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -3546,6 +4729,13 @@
    "topics": [
     "leadership"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3581,6 +4771,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3613,6 +4810,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai agents",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -3642,6 +4846,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "hiring",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -3687,6 +4898,13 @@
    "topics": [
     "change-management"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change initiatives",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -3716,6 +4934,18 @@
     "change-readiness",
     "ai-at-work"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -3748,6 +4978,13 @@
    "topics": [
     "leadership"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3775,6 +5012,7 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [],
+   "why": {},
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3802,6 +5040,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3836,6 +5081,28 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "ai readiness",
+     "kind": "strong",
+     "in_title": false
+    },
+    "organizational-change": {
+     "phrase": "organizational transformation",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai governance",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3871,6 +5138,23 @@
     "well-being",
     "ai-at-work"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -3905,6 +5189,23 @@
     "leadership",
     "future-of-work"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "empowering leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -3937,6 +5238,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -3967,6 +5275,18 @@
     "change-readiness",
     "self-efficacy"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness for change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "self-efficacy": {
+     "phrase": "change efficacy",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4007,6 +5327,18 @@
     "self-efficacy",
     "ai-at-work"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "occupational self-efficacy",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4039,6 +5371,18 @@
     "openness-to-change",
     "organizational-change"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "openness to change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "organizational-change": {
+     "phrase": "organizational transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4074,6 +5418,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "hybrid work",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4107,6 +5463,23 @@
     "future-of-work",
     "ai-at-work"
    ],
+   "why": {
+    "psych-safety": {
+     "phrase": "organisational culture",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "workplace ai",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4138,6 +5511,18 @@
     "leadership",
     "future-of-work"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "ethical leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4169,6 +5554,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "reorganisation",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4197,6 +5589,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4230,6 +5629,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4263,6 +5669,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills",
+     "kind": "news",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4294,6 +5707,28 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": false
+    },
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "automation",
+     "kind": "weak",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4325,6 +5760,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4355,6 +5797,23 @@
     "well-being",
     "psych-safety"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": false
+    },
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": false
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4386,6 +5845,18 @@
     "openness-to-change",
     "ai-at-work"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "perceptions of ai",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai tools",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4413,6 +5884,7 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [],
+   "why": {},
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4439,6 +5911,13 @@
    "topics": [
     "change-management"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4471,6 +5950,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4501,6 +5987,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4531,6 +6024,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4565,6 +6065,23 @@
     "organizational-change",
     "change-management"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "digital readiness",
+     "kind": "strong",
+     "in_title": false
+    },
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "managing change",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4599,6 +6116,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4627,6 +6156,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "remote working",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4658,6 +6194,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4688,6 +6231,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4717,6 +6267,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "adoption of ai",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [
     "Not yet peer-reviewed"
@@ -4748,6 +6305,18 @@
     "organizational-change",
     "change-management"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "change process",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4779,6 +6348,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4809,6 +6385,23 @@
     "future-of-work",
     "ai-at-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4842,6 +6435,18 @@
     "well-being",
     "ai-at-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "employee wellbeing",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4871,6 +6476,13 @@
    "topics": [
     "change-management"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4904,6 +6516,23 @@
     "openness-to-change",
     "ai-at-work"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "ai self-efficacy",
+     "kind": "strong",
+     "in_title": false
+    },
+    "openness-to-change": {
+     "phrase": "technology acceptance",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4935,6 +6564,18 @@
     "well-being",
     "ai-at-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -4968,6 +6609,23 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "ai acceptance",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai literacy",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "labor market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5000,6 +6658,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5032,6 +6702,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5060,6 +6737,18 @@
     "future-of-work",
     "labor-economics"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "upskilling",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -5097,6 +6786,23 @@
     "well-being",
     "labor-economics"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": false
+    },
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5126,6 +6832,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5156,6 +6869,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "remote working",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5197,6 +6917,23 @@
     "psych-safety",
     "ai-at-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "workplace stress",
+     "kind": "strong",
+     "in_title": false
+    },
+    "psych-safety": {
+     "phrase": "organizational justice",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5234,6 +6971,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5266,6 +7010,18 @@
     "organizational-change",
     "change-management"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5295,6 +7051,18 @@
     "self-efficacy",
     "ai-at-work"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5325,6 +7093,18 @@
     "change-readiness",
     "openness-to-change"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": true
+    },
+    "openness-to-change": {
+     "phrase": "technology acceptance",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5356,6 +7136,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "remote work",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5389,6 +7181,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "reskilling",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5423,6 +7222,23 @@
     "future-of-work",
     "ai-at-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5456,6 +7272,18 @@
     "well-being",
     "future-of-work"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "job crafting",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -5484,6 +7312,13 @@
    "topics": [
     "psych-safety"
    ],
+   "why": {
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5511,6 +7346,13 @@
    "topics": [
     "psych-safety"
    ],
+   "why": {
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5540,6 +7382,13 @@
    "topics": [
     "future-of-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "hybrid work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5571,6 +7420,23 @@
     "future-of-work",
     "ai-at-work"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "upskilling",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai literacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5602,6 +7468,13 @@
    "topics": [
     "organizational-change"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational redesign",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5633,6 +7506,18 @@
     "well-being",
     "labor-economics"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "workplace wellbeing",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5667,6 +7552,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -5695,6 +7587,7 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [],
+   "why": {},
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5727,6 +7620,18 @@
     "well-being",
     "psych-safety"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "employee wellbeing",
+     "kind": "strong",
+     "in_title": false
+    },
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5758,6 +7663,18 @@
     "organizational-change",
     "change-management"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "change process",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5793,6 +7710,23 @@
     "change-management",
     "leadership"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5829,6 +7763,18 @@
     "future-of-work",
     "ai-at-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "hybrid work",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "human-ai collaboration",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5860,6 +7806,13 @@
    "topics": [
     "change-management"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change management",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5892,6 +7845,18 @@
     "change-management",
     "labor-economics"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5926,6 +7891,18 @@
     "organizational-change",
     "ai-at-work"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5958,6 +7935,18 @@
     "organizational-change",
     "ai-at-work"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -5990,6 +7979,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6020,6 +8016,23 @@
     "leadership",
     "well-being"
    ],
+   "why": {
+    "change-management": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -6050,6 +8063,13 @@
    "topics": [
     "ai-at-work"
    ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6082,6 +8102,13 @@
    "topics": [
     "self-efficacy"
    ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "occupational self-efficacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6113,6 +8140,18 @@
     "future-of-work",
     "ai-at-work"
    ],
+   "why": {
+    "future-of-work": {
+     "phrase": "upskilling",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai in the workplace",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6144,6 +8183,18 @@
     "organizational-change",
     "ai-at-work"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai literacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6172,6 +8223,7 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [],
+   "why": {},
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6204,6 +8256,18 @@
     "organizational-change",
     "change-management"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "change agent",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6234,6 +8298,13 @@
    "topics": [
     "leadership"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6265,6 +8336,23 @@
     "organizational-change",
     "leadership"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "commitment to change",
+     "kind": "strong",
+     "in_title": true
+    },
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "change communication",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6297,6 +8385,28 @@
     "leadership",
     "ai-at-work"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "leadership": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -6335,6 +8445,33 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "change management",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "reskilling",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "job market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6367,6 +8504,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6396,6 +8540,13 @@
    "topics": [
     "psych-safety"
    ],
+   "why": {
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6428,6 +8579,23 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "ai readiness",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "adoption of ai",
+     "kind": "strong",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6464,6 +8632,28 @@
     "ai-at-work",
     "labor-economics"
    ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "technology adoption",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "reskilling",
+     "kind": "strong",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -6492,6 +8682,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6525,6 +8722,13 @@
    "topics": [
     "psych-safety"
    ],
+   "why": {
+    "psych-safety": {
+     "phrase": "employee voice",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6554,6 +8758,13 @@
    "topics": [
     "leadership"
    ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
    "region": false,
    "labels": [],
    "access": "Free to read",
@@ -6581,6 +8792,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -6617,6 +8835,23 @@
     "self-efficacy",
     "ai-at-work"
    ],
+   "why": {
+    "change-readiness": {
+     "phrase": "ai readiness",
+     "kind": "strong",
+     "in_title": false
+    },
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": false
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": false
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -6651,6 +8886,13 @@
    "topics": [
     "well-being"
    ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
@@ -6685,6 +8927,13 @@
    "topics": [
     "labor-economics"
    ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
    "region": true,
    "labels": [],
    "access": "Free to read",
