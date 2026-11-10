@@ -4,6 +4,8 @@
 
 The Change Dispatch is a free, open-source digest that updates itself every morning (Manila time). It collects new items from a public list of trusted sources, keeps only those that are **recent, free to read and on-topic**, labels each one, and publishes them as a newspaper-style website.
 
+Edited by Dom Rivera. Site: https://dom-rivera.github.io/change-dispatch · RSS: https://dom-rivera.github.io/change-dispatch/feed.xml
+
 It covers change readiness, self-efficacy, openness to change, organizational change and change management, plus leadership, well-being, psychological safety, the future of work, AI at work, labor economics and behavioral economics, with a dedicated section on the Philippines and Southeast Asia.
 
 ## Inclusion policy
@@ -24,30 +26,48 @@ Every item is labeled by type (Peer-reviewed, Preprint, Institutional, Expert an
 ## How it works
 
 ```
-config/sources.yaml   the approved sources (edit to add or remove one)
-config/topics.yaml    the topics and the phrases used to match them
-scripts/fetch.py      collects, filters, tags and saves the items
-docs/                 the website (served by GitHub Pages)
-docs/data/            items.json and status.json, rewritten each day
-.github/workflows/    the daily schedule
+config/sources.yaml      the approved sources (edit to add or remove one)
+config/topics.yaml       the topics and the phrases used to match them
+notes/                   the Editor's Notes (one Markdown file per note)
+scripts/fetch.py         collects, filters, tags and saves the items
+scripts/build_notes.py   turns notes/ into docs/data/notes.json
+scripts/build_feed.py    writes the RSS feed (docs/feed.xml)
+scripts/health_alert.py  opens/closes the "needs attention" issue
+scripts/audit_links.py   on-demand link, free-access and deployment audit
+docs/                    the website (served by GitHub Pages)
+docs/data/               items, status, notes and daily editions
+.github/workflows/       daily edition, notes publishing, link audit
 ```
 
-Each morning, GitHub Actions runs `scripts/fetch.py`, which:
+Each morning (6:17 AM Manila, with backup runs at 7:47 AM, 10:17 AM and 5:47 PM because GitHub sometimes skips scheduled runs), GitHub Actions runs `scripts/fetch.py`, which:
 
 - reads news feeds (RSS), journal papers through [OpenAlex](https://openalex.org) and PsyArXiv preprints through the OSF API;
+- runs two targeted research searches (core constructs, and authors at Philippine institutions) limited to DOAJ-listed journals with an h-index of 30+, English, with the topic in the title;
 - applies a **freshness window** per source (7 days for news, 14 for analysis, 30 for preprints, 60 for research and reports) using the real publication date;
 - drops items with no date, paywalled papers, retracted papers and anything that doesn't match a topic;
 - removes duplicates, tags topics and the regional filter, and saves the result;
 - records which sources worked in `docs/data/status.json`, shown on the site's "About & sources" page;
 - saves the day's edition in `docs/data/editions/` so readers can browse past days under "Past Editions".
 
-Items and editions stay available for a year.
+Items and editions stay available for a year. The same run then publishes any Editor's Notes scheduled for that day, rebuilds the RSS feed, and opens a GitHub issue ("Daily edition needs attention") if the run or three or more sources fail, closing it when runs are healthy again.
+
+## Site features
+
+- Today's Dispatch, Front Page (core topics), Research Desk, Philippines & SE Asia, a page per topic, Archive (a year, searchable)
+- Past Editions: each day's reading list, with day-to-day navigation
+- Editor's Notes: a monthly note by the editor
+- Cite (APA 7) on every item, copied with italics for Word or Google Docs
+- RSS feed for feed reader apps (no sign-up, no reader data collected)
+- About & Sources: the editor, the inclusion policy, live source status, correction and source-suggestion forms
+- A notice when data is more than 30 hours old; link previews for social media
 
 ## Editing without code
 
 - **Add or remove a source:** edit `config/sources.yaml` on GitHub (pencil icon), copy an existing block, change it, and commit.
 - **Adjust a topic:** edit the phrases in `config/topics.yaml`.
 - **Run an update now:** Actions tab → Daily edition → Run workflow.
+- **Write an Editor's Note:** see `notes/README.md`; copy `notes/_template.md` into a new file and commit.
+- **Check every link:** Actions tab → Audit links → Run workflow (also confirms each research paper's free-access status and that the live site matches this repository).
 
 ## Setup (one time)
 
@@ -67,7 +87,8 @@ To update packages: edit `requirements.in`, then run `uv pip compile requirement
 
 ```
 pip install --require-hashes -r requirements.txt
-python -m pytest tests          # check the filtering rules
+python -m pytest tests          # filtering rules, notes, feed, citations
+node tests/apa.test.js          # APA 7 formatter
 OPENALEX_API_KEY=your_key python scripts/fetch.py
 ```
 
