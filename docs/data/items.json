@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-09T19:45:16Z",
- "count": 60,
+ "generated": "2026-11-10T02:28:15Z",
+ "count": 339,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,183 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "938fa39fa6610cdb",
+   "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
+   "url": "https://www.nber.org/papers/w35991#fromrss",
+   "source": "NBER Working Papers",
+   "source_id": "nber",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T02:28:15Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "date_estimated": true
+  },
+  {
+   "id": "29dc3ada50a44e0a",
+   "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+   "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T01:34:47Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5f0d029415c2495a",
+   "title": "Supporting Early Career Development Through Volitional Personality Change: A Multi-Layered Evaluation of a Digital Intervention",
+   "url": "https://osf.io/preprints/psyarxiv/tz8gb_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T00:56:28Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "610a273a3ee6f848",
+   "title": "What Drives Leaders to Serve? The Joint and Interactive Effects of HEXACO Personality Traits and Implicit Motives on Servant Leadership",
+   "url": "https://osf.io/preprints/psyarxiv/2gf9e_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T00:54:10Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "leadership"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "a8b4a7a7333a495d",
+   "title": "Connected or drained? An experience sampling study on informal communication and well-being in hybrid work settings",
+   "url": "https://osf.io/preprints/psyarxiv/d6vmp_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T00:45:43Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "497fc94f7bb89a5a",
+   "title": "Trusting the Machine: Separating Trust in GenAI Authors from Trust in Their Content",
+   "url": "https://osf.io/preprints/psyarxiv/jfpgu_v3/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T00:45:28Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "44bf67aa25b57dfc",
+   "title": "ADB Approves $98 Million Loan to Advance Digital Transformation in Sri Lanka",
+   "url": "https://www.adb.org/news/adb-approves-98-million-loan-advance-digital-transformation-sri-lanka",
+   "source": "Asian Development Bank",
+   "source_id": "adb",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "506a7d7aad4b0289",
+   "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T20:27:07Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "eec41a5bd7781e3b",
+   "title": "Boeing to cut about 5% of its commercial plane workforce",
+   "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-09T19:11:26Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
   {
    "id": "15d97949f4ab4b94",
    "title": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale",
@@ -239,6 +416,24 @@
    "access": "Free to read"
   },
   {
+   "id": "022e329a512042ed",
+   "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-07T14:00:12Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "d3206e9a07abfa81",
    "title": "PH jobless rate inched up to 5.4% in Sept",
    "url": "https://business.inquirer.net/619878/ph-jobless-rate-inched-up-to-5-4-in-sept",
@@ -253,6 +448,44 @@
     "labor-economics"
    ],
    "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "78520e80e7c5340a",
+   "title": "Institutional conditions shaping digital accounting systems and public sector financial transparency",
+   "url": "https://doi.org/10.1007/s43621-026-05227-w",
+   "source": "Discover Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-07T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5fc92812e3ffb821",
+   "title": "Synergies in streamlining: AI and Lean Management in Polish healthcare administration",
+   "url": "https://www.nature.com/articles/s41598-026-76304-3_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-07T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "change-management",
+    "ai-at-work"
+   ],
+   "region": false,
    "labels": [],
    "access": "Free to read"
   },
@@ -375,6 +608,118 @@
    "access": "Free to read"
   },
   {
+   "id": "ee61115c1c3751a2",
+   "title": "A network analysis of organizational justice, job engagement and life satisfaction among women in male-dominated industries: exploring diverse work models",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1929968/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "98ceda470d7678c7",
+   "title": "Nurses’ Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review",
+   "url": "https://doi.org/10.2196/99489",
+   "source": "Journal of Medical Internet Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "28061ffb4baa077b",
+   "title": "Data-Driven Strategies: An Empirical Study Based on Executive Perceptions",
+   "url": "https://doi.org/10.3390/businesses6040060",
+   "source": "Businesses",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d70d17f789ca010c",
+   "title": "A fuzzy DEMATEL–ISM framework for unpacking barriers to digital twin adoption in high-density crowd management",
+   "url": "https://www.nature.com/articles/s41598-026-78465-7_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9699843eca662993",
+   "title": "Translating an allied health transdisciplinary assessment model into two acute stroke units and a medical ward: a mixed methods implementation study",
+   "url": "https://doi.org/10.1186/s12913-026-16088-4",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "60772737107edcf5",
+   "title": "Inclusive student engagement in gamified Arabic classrooms: participation, confidence, and student voice",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2026.2753342?needAccess=true",
+   "source": "Cogent Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "aad9ad0f74df6c92",
    "title": "AI Grief at Work: Development and Initial Validation of a Self-Report Scale",
    "url": "https://osf.io/preprints/psyarxiv/5eu9m_v2/",
@@ -386,6 +731,7 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 30,
    "topics": [
+    "openness-to-change",
     "ai-at-work"
    ],
    "region": false,
@@ -415,6 +761,26 @@
    "access": "Free to read"
   },
   {
+   "id": "3d51822f4ee9ff25",
+   "title": "A Topology of the Psilocybin Experience Reveals Cognitive-Emotional Drivers, Unitive State Divergence, and Psychometric Feature Cancellation",
+   "url": "https://osf.io/preprints/psyarxiv/be5qp_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-05T23:18:27Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
    "id": "a8202869f57872ad",
    "title": "mirtverse: Accessible, AI-ready Item Response Theory in R with mirt",
    "url": "https://osf.io/preprints/psyarxiv/j9ya7_v1/",
@@ -432,6 +798,80 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
+   "access": "Free to read"
+  },
+  {
+   "id": "722d892a23966117",
+   "title": "Readiness assessment for construction 5.0 using fuzzy logic: a case of construction organisation",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44290-026-00669-7.pdf",
+   "source": "Discover Civil Engineering",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ac835e9a1911b5cd",
+   "title": "Exploring socio-technical facilitators of blockchain adoption in agri-food value chains: an interpretive structural modelling (ISM) approach",
+   "url": "https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2026.1895432/pdf",
+   "source": "Frontiers in Blockchain",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "042cc24822ac8fee",
+   "title": "Emerging technologies, organizational change, and financial innovation: A multi-country study from the Arab region",
+   "url": "https://hsd.ardascience.com/index.php/journal/article/download/2172/348",
+   "source": "Heritage and Sustainable Development",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5e9ad0beac960ef7",
+   "title": "The dark side of GenAI in the workplace: technostress, loneliness, and the buffering role of transformational leadership",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1910745/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
    "access": "Free to read"
   },
   {
@@ -455,6 +895,117 @@
    "access": "Free to read"
   },
   {
+   "id": "0c70261e0026c901",
+   "title": "Objective Neurocognitive Assessment of Stress and Recovery in Military Personnel: The NPRO-8 MIL Two-Tier Screening Framework",
+   "url": "https://osf.io/preprints/psyarxiv/4gbke_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-04T07:34:20Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "163a5d051dff9f22",
+   "title": "The Effect of Student Pharmacists as Peer Coaches on Implementation of Community Pharmacy Services",
+   "url": "https://www.cdc.gov/pcd/issues/2026/pdf/26_0472.pdf",
+   "source": "Preventing Chronic Disease",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a417a5e513b3615e",
+   "title": "Leveraging cubism principles to foster innovation in manufacturing systems: an AI-enabled mixed-methods analysis",
+   "url": "https://www.emerald.com/inmr/article-pdf/doi/10.1108/INMR-03-2025-0058/11950366/inmr-03-2025-0058en.pdf",
+   "source": "Innovation & Management Review",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "42e5d743175a67b8",
+   "title": "Expanding a university-based social enterprise: organizational change across 15 years",
+   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1972294/pdf",
+   "source": "Frontiers in Sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5c1c6d214c2be2fb",
+   "title": "REGULATORY CHANGES IMPACT ON CLINICAL TRIALS – CTIS (CLINICAL TRIAL INFORMATION SYSTEM)",
+   "url": "https://doi.org/10.7365/jhpor.2026.2.6",
+   "source": "Journal of Health Policy & Outcomes Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "0541540fa75ab1e6",
+   "title": "Technostress and telemedicine in rural communities: insights from healthcare professionals in the Italian Dolomites",
+   "url": "https://www.rrh.org.au/assets/article_documents/article_print_10154.pdf",
+   "source": "Rural and Remote Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "77380bc4e8b25f43",
    "title": "Transitions in Teachers’ Technology Utilization: Evidence from a Large-Scale, Longitudinal, and International Panel Study",
    "url": "https://osf.io/preprints/psyarxiv/uecdk_v2/",
@@ -467,6 +1018,26 @@
    "window_days": 30,
    "topics": [
     "self-efficacy"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "0738437309b4683a",
+   "title": "Persistence Through Transformation: A Processual Framework for Knowledge Systems Across Cognitive, Cultural, and Religious Domains",
+   "url": "https://osf.io/preprints/psyarxiv/e2zgd_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-03T17:25:56Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "organizational-change"
    ],
    "region": false,
    "labels": [
@@ -513,6 +1084,429 @@
    "access": "Free to read"
   },
   {
+   "id": "825953c98a8d33e0",
+   "title": "The Conservatism Paradox: Conservatism Among Teachers Predicts Resistance Even to Conservative Change",
+   "url": "https://rips-irsp.com/articles/1041/files/6ae9d21726a06.pdf",
+   "source": "International Review of Social Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8ca9e967b8355b85",
+   "title": "Tensions, challenges and advances: Accessibility and inclusion in a Brazilian science museum from the perspective of staff with disabilities",
+   "url": "https://doi.org/10.1177/20966083261503413",
+   "source": "Cultures of Science",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e27a4bdebf36eb19",
+   "title": "Active learning in a large calculus class improves student satisfaction and performance",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02354-4.pdf",
+   "source": "Discover Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "behavioral-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b329cf354adfb128",
+   "title": "Negotiating the paradoxes of collaborative clinical reasoning: insights from a qualitative case study in longitudinal patient care",
+   "url": "https://doi.org/10.1186/s12909-026-10708-7",
+   "source": "BMC Medical Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e4b7fbb7af15ac9c",
+   "title": "Practice leadership development in intellectual disability services: A qualitative study of practice leaders’ experiences",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351893&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "74ae08e800853b18",
+   "title": "Reflecting on Youth Participation in Mental Health Research: Lessons From the Consell de Joves in Catalonia",
+   "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.70954",
+   "source": "Health Expectations",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e8a9b79f99c26e25",
+   "title": "Moving the needle: overcoming systemic inertia to foster collective sustainability agency in organizations",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1860991/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "organizational-change",
+    "change-management",
+    "well-being",
+    "psych-safety",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "15c4db0b3cbfd20e",
+   "title": "Integrated Lean–BIM–AI Frameworks for Construction Quality and Sustainable Performance: A Systematic Review",
+   "url": "https://doi.org/10.3390/buildings16214389",
+   "source": "Buildings",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a44ecd3c88c90e4a",
+   "title": "ORGANISATIONAL CHANGE MANAGEMENT AND IMPACT OF LEADERSHIP ON EMPLOYEE PERCEPTIONS",
+   "url": "http://baltijapublishing.lv/index.php/issue/article/download/4929/4812",
+   "source": "Baltic Journal of Economic Studies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change",
+    "change-management",
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "3c97f7b65c38dc1d",
+   "title": "Beyond Public–Private Sector Differences: Managerial Response Mechanisms in Romanian Police and Industrial Organizations",
+   "url": "https://doi.org/10.3390/admsci16110530",
+   "source": "Administrative Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ec11741b85392f92",
+   "title": "Speaking Up or Thinking of Leaving? Ethical Climate, Psychological Safety, and Voice in B2B Salesforces",
+   "url": "https://marketingmanagementjournal.scholasticahq.com/article/172047.pdf",
+   "source": "Marketing Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "96756e8ac3561a63",
+   "title": "More Than One Voice: Strengthening Organizational Readiness for Lived Experience Integration in Early Psychosis Services",
+   "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.70944",
+   "source": "Health Expectations",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "778d1b35a9105927",
+   "title": "Drivers and barriers of green practices adoption: A survey of small and medium-sized manufacturing enterprises in an emerging economy",
+   "url": "https://ejurnal.undana.ac.id/index.php/JEM/article/download/29424/10738",
+   "source": "Journal of Management Small and Medium Enterprises (SMEs)",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ae39c31139b75c14",
+   "title": "Lean Management awareness and Artificial Intelligence readiness in Polish healthcare: an exploratory study of competency pathways",
+   "url": "https://doi.org/10.1016/j.heliyon.2026.e45714",
+   "source": "Heliyon",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a6a3933349edf976",
+   "title": "Psychological and operational barriers to public electric vehicle fleet adoption in Minnesota",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2590198226005026/pdf",
+   "source": "Transportation Research Interdisciplinary Perspectives",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "3197014013e56199",
+   "title": "Manajemen Peningkatan Mutu Sumber Daya Manusia Guru dalam Meningkatkan Kualitas Pendidikan di SMA Negeri 1 Pamekasan",
+   "url": "https://ejournal.ipn.ac.id/index.php/palapa/article/download/6287/2784",
+   "source": "PALAPA",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1cc45f71afed0136",
+   "title": "Artificial Intelligence and the Transformation of Public Administration: Policy Impact, Governance, and Ethical Tensions",
+   "url": "https://www.wr-publishing.org/index.php/ijarbm/article/download/718/805",
+   "source": "International Journal of Applied Research in Business and Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "aabbf5ff864ea58b",
+   "title": "Characterizing Meaningfulness in Industry: A Qualitative Study",
+   "url": "https://www.wr-publishing.org/index.php/ijarbm/article/download/949/788",
+   "source": "International Journal of Applied Research in Business and Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "c4a486b564cf6c0f",
+   "title": "The impact of the Fourth Industrial Revolution on job turnover and workforce adaptation in a selected local municipality in the Eastern Cape",
+   "url": "https://ejurnal.undana.ac.id/index.php/JEM/article/download/27577/10741",
+   "source": "Journal of Management Small and Medium Enterprises (SMEs)",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "change-management",
+    "well-being",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "88b1d479ffe12e07",
+   "title": "Human Resource Management Practices and Employee Performance in a Multigenerational Workforce in Nigerian Organisations",
+   "url": "https://ajaronline.com/index.php/AJAR/article/download/2297/969",
+   "source": "African Journal Of Applied Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e139b3e0a8f26810",
+   "title": "Leading for Medical Teacher Well-Being in Health Professions Education: Ten Evidence-Informed Actions for Sustainable Educational Leadership",
+   "url": "https://www.dovepress.com/article/download/122011",
+   "source": "Advances in Medical Education and Practice",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "12a629b13a075f50",
+   "title": "Policy evaluation of coaching-based clinical supervision in high schools and vocational schools in the disruption era",
+   "url": "https://journal.uny.ac.id/index.php/jk/article/view/96270",
+   "source": "Jurnal Kependidikan Penelitian Inovasi Pembelajaran",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "c776359cc0fa2bf2",
    "title": "Toward a Program Theory of A Singaporean Single-Session, Synchronous Chat-Based Mental Health Support for Youths: The Behavior Change Techniques Workers Use and How They Relate to Outcome",
    "url": "https://osf.io/preprints/psyarxiv/v6ta4_v2/",
@@ -530,6 +1524,81 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
+   "access": "Free to read"
+  },
+  {
+   "id": "d7481a3a52c2e46d",
+   "title": "Readiness for adopting outcome-based education in higher education institutions in Mogadishu, Somalia",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02368-y.pdf",
+   "source": "Discover Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "18375f960e920cc6",
+   "title": "Psychological and organisational experiences influencing perceived job performance among agency nurses in South Africa",
+   "url": "https://gaerpsy.com/index.php/ijspsy/article/download/557/567",
+   "source": "International Journal of Studies in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6a088b67755b5f4e",
+   "title": "Team Psychological Safety Atmosphere and Professional Identity Among New Nurses in China: The Mediating Role of Impostor Phenomenon",
+   "url": "https://www.dovepress.com/article/download/121678",
+   "source": "Journal of Multidisciplinary Healthcare",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b08b2b91fb33299c",
+   "title": "Psychological Safety and Financial Resilience: The Roles of Employee Engagement and Customer Trust",
+   "url": "https://asiaentrepreneurshipjournal.com/index.php/jaes/article/download/793/605",
+   "source": "Journal of Asia Entrepreneurship and Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
    "access": "Free to read"
   },
   {
@@ -613,6 +1682,175 @@
    "access": "Free to read"
   },
   {
+   "id": "8f926b4ae8b3c1e3",
+   "title": "Organizational mechanisms in digital public health transformation: change communication, collective sensemaking, and cross-functional collaboration",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1978109/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "leadership",
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f52c84e066f19e36",
+   "title": "Challenging menstrual silence in sport: adolescent girls' perspectives on menstrual health, communication and change",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1862668/pdf",
+   "source": "Frontiers in Sports and Active Living",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ca25604bec64ae79",
+   "title": "The Mediating Role of Organizational Change Capability and Leadership Effectiveness in the Relationship Between Managerial Cognitive Capability and Sustainable Performance",
+   "url": "https://journal.perbanas.ac.id/index.php/jebav/article/download/5760/2092",
+   "source": "Journal of Economics Business and Accountancy Ventura",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "0d011ed4afa504d6",
+   "title": "AI adoption in purchasing and supply management: how institutional voids rewire the UTAUT framework",
+   "url": "https://www.emerald.com/mscra/article-pdf/doi/10.1108/MSCRA-07-2026-0119/11941612/mscra-07-2026-0119en.pdf",
+   "source": "Modern Supply Chain Research and Applications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "change-management",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "92676aef8377d25c",
+   "title": "Bridging the Gap Between Knowledge and Practice: A Cross-Sectional Survey of Debriefing in Prehospital Emergency Service",
+   "url": "https://doi.org/10.3390/nursrep16110389",
+   "source": "Nursing Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "424085123a74c13a",
+   "title": "Unlocking Employee Well-Being, Psychological Safety as the Missing Link in Human Resource Management: A Systematic Literature Review and Bibliometric Analysis",
+   "url": "https://ajaronline.com/index.php/AJAR/article/download/2283/955",
+   "source": "African Journal Of Applied Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "c11a628f93224b92",
+   "title": "Student Leaders’ Visions of Nursing Education, Current and Future: An Interview With Scarlett Montserrat Sanabria-Ramos and Brooklynn Bellisle of the Canadian Nursing Students’ Association",
+   "url": "https://qane-afi.casn.ca/index.php/casn/article/download/475/342",
+   "source": "Quality Advancement in Nursing Education - Avancées en formation infirmière",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d77297431a46efc8",
+   "title": "Open Digital Spaces as Emotionally Aware Learning Environments: A Collaborative Experience in TFA Programs",
+   "url": "https://ojs.gsdjournal.it/index.php/gsdj/article/view/1741",
+   "source": "Giornale Italiano di Educazione alla Salute, Sport e Didattica Inclusiva",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f18703e219f47dd0",
+   "title": "Examining the relationship between teacher candidates' techno-stress levels and information and communication technologies competencies",
+   "url": "https://doi.org/10.21831/cp.v45i3.95674",
+   "source": "Jurnal Cakrawala Pendidikan",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "20ffbc462f8b7cbc",
    "title": "The conflicted student and the internal battle over generative AI use",
    "url": "https://osf.io/preprints/psyarxiv/ahqns_v1/",
@@ -633,6 +1871,153 @@
    "access": "Free to read"
   },
   {
+   "id": "273e9448e03ee26e",
+   "title": "Team Science: An Examination of Factors Associated with Citation Metrics",
+   "url": "https://osf.io/preprints/psyarxiv/37mcg_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-29T22:22:22Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "a849f1d1f1ec6c77",
+   "title": "A capability-driven model of digital government transformation: Evidence from Thailand's local governments",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2590291126014816/pdf",
+   "source": "Social Sciences & Humanities Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "49cb3d3f31c24883",
+   "title": "An integrated circular economy approach for manufacturing",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2590123026048723/pdf",
+   "source": "Results in Engineering",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b6de553194ab80ae",
+   "title": "Exploring organizational readiness for the early adoption of a digital obesity prevention program in Swedish child healthcare: an observational prospective study",
+   "url": "https://doi.org/10.1186/s12913-026-15953-6",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "261b38a39b93c067",
+   "title": "Career management system for academic staff: From adaptation to leadership",
+   "url": "https://emjume.elpub.ru/jour/article/download/3044/1708",
+   "source": "Economics and Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "4beb5f5428d0d560",
+   "title": "Exploring the anticipated impact of assistive exoskeletons on older workers’ retirement intentions: a survey study",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/28324897.2026.2752741?needAccess=true",
+   "source": "Cogent Gerontology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "fa4c72b25cf00364",
+   "title": "Ethical change, legal normativity and social legitimacy",
+   "url": "https://opo.iisj.net/index.php/sortuz/article/download/2565/2974",
+   "source": "Sortuz",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d2ba205e273adafd",
+   "title": "An exploratory interaction between perceived psychological safety, perceived lack of competence, and reduced personal accomplishment among child welfare officers in the greater Tokyo Area, Japan",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2950193826000926/pdf",
+   "source": "Child Protection and Practice",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "be2d5ad5e86caa24",
    "title": "An Accountability Matrix for Organizational Change: Navigating Transitions from Individual Blame to Organizational Learning in the Swedish Police",
    "url": "https://www.tandfonline.com/doi/pdf/10.1080/14697017.2026.2742144?needAccess=true",
@@ -646,6 +2031,158 @@
    "topics": [
     "organizational-change",
     "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "c174294bc2bbcb10",
+   "title": "Developing a multi-level human-centered design framework for digital health implementation: a cross-project methodological synthesis",
+   "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1939519/pdf",
+   "source": "Frontiers in Digital Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7c87b3cb903cb67e",
+   "title": "Understanding adaptation to digital transformation: evidence from Indian advertising industry",
+   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1953897/pdf",
+   "source": "Frontiers in Sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6b52c4a93d3952c4",
+   "title": "Factors and determinants of lecturers’ Well-Being: A scoping review across 15 countries",
+   "url": "https://www.sciencedirect.com/science/article/pii/S259029112601435X/pdf",
+   "source": "Social Sciences & Humanities Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d94d5e7ef4863f26",
+   "title": "AI-driven project management: Mapping progress, research gaps, and future directions",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2590005626007289/pdf",
+   "source": "Array",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "0d7e6c8a1ff1ad1b",
+   "title": "Quiet coping and mental health disclosure among university employees in the Philippines",
+   "url": "https://www.nature.com/articles/s41598-026-74347-0_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6be7e57792d67719",
+   "title": "User-centered design of digital audit and feedback dashboards to support pediatric antimicrobial stewardship",
+   "url": "https://doi.org/10.1186/s12913-026-15931-y",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "45d84ee73ca66d9a",
+   "title": "The Effects of Technostress and Safety Climate on Technological Productivity: The Moderating Role of Perceived Organizational Support",
+   "url": "https://doi.org/10.71350/yoad.11.2.003",
+   "source": "Yönetim ve organizasyon araştırmaları dergisi/Yönetim ve organizasyon araştırmaları dergisi",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "c301d03234b01c29",
+   "title": "Teknostres ile Siber Aylaklık İlişkisinde Dijital Tükenmişliğin Aracı Rolü",
+   "url": "https://doi.org/10.71350/yoad.11.2.002",
+   "source": "Yönetim ve organizasyon araştırmaları dergisi/Yönetim ve organizasyon araştırmaları dergisi",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -712,6 +2249,157 @@
    "access": "Free to read"
   },
   {
+   "id": "feb058313b849683",
+   "title": "Beyond anthropocentric workplaces: a multispecies perspective on human-animal interactions and employee outcomes",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1903354/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f8cf40fae2311f9d",
+   "title": "Workforce consequences of implementing DRG-based payment reform in China: an explanatory sequential mixed-methods study of hospital consumables managers",
+   "url": "https://doi.org/10.1186/s12913-026-15937-6",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "244066e6249d968e",
+   "title": "Towards an integrated framework for digital transformation in Moroccan higher education",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1912168/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7e50317055ac4ca5",
+   "title": "AI/ML-enabled sepsis prediction systems: laboratory considerations from development to deployment",
+   "url": "https://doi.org/10.1128/jcm.01461-25",
+   "source": "Journal of Clinical Microbiology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "20973b8759ab7a1c",
+   "title": "MANAJEMEN PERUBAHAN UNTUK MENINGKATKAN MUTU PADA MADRASAH ALIYAH NEGERI PROGRAM KEAGAMAAN DI SAMARINDA",
+   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/72016/41869",
+   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6e2086e7ad3ed539",
+   "title": "Lliga Catalana de Simulació: a post-intervention evaluation of perceived educational value following competitive clinical simulation in multidisciplinary teams",
+   "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1945401/pdf",
+   "source": "Frontiers in Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "71c342e3c147324b",
+   "title": "What a teacher cannot delegate: a pedagogy-first framework for integrating conversational AI agents across the simulation cycle",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1961346/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "66c853f4f21454b1",
+   "title": "Digital Fatigue, Workforce Readiness, and Medication Safety: A Systems Perspective for Pharmacy Education",
+   "url": "https://doi.org/10.3390/pharmacy14080157",
+   "source": "Pharmacy",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "b31ec780e28f118b",
    "title": "Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis",
    "url": "https://osf.io/preprints/psyarxiv/jv4ah_v1/",
@@ -729,6 +2417,151 @@
    "labels": [
     "Not yet peer-reviewed"
    ],
+   "access": "Free to read"
+  },
+  {
+   "id": "dac2f6e015b20594",
+   "title": "Implementation of halal certification for Muhammadiyah F&B business owners: Legal obligation or business necessity?",
+   "url": "https://www.gbmrjournal.com/pdf/v17n1/V17N1-8.pdf",
+   "source": "Review of Islamic Social Finance and Entrepreneurship",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d4f9d638f8e0e75e",
+   "title": "Mapping interdependencies among challenges to artificial intelligence adoption in drug discovery",
+   "url": "https://www.nature.com/articles/s41599-026-08833-1_reference.pdf",
+   "source": "Humanities and Social Sciences Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "2e95a1c9943fc450",
+   "title": "Decoding the Dynamics of Healthcare Quality: Developing the MICE Matrix as a Conceptual Framework",
+   "url": "https://journal.achsm.org.au/index.php/achsm/article/download/5291/2006",
+   "source": "Asia Pacific Journal of Health Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "96dea557525af812",
+   "title": "Network analysis of the relationship between change fatigue and work withdrawal behavior among Chinese nurses",
+   "url": "https://doi.org/10.1186/s12912-026-05535-6",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7c7b84200e3c4c44",
+   "title": "МЕТОД ОПТИМІЗАЦІЇ DML-ОПЕРАЦІЙ У SALESFORCE НА ОСНОВІ ПАТЕРНУ UNIT OF WORK: АРХІТЕКТУРНИЙ ПІДХІД ДО КОНСОЛІДАЦІЇ ТРАНЗАКЦІЙНИХ ЗМІН",
+   "url": "https://www.csecurity.kubg.edu.ua/index.php/journal/article/download/1322/1243",
+   "source": "Cybersecurity Education Science Technique",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f9314c3d7cb7a91f",
+   "title": "Reflective seminars for the promotion of mental health in medical education: a qualitative model in a Latin American context",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1869011/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "73d916cdf9bf38d9",
+   "title": "Self-Awareness for Critical Global Citizenship Education: A Model for Exploration",
+   "url": "https://doi.org/10.3390/educsci16111799",
+   "source": "Education Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5ab4f4950c44c94b",
+   "title": "How to support the mental health of older employees? Identification of psychosocial hazards and recommended directions for employer interventions",
+   "url": "https://medpr.imp.lodz.pl/pdf-237361-149531?filename=How-to-support-the-mental.pdf",
+   "source": "Medycyna Pracy",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
    "access": "Free to read"
   },
   {
@@ -772,6 +2605,43 @@
    "access": "Free to read"
   },
   {
+   "id": "f8e37fb07b857d1d",
+   "title": "The experiences of patients, their families, and carers during care from alternative ambulance response units: A scoping review",
+   "url": "https://doi.org/10.1177/27536386261498217",
+   "source": "Paramedicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "12dd678ad90971d3",
+   "title": "Students’ readiness for positive interaction is a resource for the psychological safety of an inclusive educational environment",
+   "url": "https://psyjournals.ru/journals/pse/archive/2026_n5/pse_2026_n5_Slusareva_Sankova_Borozenets.pdf",
+   "source": "Psychological Science and Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "e9736233586e709c",
    "title": "Toward Evidence-Based Human-Centered AI and Human-AI Interaction: A Cross-Domain Systematic Review",
    "url": "https://osf.io/preprints/psyarxiv/j9cha_v1/",
@@ -784,6 +2654,289 @@
    "window_days": 30,
    "topics": [
     "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "09923fbf1f5a3882",
+   "title": "From Access to Governance: Generative AI Literacy for Extension Professionals and Small Businesses, and a Governance-Aware Design Framework",
+   "url": "https://doi.org/10.3390/ai7110440",
+   "source": "AI",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "14afe7d67a8031a8",
+   "title": "Es hora de cambiar de juego",
+   "url": "https://veredes.es/vad/index.php/index/article/view/vad06-las-precursoras-editorial-es-hora-de-cambiar-de-juego-mart",
+   "source": "Veredes, Arquitectura y Divulgación",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a705d66a37d5ec83",
+   "title": "Resistance to technological innovation: the case of teleconsultation before and during COVID-19",
+   "url": "https://www.emerald.com/rege/article-pdf/doi/10.1108/REGE-09-2025-0133/11925589/rege-09-2025-0133en.pdf",
+   "source": "Revista de Gestão",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "bb725b97f63bc422",
+   "title": "Balancing Tradition and Innovation in Family-Owned Businesses: Innovation Ambidexterity",
+   "url": "https://eb-journals.rtu.lv/eb/article/download/eb-2026-0003/241",
+   "source": "Economics and Business",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9d45a012e601b39d",
+   "title": "Head Nurse's Resilient Leadership and Nurses’ Adaptive Capacity in Hospital Service Systems: A Cross-Sectional Study",
+   "url": "https://thejnp.org/index.php/jnp/article/download/1136/477",
+   "source": "Journal Of Nursing Practice",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-22T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "af1baa0b12116c51",
+   "title": "Rola nauczyciela w tworzeniu warunków do rozwijania zdolności uczenia się matematyki po I etapie edukacji – perspektywa konstruktywistyczna",
+   "url": "https://czasopisma.bg.ug.edu.pl/index.php/pwe/article/download/14278/12769",
+   "source": "Problemy Wczesnej Edukacji",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-22T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d80fcd437261390f",
+   "title": "The challenges that face the Saudi media in the age of artificial intelligence",
+   "url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1968718/pdf",
+   "source": "Frontiers in Communication",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "93a31493a3fb34c6",
+   "title": "Sustainment and sustainability of evidence-based treatment for post-traumatic stress disorder: findings from a post-implementation evaluation",
+   "url": "https://doi.org/10.1186/s43058-026-01145-0",
+   "source": "Implementation Science Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "32da25b5651bc3eb",
+   "title": "The interplay of mergers and acquisition and digitization on employee turnover in commercial banks",
+   "url": "https://iiari.org/wp-content/uploads/ijair.v7.4.358.pdf",
+   "source": "International Journal of Academe and Industry Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "74bea2d2f1fede6a",
+   "title": "SUSTAINABLE E-LEADERSHIP AND ORGANIZATIONAL TRANSFORMATION: THE ROLES OF FLEXIBILITY, DIGITALIZATION, AND CULTURE IN ENHANCING OPERATIONAL EFFICIENCY",
+   "url": "https://doi.org/10.30892/gtg.68426-1907",
+   "source": "GeoJournal of Tourism and Geosites",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "leadership",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "59b67b1bde32d4bd",
+   "title": "Associations of workload, work satisfaction, change fatigue, and presenteeism with quiet quitting among healthcare professionals: a structural equation modeling study",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1936291/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "15f8c8ab0a7b97ec",
+   "title": "Effects of technostress on professional performance",
+   "url": "https://www.emerald.com/rege/article-pdf/doi/10.1108/REGE-02-2026-0030/11921791/rege-02-2026-0030en.pdf",
+   "source": "Revista de Gestão",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8700adc97be388e6",
+   "title": "Algorithmic management and employees’ work withdrawal behavior: the roles of AI anxiety and perceived algorithmic transparency",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1916936/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "cc2ab7e9d95a2f02",
+   "title": "Synthetic Selves for AI Agents? Lessons from Psychology for Agent-Based Modeling",
+   "url": "https://osf.io/preprints/psyarxiv/67dhz_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-20T20:02:57Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "55160d8a6f36b233",
+   "title": "Expected but not rewarded: Limited uptake of open science practices as hiring criterion in a national sample of academic job advertisements",
+   "url": "https://osf.io/preprints/psyarxiv/2yvgx_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-20T16:47:22Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "labor-economics"
    ],
    "region": false,
    "labels": [
@@ -812,6 +2965,140 @@
    "access": "Free to read"
   },
   {
+   "id": "258a0f68b16c96e6",
+   "title": "AI Adoption for PMO Transformation in GCC Banks: An Expert-Refined TOE Model",
+   "url": "https://doi.org/10.3390/systems14101330",
+   "source": "Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ecd1c410f85f1c7c",
+   "title": "Maintenance 4.0 Implementation in Namibia: A Case of Mineral Processing Plants",
+   "url": "https://doi.org/10.21791/ijems.2026.19",
+   "source": "International Journal of Engineering and Management Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8e32b4c0d1b4456d",
+   "title": "Fintech at work: examining the psychological mechanisms linking fintech use and work productivity in the financial industry",
+   "url": "https://www.nature.com/articles/s41599-026-08769-6_reference.pdf",
+   "source": "Humanities and Social Sciences Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "well-being",
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "27c31e7d045df156",
+   "title": "Skills in Industry 5.0: which ones really matter?",
+   "url": "https://www.jiem.org/index.php/jiem/article/download/9264/1166",
+   "source": "Journal of Industrial Engineering and Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e44f004f61d4069d",
+   "title": "Breaking down silo thinking: the role of perceived supervisor support, psychological safety, and staff engagement in Ghana’s healthcare sector",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1921650/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ae8a566607594242",
+   "title": "Problematic engagement with generative AI measurement drivers contexts and outcomes",
+   "url": "https://doi.org/10.1016/j.ssaho.2026.103890",
+   "source": "Social Sciences & Humanities Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "989206cca70a4f01",
+   "title": "Fast education in the era of artificial intelligence: institutional lag and human-centered compensation",
+   "url": "https://digitalsociology.guu.ru/jour/article/download/479/246",
+   "source": "Digital sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-20T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "55bffa6a9e0acb42",
    "title": "Scaffolding for Nascent Knowledge: Diverse Teams Tackling Grand Challenges",
    "url": "https://doi.org/10.1177/00218863261487207",
@@ -825,6 +3112,271 @@
    "topics": [],
    "region": false,
    "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5beba2bbe3bb4322",
+   "title": "Employee AI Use and Readiness in Applied Higher Education: Awareness, Barriers, and HRM Implications",
+   "url": "https://doi.org/10.3390/admsci16100517",
+   "source": "Administrative Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6fcc86f34e1dab9c",
+   "title": "Advancing clinical integration in undergraduate dental education through AI-enabled instructional design: a qualitative thematic analysis",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/10872981.2026.2750709?needAccess=true",
+   "source": "Medical Education Online",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "fbaad11610f24eb1",
+   "title": "Teachers’ technostress in the emerging generative AI era: a systematic review and bibliometric mapping (2005–2025)",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2748775?needAccess=true",
+   "source": "Cogent Social Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "839ab03bacc8989a",
+   "title": "Occupational anxiety, workplace risk attitudes, and clinical learning safety climate among nursing students: a path analysis",
+   "url": "https://www.nature.com/articles/s41598-026-74777-w_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-18T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "bfb02f5db0d77fa3",
+   "title": "Changes in mental health literacy and perceived psychological safety following a retired athlete–led, team-embedded education session in sport",
+   "url": "https://www.nature.com/articles/s41598-026-76719-y_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-18T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ca61a1ada7473f23",
+   "title": "Assessing healthcare organizational readiness to implement risk-stratified breast cancer screening in Canada: a cross-sectional questionnaire study",
+   "url": "https://doi.org/10.1186/s12913-026-15626-4",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-17T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "self-efficacy"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b4d4b015a1e6efbe",
+   "title": "AI-enabled project monitoring and control: Toward a configurational framework for human–AI collaboration in project leadership",
+   "url": "https://doi.org/10.1016/j.plas.2026.100245",
+   "source": "Project Leadership and Society",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-17T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "40205e500bd3d9ee",
+   "title": "A machine learning assisted net zero maturity model for MSMEs in Eastern Uttar Pradesh India",
+   "url": "https://doi.org/10.1007/s43621-026-04826-x",
+   "source": "Discover Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6ab2e362757a31c8",
+   "title": "Enablers, barriers, and a contingency framework for enterprise agile adoption: A cross-industry comparative case study",
+   "url": "https://hsd.ardascience.com/index.php/journal/article/download/2394/343",
+   "source": "Heritage and Sustainable Development",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6892da37f6bf18bd",
+   "title": "When voices can be cloned: vocal identity threat and occupational self-efficacy among singers in the era of generative AI audio",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1954386/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a863dcc684f09284",
+   "title": "Managing Educational Innovation and Organizational Transformation in Military Academies: A Socio-Technical Systems Approach",
+   "url": "https://doi.org/10.3390/soc16100355",
+   "source": "Societies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7e1d6d3db72f43dc",
+   "title": "PRÁTICAS INCLUSIVAS, JOGOS E TECNOLOGIA ASSISTIVA PARA ESTUDANTES COM TRANSTORNO DO ESPECTRO AUTISTA",
+   "url": "https://revistas.marilia.unesp.br/index.php/educacaoemrevista/article/download/19163/21198",
+   "source": "Educação em Revista",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "c91ff5ad051f0989",
+   "title": "Positive error-handling in TGfU-based basketball instruction: effects on tactical decision-making and the role of perceived classroom psychological safety",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1984425/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "20825135b9f582cf",
+   "title": "From Access to Stabilisation: A Systems-Level Architecture of Cognitive Pathway Formation",
+   "url": "https://osf.io/preprints/psyarxiv/gr2s7_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-15T19:43:08Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
    "access": "Free to read"
   },
   {
@@ -848,6 +3400,26 @@
    "access": "Free to read"
   },
   {
+   "id": "1f4359b25f2500bb",
+   "title": "Social and psychological consequences of sustained civic engagement: Insights from the 2024/25 Student Blockades in Serbia",
+   "url": "https://osf.io/preprints/psyarxiv/vujys_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-15T16:33:46Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "well-being"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
    "id": "e3e1585bc3695016",
    "title": "AI chatbot integration in fashion e-retail: consumer behaviour shifts and pathways to organizational change",
    "url": "https://discovery.dundee.ac.uk/en/publications/79e4a31f-86f6-4ef6-b16c-d3f61179017a",
@@ -859,12 +3431,217 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
+    "change-readiness",
     "organizational-change",
     "ai-at-work",
     "labor-economics"
    ],
    "region": false,
    "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "af9d91d9f2276f2e",
+   "title": "From traits to trajectories: overcoming psychometric assessment gap through adaptive developmental potential in organizations",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1990745/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e62091192eb52f1a",
+   "title": "Harnessing the Power of Education for a Low-carbon Future in Anaesthesia: A Narrative Review",
+   "url": "https://turkjanaesthesiolreanim.org/pdf/df15911b-c92e-4fb1-a3c6-b4a159ab0d2e/articles/TJAR.2026.262416/1-2026.262416.pdf",
+   "source": "Türk anesteziyoloji ve reanimasyon derneği dergisi",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "4f44f4a485b425ff",
+   "title": "A Context-Adaptive AHP-WSM Model for Assessing Organizational Readiness for Co-Creation in Public Administration",
+   "url": "https://doi.org/10.3390/systems14101300",
+   "source": "Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "fdaaba12988bfa70",
+   "title": "AI Adoption and the Digital Divide in Colombia’s Third Sector: Unintended Consequences, Organizational Readiness, and Ethical Tensions",
+   "url": "https://anserj.ca/index.php/cjnser/article/download/871/501",
+   "source": "Canadian journal of nonprofit and social economy research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a9c872aecf4c1abb",
+   "title": "RESISTANCE TO CHANGE ORIGINATING IN MANAGEMENT: A MIXED-METHODS STUDY IN ROAD CONSTRUCTION COMPANIES IN COLOMBIA",
+   "url": "https://artefactumjournal.com/index.php/artefactum/article/download/4683/3228",
+   "source": "Artefactum",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6bbcd17b2c53d363",
+   "title": "From Enforcement to Infrastructure: A Milestone-Based Model for Sustaining Racial Equity Work in Professional Associations Under Regressive Policy Environments",
+   "url": "https://doi.org/10.3390/soc16100353",
+   "source": "Societies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "c80228ecd1fadd8b",
+   "title": "Nurses’ perception and experience on de-implementation of low-value care in China: a qualitative descriptive study",
+   "url": "https://doi.org/10.1186/s43058-026-01133-4",
+   "source": "Implementation Science Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e0617e6e3995de55",
+   "title": "Team member perception of leader behavior associated with engagement and intent to stay in veterinary practice",
+   "url": "https://doi.org/10.2460/ajvr.26.07.0316",
+   "source": "American Journal of Veterinary Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1227d25cb4eb4883",
+   "title": "Can Excluded Workers Produce Inclusive Tourism Experiences? Workplace Discrimination Among Gay Employees and Tourist Identity Safety in Ecuador",
+   "url": "https://doi.org/10.3390/tourhosp7100342",
+   "source": "Tourism and Hospitality",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d769589e83e4f81f",
+   "title": "Motivational tools in project teams: A scoping review of the literature (2021–2025)",
+   "url": "https://www.management-poland.com/pdf-241592-149380?filename=Motivational-tools-in-pro.pdf",
+   "source": "Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8ee8f2e5bf1910d0",
+   "title": "The Influence of Victim Gender and Professional Identity on Perceptions of AI-Generated Image Abuse",
+   "url": "https://osf.io/preprints/psyarxiv/vebyw_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-14T18:11:31Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
    "access": "Free to read"
   },
   {
@@ -884,6 +3661,139 @@
    "access": "Free to read"
   },
   {
+   "id": "249c797fb8f8c419",
+   "title": "Leading for Adaptive Performance in Higher Education Institutions: Why Do Quality of Work-Life and Faculty Commitment Matter?",
+   "url": "https://www.intangiblecapital.org/index.php/ic/article/download/3811/937",
+   "source": "Intangible Capital",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6314c52ed02e05c4",
+   "title": "Apparent ecological network expansion masks structural reorganization and corridor vulnerability in the Central Plains Urban Agglomeration",
+   "url": "https://www.nature.com/articles/s41598-026-74015-3_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "090b857f05bac051",
+   "title": "Associations between change fatigue and teaching enthusiasm among Shanghai teachers: the roles of teaching motivation and job satisfaction",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1925965/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7977c8107c55ba03",
+   "title": "Enhanced person profiles: a cluster randomised trial protocol for Swiss long-term care facilities",
+   "url": "https://doi.org/10.1186/s12877-026-08507-2",
+   "source": "BMC Geriatrics",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1c20b5c9923b579f",
+   "title": "What Do People Dream About? Themes and Emotions in 400,000+ Dream Reports Shared on Weibo (2018–2023)",
+   "url": "https://osf.io/preprints/psyarxiv/75tke_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-13T21:16:15Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "4d78a3978492d75e",
+   "title": "Making AI-mediated decisions culturally repairable",
+   "url": "https://osf.io/preprints/psyarxiv/3dknf_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-13T16:17:46Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "1251ab5ae0a6b947",
+   "title": "French Validation of the Team Flow Monitor: Factor Structure and Validity Evidence in Student Teams",
+   "url": "https://osf.io/preprints/psyarxiv/wte5q_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-13T00:33:39Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "well-being"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
    "id": "985c9f76a7dec0a4",
    "title": "Managing change in the era of digital transformation. The case of Greek public sector",
    "url": "https://www.emerald.com/jocm/article-pdf/39/8/314/11905540/jocm-12-2025-1113en.pdf",
@@ -895,7 +3805,201 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
+    "change-readiness",
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7b399b4c3edea2bf",
+   "title": "Job crafting, work motivation, and work engagement among public- and private-sector employees: a systematic review of sector, age, gender, and tenure differences",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1969428/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-13T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b171a897101f46f0",
+   "title": "Implementation of digital and organizational strategies for the prevention of healthcare-associated infections in adult hospitals: a systematic review",
+   "url": "https://doi.org/10.1186/s12913-026-15827-x",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-13T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "81dad5d4ad6a3f8c",
+   "title": "The Strategic Implementation of Digital Transformation at Perumda Tirta Pakuan Bogor",
+   "url": "https://journal.ipb.ac.id/ijbe/article/download/64057/34448",
+   "source": "Indonesian Journal of Business and Entrepreneurship",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-13T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change",
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "c82cfea4deec1f5f",
+   "title": "Resiliencia y adaptación en los procesos de cambio en el sistema de bibliotecas de la Universidad de Antioquia",
+   "url": "https://revistas.ucr.ac.cr/index.php/reciencias/article/download/2353/23839",
+   "source": "e-Ciencias de la Información",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-13T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "85ce32805985c6dd",
+   "title": "Questionable necessity effects on patient safety competency among nursing students: Re-examining Yang et al. (2027)",
+   "url": "https://osf.io/preprints/psyarxiv/h4ncm_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-12T17:16:08Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "self-efficacy"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "18044781f5ffaddb",
+   "title": "Assessing User-Subjective Experience with Conversational Agents for Behavioral and Mental Health Interventions: Design and Psychometric Evaluation of CUE-Chat",
+   "url": "https://osf.io/preprints/psyarxiv/8cbds_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-11T18:48:38Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read"
+  },
+  {
+   "id": "dbb7a5c5f4dff6b6",
+   "title": "Assessment of AI development level in construction cost management using AHP- cloud model: a case study of China’s Yangtze River Delta Region",
+   "url": "https://www.nature.com/articles/s41598-026-74769-w_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-11T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9b40dd3577852b4b",
+   "title": "A Review of Research on Emotions and Health in Teamwork Using Artificial Intelligence to Improve Communication and Reduce Conflict",
+   "url": "https://www.city-healthcare.com/jour/article/download/439/358",
+   "source": "City Healthcare",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-11T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "well-being",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e1115060643e469a",
+   "title": "Operationalizing Circular Hospitality: An Integrative Review and Governance-Ready 5D Management Framework",
+   "url": "https://doi.org/10.3390/tourhosp7100337",
+   "source": "Tourism and Hospitality",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-11T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
     "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "3b67921bc3e52bac",
+   "title": "Technostress and trust in AI mediate the association between AI adoption and employee well-being",
+   "url": "https://doi.org/10.1007/s44202-026-00928-9",
+   "source": "Discover Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-11T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -913,7 +4017,502 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "686ad0de6ea6e72f",
+   "title": "Artificial intelligence across the medical education continuum: institutional, learning, readiness and safety systems",
+   "url": "https://www.nature.com/articles/s41746-026-03362-2_reference.pdf",
+   "source": "npj Digital Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-10T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "a14098ddba28f411",
+   "title": "Employee AI readiness and the leadership gap: a theory-informed commentary on a CIO.com feature",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/29966892.2026.2743475?needAccess=true",
+   "source": "Applied Operations and Analytics",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-09T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "4c1fe128f5a833fb",
+   "title": "Artificial intelligence in pharmacy practice in the Middle East: a scoping review of applications, adoption, barriers, and future directions",
+   "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1951084/pdf",
+   "source": "Frontiers in Digital Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-09T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9ff1e9e2dcd8be3c",
+   "title": "When humans and agents form a collective: a framework for collective intelligence in persistent organizational human-AI teams",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1941058/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "202e7793f0619c2e",
+   "title": "Innovative Metadata Research and Best Practices to Ensure Data Integrity and Reliability in Library and Information Science",
+   "url": "https://www.revistas.una.ac.cr/index.php/bibliotecas/article/download/23204/37787",
+   "source": "Bibliotecas: Revista de la Escuela de Bibliotecología, Documentación e Información",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1b39cf6a58d538b5",
+   "title": "Entrepreneurial Transformation Strategies for Sustainable Private Universities",
+   "url": "https://att.aptisi.or.id/index.php/att/article/download/792/561",
+   "source": "Aptisi Transactions On Technopreneurship (ATT)",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
     "organizational-change"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5292ee8b23aa3d53",
+   "title": "Use of A/B testing to determine the target state of a business process as part of organizational digital and business transformation",
+   "url": "https://www.rtj-mirea.ru/jour/article/download/1668/907",
+   "source": "Russian Technological Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "031f98bc1a5c94a1",
+   "title": "The chain-mediating role of workplace social capital and resilience in the relationship between change fatigue and proactive work behavior among nurses",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1972366/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ffa3823163b53327",
+   "title": "Algorithmic Management, Technostress, and Employee Mental Health in West Java",
+   "url": "https://ojs.unikom.ac.id/index.php/jurisma/article/download/19891/6098",
+   "source": "JURISMA Jurnal Riset Bisnis & Manajemen",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "2031dd8bffd9b6e1",
+   "title": "Cognitive flexibility, technostress, and mathematics teachers' acceptance of ChatGPT: a cross-sectional indirect-effect analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1991429/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e7c84127f403b783",
+   "title": "Digital detox as prevention and coping: examining techno-overload, cognitive overload, and burnout in knowledge workers",
+   "url": "https://doi.org/10.1016/j.teler.2026.100377",
+   "source": "Telematics and Informatics Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "0e1daa9455b23ab5",
+   "title": "Artificial Intelligence as a Catalyst for CRM Operational Efficiency in Retail Banking",
+   "url": "https://doi.org/10.3390/admsci16100494",
+   "source": "Administrative Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-07T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "db5558959f1dd338",
+   "title": "The role of digital management control systems on TQM practices and employee performance: an empirical study on Saudi service organizations",
+   "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1895700/pdf",
+   "source": "Frontiers in Human Dynamics",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-07T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d609608524e3d76e",
+   "title": "Shaping teachers' challenge appraisals of organizational transition: the roles of grassroots leadership, peer collaboration, and boundary-spanning experience",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1949606/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-07T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "aae01e8dafc516b7",
+   "title": "Leadership behavior, employee engagement, and retention: lessons from the COVID-19 pandemic in the hospitality industry",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1851922/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "90db314b3384fa65",
+   "title": "Transforming Corporate University Learning Culture Through Cognitive Growth Mindset",
+   "url": "https://doi.org/10.21512/bbr.v17i3.16074",
+   "source": "Binus Business Review",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b49fa09e153f4344",
+   "title": "Patient Perspectives on Offers of Buprenorphine in the Emergency Department",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2026.37671",
+   "source": "JAMA Network Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "3a3bce908d723526",
+   "title": "Crisis as catalyst: regulatory reforms in India’s nuclear safety governance",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/25741292.2026.2689776?needAccess=true",
+   "source": "Policy Design and Practice",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "70f65292b111328d",
+   "title": "Digital Transformation in the Textile Cutting Sector: An Industry 4.0 Approach to Operational Excellence",
+   "url": "https://tge.sze.hu/tge/article/download/625/467",
+   "source": "Tér - Gazdaság - Ember/Journal of Region Economy and Society",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1e63a4aaaacd2582",
+   "title": "Between opportunity and uncertainty: Mining employees’ perceptions of the Fourth Industrial Revolution",
+   "url": "https://doi.org/10.4102/sajhrm.v24i0.3862",
+   "source": "SA Journal of Human Resource Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-06T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "change-management",
+    "future-of-work",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f27e04c42f4730a1",
+   "title": "Teacher Professional Identity: Perceived Key Factors at a Portuguese Distance Education Institution",
+   "url": "https://openpraxis.org/articles/1248/files/6ac3977892399.pdf",
+   "source": "Open Praxis",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-05T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5df1d62a2952291e",
+   "title": "Sizing AI-Driven Enterprise Engagements Under Uncertainty: A Probabilistic Scope and Pricing Framework for Pre-Sales Architects",
+   "url": "https://jurnal.polibatam.ac.id/index.php/JAIC/article/download/13744/3950",
+   "source": "Journal of Applied Informatics and Computing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-03T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9a5e7f8ed66358e2",
+   "title": "Comparison of factors of the subjective psychological condition of hospitalized individuals with schizophrenia spectrum and other psychotic disorders, or affective disorders: associations between illness perception, quality of life, affective and anxiety symptom severity, and readiness to change",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1829834/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "03e11d7c6cad5388",
+   "title": "Data-driven soft sensor deployment in a tar distillation plant: a strategy for stepwise digitalization",
+   "url": "https://doi.org/10.1016/j.dche.2026.100347",
+   "source": "Digital Chemical Engineering",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "95265f6682ebb190",
+   "title": "The Double-Edged Sword Effect of AI Application Among Clinical Nurses Based on the Job Demands-Resources Model: Qualitative Study",
+   "url": "https://doi.org/10.2196/100916",
+   "source": "JMIR Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "54a58409598a864c",
+   "title": "Understanding teachers’ technostress creators due to IT use at work: a mixed-methods study",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1887403/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
@@ -958,6 +4557,724 @@
    "access": "Free to read"
   },
   {
+   "id": "8a0e53fee3bf5a20",
+   "title": "Medical‐Legal Partnerships as Structural Interventions: Integrating Implementation Science and Community‐Engaged Research to Advance HIV Care",
+   "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jia2.70191",
+   "source": "Journal of the International AIDS Society",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "future-of-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ee1c30b6f85522bd",
+   "title": "AI-HRM Adoption and HR Performance in Egyptian Banks: The Mediating Role of Digital Literacy and HR Analytics Capability",
+   "url": "https://doi.org/10.21608/rijcs.2026.510965.1624",
+   "source": "Mağallaẗ Rāyaẗ Al-Dawliyyaẗ Lil ʿulūm Al-Tiğāriyyaẗ",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d901b9c5bd4ba83e",
+   "title": "Unpacking behavioral and organizational enablers of blockchain adoption: A hybrid PLS-ANN-fsQCA investigation",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0001691826018408/pdf",
+   "source": "Acta Psychologica",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9cc5cf2f85269d95",
+   "title": "Leadership Mechanisms for Responsible AI Implementation: Lessons from Nordic Health Systems",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1243/72465951/ckag169.1243.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1766eba81e656f7a",
+   "title": "Facilitators and barriers to the implementation of hospital-to-home transitional care programs for stroke survivors: A scoping review",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2352013226001729/pdf",
+   "source": "International Journal of Nursing Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7e3097159b248798",
+   "title": "Formative assessment of best practices in primary care: early CIRCE-JA findings",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.512/72463916/ckag169.512.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "711857b9daa22b36",
+   "title": "Evaluating Mechanisms and Implementation of an HPS Intervention in Danish 10th Grade",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1478/72465278/ckag169.1478.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "98c33c3bc92be477",
+   "title": "Innovative Adoption of AI-empowered Electronic Records and Information Management System in the Energy Sector",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2096248726000627/pdf",
+   "source": "International Journal of Innovation Studies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "95cef74d90e17acd",
+   "title": "Organizational Innovation as a Double-Edged Sword for Service Innovation: Evidence From Korean Service Firms",
+   "url": "https://doi.org/10.1177/21582440261498636",
+   "source": "SAGE Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f3b17628ead39c0d",
+   "title": "Introducing age-friendly standards in Austrian health services",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1508/72464705/ckag169.1508.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "psych-safety",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "eeec0f4988ca5661",
+   "title": "Participatory organizational intervention: improving staff wellbeing in specialized hospital units",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1384/72464933/ckag169.1384.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1bf10f8b7e50c34d",
+   "title": "Improving organisational health literacy in diabetes care – a multisite evaluation of OHL-Act",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.760/72465122/ckag169.760.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "35153522fbc4e9ea",
+   "title": "Testing organizational health literacy self-assessment in Belgian and Dutch hospitals",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1426/72465812/ckag169.1426.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "540525f4c9faca4d",
+   "title": "Оценка эффективности управления организационной структурой железнодорожной компании",
+   "url": "https://vcec.ru/index.php/vcec/article/view/190",
+   "source": "В центре экономики",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5ac6f05c872abd19",
+   "title": "Don’t Build the Plane While It’s in the Air: 12 Practical Tips for Managing the Operations of a Major Curricular Change",
+   "url": "https://doi.org/10.1177/23821205261502090",
+   "source": "Journal of Medical Education and Curricular Development",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f3c76e54cca60716",
+   "title": "Innovation Management in Medical Education: A Narrative Review of Its Organizational Dimensions, Facilitators, and Barriers",
+   "url": "https://www.dovepress.com/article/download/121416",
+   "source": "Advances in Medical Education and Practice",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "change-management",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "272bc1bb1cf7876a",
+   "title": "Climate Change and Health Training Needs in Central European Mountain Regions: Cross-Country Survey",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.998/72464800/ckag169.998.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5eb0b941014283fa",
+   "title": "When Digital Transformation Hurts Performance in Public Organizations: The Roles of Change Fatigue and Digital Meaningfulness",
+   "url": "https://doi.org/10.1177/21582440261506026",
+   "source": "SAGE Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6a9eb0a44675a226",
+   "title": "AI technostress and professional identity among Chinese university teachers: the mediating role of teaching self-efficacy and the moderating role of perceived organizational support",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1997877/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5b34a3fc5925863c",
+   "title": "Job Demands, Resources, and Digital Job Stress: The Roles of Knowledge Diversity and Interruption Overload in Digitalized Work Settings",
+   "url": "https://doi.org/10.1177/21582440261494250",
+   "source": "SAGE Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f37d3864a1a715f4",
+   "title": "Green technostress and the environmental consciousness paradox in sustainable electronics consumption",
+   "url": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0344273/21176314/105039_1_5.0344273.pdf",
+   "source": "AIP Advances",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7d8f5d75908f176f",
+   "title": "Job boreout among dual-role professionals: moonlighting as a psychological response to primary-role understimulation",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1938501/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "917dcba4d432110a",
+   "title": "Family-friendly organizational culture and a mutual aid mindset are associated with supervisors' work role performance, wellbeing, and positive attitudes toward male parental leave in Japan",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1927630/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9dd0558250d57c24",
+   "title": "A three-perspective approach to organizational learning culture: a systematic scoping review, conceptual clarification and extension, and an initial empirical investigation",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1746548/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "288a7ea73385ce5b",
+   "title": "Extending the theory of reasoned goal pursuit (TRGP) with perceived AI literacy to organizational readiness for green HR practices",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2666188826005447/pdf",
+   "source": "Sustainable Futures",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "bc9af93b4af6ae39",
+   "title": "Artificial intelligence adoption and financial reporting quality in financial institutions: the role of data governance, organizational readiness and governance oversight",
+   "url": "https://www.fujafr.fudutsinma.edu.ng/index.php/fujafr/article/download/399/333",
+   "source": "FUDMA Journal of Accounting and Finance Research [FUJAFR]",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "462289bcbd66e901",
+   "title": "An exploratory study of supply chain performance in the digital era: evidence from Morocco",
+   "url": "https://doi.org/10.22306/al.v13i3.796",
+   "source": "Acta Logistica",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "e221965dd233eed5",
+   "title": "Exploration of Employees’ Perceptions of Participation in Organizational Change Processes and How It Affects Their Performance",
+   "url": "https://journals.stecab.com/index.php/jahss/article/download/2252/1091",
+   "source": "Journal of arts, humanities and social science.",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "611ec5eca8e92e17",
+   "title": "From Structural Empowerment to Performance: A Sequential Mediation Model of Job-Design Empowerment, Psychological Empowerment, and Managerial Motivation among Bank Managers in a Developing Economy",
+   "url": "https://doi.org/10.26710/jbsee.v12i3.4019",
+   "source": "Journal of Business and Social Review in Emerging Economies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "51f14af6cbfe3474",
+   "title": "Beyond Rebranding: Memahami Respons Pegawai terhadap Perubahan Organisasi Bank DKI menjadi Bank Jakarta",
+   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/68620/40338",
+   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "342a9868a9c4a898",
+   "title": "Digital Leadership in the Higher Education Ecosystem: Towards Smart Universities",
+   "url": "https://armgpublishing.com/wp-content/uploads/2026/10/BEL_3_2026_25.pdf",
+   "source": "Business Ethics and Leadership",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "3d869f4fb3f50e7a",
+   "title": "Organizational Culture in Schools: Overcoming Digital Policy Resistance Through a Coaching Approach",
+   "url": "https://journal.staihubbulwathan.id/alishlah/article/download/10014/4494",
+   "source": "AL-ISHLAH Jurnal Pendidikan",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "cca82659d5b64335",
+   "title": "Change Management Practices and Organisational Outcomes: A Hybrid Systematic Literature Review and Constraint-Based Leadership Framework",
+   "url": "https://f1000research.com/articles/15-1633/pdf",
+   "source": "F1000Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "da4182ae6aa61fad",
+   "title": "Leading Digital Transformation in Higher Education: A Practitioner Framework Grounded in a Decade of Evidence",
+   "url": "https://ubiquityproceedings.com/articles/284/files/6abb6df031239.pdf",
+   "source": "Ubiquity Proceedings",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "077ad730dacf95e8",
+   "title": "A Merit-Based Model for the Selection and Appointment of Educational Department Heads, Faculty Deans, and Division Chiefs in Iranian Universities of Medical Sciences: Requirements, Challenges, and Policy Options",
+   "url": "https://doh.tbzmed.ac.ir/PDF/doh-17-275.pdf",
+   "source": "Depiction of Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "efdbb6f402eb879c",
+   "title": "ORGANIZATIONAL CULTURE OF PUBLIC AUTHORITIES UNDER DIGITALIZATION: MECHANISMS OF TRANSFORMATION",
+   "url": "https://pard.mk.ua/index.php/journal/article/download/614/581",
+   "source": "Public Administration and Regional Development",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "cc9eacc50c4f3106",
+   "title": "Mapping Technostress Research in Tourism: A Bibliometric Review and Future Perspectives",
+   "url": "https://doi.org/10.30798/makuiibf.1909179",
+   "source": "Mehmet Akif Ersoy Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "dd952b8e813d605b",
+   "title": "Artificial Intelligence as a Workplace Coping Resource for Healthcare Workers: A Review",
+   "url": "https://armgpublishing.com/wp-content/uploads/2026/10/HEM_3_2026_2.pdf",
+   "source": "Health Economics and Management Review",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "c8a089da487fa5b3",
    "title": "Becoming an AI-First Company: Six Aspects of Organizational Redesign",
    "url": "https://doi.org/10.1177/00218863261491368",
@@ -968,7 +5285,181 @@
    "published": "2026-09-29T00:00:00Z",
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
-   "topics": [],
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "aa6fac0521360bd8",
+   "title": "Stress, resilience, and recovery: assessing a physical restorative space within a multimodal support program for hospital workers",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1944537/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f739f3dbc5303027",
+   "title": "The myth of sustainable transport of perishables by rail: The case of vegetables from South-Eastern Spain",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2590198226004628/pdf",
+   "source": "Transportation Research Interdisciplinary Perspectives",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8e9141c9be511cba",
+   "title": "AI-Driven Financial Optimization in Emerging Economies: A Technology–Organization–Regulation Perspective",
+   "url": "https://asiaentrepreneurshipjournal.com/index.php/jaes/article/download/693/514",
+   "source": "Journal of Asia Entrepreneurship and Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7f367b1593743cd0",
+   "title": "Hybrid Project Management Readiness in Romanian Construction Companies: An Exploratory Survey from a Small Construction-Company Context",
+   "url": "https://doi.org/10.3390/buildings16193877",
+   "source": "Buildings",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1eff26cf5e8ffc2a",
+   "title": "Strategic communication to strengthen nurses’ professional identity and drive cultural change in healthcare organizations: A JBI scoping review protocol",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359546&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "47d6fa6e6b3e6601",
+   "title": "From Danger to Care – On the Challenges of a CDMO in the Field of Hazardous Chemistry",
+   "url": "https://www.chimia.ch/chimia/article/download/2026_623/2026_623",
+   "source": "CHIMIA International Journal for Chemistry",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "d92a40548be50668",
+   "title": "Quiet quitting as a deliberate decision: the DR-CEST model of discretionary effort regulation",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311975.2026.2738964?needAccess=true",
+   "source": "Cogent Business & Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7b1273a84b046ba6",
+   "title": "The relationship between technostress and work engagement among college physical education teachers: a chain mediation model of job crafting and emotional intelligence",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1938579/pdf",
+   "source": "Frontiers in Sports and Active Living",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9bf02786cc0824a1",
+   "title": "Human resource risks and technostress management in high-tech industries: Impact assessment and mitigation strategies",
+   "url": "https://managementscience.fa.ru/jour/article/download/937/669",
+   "source": "Management Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "well-being",
+    "ai-at-work"
+   ],
    "region": false,
    "labels": [],
    "access": "Free to read"
@@ -990,6 +5481,315 @@
    "access": "Free to read"
   },
   {
+   "id": "1a89ff5fd8cd54b2",
+   "title": "The association between organizational culture and climate elements on W-ICT (non-)use outside working hours and employee psychological wellbeing: a systematic review of qualitative and quantitative studies",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1919818/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b3388999deb4c5e3",
+   "title": "AI-ENABLED DIGITAL TRANSFORMATION AND COMPETITIVE ADVANTAGE IN SMES: A STRATEGIC ANALYSIS WITHIN THE SPANISH BUSINESS ECOSYSTEM",
+   "url": "https://rspublisher.org/index.php/ijite/article/download/6601/5134",
+   "source": "International Journal of Innovative Technologies in Economy",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "4b7813487f1fe686",
+   "title": "Cloud-Based Big Data Governance and Decision-Making Capabilities in South Africa: The Roles of Organizational Readiness, Data Security, Compliance, and Scalability",
+   "url": "https://journals.internationalrasd.org/index.php/jom/article/download/3255/2113",
+   "source": "iRASD Journal of Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8044333bb181c1a9",
+   "title": "Implementing Culturally Responsive Neuroregulation: A Practical Framework for Clinical Practice",
+   "url": "https://www.neuroregulation.org/article/download/23620/14845",
+   "source": "NeuroRegulation",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "1dcfb1ffa9fb2ade",
+   "title": "The influence of digital transformational leadership on innovation capability through organizational agility and digital transformation",
+   "url": "https://businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/25269/PPM_2026_03_Kurniyanta.pdf",
+   "source": "Problems and Perspectives in Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "leadership"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b6e301a148b1d1ed",
+   "title": "Accounting in Transition: Exploring Technology Adoption among Indonesian Accountants",
+   "url": "https://doi.org/10.17977/jabe.v11i1.65308",
+   "source": "JABE (Journal of Accounting and Business Education)",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "8450b2d3f7ef1565",
+   "title": "Digital Transformation in Management Accounting: Drivers, Barriers and Evidence from Saudi Arabia",
+   "url": "https://doi.org/10.26710/jafee.v12i3.3989",
+   "source": "Journal of Accounting and Finance in Emerging Economies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "organizational-change",
+    "future-of-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "2c0bbffde5339bd9",
+   "title": "The Discovery of Quasicrystals: Reflections on Theory Change and Correct Attribution",
+   "url": "https://doi.org/10.3390/histories6040058",
+   "source": "Histories",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "57c3984f90626712",
+   "title": "How locus of control shapes digital nomads’ subjective well-being: the mediating roles of telepressure, technostress, and boundary control",
+   "url": "https://doi.org/10.1186/s40359-026-05635-7",
+   "source": "BMC Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-26T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "224f62649a42dce7",
+   "title": "Artificial intelligence-mediated clinical communication between providers and patients or caregivers: scoping review and conceptual framework",
+   "url": "https://www.nature.com/articles/s41746-026-03279-w_reference.pdf",
+   "source": "npj Digital Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "well-being",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "977df2a3094a3746",
+   "title": "Constitutional principles of reforming public administration of Ukraine in the context of European integration",
+   "url": "https://journal-app.uzhnu.edu.ua/article/download/372174/355778",
+   "source": "Analytical and Comparative Jurisprudence",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5cce82d11d5450b8",
+   "title": "Teaching for critical thinking under constraint: Secondary science teachers’ pedagogical practices and systemic barriers in Pakistani Public schools",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2026.2721743?needAccess=true",
+   "source": "Cogent Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "5419bf334dccd3e4",
+   "title": "Drivers and barriers of AI tool adoption in Jordanian SMEs: a qualitative TOE-based study",
+   "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1801583/pdf",
+   "source": "Frontiers in Artificial Intelligence",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f6b43d1c3b13837f",
+   "title": "Operational and organizational training for managing work stress among police investigation officers: a global perspective",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1919749/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "well-being",
+    "psych-safety",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6b2a01f5fcb9c633",
+   "title": "Engineering-Resilient Post-Deployment Lifecycle Dynamics: A Technical Analysis of IT Support Architectures for System Continuity and Software Evolution in Distributed Cloud/On-Premise Computing ERP Ecosystems",
+   "url": "https://doi.org/10.3390/info17100947",
+   "source": "Information",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "4d422fb70057cc2d",
+   "title": "The moderating role of techno-related control in the relationship between algorithmic management and technostress among sport science professionals",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1972493/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "d53ed0c54eb10f81",
    "title": "Identifying best practices through best methods: an integrated, systematic and evidence-based approach to D&I management",
    "url": "https://www.emerald.com/jocm/article-pdf/39/8/295/11869887/jocm-03-2025-0226en.pdf",
@@ -1001,7 +5801,8 @@
    "first_seen": "2026-11-09T18:56:54Z",
    "window_days": 60,
    "topics": [
-    "organizational-change"
+    "organizational-change",
+    "change-management"
    ],
    "region": false,
    "labels": [],
@@ -1027,6 +5828,42 @@
    "access": "Free to read"
   },
   {
+   "id": "9082a2a41af70968",
+   "title": "Barriers and facilitators of vector-borne diseases knowledge translation: a scoping review",
+   "url": "https://doi.org/10.1186/s12889-026-29578-1",
+   "source": "BMC Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-24T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9d255e2529ddf261",
+   "title": "Performance-driven clause prioritization and smart contract synthesis for construction contract governance: A proof-of-concept framework and preliminary evaluation",
+   "url": "http://www.itcon.org/papers/2026_46-ITcon-Moayyed.pdf",
+   "source": "Journal of Information Technology in Construction",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-24T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "9cb4329965cd9bc6",
    "title": "More Transparency and Better Control? Investigating User Sensemaking of Data-Driven Change Management Technologies",
    "url": "https://doi.org/10.1177/00218863261481268",
@@ -1039,6 +5876,25 @@
    "window_days": 60,
    "topics": [
     "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "9d74dc2cb1ccd783",
+   "title": "Associations of psychological resilience and change fatigue with innovative behavior among hemodialysis nurses in Chinese public hospitals: a cross-sectional mediation analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1756479/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-23T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "labor-economics"
    ],
    "region": false,
    "labels": [],
@@ -1083,6 +5939,142 @@
    "access": "Free to read"
   },
   {
+   "id": "9da7374d659f5af6",
+   "title": "Chronological age and work engagement among Indian employees: a structural equation modeling study",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1907256/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-22T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "ad4f920d864c95ee",
+   "title": "Evaluating the implementation and impact of risk based auditing a systematic literature review",
+   "url": "https://doi.org/10.1007/s43621-026-04473-2",
+   "source": "Discover Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-22T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "fafe35e0bf48d36d",
+   "title": "Technostress in the Digital Workplace: A Systematic Literature Review of Antecedents, Employee Outcomes, and Mitigation Strategies",
+   "url": "https://journal.feb-unm.com/index.php/JE3S/article/download/515/303",
+   "source": "Journal of Economic Education and Entrepreneurship Studies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-22T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "well-being",
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "960245cd9b2dd53d",
+   "title": "Acceptance, Perception, and Technostress of Generative AI Among Radiologists at the University Hospital “Paolo Giaccone” of Palermo",
+   "url": "https://riviste.unimi.it/index.php/ebph/article/download/32010/27200",
+   "source": "Epidemiology Biostatistics and Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-22T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "73c0cf05901389ff",
+   "title": "HUBUNGAN KEPEMIMPINAN PENDIDIKAN YANG EFEKTIF DENGAN PENERAPAN PRINSIP-PRINSIP MANAJEMEN DALAM PENDIDIKAN",
+   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/68265/39143",
+   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "psych-safety"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "f87d69f2057a2100",
+   "title": "Navigating the Human Side of AI: A Socio-Technical Model of Employee Attitudes Toward Algorithmic Recruitment",
+   "url": "https://doi.org/10.3390/bs16091708",
+   "source": "Behavioral Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "db0c968d5daf4738",
+   "title": "Unraveling Technostress During COVID-19: A Scoping Review of Antecedents, Consequences, and Managements",
+   "url": "https://ejurnal.mercubuana-yogya.ac.id/index.php/psikologi/article/download/5204/2013",
+   "source": "Insight Jurnal Ilmiah Psikologi",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "region": true,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "e0d47d1ac641173b",
    "title": "Redesigning the Leader Role for the Age of Artificial Intelligence: A Work Design Challenge",
    "url": "https://doi.org/10.1177/00218863261488834",
@@ -1095,6 +6087,100 @@
    "window_days": 60,
    "topics": [
     "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6088c7e6e5bd02f3",
+   "title": "Artificial Intelligence Adoption in Recruitment and Selection: A Socio-Technical TAM–TOE Framework Explaining HR Professionals’ Behavioral Intention",
+   "url": "https://doi.org/10.3390/systems14091173",
+   "source": "Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7d15bb5a91c6c4c2",
+   "title": "From data to practice: a systematic review of knowledge transfer in digital health",
+   "url": "https://doi.org/10.1186/s12911-026-03852-z",
+   "source": "BMC Medical Informatics and Decision Making",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "36619619ac37b1e7",
+   "title": "Role of occupational self-efficacy and professional identity as mediators in the relationship between person-job fit and career sustainability among teachers",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1955848/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-18T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "15a367c029c39119",
+   "title": "Digital dynamic capabilities as a tool for digital transformation in accounting firms",
+   "url": "https://doi.org/10.24818/jamis.2026.03006",
+   "source": "Accounting and Management Information Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-18T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change",
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7df0ebac269bf47b",
+   "title": "Gestión del cambio para tecnologías innovadoras en laboratorios de ciencias en el nivel de secundaria",
+   "url": "https://revistasimonrodriguez.org/article/download/509/765",
+   "source": "Revista Simón Rodríguez",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-18T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
    ],
    "region": false,
    "labels": [],
@@ -1155,6 +6241,100 @@
    "access": "Free to read"
   },
   {
+   "id": "ae9f807274dbc6f8",
+   "title": "Beyond Appraisals: Navigating Performance Management Challenges in Nigerian Secondary Education",
+   "url": "https://ejournal.unuja.ac.id/index.php/IJESS/article/download/14833/6659",
+   "source": "Indonesian Journal of Education and Social Studies",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-17T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "fa6dc5f2b873c49d",
+   "title": "Psychological value climates as mediators in the relation between follower-perceived transformational leadership and organizational identification",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1776476/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "39104969ba35f4b7",
+   "title": "Co-development of psychological resilience and commitment to change during organizational transformation: a three-wave parallel-process latent growth modeling study",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1860700/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change",
+    "leadership"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "3307c8b05c2b4246",
+   "title": "Human competencies and data capabilities in digital government: the roles of business intelligence, data understanding, and employee skills in digital entrepreneurship",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311975.2026.2716942?needAccess=true",
+   "source": "Cogent Business & Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "organizational-change"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "83a2afd4ec2ec97a",
+   "title": "Psychological barriers and pedagogical implications of artificial intelligence-induced anxiety among English lecturers in higher education",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02094-5.pdf",
+   "source": "Discover Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-16T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "6967441cbb261728",
    "title": "A systematic analysis of the impact of artificial intelligence on job displacement",
    "url": "https://doi.org/10.1108/jocm-02-2026-0188",
@@ -1177,6 +6357,62 @@
    "access": "Free to read"
   },
   {
+   "id": "8dcad1f77d7d15f0",
+   "title": "Does character matter in Ukraine? Leader character and employee outcomes in a non-WEIRD context",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1900531/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "b117adc59d944a89",
+   "title": "A psychometric network approach to organizational culture: opening the can of worms",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1819497/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "6627b704b7622317",
+   "title": "Preparing for the future: A mixed methods study protocol on AI awareness and educational integration in Qatar’s Primary Health Care Workforce",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0345347&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-15T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
    "id": "932b751cce298314",
    "title": "Do interactions matter? Assessing the role of job characteristics interactions on employee well-being.",
    "url": "https://doi.org/10.1037/apl0001414",
@@ -1189,6 +6425,62 @@
    "window_days": 60,
    "topics": [
     "well-being"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "2837f5fa56a04d00",
+   "title": "When employees remain silent: explaining responses to suspected alcohol problems among co-workers",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1938613/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "18c40df7440a9093",
+   "title": "Collaborative innovation between hospitals and biomedical firms in China: a cross-sectional study of practice and willingness from the perspective of medical staff",
+   "url": "https://doi.org/10.1186/s12913-026-15591-y",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "region": false,
+   "labels": [],
+   "access": "Free to read"
+  },
+  {
+   "id": "7761c9683e26a0f7",
+   "title": "Heterogeneity in AI attitudes, anxiety, and acceptance among psychology students and psychotherapy trainees: a domain-specific latent class analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1859806/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-14T00:00:00Z",
+   "first_seen": "2026-11-10T02:28:15Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "openness-to-change",
+    "ai-at-work"
    ],
    "region": false,
    "labels": [],
