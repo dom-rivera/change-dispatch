@@ -165,7 +165,7 @@ sources:
     note: "Safeguards: DOAJ-listed, English, free copy, not retracted, journal h-index 30+, topic in the title, about work or organizations. Each item is labeled with its own journal name."
 
   # Philippine research: new free-to-read articles by authors at Philippine
-  # institutions, in established journals (h-index 20+), on work topics.
+  # institutions, in established open-access journals (h-index 30+), on work topics.
   - id: ph-research
     name: Philippine research search
     layer: research
@@ -174,9 +174,9 @@ sources:
     needs_topic: true
     require_work_context: true
     require_title_match: true
-    doaj_only: false
+    doaj_only: true
     extra_filter: "authorships.institutions.country_code:PH"
-    min_h_index: 20
+    min_h_index: 30
     per_phrase: 25
     enabled: true
     queries:
@@ -190,9 +190,8 @@ sources:
       - teachers
       - nurses
       - self-efficacy
-      - readiness
-      - artificial intelligence
-    note: "Free copy, not retracted, English, journal h-index 20+, topic in the title, about work. Items are tagged Philippines & SE Asia."
+      - change
+    note: "Same safeguards as the core search: DOAJ-listed, journal h-index 30+, free copy, English, topic in the title, about work. A first version (h-index 20, no DOAJ rule) let in uneven journals. Items are tagged Philippines & SE Asia."
 
   # ---------- Layer 2: preprints and working papers ----------
 
@@ -391,8 +390,8 @@ sources:
       - https://businessmirror.com.ph/feed
     window_days: 7
     needs_topic: true
-    enabled: true
-    note: Philippine business daily.
+    enabled: false
+    note: "Turned off: the site blocks automated readers (HTTP 403). Not worked around, to respect the publisher's choice."
 
   - id: manila-bulletin
     name: Manila Bulletin
@@ -402,8 +401,8 @@ sources:
       - https://mb.com.ph/rss/articles
     window_days: 7
     needs_topic: true
-    enabled: true
-    note: Philippine daily; feed confirmed. Only work-related stories pass the topic filter.
+    enabled: false
+    note: "Turned off: the site blocks automated readers (HTTP 403). Not worked around, to respect the publisher's choice."
 
   - id: rappler
     name: Rappler

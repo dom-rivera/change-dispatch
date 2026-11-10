@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-10T02:41:02Z",
- "count": 151,
+ "count": 137,
  "topics": [
   {
    "id": "change-readiness",
@@ -569,47 +569,6 @@
    }
   },
   {
-   "id": "5266cfee27f34881",
-   "title": "Driving Organizational Transformation Through P.A.T.R.O.L. Plan 2030: A Comprehensive Blueprint Towards Sustainable Enhancement",
-   "url": "https://www.irejournals.com/formatedpaper/1724923.pdf",
-   "source": "Iconic Research and Engineering Journals",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-08T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "organizational-change"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Guilda Sheariah Besinga",
-     "Neleza Brelia Bucatcat",
-     "Kirby Angelou Livelo",
-     "Junaisah O. Sevillena",
-     "Reykel T. Romano",
-     "Jayson C. Ladio",
-     "Julia T. Canonigo",
-     "DM",
-     "DPA",
-     "DEV.",
-     "Jeffruss Jose T. Canonigo",
-     "DPA"
-    ],
-    "container": "Iconic Research and Engineering Journals",
-    "volume": "10",
-    "issue": "5",
-    "first_page": "1814",
-    "last_page": "1841",
-    "doi": "https://doi.org/10.64388/ire1724923"
-   }
-  },
-  {
    "id": "022e329a512042ed",
    "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
    "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
@@ -1008,35 +967,6 @@
    }
   },
   {
-   "id": "14bafa3e75c77aa3",
-   "title": "The Mediating Effects of Quality of Work Life and Workplace Spirituality in the Relationship Between Work-Life Balance and Professional Self-Esteem among Public School Teachers",
-   "url": "https://www.ijfmr.com/papers/2026/6/91352.pdf",
-   "source": "International Journal For Multidisciplinary Research",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-05T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "well-being"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Joycee G. Natayada",
-     "DM Eugenio S. Guhao"
-    ],
-    "container": "International Journal For Multidisciplinary Research",
-    "volume": "8",
-    "issue": "6",
-    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i06.91352"
-   }
-  },
-  {
    "id": "55bbbef8fd51dad8",
    "title": "Psychology in 2125: A Developmental Science of Living Sense-Making",
    "url": "https://osf.io/preprints/psyarxiv/d7y3n_v3/",
@@ -1338,38 +1268,6 @@
    }
   },
   {
-   "id": "6151f1ac101bb4e3",
-   "title": "Artificial Intelligence (AI) Integration in Education: Teachers’ Utilization, Perceptions, and Implementation Challenges",
-   "url": "https://ijtes.net/index.php/ijtes/article/download/7426/3300",
-   "source": "International Journal of Technology in Education and Science",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-02T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "change-readiness",
-    "ai-at-work"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Aprille Mae A. Bunuan-Dela Cruz",
-     "Elsa Cajucom"
-    ],
-    "container": "International Journal of Technology in Education and Science",
-    "volume": "11",
-    "issue": "1",
-    "first_page": "166",
-    "last_page": "183",
-    "doi": "https://doi.org/10.46328/ijtes.7426"
-   }
-  },
-  {
    "id": "96756e8ac3561a63",
    "title": "More Than One Voice: Strengthening Organizational Readiness for Lived Experience Integration in Early Psychosis Services",
    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.70944",
@@ -1404,40 +1302,6 @@
     "volume": "29",
     "issue": "6",
     "doi": "https://doi.org/10.1111/hex.70944"
-   }
-  },
-  {
-   "id": "96b52e38e670f485",
-   "title": "Alignment of Workforce Competencies of Marketing Management Graduates in the Philippines: Evidence for Academia and Industry",
-   "url": "https://econjournals.com/index.php/irmm/article/download/24611/10479",
-   "source": "International Review of Management and Marketing",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "labor-economics"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Lorna Lopio-Alas",
-     "Gretchen Yarra Lamela- Erno",
-     "Julieto F. Arniego",
-     "Jerry V. Orbeta",
-     "Aiza C. Guibijar"
-    ],
-    "container": "International Review of Management and Marketing",
-    "volume": "17",
-    "issue": "1",
-    "first_page": "621",
-    "last_page": "630",
-    "doi": "https://doi.org/10.32479/irmm.24611"
    }
   },
   {
@@ -1506,37 +1370,6 @@
     "first_page": "1",
     "last_page": "13",
     "doi": "https://doi.org/10.2147/jmdh.s637668"
-   }
-  },
-  {
-   "id": "65f58759e3d66738",
-   "title": "Strategic management practices and organizational culture of secondary schools in Bambang I and II Districts and their relationship to organizational effectiveness",
-   "url": "https://consortiacademia.org/wp-content/uploads/2025/v15i23/26278_final.pdf",
-   "source": "International Journal of Research Studies in Education",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-31T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "psych-safety"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Leo A. Magastino",
-     "Serapio O Castriciones"
-    ],
-    "container": "International Journal of Research Studies in Education",
-    "volume": "15",
-    "issue": "23",
-    "first_page": "1",
-    "last_page": "1",
-    "doi": "https://doi.org/10.5861/ijrse.2026.26278"
    }
   },
   {
@@ -1726,36 +1559,6 @@
    }
   },
   {
-   "id": "d46eb367acd6c244",
-   "title": "Maurice Blondel on Artificial Intelligence and Divine Action: The Insufficiency of Technical Work",
-   "url": "https://doi.org/10.3390/rel17111278",
-   "source": "Religions",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-30T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "ai-at-work"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Blaise Ringor"
-    ],
-    "container": "Religions",
-    "volume": "17",
-    "issue": "11",
-    "first_page": "1278",
-    "last_page": "1278",
-    "doi": "https://doi.org/10.3390/rel17111278"
-   }
-  },
-  {
    "id": "3e1b6890615bcbea",
    "title": "The conflicted student and the internal battle over generative AI use",
    "url": "https://osf.io/preprints/psyarxiv/ahqns_v1/",
@@ -1850,96 +1653,6 @@
     "volume": "26",
     "issue": "1",
     "doi": "https://doi.org/10.1186/s12913-026-15953-6"
-   }
-  },
-  {
-   "id": "ffcd0a15fd084bb8",
-   "title": "Work Immersion Readiness and Career Plan Preparedness Among Senior High School Learners: Basis for Developing A Career Readiness Enhancement Program (CREP)",
-   "url": "https://ijmra.in/v9i10/Doc/43.pdf",
-   "source": "INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-29T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "change-readiness"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Marife De La Cruz Bonior",
-     "Samboy Godoy Nabor"
-    ],
-    "container": "INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS",
-    "volume": "09",
-    "issue": "10",
-    "doi": "https://doi.org/10.47191/ijmra/v9-i10-43"
-   }
-  },
-  {
-   "id": "711514d2cdece55a",
-   "title": "Quality of Nursing Work Life as a Predictor of Burnout and Turnover Intention Among Expatriate Nurses in a Pediatric Tertiary Hospital in Riyadh, Saudi Arabia",
-   "url": "https://www.ijfmr.com/papers/2026/5/90862.pdf",
-   "source": "International Journal For Multidisciplinary Research",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-29T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "well-being",
-    "labor-economics"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Joann Lelim",
-     "Maria Karmela Del Rosario"
-    ],
-    "container": "International Journal For Multidisciplinary Research",
-    "volume": "8",
-    "issue": "5",
-    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i05.90862"
-   }
-  },
-  {
-   "id": "131fa18acddb1ff3",
-   "title": "Authentic Leadership, Empowerment, Psychological Capital and Passion in Teaching: A Structural Equation Model on Self-Efficacy among Public School Teachers",
-   "url": "https://doi.org/10.55248/gengpi.07.1026.34085",
-   "source": "International Journal of Research Publication and Reviews",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-29T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "self-efficacy"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Amalia A. Jordan",
-     "Eugenio S. Guhao"
-    ],
-    "container": "International Journal of Research Publication and Reviews",
-    "volume": "7",
-    "issue": "10",
-    "first_page": "7055",
-    "last_page": "7074",
-    "doi": "https://doi.org/10.55248/gengpi.07.1026.34085"
    }
   },
   {
@@ -2235,36 +1948,6 @@
    }
   },
   {
-   "id": "f57e820c10d943c0",
-   "title": "THE MEDIATING EFFECTS OF TRANSFORMATIONAL LEADERSHIP OF SCHOOL HEADS AND WORK ENGAGEMENT ON THE RELATIONSHIP BETWEEN PROFESSIONAL SELF-ESTEEM AND TEACHER EFFICACY AMONG PUBLIC ELEMENTARY TEACHERS",
-   "url": "https://new.oapub.org/edu/index.php/ejes/article/download/7088/9711",
-   "source": "European Journal of Education Studies",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-27T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "leadership",
-    "well-being"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Annabella H. Canada",
-     "Lyndon A. Quines"
-    ],
-    "container": "European Journal of Education Studies",
-    "volume": "13",
-    "issue": "11",
-    "doi": "https://doi.org/10.46827/yrnfc211"
-   }
-  },
-  {
    "id": "043459f78b4d8f14",
    "title": "Rethinking Consciousness: The Self-Organising Information-Processing Systems Hypothesis",
    "url": "https://osf.io/preprints/psyarxiv/jv4ah_v1/",
@@ -2323,40 +2006,6 @@
     ],
     "container": "BMC Nursing",
     "doi": "https://doi.org/10.1186/s12912-026-05535-6"
-   }
-  },
-  {
-   "id": "69b1adf4cbed3fc9",
-   "title": "Brownouts, Burnout, and Unpaid Work: Risks and Risk Management Practices of Filipino Virtual Assistants",
-   "url": "https://www.irejournals.com/formatedpaper/1724297.pdf",
-   "source": "Iconic Research and Engineering Journals",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-26T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "well-being",
-    "future-of-work"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "MBA Lyndon Mark D. Obedoza",
-     "MBA Jonica M. Manuel",
-     "MBA Sheila Marie S. Rodriguez",
-     "Amalia G. Dela Cruz"
-    ],
-    "container": "Iconic Research and Engineering Journals",
-    "volume": "10",
-    "issue": "4",
-    "first_page": "3499",
-    "last_page": "3508",
-    "doi": "https://doi.org/10.64388/irev10i4-1724297"
    }
   },
   {
@@ -2612,39 +2261,6 @@
     "first_page": "1916936",
     "last_page": "1916936",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1916936"
-   }
-  },
-  {
-   "id": "0a79f12d0b69944e",
-   "title": "Teaching Experience and Teacher Readiness in Implementing Individualized Education Programs in Philippine Public Schools",
-   "url": "https://www.ijfmr.com/papers/2026/5/90167.pdf",
-   "source": "International Journal For Multidisciplinary Research",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-21T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "change-readiness",
-    "self-efficacy"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Elaine Love Tayao",
-     "Bonnibel Real",
-     "Mechelle Magalong",
-     "Grace Hufalar",
-     "Doris Hilario"
-    ],
-    "container": "International Journal For Multidisciplinary Research",
-    "volume": "8",
-    "issue": "5",
-    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i05.90167"
    }
   },
   {
@@ -3787,35 +3403,6 @@
    }
   },
   {
-   "id": "50e0528383a3d8fd",
-   "title": "THE MEDIATING ROLES OF SCHOOL CULTURE AND WORK ENGAGEMENT ON THE RELATIONSHIP BETWEEN ORGANIZATIONAL CITIZENSHIP BEHAVIOR AND TOTAL QUALITY MANAGEMENT IN PUBLIC SCHOOLS",
-   "url": "https://doi.org/10.46827/ejes.v13i10.7044",
-   "source": "European Journal of Education Studies",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-01T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "well-being"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Edcel G. Jose",
-     "Eugenio S. Guhao"
-    ],
-    "container": "European Journal of Education Studies",
-    "volume": "13",
-    "issue": "10",
-    "doi": "https://doi.org/10.46827/ejes.v13i10.7044"
-   }
-  },
-  {
    "id": "7d8f5d75908f176f",
    "title": "Job boreout among dual-role professionals: moonlighting as a psychological response to primary-role understimulation",
    "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1938501/pdf",
@@ -4680,38 +4267,6 @@
     ],
     "container": "The Journal of Applied Behavioral Science",
     "doi": "https://doi.org/10.1177/00218863261488856"
-   }
-  },
-  {
-   "id": "0411545cc24c0d4f",
-   "title": "Work engagement and burnout among public school physical education teachers in the Philippines: The predictive role of absorption",
-   "url": "https://sportisjournal.com/index.php/sportis/article/download/maa8y670/maa8y670",
-   "source": "Sportis Scientific Journal of School Sport Physical Education and Psychomotricity",
-   "source_id": "ph-research",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-09-01T00:00:00Z",
-   "first_seen": "2026-11-10T02:41:02Z",
-   "window_days": 90,
-   "topics": [
-    "well-being"
-   ],
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Roque N. Langcoy",
-     "Stephen A. Fadare",
-     "Hendely A. Adlawan"
-    ],
-    "container": "Sportis Scientific Journal of School Sport Physical Education and Psychomotricity",
-    "volume": "12",
-    "issue": "5",
-    "first_page": "1",
-    "last_page": "24",
-    "doi": "https://doi.org/10.55040/maa8y670"
    }
   }
  ]
