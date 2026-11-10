@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T05:01:22Z",
- "count": 155,
+ "generated": "2026-11-10T05:10:30Z",
+ "count": 175,
  "topics": [
   {
    "id": "change-readiness",
@@ -911,6 +911,88 @@
    }
   },
   {
+   "id": "98ceda470d7678c7",
+   "title": "Nurses’ Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review",
+   "url": "https://doi.org/10.2196/99489",
+   "source": "Journal of Medical Internet Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mengmeng Wang",
+     "张春晏",
+     "YE Naikuan",
+     "Huan Li",
+     "Yue Bao"
+    ],
+    "container": "Journal of Medical Internet Research",
+    "volume": "28",
+    "first_page": "e99489",
+    "last_page": "e99489",
+    "doi": "https://doi.org/10.2196/99489"
+   }
+  },
+  {
+   "id": "58902f2240b81517",
+   "title": "AI literacy and generative AI acceptance among surgical and operating room nurses in Türkiye: a cross-sectional study with an open-ended qualitative component",
+   "url": "https://doi.org/10.1186/s12912-026-05639-z",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "ai acceptance",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai literacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Adile Savsar",
+     "Buket Çelik",
+     "Hale Turhan Damar",
+     "Filiz Öğce"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05639-z"
+   }
+  },
+  {
    "id": "aafbe1c1e760068d",
    "title": "AI Grief at Work: Development and Initial Validation of a Self-Report Scale",
    "url": "https://osf.io/preprints/psyarxiv/5eu9m_v2/",
@@ -1551,6 +1633,45 @@
    }
   },
   {
+   "id": "6eac422144193060",
+   "title": "Teachers’ attitudes and behavioural intentions towards AI integration in Chinese higher education: a qualitative interview study",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1968803/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jing Xiong",
+     "Wei Zhang",
+     "Sha Ouyang",
+     "Fengmei Zhu",
+     "Siwen Zhang",
+     "Qianqian Jin"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1968803"
+   }
+  },
+  {
    "id": "c61d41e8ebee567d",
    "title": "AI Adoption at Higher Education Institutions: A Call for Designated AI Management",
    "url": "https://doi.org/10.3390/educsci16111839",
@@ -1630,6 +1751,46 @@
     "volume": "29",
     "issue": "6",
     "doi": "https://doi.org/10.1111/hex.70944"
+   }
+  },
+  {
+   "id": "e139b3e0a8f26810",
+   "title": "Leading for Medical Teacher Well-Being in Health Professions Education: Ten Evidence-Informed Actions for Sustainable Educational Leadership",
+   "url": "https://www.dovepress.com/article/download/122011",
+   "source": "Advances in Medical Education and Practice",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "well-being",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Shereen A. El Tarhouny",
+     "David Taylor",
+     "Majd M. Jan",
+     "Tayseer Mansour",
+     "Marwa Mohamed Zalat"
+    ],
+    "container": "Advances in Medical Education and Practice",
+    "volume": "Volume 17",
+    "first_page": "1",
+    "last_page": "12",
+    "doi": "https://doi.org/10.2147/amep.s659736"
    }
   },
   {
@@ -1765,6 +1926,45 @@
    }
   },
   {
+   "id": "db15fd58721743f9",
+   "title": "Transcultural adaptation and psychometric properties of the Chinese version of the Artificial Intelligence Attitude Scale for Nurses (AIASN)",
+   "url": "https://doi.org/10.1186/s12912-026-05521-y",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xian Lin",
+     "Yaling Qin",
+     "Yuxuan Zeng",
+     "Xinqing Zhu",
+     "Jingyi Li",
+     "Qiaosong Wang",
+     "Kun Zhang"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05521-y"
+   }
+  },
+  {
    "id": "713a1e96addfcbed",
    "title": "Workplace Greenery and Work Engagement Among Live-In Shiftworkers: A Conceptual Replication of Popov et al. (2023)",
    "url": "https://osf.io/preprints/psyarxiv/b9uhq_v1/",
@@ -1873,6 +2073,42 @@
     "first_page": "1",
     "last_page": "22",
     "doi": "https://doi.org/10.14414/jebav.v29i3.5760"
+   }
+  },
+  {
+   "id": "f18703e219f47dd0",
+   "title": "Examining the relationship between teacher candidates' techno-stress levels and information and communication technologies competencies",
+   "url": "https://doi.org/10.21831/cp.v45i3.95674",
+   "source": "Jurnal Cakrawala Pendidikan",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "stress",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Osman AKHAN",
+     "Gökhan Ayçilek"
+    ],
+    "container": "Jurnal Cakrawala Pendidikan",
+    "volume": "45",
+    "issue": "3",
+    "doi": "https://doi.org/10.21831/cp.v45i3.95674"
    }
   },
   {
@@ -2113,6 +2349,39 @@
    }
   },
   {
+   "id": "0d7e6c8a1ff1ad1b",
+   "title": "Quiet coping and mental health disclosure among university employees in the Philippines",
+   "url": "https://www.nature.com/articles/s41598-026-74347-0_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "mental health",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Brix Mirote"
+    ],
+    "container": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-74347-0"
+   }
+  },
+  {
    "id": "6e9e7312914fe6d0",
    "title": "Development and preliminary validation of an AI acceptance scale for intercultural teaching and its cross-sectional associations with university teachers’ occupational wellbeing",
    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1986187/pdf",
@@ -2161,6 +2430,45 @@
    }
   },
   {
+   "id": "36dc6a3cd547a540",
+   "title": "Artificial Intelligence Acceptance Among Nurses and Other Healthcare Professionals in Spain and Henan Province, China: An Exploratory Cross-Sectional Comparison",
+   "url": "https://doi.org/10.3390/nursrep16110383",
+   "source": "Nursing Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "A. García",
+     "Elena Andina Díaz",
+     "Silvia Pérez‐González"
+    ],
+    "container": "Nursing Reports",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "383",
+    "last_page": "383",
+    "doi": "https://doi.org/10.3390/nursrep16110383"
+   }
+  },
+  {
    "id": "7bf1284a0cfb032e",
    "title": "Telework Agreements, Spatial Autonomy and Decent Work in the Hospitality Workforce",
    "url": "https://doi.org/10.3390/socsci15110745",
@@ -2195,40 +2503,6 @@
     "first_page": "745",
     "last_page": "745",
     "doi": "https://doi.org/10.3390/socsci15110745"
-   }
-  },
-  {
-   "id": "07e69957880a1c13",
-   "title": "Resilience and work engagement: the mediating role of job crafting behaviours",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1826711/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-28T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "work engagement",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Nelesh Dhanpat"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1826711"
    }
   },
   {
@@ -2272,6 +2546,40 @@
     "container": "Frontiers in Education",
     "volume": "11",
     "doi": "https://doi.org/10.3389/feduc.2026.1949516"
+   }
+  },
+  {
+   "id": "07e69957880a1c13",
+   "title": "Resilience and work engagement: the mediating role of job crafting behaviours",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1826711/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nelesh Dhanpat"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1826711"
    }
   },
   {
@@ -2428,6 +2736,43 @@
    }
   },
   {
+   "id": "d4f9d638f8e0e75e",
+   "title": "Mapping interdependencies among challenges to artificial intelligence adoption in drug discovery",
+   "url": "https://www.nature.com/articles/s41599-026-08833-1_reference.pdf",
+   "source": "Humanities and Social Sciences Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lara Alhajj",
+     "Labaran Isiaku",
+     "Abubakar Sadiq Muhammad",
+     "Jana Alhajj",
+     "Abdillahi Mohamoud Sheikh Muse"
+    ],
+    "container": "Humanities and Social Sciences Communications",
+    "doi": "https://doi.org/10.1057/s41599-026-08833-1"
+   }
+  },
+  {
    "id": "96dea557525af812",
    "title": "Network analysis of the relationship between change fatigue and work withdrawal behavior among Chinese nurses",
    "url": "https://doi.org/10.1186/s12912-026-05535-6",
@@ -2465,6 +2810,44 @@
     ],
     "container": "BMC Nursing",
     "doi": "https://doi.org/10.1186/s12912-026-05535-6"
+   }
+  },
+  {
+   "id": "8ce8203aee031999",
+   "title": "Artificial intelligence anxiety and associated factors among clinical nurses in tertiary hospitals in China: a latent profile analysis",
+   "url": "https://doi.org/10.1186/s12912-026-05586-9",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yanan Xu",
+     "Zhenlong Yan",
+     "Xiaomei Ji",
+     "Yuxin Li",
+     "Yahui Liu",
+     "Li Zhang"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05586-9"
    }
   },
   {
@@ -2626,6 +3009,46 @@
    }
   },
   {
+   "id": "c8651feab78912a8",
+   "title": "Personality Predictors of Health, Well-Being, Relationships, and Employment in Namibia, Kenya, and South Africa: A Three-Year Longitudinal Study",
+   "url": "https://osf.io/preprints/psyarxiv/apx63_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-23T16:00:03Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 30,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "well-being",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/apx63_v2",
+    "authors": [
+     "Peter Haehner",
+     "Catherine M. Shirima",
+     "Marie Kura",
+     "Luzelle Naude",
+     "Chris Hopwood",
+     "Amber Gayle Thalmayer"
+    ]
+   }
+  },
+  {
    "id": "09923fbf1f5a3882",
    "title": "From Access to Governance: Generative AI Literacy for Extension Professionals and Small Businesses, and a Governance-Aware Design Framework",
    "url": "https://doi.org/10.3390/ai7110440",
@@ -2698,6 +3121,43 @@
     "first_page": "1856109",
     "last_page": "1856109",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1856109"
+   }
+  },
+  {
+   "id": "073f7f7f274241d5",
+   "title": "Inconclusive mediated effect of empathy on perceived stress among nurses: A comment on Wang et al. (2026)",
+   "url": "https://osf.io/preprints/psyarxiv/syn4k_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-10-22T23:03:56Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 30,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "stress",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/syn4k_v1",
+    "authors": [
+     "Kimmo Sorjonen",
+     "Bo Melin",
+     "Marika Melin"
+    ]
    }
   },
   {
@@ -3383,6 +3843,45 @@
     ],
     "container": "BMC Health Services Research",
     "doi": "https://doi.org/10.1186/s12913-026-15626-4"
+   }
+  },
+  {
+   "id": "b4d4b015a1e6efbe",
+   "title": "AI-enabled project monitoring and control: Toward a configurational framework for human–AI collaboration in project leadership",
+   "url": "https://doi.org/10.1016/j.plas.2026.100245",
+   "source": "Project Leadership and Society",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-17T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Erik Humberto Araya Aliaga",
+     "Adeline Abou-Ali",
+     "Costanza Mariani",
+     "Mauro Mancini"
+    ],
+    "container": "Project Leadership and Society",
+    "volume": "7",
+    "first_page": "100245",
+    "last_page": "100245",
+    "doi": "https://doi.org/10.1016/j.plas.2026.100245"
    }
   },
   {
@@ -4130,6 +4629,43 @@
    }
   },
   {
+   "id": "f266af60cfcab735",
+   "title": "Technology acceptance of artificial intelligence for cognitive assessment in autism spectrum disorder: a structural equation modeling approach with robustness and predictive analytics",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1932937/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "technology acceptance",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Faisal K. Alshraah",
+     "Ahmad Khaled Mohammad Khazaleh",
+     "Ayed Mohammad Ahmad Melhem",
+     "Ekhlas Nawaf Albari"
+    ],
+    "container": "Frontiers in Education",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/feduc.2026.1932937"
+   }
+  },
+  {
    "id": "251dc665f92d9eb8",
    "title": "Decent Work Among Hospital Nurses: Associations with Work Engagement, Burnout, and Job Crafting in a Cross-Sectional Study",
    "url": "https://doi.org/10.3390/nursrep16100355",
@@ -4208,6 +4744,45 @@
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
     "doi": "https://doi.org/10.3389/forgp.2026.1851922"
+   }
+  },
+  {
+   "id": "90db314b3384fa65",
+   "title": "Transforming Corporate University Learning Culture Through Cognitive Growth Mindset",
+   "url": "https://doi.org/10.21512/bbr.v17i3.16074",
+   "source": "Binus Business Review",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-06T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "learning culture",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Muh. Asdig Fanani",
+     "Muhammad Ramaditya",
+     "Abdul Razak Abdul Hadi"
+    ],
+    "container": "Binus Business Review",
+    "volume": "17",
+    "issue": "3",
+    "first_page": "241",
+    "last_page": "251",
+    "doi": "https://doi.org/10.21512/bbr.v17i3.16074"
    }
   },
   {
@@ -4291,6 +4866,44 @@
     "first_page": "735",
     "last_page": "743",
     "doi": "https://doi.org/10.5271/sjweh.4335"
+   }
+  },
+  {
+   "id": "4f7d9d6a42a6bcf6",
+   "title": "Self-reported learning-oriented GenAI use under perceived teacher-referenced normative tension in Chinese higher education",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1969743/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-02T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 90,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "genai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Zhenzhen Yang",
+     "Yong Yang",
+     "WEI LIU"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1969743",
+    "last_page": "1969743",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1969743"
    }
   },
   {
@@ -4452,6 +5065,45 @@
    }
   },
   {
+   "id": "eeec0f4988ca5661",
+   "title": "Participatory organizational intervention: improving staff wellbeing in specialized hospital units",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1384/72464933/ckag169.1384.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "wellbeing",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "H Van Simaeys",
+     "E Clays",
+     "E Lauwerier",
+     "L Lechner",
+     "D Myny"
+    ],
+    "container": "European Journal of Public Health",
+    "volume": "36",
+    "issue": "Supplement_5",
+    "doi": "https://doi.org/10.1093/eurpub/ckag169.1384"
+   }
+  },
+  {
    "id": "060affcf34339778",
    "title": "Telework, engagement and burnout: heterogeneous effects from a doubly robust study",
    "url": "https://doi.org/10.1093/eurpub/ckag169.480",
@@ -4495,6 +5147,45 @@
     "volume": "36",
     "issue": "Supplement_5",
     "doi": "https://doi.org/10.1093/eurpub/ckag169.480"
+   }
+  },
+  {
+   "id": "da3c78ca43d6019a",
+   "title": "Where you work matters: workweek typologies and mental health in four European countries",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.192/72463131/ckag169.192.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "mental health",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "E Bracho Montes de Oca",
+     "M Vacchiano",
+     "Rani De Pauw",
+     "B De Geus",
+     "B Cagnie"
+    ],
+    "container": "European Journal of Public Health",
+    "volume": "36",
+    "issue": "Supplement_5",
+    "doi": "https://doi.org/10.1093/eurpub/ckag169.192"
    }
   },
   {
@@ -4933,6 +5624,46 @@
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
     "doi": "https://doi.org/10.3389/forgp.2026.1919818"
+   }
+  },
+  {
+   "id": "6b20509b67c2b0a4",
+   "title": "When and Why Do Leaders Endorse Radical Ideas? A Transactional Theory of Stress Perspective",
+   "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.70131",
+   "source": "Journal of Organizational Behavior",
+   "source_id": "job",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-25T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "stress",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xuting Jiang",
+     "Chak Fu Lam",
+     "Yaping Gong",
+     "Wenxing Liu"
+    ],
+    "container": "Journal of Organizational Behavior",
+    "volume": "47",
+    "issue": "9",
+    "first_page": "1589",
+    "last_page": "1607",
+    "doi": "https://doi.org/10.1002/job.70131"
    }
   },
   {
@@ -5933,6 +6664,39 @@
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
     "doi": "https://doi.org/10.3389/forgp.2026.1938613"
+   }
+  },
+  {
+   "id": "1a9390d91d8cd152",
+   "title": "Agentic AI in organisations",
+   "url": "https://doi.org/10.1787/1257a26f-en",
+   "source": "OECD (Artificial Intelligence)",
+   "source_id": "oecd-ai",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-09-14T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD"
+    ],
+    "container": "OECD artificial intelligence papers",
+    "doi": "https://doi.org/10.1787/1257a26f-en"
    }
   },
   {
