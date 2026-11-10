@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T02:45:12Z",
+ "generated": "2026-11-10T02:49:30Z",
  "count": 143,
  "topics": [
   {
@@ -69,15 +69,49 @@
  },
  "items": [
   {
-   "id": "938fa39fa6610cdb",
-   "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
-   "url": "https://www.nber.org/papers/w35991#fromrss",
+   "id": "da079c225f2a2436",
+   "title": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale",
+   "url": "https://www.nber.org/papers/w35987",
    "source": "NBER Working Papers",
    "source_id": "nber",
    "layer": "preprint",
    "type": "Preprint",
-   "published": "2026-11-10T02:28:15Z",
-   "first_seen": "2026-11-10T02:28:15Z",
+   "published": "2026-11-10T02:49:30Z",
+   "first_seen": "2026-11-10T02:49:30Z",
+   "window_days": 30,
+   "topics": [
+    "labor-economics"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "working_paper",
+    "authors": [
+     "Jennifer Wang",
+     "Andreas Haupt",
+     "Isaac Robinson",
+     "Phil Lewis",
+     "Erik Brynjolfsson",
+     "Diyi Yang"
+    ],
+    "container": "NBER Working Papers",
+    "publisher": "National Bureau of Economic Research"
+   },
+   "date_estimated": true
+  },
+  {
+   "id": "3420380deb6af184",
+   "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
+   "url": "https://www.nber.org/papers/w35991",
+   "source": "NBER Working Papers",
+   "source_id": "nber",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T02:49:30Z",
+   "first_seen": "2026-11-10T02:49:30Z",
    "window_days": 30,
    "topics": [
     "future-of-work"
@@ -94,6 +128,39 @@
      "Edward Jee",
      "Dean Karlan",
      "Patrick Premand"
+    ],
+    "container": "NBER Working Papers",
+    "publisher": "National Bureau of Economic Research"
+   },
+   "date_estimated": true
+  },
+  {
+   "id": "16f21de5e04d6f1f",
+   "title": "AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains",
+   "url": "https://www.nber.org/papers/w36003",
+   "source": "NBER Working Papers",
+   "source_id": "nber",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-10T02:49:30Z",
+   "first_seen": "2026-11-10T02:49:30Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "working_paper",
+    "authors": [
+     "Panle Jia Barwick",
+     "Lu Fang",
+     "Jinhan Liu",
+     "Huilan Xu",
+     "Zhe Yuan"
     ],
     "container": "NBER Working Papers",
     "publisher": "National Bureau of Economic Research"
@@ -122,7 +189,7 @@
    "cite": {
     "kind": "news",
     "authors": [
-     "Jonathan Barrett Business editor"
+     "Jonathan Barrett"
     ],
     "container": "The Guardian"
    }
@@ -325,73 +392,6 @@
    }
   },
   {
-   "id": "15d97949f4ab4b94",
-   "title": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale",
-   "url": "https://www.nber.org/papers/w35987#fromrss",
-   "source": "NBER Working Papers",
-   "source_id": "nber",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-09T18:56:54Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 30,
-   "topics": [
-    "labor-economics"
-   ],
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "working_paper",
-    "authors": [
-     "Jennifer Wang",
-     "Andreas Haupt",
-     "Isaac Robinson",
-     "Phil Lewis",
-     "Erik Brynjolfsson",
-     "Diyi Yang"
-    ],
-    "container": "NBER Working Papers",
-    "publisher": "National Bureau of Economic Research"
-   },
-   "date_estimated": true
-  },
-  {
-   "id": "06019537d7f4b1c9",
-   "title": "AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains",
-   "url": "https://www.nber.org/papers/w36003#fromrss",
-   "source": "NBER Working Papers",
-   "source_id": "nber",
-   "layer": "preprint",
-   "type": "Preprint",
-   "published": "2026-11-09T18:56:54Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 30,
-   "topics": [
-    "ai-at-work"
-   ],
-   "region": false,
-   "labels": [
-    "Not yet peer-reviewed"
-   ],
-   "access": "Free to read",
-   "cite": {
-    "kind": "working_paper",
-    "authors": [
-     "Panle Jia Barwick",
-     "Lu Fang",
-     "Jinhan Liu",
-     "Huilan Xu",
-     "Zhe Yuan"
-    ],
-    "container": "NBER Working Papers",
-    "publisher": "National Bureau of Economic Research"
-   },
-   "date_estimated": true
-  },
-  {
    "id": "cb7863665107d049",
    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
@@ -411,7 +411,7 @@
    "cite": {
     "kind": "news",
     "authors": [
-     "Robert Booth UK technology editor"
+     "Robert Booth UK"
     ],
     "container": "The Guardian"
    }
@@ -723,7 +723,7 @@
    "cite": {
     "kind": "news",
     "authors": [
-     "Lauren Aratani in New York"
+     "Lauren Aratani"
     ],
     "container": "The Guardian"
    }
