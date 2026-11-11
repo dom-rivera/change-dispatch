@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T17:19:52Z",
- "count": 175,
+ "generated": "2026-11-11T01:57:46Z",
+ "count": 180,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,38 @@
  },
  "items": [
   {
+   "id": "ecf0cf9a9353a2f1",
+   "title": "Gov’t to create National AI Council this month",
+   "url": "https://business.inquirer.net/620286/govt-to-create-national-ai-council-this-month",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-11T02:07:00Z",
+   "first_seen": "2026-11-11T01:57:46Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai governance",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
    "id": "26e9c353b051e76a",
    "title": "Defense sees no need to change strategy, says it does not coach witnesses",
    "url": "https://newsinfo.inquirer.net/2339415/defense-sees-no-need-to-change-strategy-says-it-does-not-coach-witnesses",
@@ -101,6 +133,44 @@
    }
   },
   {
+   "id": "333c15f089956596",
+   "title": "AI leadership training tools are most effective when paired with managerial support",
+   "url": "https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T20:55:00Z",
+   "first_seen": "2026-11-11T01:57:46Z",
+   "window_days": 7,
+   "topics": [
+    "leadership",
+    "ai-at-work"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "managerial support",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lara Ewen"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
    "id": "3fe539ede43920ab",
    "title": "Palace: Corruption issues affecting OVP employees’ mental health",
    "url": "https://newsinfo.inquirer.net/2339272/palace-corruption-issues-affecting-ovp-employees-mental-health",
@@ -130,6 +200,38 @@
      "mesarangay"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "dbb84efbb07a4986",
+   "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+   "url": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+   "source": "NPR (Business)",
+   "source_id": "npr-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T17:46:25Z",
+   "first_seen": "2026-11-11T01:57:46Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Tonya Mosley"
+    ],
+    "container": "NPR"
    }
   },
   {
@@ -176,6 +278,73 @@
      "Hiroko Costantini",
      "Misato Nihei"
     ]
+   }
+  },
+  {
+   "id": "2662971383c5950d",
+   "title": "Sara Duterte’s P64,000-city hall payout from ‘salary differential’ – witness",
+   "url": "https://www.rappler.com/philippines/sara-duterte-payout-salary-differential-davao-accountant-bajan/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-10T14:30:00Z",
+   "first_seen": "2026-11-11T01:57:46Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Sundy Locus"
+    ],
+    "container": "Rappler"
+   }
+  },
+  {
+   "id": "85e2d6b966948461",
+   "title": "Economic coercion once ousted Iran’s leader – but that was the 1950s; don’t expect a repeat today",
+   "url": "https://theconversation.com/economic-coercion-once-ousted-irans-leader-but-that-was-the-1950s-dont-expect-a-repeat-today-294628",
+   "source": "The Conversation",
+   "source_id": "the-conversation",
+   "layer": "analysis",
+   "type": "Expert analysis",
+   "published": "2026-11-10T13:36:36Z",
+   "first_seen": "2026-11-11T01:57:46Z",
+   "window_days": 30,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership change",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Eric Lob",
+     "Associate Professor of Politics",
+     "International Relations",
+     "Florida International University"
+    ],
+    "container": "The Conversation"
    }
   },
   {

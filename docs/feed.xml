@@ -6,13 +6,66 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:57:46 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Gov’t to create National AI Council this month</title>
+      <link>https://business.inquirer.net/620286/govt-to-create-national-ai-council-this-month</link>
+      <guid isPermaLink="false">ecf0cf9a9353a2f1</guid>
+      <pubDate>Wed, 11 Nov 2026 01:57:46 GMT</pubDate>
+      <description>News · Inquirer Business · Published Nov 11, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>NewsPublish</dc:creator>
+    </item>
+    <item>
+      <title>AI leadership training tools are most effective when paired with managerial support</title>
+      <link>https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/</link>
+      <guid isPermaLink="false">333c15f089956596</guid>
+      <pubDate>Wed, 11 Nov 2026 01:57:46 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 10, 2026 · Free to read. Topics: Leadership and change communication, AI at work.</description>
+      <category>News</category>
+      <category>Leadership and change communication</category>
+      <category>AI at work</category>
+      <dc:creator>Lara Ewen</dc:creator>
+    </item>
+    <item>
+      <title>Americans across the economic spectrum feel a 'panic' about finances, author says</title>
+      <link>https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives</link>
+      <guid isPermaLink="false">dbb84efbb07a4986</guid>
+      <pubDate>Wed, 11 Nov 2026 01:57:46 GMT</pubDate>
+      <description>News · NPR (Business) · Published Nov 10, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Tonya Mosley</dc:creator>
+    </item>
+    <item>
+      <title>Sara Duterte’s P64,000-city hall payout from ‘salary differential’ – witness</title>
+      <link>https://www.rappler.com/philippines/sara-duterte-payout-salary-differential-davao-accountant-bajan/</link>
+      <guid isPermaLink="false">2662971383c5950d</guid>
+      <pubDate>Wed, 11 Nov 2026 01:57:46 GMT</pubDate>
+      <description>News · Rappler · Published Nov 10, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Sundy Locus</dc:creator>
+    </item>
+    <item>
+      <title>Economic coercion once ousted Iran’s leader – but that was the 1950s; don’t expect a repeat today</title>
+      <link>https://theconversation.com/economic-coercion-once-ousted-irans-leader-but-that-was-the-1950s-dont-expect-a-repeat-today-294628</link>
+      <guid isPermaLink="false">85e2d6b966948461</guid>
+      <pubDate>Wed, 11 Nov 2026 01:57:46 GMT</pubDate>
+      <description>Expert analysis · The Conversation · Published Nov 10, 2026 · Free to read. Topics: Leadership and change communication.</description>
+      <category>Expert analysis</category>
+      <category>Leadership and change communication</category>
+      <dc:creator>Eric Lob, Associate Professor of Politics, International Relations, Florida International University</dc:creator>
+    </item>
     <item>
       <title>Defense sees no need to change strategy, says it does not coach witnesses</title>
       <link>https://newsinfo.inquirer.net/2339415/defense-sees-no-need-to-change-strategy-says-it-does-not-coach-witnesses</link>
@@ -588,59 +641,6 @@
       <category>Peer-reviewed</category>
       <category>AI at work</category>
       <dc:creator>Aleena Ashraf, Qingfei Min, Alqa Ashraf, Hafiz Muhammad Arslan, Hassan Zafar</dc:creator>
-    </item>
-    <item>
-      <title>Differential associations between job crafting dimensions and work engagement: a meta-analytic review based on the JD–R framework</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1856109/pdf</link>
-      <guid isPermaLink="false">2b14db01dcddddac</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 23, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>Zhongrui Qiao, Anton F. Gasimov</dc:creator>
-    </item>
-    <item>
-      <title>AI literacy is directly associated with positive attitudes and indirectly associated with negative attitudes through AI anxiety: a cross-sectional study of preservice teachers</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1946898/pdf</link>
-      <guid isPermaLink="false">a7e841dd58abb220</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 22, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>İsmail Satmaz, Mehmet Adıyaman</dc:creator>
-    </item>
-    <item>
-      <title>Beyond good and bad: An in-depth study of student and teacher views on generative AI in high school.</title>
-      <link>https://psycnet.apa.org/fulltext/2028-44794-001.pdf</link>
-      <guid isPermaLink="false">f77fb2bd0c4229d8</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Technology Mind and Behavior · Published Oct 22, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Sarah I. Segall, Talia Waltzer, Gail D. Heyman</dc:creator>
-    </item>
-    <item>
-      <title>Ethical leadership and responsible initiative among Chinese university middle-level cadres: the roles of organizational fairness and identification</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2000079/pdf</link>
-      <guid isPermaLink="false">af86cbb19ed41d2e</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 22, 2026 · Free to read. Topics: Leadership and change communication.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <dc:creator>Lei Chen</dc:creator>
-    </item>
-    <item>
-      <title>Artificial intelligence-enabled green recruitment and transformational leadership in strengthening small and medium-sized enterprise resilience: The mediating roles of work engagement and artificial intelligence utilisation</title>
-      <link>https://doi.org/10.4102/sajhrm.v24i0.3860</link>
-      <guid isPermaLink="false">bbb2cb3c242b312a</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · SA Journal of Human Resource Management · Published Oct 21, 2026 · Free to read. Topics: Leadership and change communication, Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Employee well-being</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Fitri Rezeki, Fachrurazi Fachrurazi</dc:creator>
     </item>
   </channel>
 </rss>
