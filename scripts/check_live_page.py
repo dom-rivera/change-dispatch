@@ -20,7 +20,15 @@ def dom(url: str) -> str:
         capture_output=True, text=True, timeout=90).stdout
 
 
+import urllib.request
+
 ok = True
+raw = urllib.request.urlopen(urllib.request.Request(URL, headers={"Cache-Control": "no-cache"}), timeout=30).read().decode()
+raw_stories = len(re.findall(r"<article\b", raw))
+raw_updated = re.search(r'id="updated">([^<]*)<', raw)
+print(f"raw HTML (no JavaScript): stories={raw_stories}  updated={raw_updated.group(1) if raw_updated else '?'!r}")
+if raw_stories == 0:
+    ok = False
 for page in PAGES:
     html = dom(URL + page)
     stories = len(re.findall(r"<article\b", html))
