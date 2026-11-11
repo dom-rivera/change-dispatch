@@ -18,6 +18,8 @@ jobs:
           cache: pip
       - name: Install packages
         run: pip install --require-hashes -r requirements.txt
+      - name: Open the live site in a real browser
+        run: python scripts/check_live_page.py
       - name: Check every link, free access and the live site
         env:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
