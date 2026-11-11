@@ -561,11 +561,6 @@
   $("search").addEventListener("input", function (e) { state.query = e.target.value.trim(); render(); });
   window.addEventListener("hashchange", function () { window.scrollTo(0, 0); render(); });
 
-  // The page ships with a plain list of headlines for tools without
-  // JavaScript (scripts/build_static.py). Clear it; the views below draw
-  // the full interactive version.
-  $("stories").textContent = "";
-
   Promise.all([
     getJSON("data/items.json").catch(function () { return null; }),
     getJSON("data/status.json").catch(function () { return null; }),
@@ -577,6 +572,11 @@
     state.editions = res[2] ? res[2].editions : [];
     state.notes = res[3] ? res[3].notes || [] : [];
     if (data) {
+      // The page ships with a plain list of headlines for tools without
+      // JavaScript (scripts/build_static.py). Now that the data has loaded,
+      // clear it; the views draw the full interactive version. If the data
+      // could not load, the plain list stays so the page is never empty.
+      $("stories").textContent = "";
       state.items = data.items || [];
       state.items.forEach(function (i) { state.byId[i.id] = i; });
       state.topics = data.topics || [];
@@ -592,10 +592,12 @@
           " ago. Today\u2019s update is delayed; the items below may be out of date.";
         stale.hidden = false;
       }
-    } else {
+      renderTopicMenu();
+      render();
+    } else if (!$("stories").querySelector("article")) {
       $("updated").textContent = "First edition coming soon";
+      renderTopicMenu();
+      render();
     }
-    renderTopicMenu();
-    render();
   });
 })();

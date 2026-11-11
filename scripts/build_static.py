@@ -22,6 +22,8 @@ INDEX = ROOT / "docs" / "index.html"
 ITEMS = ROOT / "docs" / "data" / "items.json"
 START, END = "<!-- static:start -->", "<!-- static:end -->"
 UPD_RE = re.compile(r'(<span id="updated">)(.*?)(</span>)')
+CLOCK_RE = re.compile(r'(<time id="clock"[^>]*>)(.*?)(</time>)')
+DATE_RE = re.compile(r'(<span id="today-date">)(.*?)(</span>)')
 MAX_ITEMS = 30
 MANILA = timezone(timedelta(hours=8))
 SAFE_URL = re.compile(r"^https?://[^\s\"'<>]+$", re.I)
@@ -74,6 +76,9 @@ def build(page: str, doc: dict, now: datetime) -> str:
         d = parse(generated).astimezone(MANILA)
         stamp = f"Updated {fmt(d)}, {d:%I:%M %p}".replace(" 0", " ")
         page = UPD_RE.sub(lambda m: m.group(1) + html.escape(stamp) + m.group(3), page, count=1)
+        # Text-only readers see the edition date; app.js replaces both with a live clock.
+        page = CLOCK_RE.sub(lambda m: m.group(1) + html.escape(f"{d:%I:%M %p}".lstrip("0")) + m.group(3), page, count=1)
+        page = DATE_RE.sub(lambda m: m.group(1) + html.escape(f"{d:%A}, {fmt(d)}") + m.group(3), page, count=1)
     return page
 
 
