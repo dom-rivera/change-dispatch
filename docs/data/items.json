@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T09:27:08Z",
- "count": 180,
+ "generated": "2026-11-11T17:28:55Z",
+ "count": 186,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,36 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "5d71e44aec1cef1d",
+   "title": "EXPLAINER: Why are more Filipino youths facing unemployment challenges",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1009193/explainer-why-are-more-filipino-youths-are-facing-unemployment-challenges/story/",
+   "source": "GMA News",
+   "source_id": "gma-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-11T15:24:12Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "GMA News",
+    "authors": []
+   }
+  },
   {
    "id": "ecf0cf9a9353a2f1",
    "title": "Gov’t to create National AI Council this month",
@@ -621,6 +651,121 @@
      "Alicia A. Meier-Ernst",
      "Leonard Reinecke"
     ]
+   }
+  },
+  {
+   "id": "31d3a2d021603238",
+   "title": "Conservation in place: perceived pay inequity as a chronic occupational stressor in a high-unemployment labor market",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1972719/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor market",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Kiara N. Nyanhongo",
+     "Calvin Mabaso",
+     "Mark H.R. Bussin"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "doi": "https://doi.org/10.3389/forgp.2026.1972719"
+   }
+  },
+  {
+   "id": "60e15e73bd592f39",
+   "title": "Teacher and peer support and sustainable creativity among arts-major undergraduates: a constructivist grounded theory of psychological safety, self-efficacy, and flow",
+   "url": "https://doi.org/10.1186/s40359-026-05914-3",
+   "source": "BMC Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "psych-safety"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Qianqian Fan",
+     "Shipei Cui",
+     "Lan Li"
+    ],
+    "container": "BMC Psychology",
+    "doi": "https://doi.org/10.1186/s40359-026-05914-3"
+   }
+  },
+  {
+   "id": "22f9e64c72e9ec14",
+   "title": "Psychometric properties of assessment tools for evaluating attitudes toward artificial intelligence in nursing practice and nursing education: a scoping review",
+   "url": "https://doi.org/10.1186/s12912-026-05572-1",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "attitudes toward artificial intelligence",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Linchun Huang",
+     "Ning Tang",
+     "Yingying Cai",
+     "Yan Lin",
+     "Jinxin Huang",
+     "Yunhui Su"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05572-1"
    }
   },
   {
@@ -1604,6 +1749,46 @@
    }
   },
   {
+   "id": "a066a4580bf49237",
+   "title": "Motivated to telework? Voluntariness and involuntariness as mechanisms linking supervisor support to productivity and life satisfaction",
+   "url": "https://www.emerald.com/cemj/article-pdf/doi/10.1108/CEMJ-10-2025-0315/11950232/cemj-10-2025-0315en.pdf",
+   "source": "Central European Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "telework",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Anabela Santos Rodrigues",
+     "Diogo Cerdeira",
+     "Rita Miguel",
+     "Ângela Maria Teixeira Leite",
+     "Sílvia Lopes",
+     "Leonor Pais"
+    ],
+    "container": "Central European Management Journal",
+    "first_page": "1",
+    "last_page": "17",
+    "doi": "https://doi.org/10.1108/cemj-10-2025-0315"
+   }
+  },
+  {
    "id": "507c77dd177c78de",
    "title": "Same Gossip, Different Judgment: Why Inappropriate Workplace Gossip Is More Acceptable When It Targets AI",
    "url": "https://osf.io/preprints/psyarxiv/9vuat_v1/",
@@ -2145,6 +2330,43 @@
    }
   },
   {
+   "id": "e7e4e9d4e0e888fc",
+   "title": "Hybrid work and employee performance of generation Z: A moderated mediated investigation",
+   "url": "https://doi.org/10.1177/18479790261506567",
+   "source": "International Journal of Engineering Business Management",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "hybrid work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Dung Viet Mai",
+     "Thang Nguyen Ngoc",
+     "Hakile Resulbegoviq",
+     "Mirjana Pejic Bach"
+    ],
+    "container": "International Journal of Engineering Business Management",
+    "volume": "18",
+    "doi": "https://doi.org/10.1177/18479790261506567"
+   }
+  },
+  {
    "id": "1940a7745cadf569",
    "title": "AI Readiness, Green Innovation and Workforce Upskilling Role in the Renewable Energy Transition in GCC Economies",
    "url": "https://www.sciencedirect.com/science/article/pii/S2665972726005106/pdf",
@@ -2627,39 +2849,6 @@
    }
   },
   {
-   "id": "0d7e6c8a1ff1ad1b",
-   "title": "Quiet coping and mental health disclosure among university employees in the Philippines",
-   "url": "https://www.nature.com/articles/s41598-026-74347-0_reference.pdf",
-   "source": "Scientific Reports",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-28T00:00:00Z",
-   "first_seen": "2026-11-10T05:10:30Z",
-   "window_days": 60,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "mental health",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Brix Mirote"
-    ],
-    "container": "Scientific Reports",
-    "doi": "https://doi.org/10.1038/s41598-026-74347-0"
-   }
-  },
-  {
    "id": "6e9e7312914fe6d0",
    "title": "Development and preliminary validation of an AI acceptance scale for intercultural teaching and its cross-sectional associations with university teachers’ occupational wellbeing",
    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1986187/pdf",
@@ -2787,6 +2976,39 @@
     "first_page": "745",
     "last_page": "745",
     "doi": "https://doi.org/10.3390/socsci15110745"
+   }
+  },
+  {
+   "id": "0d7e6c8a1ff1ad1b",
+   "title": "Quiet coping and mental health disclosure among university employees in the Philippines",
+   "url": "https://www.nature.com/articles/s41598-026-74347-0_reference.pdf",
+   "source": "Scientific Reports",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "mental health",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Brix Mirote"
+    ],
+    "container": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-74347-0"
    }
   },
   {
@@ -3177,6 +3399,8 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1999813",
+    "last_page": "1999813",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1999813"
    }
   },

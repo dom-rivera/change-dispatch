@@ -6,13 +6,75 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:28:55 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>EXPLAINER: Why are more Filipino youths facing unemployment challenges</title>
+      <link>https://www.gmanetwork.com/news/topstories/nation/1009193/explainer-why-are-more-filipino-youths-are-facing-unemployment-challenges/story/</link>
+      <guid isPermaLink="false">5d71e44aec1cef1d</guid>
+      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
+      <description>News · GMA News · Published Nov 11, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
+    <item>
+      <title>Conservation in place: perceived pay inequity as a chronic occupational stressor in a high-unemployment labor market</title>
+      <link>https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1972719/pdf</link>
+      <guid isPermaLink="false">31d3a2d021603238</guid>
+      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Organizational Psychology · Published Nov 10, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>Peer-reviewed</category>
+      <category>Labor economics</category>
+      <dc:creator>Kiara N. Nyanhongo, Calvin Mabaso, Mark H.R. Bussin</dc:creator>
+    </item>
+    <item>
+      <title>Teacher and peer support and sustainable creativity among arts-major undergraduates: a constructivist grounded theory of psychological safety, self-efficacy, and flow</title>
+      <link>https://doi.org/10.1186/s40359-026-05914-3</link>
+      <guid isPermaLink="false">60e15e73bd592f39</guid>
+      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
+      <description>Peer-reviewed · BMC Psychology · Published Nov 10, 2026 · Free to read. Topics: Self-efficacy, Psychological safety and culture.</description>
+      <category>Peer-reviewed</category>
+      <category>Self-efficacy</category>
+      <category>Psychological safety and culture</category>
+      <dc:creator>Qianqian Fan, Shipei Cui, Lan Li</dc:creator>
+    </item>
+    <item>
+      <title>Psychometric properties of assessment tools for evaluating attitudes toward artificial intelligence in nursing practice and nursing education: a scoping review</title>
+      <link>https://doi.org/10.1186/s12912-026-05572-1</link>
+      <guid isPermaLink="false">22f9e64c72e9ec14</guid>
+      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
+      <description>Peer-reviewed · BMC Nursing · Published Nov 10, 2026 · Free to read. Topics: Openness to change.</description>
+      <category>Peer-reviewed</category>
+      <category>Openness to change</category>
+      <dc:creator>Linchun Huang, Ning Tang, Yingying Cai, Yan Lin, Jinxin Huang, Yunhui Su</dc:creator>
+    </item>
+    <item>
+      <title>Motivated to telework? Voluntariness and involuntariness as mechanisms linking supervisor support to productivity and life satisfaction</title>
+      <link>https://www.emerald.com/cemj/article-pdf/doi/10.1108/CEMJ-10-2025-0315/11950232/cemj-10-2025-0315en.pdf</link>
+      <guid isPermaLink="false">a066a4580bf49237</guid>
+      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
+      <description>Peer-reviewed · Central European Management Journal · Published Nov 4, 2026 · Free to read. Topics: Future of work.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <dc:creator>Anabela Santos Rodrigues, Diogo Cerdeira, Rita Miguel, Ângela Maria Teixeira Leite, Sílvia Lopes, Leonor Pais</dc:creator>
+    </item>
+    <item>
+      <title>Hybrid work and employee performance of generation Z: A moderated mediated investigation</title>
+      <link>https://doi.org/10.1177/18479790261506567</link>
+      <guid isPermaLink="false">e7e4e9d4e0e888fc</guid>
+      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
+      <description>Peer-reviewed · International Journal of Engineering Business Management · Published Nov 1, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Future of work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Dung Viet Mai, Thang Nguyen Ngoc, Hakile Resulbegoviq, Mirjana Pejic Bach</dc:creator>
+    </item>
     <item>
       <title>Gov’t to create National AI Council this month</title>
       <link>https://business.inquirer.net/620286/govt-to-create-national-ai-council-this-month</link>
@@ -162,17 +224,6 @@
       <dc:creator>Xian Lin, Yaling Qin, Yuxuan Zeng, Xinqing Zhu, Jingyi Li, Qiaosong Wang</dc:creator>
     </item>
     <item>
-      <title>Quiet coping and mental health disclosure among university employees in the Philippines</title>
-      <link>https://www.nature.com/articles/s41598-026-74347-0_reference.pdf</link>
-      <guid isPermaLink="false">0d7e6c8a1ff1ad1b</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Scientific Reports · Published Oct 28, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Brix Mirote</dc:creator>
-    </item>
-    <item>
       <title>Artificial Intelligence Acceptance Among Nurses and Other Healthcare Professionals in Spain and Henan Province, China: An Exploratory Cross-Sectional Comparison</title>
       <link>https://doi.org/10.3390/nursrep16110383</link>
       <guid isPermaLink="false">36dc6a3cd547a540</guid>
@@ -182,6 +233,17 @@
       <category>Openness to change</category>
       <category>AI at work</category>
       <dc:creator>A. García, Elena Andina Díaz, Silvia Pérez‐González</dc:creator>
+    </item>
+    <item>
+      <title>Quiet coping and mental health disclosure among university employees in the Philippines</title>
+      <link>https://www.nature.com/articles/s41598-026-74347-0_reference.pdf</link>
+      <guid isPermaLink="false">0d7e6c8a1ff1ad1b</guid>
+      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
+      <description>Peer-reviewed · Scientific Reports · Published Oct 28, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Brix Mirote</dc:creator>
     </item>
     <item>
       <title>Mapping interdependencies among challenges to artificial intelligence adoption in drug discovery</title>
@@ -578,69 +640,6 @@
       <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Qi Zhang, Ramzy Mohammad Ismath, Abd Razak Bin Zakaria</dc:creator>
-    </item>
-    <item>
-      <title>Telework Agreements, Spatial Autonomy and Decent Work in the Hospitality Workforce</title>
-      <link>https://doi.org/10.3390/socsci15110745</link>
-      <guid isPermaLink="false">7bf1284a0cfb032e</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Social Sciences · Published Oct 28, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Future of work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Jens Thoemmes</dc:creator>
-    </item>
-    <item>
-      <title>Resilience and work engagement: the mediating role of job crafting behaviours</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1826711/pdf</link>
-      <guid isPermaLink="false">07e69957880a1c13</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 28, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>Nelesh Dhanpat</dc:creator>
-    </item>
-    <item>
-      <title>New Hybrid Work and Gendered Domestic Responsibilities in Sweden: Equalizer or Reinforcer?</title>
-      <link>https://tidsskrift.dk/njwls/article/download/172211/212567</link>
-      <guid isPermaLink="false">c43061d26f791434</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Nordic Journal of Working Life Studies · Published Oct 27, 2026 · Free to read. Topics: Future of work.</description>
-      <category>Peer-reviewed</category>
-      <category>Future of work</category>
-      <dc:creator>Bertil Vilhelmson, Eva Thulin</dc:creator>
-    </item>
-    <item>
-      <title>Perceived AI acceptance and occupational well-being among university physical education teachers: a cross-sectional serial mediation model of digital well-being and innovative work behavior</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1999813/pdf</link>
-      <guid isPermaLink="false">44c45e0ebbc8e052</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 26, 2026 · Free to read. Topics: Openness to change, Employee well-being, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <category>Employee well-being</category>
-      <category>AI at work</category>
-      <dc:creator>Jun Miao</dc:creator>
-    </item>
-    <item>
-      <title>Perceived regional economic benefits of smart agriculture: a dynamic capability and leadership perspective on AI adoption</title>
-      <link>https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1865535/pdf</link>
-      <guid isPermaLink="false">7b012fcbf319b379</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Sustainable Food Systems · Published Oct 26, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Shuang Zhang, Wei Wang</dc:creator>
-    </item>
-    <item>
-      <title>AI-Enabled Algorithmic Management and Frontline Employee Job Crafting: The Roles of Control, Support, and Managerial Orientation</title>
-      <link>https://doi.org/10.3390/ejihpe16110169</link>
-      <guid isPermaLink="false">1b09119cdcff680a</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · European Journal of Investigation in Health Psychology and Education · Published Oct 26, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Aleena Ashraf, Qingfei Min, Alqa Ashraf, Hafiz Muhammad Arslan, Hassan Zafar</dc:creator>
     </item>
   </channel>
 </rss>
