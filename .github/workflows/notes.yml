@@ -29,11 +29,12 @@ jobs:
         run: |
           python scripts/build_notes.py
           python scripts/build_feed.py
+          python scripts/build_static.py
       - name: Publish
         run: |
           git config user.name "dom-rivera"
           git config user.email "94301308+dom-rivera@users.noreply.github.com"
-          git add docs/data/notes.json docs/feed.xml
+          git add docs/data/notes.json docs/feed.xml docs/index.html
           if git diff --cached --quiet; then
             echo "No changes."
           else

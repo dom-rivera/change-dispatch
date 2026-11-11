@@ -379,3 +379,24 @@ def test_label_audit_cases():
     assert "ai-at-work" not in news("Revealed: Palantir lobbied minister to stretch AI tools' reach")
     assert "labor-economics" in news("Hiring jumps: The economy added 165,000 jobs last month")
     assert "well-being" in news("UK job satisfaction at record low amid frustration over pay")
+
+
+def test_static_headlines_are_escaped_and_replaceable():
+    import build_static as bs
+    page = '<span id="updated">x</span><div id="stories"><!-- static:start -->\nold\n<!-- static:end --></div>'
+    doc = {"generated": NOW.isoformat(), "topics": [{"id": "ai-at-work", "name": "AI at work"}], "items": [
+        {"title": "<script>alert(1)</script> AI & jobs", "url": "https://n.example/a", "source": "S",
+         "type": "News", "published": NOW.isoformat(), "first_seen": NOW.isoformat(),
+         "window_days": 7, "topics": ["ai-at-work"]},
+        {"title": "Bad link", "url": "javascript:alert(1)", "source": "S", "type": "News",
+         "published": NOW.isoformat(), "first_seen": NOW.isoformat(), "window_days": 7, "topics": []},
+        {"title": "Too old", "url": "https://n.example/o", "source": "S", "type": "News",
+         "published": (NOW - timedelta(days=30)).isoformat(), "first_seen": NOW.isoformat(),
+         "window_days": 7, "topics": []},
+    ]}
+    out = bs.build(page, doc, NOW)
+    assert "<script>" not in out and "&lt;script&gt;" in out and "AI &amp; jobs" in out
+    assert 'href="javascript' not in out and "Bad link" in out and "Too old" not in out
+    assert "old\n" not in out and out.count("static:start") == 1
+    assert '<span id="updated">Updated ' in out
+    assert bs.build(out, doc, NOW) == out   # running twice changes nothing
