@@ -561,6 +561,11 @@
   $("search").addEventListener("input", function (e) { state.query = e.target.value.trim(); render(); });
   window.addEventListener("hashchange", function () { window.scrollTo(0, 0); render(); });
 
+  // The page ships with a plain list of headlines for tools without
+  // JavaScript (scripts/build_static.py). Clear it; the views below draw
+  // the full interactive version.
+  $("stories").textContent = "";
+
   Promise.all([
     getJSON("data/items.json").catch(function () { return null; }),
     getJSON("data/status.json").catch(function () { return null; }),
