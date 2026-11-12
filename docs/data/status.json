@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T03:04:42Z",
+ "generated": "2026-11-12T04:18:06Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -310,7 +310,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-12T00:07:00Z",
+   "newest_item": "2026-11-12T03:07:00Z",
    "stale": false
   },
   {
@@ -322,7 +322,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-12T01:16:47Z",
+   "newest_item": "2026-11-12T03:42:18Z",
    "stale": false
   },
   {
@@ -334,7 +334,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-12T02:38:00Z",
+   "newest_item": "2026-11-12T12:09:21Z",
    "stale": false
   },
   {
@@ -342,7 +342,7 @@
    "name": "The Guardian (Business)",
    "layer": "news",
    "ok": true,
-   "found": 39,
+   "found": 20,
    "kept": 2,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
@@ -354,8 +354,8 @@
    "name": "The Guardian (Technology)",
    "layer": "news",
    "ok": true,
-   "found": 32,
-   "kept": 0,
+   "found": 36,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
    "newest_item": "2026-11-11T15:00:52Z",
@@ -385,7 +385,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-12T00:49:05Z",
+   "newest_item": "2026-11-12T04:18:33Z",
    "stale": false
   },
   {
@@ -409,7 +409,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-12T02:20:15Z",
+   "newest_item": "2026-11-12T04:19:43Z",
    "stale": false
   },
   {
@@ -448,7 +448,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-12T03:00:00Z",
+   "newest_item": "2026-11-12T04:07:18Z",
    "stale": false
   },
   {
@@ -457,13 +457,13 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": [
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-12T03:00:27Z",
+   "newest_item": "2026-11-12T04:19:48Z",
    "stale": false
   },
   {
@@ -475,7 +475,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-12T11:05:04Z",
+   "newest_item": "2026-11-12T12:05:37Z",
    "stale": false
   },
   {
@@ -483,11 +483,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 3,
+   "found": 4,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-12T02:58:28Z",
+   "newest_item": "2026-11-12T03:03:28Z",
    "stale": false
   },
   {
