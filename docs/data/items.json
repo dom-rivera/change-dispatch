@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T17:28:55Z",
- "count": 186,
+ "generated": "2026-11-12T03:04:42Z",
+ "count": 192,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,136 @@
  },
  "items": [
   {
+   "id": "ba165dbf289dd2d0",
+   "title": "COA flags P62.23M in DMW aid for OFWs",
+   "url": "https://newsinfo.inquirer.net/2339988/coa-flags-p62-23m-in-dmw-aid-for-ofws",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T05:38:00Z",
+   "first_seen": "2026-11-12T03:04:42Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "ofws",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "6bca8a695949a1ea",
+   "title": "RM2,000 minimum wage on the way, but productivity is the real fix, say experts",
+   "url": "https://www.malaymail.com/news/money/2026/11/12/rm2000-minimum-wage-on-the-way-but-productivity-is-the-real-fix-say-experts/242930",
+   "source": "Malay Mail (Money)",
+   "source_id": "malay-mail",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T02:43:57Z",
+   "first_seen": "2026-11-12T03:04:42Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "minimum wage",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Malay Mail",
+    "authors": []
+   }
+  },
+  {
+   "id": "218bcfb00f39bb24",
+   "title": "$250-M World Bank funding for Tesda seen by year-end",
+   "url": "https://business.inquirer.net/620414/250-m-world-bank-funding-for-tesda-seen-by-year-end",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T02:16:00Z",
+   "first_seen": "2026-11-12T03:04:42Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "tesda",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "7257b0b0696afe0e",
+   "title": "Australian companies face 'AI washing' claims after wave of job cuts, offshoring",
+   "url": "https://www.channelnewsasia.com/business/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-6543886",
+   "source": "CNA (Business)",
+   "source_id": "cna-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-11T21:01:32Z",
+   "first_seen": "2026-11-12T03:04:42Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "job cuts",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "CNA",
+    "authors": []
+   }
+  },
+  {
    "id": "5d71e44aec1cef1d",
    "title": "EXPLAINER: Why are more Filipino youths facing unemployment challenges",
    "url": "https://www.gmanetwork.com/news/topstories/nation/1009193/explainer-why-are-more-filipino-youths-are-facing-unemployment-challenges/story/",
@@ -96,6 +226,72 @@
     "kind": "news",
     "container": "GMA News",
     "authors": []
+   }
+  },
+  {
+   "id": "0295b14c7f7e5e6b",
+   "title": "From blood group ID to cycle racks: I asked for little ways to fix broken Britain and the public’s ideas give me hope | Martin Lewis",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/11/how-fix-broken-britain-public-better",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-11T12:49:40Z",
+   "first_seen": "2026-11-12T03:04:42Z",
+   "window_days": 7,
+   "topics": [
+    "behavioral-economics"
+   ],
+   "why": {
+    "behavioral-economics": {
+     "phrase": "nudge",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [
+    "Opinion"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Martin Lewis"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "250e0adfd88311bd",
+   "title": "Aldi cuts hundreds of UK head office roles as part of global cost trimming",
+   "url": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-11T07:30:12Z",
+   "first_seen": "2026-11-12T03:04:42Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "job losses",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Sarah Butler"
+    ],
+    "container": "The Guardian"
    }
   },
   {

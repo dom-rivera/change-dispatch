@@ -6,13 +6,75 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:04:42 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>COA flags P62.23M in DMW aid for OFWs</title>
+      <link>https://newsinfo.inquirer.net/2339988/coa-flags-p62-23m-in-dmw-aid-for-ofws</link>
+      <guid isPermaLink="false">ba165dbf289dd2d0</guid>
+      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 12, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
+    <item>
+      <title>RM2,000 minimum wage on the way, but productivity is the real fix, say experts</title>
+      <link>https://www.malaymail.com/news/money/2026/11/12/rm2000-minimum-wage-on-the-way-but-productivity-is-the-real-fix-say-experts/242930</link>
+      <guid isPermaLink="false">6bca8a695949a1ea</guid>
+      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
+      <description>News · Malay Mail (Money) · Published Nov 12, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
+    <item>
+      <title>$250-M World Bank funding for Tesda seen by year-end</title>
+      <link>https://business.inquirer.net/620414/250-m-world-bank-funding-for-tesda-seen-by-year-end</link>
+      <guid isPermaLink="false">218bcfb00f39bb24</guid>
+      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
+      <description>News · Inquirer Business · Published Nov 12, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>NewsPublish</dc:creator>
+    </item>
+    <item>
+      <title>Australian companies face 'AI washing' claims after wave of job cuts, offshoring</title>
+      <link>https://www.channelnewsasia.com/business/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-6543886</link>
+      <guid isPermaLink="false">7257b0b0696afe0e</guid>
+      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 11, 2026 · Free to read. Topics: Organizational change, AI at work.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>AI at work</category>
+    </item>
+    <item>
+      <title>From blood group ID to cycle racks: I asked for little ways to fix broken Britain and the public’s ideas give me hope | Martin Lewis</title>
+      <link>https://www.theguardian.com/commentisfree/2026/nov/11/how-fix-broken-britain-public-better</link>
+      <guid isPermaLink="false">0295b14c7f7e5e6b</guid>
+      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
+      <description>News · The Guardian (Business) · Published Nov 11, 2026 · Free to read · Opinion. Topics: Behavioral economics.</description>
+      <category>News</category>
+      <category>Behavioral economics</category>
+      <dc:creator>Martin Lewis</dc:creator>
+    </item>
+    <item>
+      <title>Aldi cuts hundreds of UK head office roles as part of global cost trimming</title>
+      <link>https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming</link>
+      <guid isPermaLink="false">250e0adfd88311bd</guid>
+      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
+      <description>News · The Guardian (Business) · Published Nov 11, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Sarah Butler</dc:creator>
+    </item>
     <item>
       <title>EXPLAINER: Why are more Filipino youths facing unemployment challenges</title>
       <link>https://www.gmanetwork.com/news/topstories/nation/1009193/explainer-why-are-more-filipino-youths-are-facing-unemployment-challenges/story/</link>
@@ -573,73 +635,6 @@
       <category>Peer-reviewed</category>
       <category>AI at work</category>
       <dc:creator>Valters Kaže, Valērijs Dombrovskis, Gatis Bolinskis</dc:creator>
-    </item>
-    <item>
-      <title>Knowledge management challenges in remote work: The threat of organizational supervision to knowledge sharing</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2444569X2600257X/pdf</link>
-      <guid isPermaLink="false">f55aaf217b60aac2</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Innovation &amp; Knowledge · Published Nov 1, 2026 · Free to read. Topics: Future of work.</description>
-      <category>Peer-reviewed</category>
-      <category>Future of work</category>
-      <dc:creator>Rui Yan, Yang Yang, Yan Meng</dc:creator>
-    </item>
-    <item>
-      <title>AI Readiness, Green Innovation and Workforce Upskilling Role in the Renewable Energy Transition in GCC Economies</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2665972726005106/pdf</link>
-      <guid isPermaLink="false">1940a7745cadf569</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Environmental and Sustainability Indicators · Published Nov 1, 2026 · Free to read. Topics: Change readiness, Future of work, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <category>Future of work</category>
-      <category>AI at work</category>
-      <dc:creator>Khalid Shams Al-Abdulqader, Alanoud Ali Al-Maadid, Mohamed Sami Ben Ali, A. M. Suha</dc:creator>
-    </item>
-    <item>
-      <title>One-Year Changes in Metabolic Syndrome Indicators Among Workers Participating in an Online Specific Health Guidance Program Incorporating Nudges and Health Education: A Pre–Post Field Study</title>
-      <link>https://academic.oup.com/joh/advance-article-pdf/doi/10.1093/joccuh/uiag069/72619166/uiag069.pdf</link>
-      <guid isPermaLink="false">29bb9d26eeae73e6</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Occupational Health · Published Oct 30, 2026 · Free to read. Topics: Behavioral economics.</description>
-      <category>Peer-reviewed</category>
-      <category>Behavioral economics</category>
-      <dc:creator>Masaki Takebayashi, Chieko Kashiwado, Yudai Kaneda, Shino Ohhata, Tatsuya Koyama</dc:creator>
-    </item>
-    <item>
-      <title>The mediating role of job crafting in the relationship between perceived organizational support and nurses' attitudes towards artificial intelligence: a cross-sectional study based on the job demands–resources model</title>
-      <link>https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1942864/pdf</link>
-      <guid isPermaLink="false">05699c6e5c856ded</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Medicine · Published Oct 29, 2026 · Free to read. Topics: Openness to change, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <category>AI at work</category>
-      <dc:creator>Xuan Cui, Haihong Li, Shi Min, Ting Zhao</dc:creator>
-    </item>
-    <item>
-      <title>Leader Humor and Frontline Employee Work Engagement: A Serial Mediation Model via Job Crafting and Work Meaningfulness, Moderated by Organizational Identification</title>
-      <link>https://doi.org/10.3390/bs16112034</link>
-      <guid isPermaLink="false">e26e2c8b47ca3e9d</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Behavioral Sciences · Published Oct 29, 2026 · Free to read. Topics: Leadership and change communication, Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Employee well-being</category>
-      <dc:creator>Xuan Yu, Qiuju Yang, Maoting Yang</dc:creator>
-    </item>
-    <item>
-      <title>Development and preliminary validation of an AI acceptance scale for intercultural teaching and its cross-sectional associations with university teachers’ occupational wellbeing</title>
-      <link>https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1986187/pdf</link>
-      <guid isPermaLink="false">6e9e7312914fe6d0</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Public Health · Published Oct 28, 2026 · Free to read. Topics: Openness to change, Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <category>Employee well-being</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Qi Zhang, Ramzy Mohammad Ismath, Abd Razak Bin Zakaria</dc:creator>
     </item>
   </channel>
 </rss>
