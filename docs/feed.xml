@@ -6,13 +6,107 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:45:27 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>DepEd cites private sector role in NCR schools’ tech transformation</title>
+      <link>https://newsinfo.inquirer.net/2340413/deped-cites-private-sector-role-in-ncr-schools-tech-transformation</link>
+      <guid isPermaLink="false">165fae2707fead68</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 12, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Alexander Magno</dc:creator>
+    </item>
+    <item>
+      <title>Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee</title>
+      <link>https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour</link>
+      <guid isPermaLink="false">fcc2193357e288c7</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 12, 2026 · Free to read · Opinion. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Polly Toynbee</dc:creator>
+    </item>
+    <item>
+      <title>US workers are fighting to protect their jobs from AI – and winning</title>
+      <link>https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai</link>
+      <guid isPermaLink="false">caced9783dab4cd6</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>News · The Guardian (Technology) · Published Nov 12, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Ramin Skibba</dc:creator>
+    </item>
+    <item>
+      <title>College students rally in support of Starbucks baristas urging boycott over contract impasse</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks</link>
+      <guid isPermaLink="false">605d772f41b7bbfb</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>News · The Guardian (Business) · Published Nov 12, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Michael Sainato</dc:creator>
+    </item>
+    <item>
+      <title>Psychological safety and organizational silence in Turkish schools</title>
+      <link>https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1944987/pdf</link>
+      <guid isPermaLink="false">da5a204cc9bcfbe4</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychiatry · Published Nov 11, 2026 · Free to read. Topics: Psychological safety and culture.</description>
+      <category>Peer-reviewed</category>
+      <category>Psychological safety and culture</category>
+      <dc:creator>Suzan ÇAKIR, Gökmen Dağlı, Zehra Altınay, Fahriye Altınay, Betül Yıkıcı</dc:creator>
+    </item>
+    <item>
+      <title>Digital Work Stressors and Employee Well-Being: A Systematic Review of Evidence Types, Boundary Conditions, and Organisational Responses</title>
+      <link>https://f1000research.com/articles/15-1890/pdf</link>
+      <guid isPermaLink="false">95de82405ad2f7ff</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>Peer-reviewed · F1000Research · Published Nov 11, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Abdullah Fathur Rasyid, Dhiza Aliffia, Melly Ellysa, Ahmad Hudatullah, Maulidia Maulidia, Lenny Nur Rismayani</dc:creator>
+    </item>
+    <item>
+      <title>AI-enabled talent analytics and workforce agility in manufacturing SMEs: the mediating role of human-AI collaboration and the moderating role of technostress resilience</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1879629/pdf</link>
+      <guid isPermaLink="false">8e802427a27bcdb6</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 11, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Bshair Alharthi, M. A. El-Naggar, Hiyam Abdulrahim, Asokan Vasudevan, Zahid Hussain, Abdelrehim Awad</dc:creator>
+    </item>
+    <item>
+      <title>The relationship between surgical nurses’ attitude towards artificial intelligence and artificial intelligence dependence: a cross-sectional study</title>
+      <link>https://doi.org/10.1186/s12912-026-05638-0</link>
+      <guid isPermaLink="false">a50e6315a7fa6705</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>Peer-reviewed · BMC Nursing · Published Nov 10, 2026 · Free to read. Topics: AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>AI at work</category>
+      <dc:creator>Yeliż Cigerci, İsa Gül, H. Erkan</dc:creator>
+    </item>
+    <item>
+      <title>Perceived Work Flexibility and Mentoring Support for Digital Self-Efficacy, Entrepreneurial Self-Efficacy, and Career Sustainability among Women Entrepreneurs in Bali</title>
+      <link>https://doi.org/10.1016/j.joitmc.2026.100904</link>
+      <guid isPermaLink="false">e8b6197a03850ccb</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
+      <description>Peer-reviewed · Journal of Open Innovation Technology Market and Complexity · Published Nov 1, 2026 · Free to read. Topics: Self-efficacy, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Self-efficacy</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Akhmad Darmawan, Syamsul Bahri, Muhammad Imam Muttaqijn, Fatmah Bagis</dc:creator>
+    </item>
     <item>
       <title>Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI</title>
       <link>https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai</link>
@@ -411,7 +505,7 @@
       <dc:creator>E Bracho Montes de Oca, M Vacchiano, Rani De Pauw, B De Geus, B Cagnie</dc:creator>
     </item>
     <item>
-      <title>Agentic AI in organisations</title>
+      <title>Agentic AI in organisations: Early insights from practitioner interviews</title>
       <link>https://doi.org/10.1787/1257a26f-en</link>
       <guid isPermaLink="false">1a9390d91d8cd152</guid>
       <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
@@ -542,101 +636,6 @@
       <category>News</category>
       <category>Labor economics</category>
       <dc:creator>Scott Horsley</dc:creator>
-    </item>
-    <item>
-      <title>Employers to be forced to put salaries on job ads, Andy Burnham announces</title>
-      <link>https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham</link>
-      <guid isPermaLink="false">19041566aabeeb4e</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Kiran Stacey</dc:creator>
-    </item>
-    <item>
-      <title>Nearly two-thirds of HR leaders expect layoffs in 2027</title>
-      <link>https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/</link>
-      <guid isPermaLink="false">9a25d94ecb9c8cff</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 5, 2026 · Free to read. Topics: Organizational change.</description>
-      <category>News</category>
-      <category>Organizational change</category>
-      <dc:creator>Lara Ewen</dc:creator>
-    </item>
-    <item>
-      <title>Milburn review to call for jobs ’revolution’ for young people with disabilities</title>
-      <link>https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets</link>
-      <guid isPermaLink="false">5a94466b8567c50b</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 5, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Patrick Butler</dc:creator>
-    </item>
-    <item>
-      <title>Building innovative work behavior in MSMEs: the role of transformational leadership, adaptive organizational culture, and employee resilience</title>
-      <link>https://www.tandfonline.com/doi/pdf/10.1080/23311975.2026.2752707?needAccess=true</link>
-      <guid isPermaLink="false">b80bd82fa3473bed</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Cogent Business &amp; Management · Published Nov 4, 2026 · Free to read. Topics: Leadership and change communication, Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Psychological safety and culture</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Mochamad Mochklas, Ali Imaduddin Futuwwah, Fauzie Senoaji, Gita Desipradani, Tyasha Ayu Melynda Sari</dc:creator>
-    </item>
-    <item>
-      <title>UK job satisfaction at record low amid rising frustration over pay and flexible working</title>
-      <link>https://www.theguardian.com/money/2026/nov/03/uk-job-satisfaction-record-low-frustration-pay-flexible-working-insecure-employment</link>
-      <guid isPermaLink="false">f784b1170672f175</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 3, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
-      <category>News</category>
-      <category>Employee well-being</category>
-      <category>Future of work</category>
-      <dc:creator>Phillip Inman</dc:creator>
-    </item>
-    <item>
-      <title>Practice leadership development in intellectual disability services: A qualitative study of practice leaders’ experiences</title>
-      <link>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351893&amp;type=printable</link>
-      <guid isPermaLink="false">e4b7fbb7af15ac9c</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · PLoS ONE · Published Nov 3, 2026 · Free to read. Topics: Leadership and change communication.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <dc:creator>Owen Doody, Maeve O’Halloran, Eileen Carey, Marie Kilduff, Ruth Ryan</dc:creator>
-    </item>
-    <item>
-      <title>AI Adoption, Adaptation, and Workforce Sustainability in Medical Imaging: Systematic Review and Conceptual Framework</title>
-      <link>https://doi.org/10.2196/101944</link>
-      <guid isPermaLink="false">c1a27067fdeb4293</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · JMIR AI · Published Nov 3, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Paula Ann Brough, Khondker Mohammad Zobair, Javad Khazaei Pool, Natalie Haskell, Luke Houghton, Paul Scuffham</dc:creator>
-    </item>
-    <item>
-      <title>Beyond Deep Acting: How Transformational Leadership Is Associated with Employee Well-Being Through Surface Acting and Self-Efficacy</title>
-      <link>https://doi.org/10.3390/bs16112089</link>
-      <guid isPermaLink="false">e1fc51c8ccfea525</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Behavioral Sciences · Published Nov 3, 2026 · Free to read. Topics: Self-efficacy, Leadership and change communication, Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Self-efficacy</category>
-      <category>Leadership and change communication</category>
-      <category>Employee well-being</category>
-      <dc:creator>Tuğba Soyman Can, Meryem Derya Yeşiltaş, Musa Şanal, Kemal Can Kılıç, Azmi Yalçın</dc:creator>
-    </item>
-    <item>
-      <title>Dynamic Architecture of Leadership Capabilities in the Context of Women’s Leadership Development</title>
-      <link>https://doi.org/10.3390/systems14111395</link>
-      <guid isPermaLink="false">96a72e983157ab60</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Systems · Published Nov 3, 2026 · Free to read. Topics: Leadership and change communication.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <dc:creator>Jacqueline Y. Sánchez-García, Juan E. Núñez-Ríos, Susana Ana María Ochoa Torres, Roberto Palacios Rodriguez</dc:creator>
     </item>
   </channel>
 </rss>

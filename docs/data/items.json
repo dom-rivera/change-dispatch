@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T09:50:43Z",
- "count": 193,
+ "generated": "2026-11-12T17:45:27Z",
+ "count": 202,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,136 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "165fae2707fead68",
+   "title": "DepEd cites private sector role in NCR schools’ tech transformation",
+   "url": "https://newsinfo.inquirer.net/2340413/deped-cites-private-sector-role-in-ncr-schools-tech-transformation",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T19:22:59Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Alexander Magno"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "fcc2193357e288c7",
+   "title": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T16:01:03Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [
+    "Opinion"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Polly Toynbee"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "caced9783dab4cd6",
+   "title": "US workers are fighting to protect their jobs from AI – and winning",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T15:00:44Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Ramin Skibba"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "605d772f41b7bbfb",
+   "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
+   "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T11:00:48Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "minimum wage",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Michael Sainato"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "955db39045169f6f",
    "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
@@ -368,6 +498,126 @@
      "NewsPublish"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "da5a204cc9bcfbe4",
+   "title": "Psychological safety and organizational silence in Turkish schools",
+   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1944987/pdf",
+   "source": "Frontiers in Psychiatry",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-11T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Suzan ÇAKIR",
+     "Gökmen Dağlı",
+     "Zehra Altınay",
+     "Fahriye Altınay",
+     "Betül Yıkıcı"
+    ],
+    "container": "Frontiers in Psychiatry",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyt.2026.1944987"
+   }
+  },
+  {
+   "id": "95de82405ad2f7ff",
+   "title": "Digital Work Stressors and Employee Well-Being: A Systematic Review of Evidence Types, Boundary Conditions, and Organisational Responses",
+   "url": "https://f1000research.com/articles/15-1890/pdf",
+   "source": "F1000Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-11T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Abdullah Fathur Rasyid",
+     "Dhiza Aliffia",
+     "Melly Ellysa",
+     "Ahmad Hudatullah",
+     "Maulidia Maulidia",
+     "Lenny Nur Rismayani",
+     "Inggrely Winsailen Taihuttu",
+     "Efrom Feliksianus Gahta"
+    ],
+    "container": "F1000Research",
+    "volume": "15",
+    "first_page": "1890",
+    "last_page": "1890",
+    "doi": "https://doi.org/10.12688/f1000research.193860.1"
+   }
+  },
+  {
+   "id": "8e802427a27bcdb6",
+   "title": "AI-enabled talent analytics and workforce agility in manufacturing SMEs: the mediating role of human-AI collaboration and the moderating role of technostress resilience",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1879629/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-11T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Bshair Alharthi",
+     "M. A. El-Naggar",
+     "Hiyam Abdulrahim",
+     "Asokan Vasudevan",
+     "Zahid Hussain",
+     "Abdelrehim Awad"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1879629"
    }
   },
   {
@@ -968,6 +1218,41 @@
     ],
     "container": "BMC Psychology",
     "doi": "https://doi.org/10.1186/s40359-026-05914-3"
+   }
+  },
+  {
+   "id": "a50e6315a7fa6705",
+   "title": "The relationship between surgical nurses’ attitude towards artificial intelligence and artificial intelligence dependence: a cross-sectional study",
+   "url": "https://doi.org/10.1186/s12912-026-05638-0",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yeliż Cigerci",
+     "İsa Gül",
+     "H. Erkan"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05638-0"
    }
   },
   {
@@ -2530,6 +2815,44 @@
     "first_page": "1",
     "last_page": "12",
     "doi": "https://doi.org/10.2147/amep.s659736"
+   }
+  },
+  {
+   "id": "e8b6197a03850ccb",
+   "title": "Perceived Work Flexibility and Mentoring Support for Digital Self-Efficacy, Entrepreneurial Self-Efficacy, and Career Sustainability among Women Entrepreneurs in Bali",
+   "url": "https://doi.org/10.1016/j.joitmc.2026.100904",
+   "source": "Journal of Open Innovation Technology Market and Complexity",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "digital self-efficacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Akhmad Darmawan",
+     "Syamsul Bahri",
+     "Muhammad Imam Muttaqijn",
+     "Fatmah Bagis"
+    ],
+    "container": "Journal of Open Innovation Technology Market and Complexity",
+    "first_page": "100904",
+    "last_page": "100904",
+    "doi": "https://doi.org/10.1016/j.joitmc.2026.100904"
    }
   },
   {
@@ -4143,6 +4466,48 @@
    }
   },
   {
+   "id": "837926475d296fa2",
+   "title": "Mitigating workplace bullying through authentic leadership: Evidence from hospital nurses in Jordan",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359313&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "authentic leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Rahaf Abdulsalam Al-Laham",
+     "Ali Saleh",
+     "Waddah Mohammad D’emeh",
+     "Muhammad Waleed Darawad",
+     "Duaa Izzat Zaidiyah",
+     "Tariq Noureddin Mkhaimer"
+    ],
+    "container": "PLoS ONE",
+    "volume": "21",
+    "issue": "10",
+    "first_page": "e0359313",
+    "last_page": "e0359313",
+    "doi": "https://doi.org/10.1371/journal.pone.0359313"
+   }
+  },
+  {
    "id": "bbb2cb3c242b312a",
    "title": "Artificial intelligence-enabled green recruitment and transformational leadership in strengthening small and medium-sized enterprise resilience: The mediating roles of work engagement and artificial intelligence utilisation",
    "url": "https://doi.org/10.4102/sajhrm.v24i0.3860",
@@ -4187,48 +4552,6 @@
     "container": "SA Journal of Human Resource Management",
     "volume": "24",
     "doi": "https://doi.org/10.4102/sajhrm.v24i0.3860"
-   }
-  },
-  {
-   "id": "837926475d296fa2",
-   "title": "Mitigating workplace bullying through authentic leadership: Evidence from hospital nurses in Jordan",
-   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359313&type=printable",
-   "source": "PLoS ONE",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-21T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "leadership"
-   ],
-   "why": {
-    "leadership": {
-     "phrase": "authentic leadership",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Rahaf Abdulsalam Al-Laham",
-     "Ali Saleh",
-     "Waddah Mohammad D’emeh",
-     "Muhammad Waleed Darawad",
-     "Duaa Izzat Zaidiyah",
-     "Tariq Noureddin Mkhaimer"
-    ],
-    "container": "PLoS ONE",
-    "volume": "21",
-    "issue": "10",
-    "first_page": "e0359313",
-    "last_page": "e0359313",
-    "doi": "https://doi.org/10.1371/journal.pone.0359313"
    }
   },
   {
@@ -5497,43 +5820,6 @@
    }
   },
   {
-   "id": "54a58409598a864c",
-   "title": "Understanding teachers’ technostress creators due to IT use at work: a mixed-methods study",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1887403/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-02T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Ni Yao",
-     "Qiong Wang"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "first_page": "1887403",
-    "last_page": "1887403",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1887403"
-   }
-  },
-  {
    "id": "4ed44f84e10666df",
    "title": "Device-measured physical activity and sedentary behavior during office versus remote workdays among hybrid workers",
    "url": "https://www.sjweh.fi/download.php?abstract_id=4335&file_nro=1",
@@ -5615,6 +5901,43 @@
     "first_page": "1969743",
     "last_page": "1969743",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1969743"
+   }
+  },
+  {
+   "id": "54a58409598a864c",
+   "title": "Understanding teachers’ technostress creators due to IT use at work: a mixed-methods study",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1887403/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-02T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ni Yao",
+     "Qiong Wang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1887403",
+    "last_page": "1887403",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1887403"
    }
   },
   {
@@ -7298,7 +7621,7 @@
   },
   {
    "id": "1a9390d91d8cd152",
-   "title": "Agentic AI in organisations",
+   "title": "Agentic AI in organisations: Early insights from practitioner interviews",
    "url": "https://doi.org/10.1787/1257a26f-en",
    "source": "OECD (Artificial Intelligence)",
    "source_id": "oecd-ai",
