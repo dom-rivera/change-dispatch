@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T04:18:06Z",
- "count": 192,
+ "generated": "2026-11-12T09:50:43Z",
+ "count": 193,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,50 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "955db39045169f6f",
+   "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T06:55:44Z",
+   "first_seen": "2026-11-12T09:50:43Z",
+   "window_days": 7,
+   "topics": [
+    "well-being",
+    "ai-at-work",
+    "labor-economics"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Josh Butler"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "ba165dbf289dd2d0",
    "title": "COA flags P62.23M in DMW aid for OFWs",

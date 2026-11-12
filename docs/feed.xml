@@ -6,13 +6,25 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:50:43 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI</title>
+      <link>https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai</link>
+      <guid isPermaLink="false">955db39045169f6f</guid>
+      <pubDate>Thu, 12 Nov 2026 09:50:43 GMT</pubDate>
+      <description>News · The Guardian (Technology) · Published Nov 12, 2026 · Free to read. Topics: Employee well-being, AI at work, Labor economics.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <category>AI at work</category>
+      <category>Labor economics</category>
+      <dc:creator>Josh Butler</dc:creator>
+    </item>
     <item>
       <title>COA flags P62.23M in DMW aid for OFWs</title>
       <link>https://newsinfo.inquirer.net/2339988/coa-flags-p62-23m-in-dmw-aid-for-ofws</link>
@@ -625,16 +637,6 @@
       <category>Peer-reviewed</category>
       <category>Leadership and change communication</category>
       <dc:creator>Jacqueline Y. Sánchez-García, Juan E. Núñez-Ríos, Susana Ana María Ochoa Torres, Roberto Palacios Rodriguez</dc:creator>
-    </item>
-    <item>
-      <title>AI Adoption at Higher Education Institutions: A Call for Designated AI Management</title>
-      <link>https://doi.org/10.3390/educsci16111839</link>
-      <guid isPermaLink="false">c61d41e8ebee567d</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>Peer-reviewed · Education Sciences · Published Nov 2, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Valters Kaže, Valērijs Dombrovskis, Gatis Bolinskis</dc:creator>
     </item>
   </channel>
 </rss>
