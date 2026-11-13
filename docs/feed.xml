@@ -6,13 +6,33 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:39:11 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>‘Remote work’ from the office? It’s more common than you think.</title>
+      <link>https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/</link>
+      <guid isPermaLink="false">1d628cca0264016e</guid>
+      <pubDate>Fri, 13 Nov 2026 02:39:11 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 12, 2026 · Free to read. Topics: Future of work.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <dc:creator>Emilie Shumway</dc:creator>
+    </item>
+    <item>
+      <title>Many executives say they are worried about leading with empathy</title>
+      <link>https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/</link>
+      <guid isPermaLink="false">b89035a5d3550d00</guid>
+      <pubDate>Fri, 13 Nov 2026 02:39:11 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 12, 2026 · Free to read. Topics: Employee well-being.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <dc:creator>Laurel Kalser</dc:creator>
+    </item>
     <item>
       <title>DepEd cites private sector role in NCR schools’ tech transformation</title>
       <link>https://newsinfo.inquirer.net/2340413/deped-cites-private-sector-role-in-ncr-schools-tech-transformation</link>
@@ -35,7 +55,7 @@
       <dc:creator>Polly Toynbee</dc:creator>
     </item>
     <item>
-      <title>US workers are fighting to protect their jobs from AI – and winning</title>
+      <title>US public workers are fighting to protect their jobs from AI – and some are winning</title>
       <link>https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai</link>
       <guid isPermaLink="false">caced9783dab4cd6</guid>
       <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
@@ -617,25 +637,6 @@
       <category>News</category>
       <category>Labor economics</category>
       <dc:creator>Kathryn Moody</dc:creator>
-    </item>
-    <item>
-      <title>PM tells firms to publish salaries in job adverts ahead of new law</title>
-      <link>https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dcc2bbe1413b1482</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · BBC News (Business) · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-    </item>
-    <item>
-      <title>Hiring jumps: The economy added 165,000 jobs last month</title>
-      <link>https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation</link>
-      <guid isPermaLink="false">f63a3f48c9818883</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · NPR (Business) · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Scott Horsley</dc:creator>
     </item>
   </channel>
 </rss>

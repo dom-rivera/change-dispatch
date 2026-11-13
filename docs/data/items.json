@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T17:45:27Z",
- "count": 202,
+ "generated": "2026-11-13T02:39:11Z",
+ "count": 204,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,70 @@
  },
  "items": [
   {
+   "id": "1d628cca0264016e",
+   "title": "‘Remote work’ from the office? It’s more common than you think.",
+   "url": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T20:27:00Z",
+   "first_seen": "2026-11-13T02:39:11Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "remote work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Emilie Shumway"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "b89035a5d3550d00",
+   "title": "Many executives say they are worried about leading with empathy",
+   "url": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T20:27:00Z",
+   "first_seen": "2026-11-13T02:39:11Z",
+   "window_days": 7,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Laurel Kalser"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
    "id": "165fae2707fead68",
    "title": "DepEd cites private sector role in NCR schools’ tech transformation",
    "url": "https://newsinfo.inquirer.net/2340413/deped-cites-private-sector-role-in-ncr-schools-tech-transformation",
@@ -136,7 +200,7 @@
   },
   {
    "id": "caced9783dab4cd6",
-   "title": "US workers are fighting to protect their jobs from AI – and winning",
+   "title": "US public workers are fighting to protect their jobs from AI – and some are winning",
    "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
    "source": "The Guardian (Technology)",
    "source_id": "guardian-technology",
@@ -1530,8 +1594,8 @@
    "id": "022e329a512042ed",
    "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
    "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-   "source": "The Guardian (Business)",
-   "source_id": "guardian-business",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
    "layer": "news",
    "type": "News",
    "published": "2026-11-07T14:00:12Z",
