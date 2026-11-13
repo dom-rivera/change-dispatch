@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T09:32:28Z",
+ "generated": "2026-11-13T17:24:30Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -98,12 +98,12 @@
    "name": "Frontiers in Organizational Psychology",
    "layer": "research",
    "ok": true,
-   "found": 28,
+   "found": 29,
    "kept": 14,
    "error": null,
    "openalex_source": "https://openalex.org/S4387291118",
    "journal_matched": "Frontiers in Organizational Psychology",
-   "newest_item": "2026-11-11T00:00:00Z",
+   "newest_item": "2026-11-12T00:00:00Z",
    "stale": false
   },
   {
@@ -156,18 +156,18 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 261,
-   "kept": 88,
+   "found": 268,
+   "kept": 92,
    "error": null,
    "results_per_phrase": {
-    "readiness for change": 17,
+    "readiness for change": 18,
     "change readiness": 2,
     "organizational readiness": 25,
     "commitment to change": 2,
     "change self-efficacy": 1,
     "change efficacy": 2,
-    "occupational self-efficacy": 3,
-    "openness to change": 12,
+    "occupational self-efficacy": 4,
+    "openness to change": 13,
     "resistance to change": 25,
     "attitudes toward change": 2,
     "change cynicism": 0,
@@ -190,11 +190,11 @@
     "job redesign": 0,
     "nudge": 25,
     "status quo bias": 3,
-    "loss aversion": 17
+    "loss aversion": 18
    },
-   "dropped_low_h_index": 144,
+   "dropped_low_h_index": 141,
    "min_h_index": 30,
-   "newest_item": "2026-11-11T00:00:00Z",
+   "newest_item": "2026-11-12T00:00:00Z",
    "stale": false
   },
   {
@@ -202,25 +202,25 @@
    "name": "Philippine research search",
    "layer": "research",
    "ok": true,
-   "found": 67,
+   "found": 68,
    "kept": 6,
    "error": null,
    "results_per_phrase": {
-    "employees": 13,
+    "employees": 14,
     "workplace": 12,
     "organizational": 25,
     "work engagement": 2,
     "burnout": 6,
-    "leadership": 24,
+    "leadership": 25,
     "job satisfaction": 2,
     "teachers": 25,
     "nurses": 12,
-    "self-efficacy": 14,
+    "self-efficacy": 15,
     "change": 25
    },
-   "dropped_low_h_index": 58,
+   "dropped_low_h_index": 59,
    "min_h_index": 30,
-   "newest_item": "2026-11-10T00:00:00Z",
+   "newest_item": "2026-11-12T00:00:00Z",
    "stale": false
   },
   {
@@ -228,10 +228,10 @@
    "name": "PsyArXiv",
    "layer": "preprint",
    "ok": true,
-   "found": 1264,
+   "found": 1265,
    "kept": 12,
    "error": null,
-   "newest_item": "2026-11-13T02:10:37Z",
+   "newest_item": "2026-11-13T17:26:42Z",
    "stale": false
   },
   {
@@ -287,7 +287,7 @@
    "name": "The Conversation",
    "layer": "analysis",
    "ok": true,
-   "found": 167,
+   "found": 163,
    "kept": 2,
    "error": null,
    "feed_used": [
@@ -298,7 +298,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-12T20:25:32Z",
+   "newest_item": "2026-11-13T13:37:19Z",
    "stale": false
   },
   {
@@ -310,7 +310,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-13T05:28:00Z",
+   "newest_item": "2026-11-13T16:00:00Z",
    "stale": false
   },
   {
@@ -334,7 +334,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-13T17:25:34Z",
+   "newest_item": "2026-11-13T19:55:04Z",
    "stale": false
   },
   {
@@ -346,7 +346,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-12T21:33:08Z",
+   "newest_item": "2026-11-13T17:18:33Z",
    "stale": false
   },
   {
@@ -355,10 +355,10 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 4,
+   "kept": 3,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-13T09:24:33Z",
+   "newest_item": "2026-11-13T16:38:27Z",
    "stale": false
   },
   {
@@ -373,7 +373,7 @@
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-13T06:34:59Z",
+   "newest_item": "2026-11-13T16:38:27Z",
    "stale": false
   },
   {
@@ -385,7 +385,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-13T09:34:38Z",
+   "newest_item": "2026-11-13T17:12:46Z",
    "stale": false
   },
   {
@@ -394,10 +394,10 @@
    "layer": "news",
    "ok": true,
    "found": 10,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-13T01:26:24Z",
+   "newest_item": "2026-11-13T16:17:43Z",
    "stale": false
   },
   {
@@ -409,7 +409,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-13T08:21:50Z",
+   "newest_item": "2026-11-13T17:08:10Z",
    "stale": false
   },
   {
@@ -421,7 +421,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://restofworld.org/feed/latest",
-   "newest_item": "2026-11-12T11:00:00Z",
+   "newest_item": "2026-11-13T16:24:10Z",
    "stale": false
   },
   {
@@ -442,13 +442,13 @@
    "layer": "news",
    "ok": true,
    "found": 19,
-   "kept": 0,
+   "kept": 2,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-13T09:11:24Z",
+   "newest_item": "2026-11-13T15:00:00Z",
    "stale": false
   },
   {
@@ -463,7 +463,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-13T09:22:11Z",
+   "newest_item": "2026-11-13T17:16:55Z",
    "stale": false
   },
   {
@@ -472,10 +472,10 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 0,
+   "kept": 2,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-13T17:03:44Z",
+   "newest_item": "2026-11-14T01:26:23Z",
    "stale": false
   },
   {
@@ -483,11 +483,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 7,
+   "found": 6,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-13T09:14:39Z",
+   "newest_item": "2026-11-13T17:11:30Z",
    "stale": false
   },
   {
@@ -499,7 +499,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-13T09:30:03Z",
+   "newest_item": "2026-11-13T13:00:00Z",
    "stale": false
   }
  ]

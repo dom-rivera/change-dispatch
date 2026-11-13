@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-13T09:32:28Z",
- "count": 205,
+ "generated": "2026-11-13T17:24:30Z",
+ "count": 214,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,134 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "211e206676f3d7a7",
+   "title": "Angara cites private sector support as Metro schools get 133 ICT units",
+   "url": "https://newsinfo.inquirer.net/2341000/angara-cites-private-sector-support-as-metro-schools-get-133-ict-units",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-13T23:37:27Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "jvicente"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "0a72373b172d7dce",
+   "title": "Labor groups seek wage protection for workers during Asean break",
+   "url": "https://newsinfo.inquirer.net/2340974/labor-groups-seek-wage-protection-for-workers-during-asean-break",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-13T22:48:34Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor groups",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "jvicente"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "9af5ddd510de3296",
+   "title": "Industry disruption continues: GMA’s profit falls 98% in Q3, ABS-CBN still in red",
+   "url": "https://www.rappler.com/business/industry-disruption-continues-gma-network-abs-cbn-q3-2026-earnings/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-13T12:38:34Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Isagani de Castro Jr."
+    ],
+    "container": "Rappler"
+   }
+  },
+  {
+   "id": "5691a2e71dec166d",
+   "title": "Philippines, UAE go after Filipino visa scammers",
+   "url": "https://www.rappler.com/philippines/overseas-filipinos/philippines-uae-go-after-filipino-visa-scammers/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-13T10:51:21Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "ofws",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Jojo Dass"
+    ],
+    "container": "Rappler"
+   }
+  },
   {
    "id": "1fb1adff3bf89070",
    "title": "Women’s groups oppose Trump’s visit to Philippines for ASEAN summit",
@@ -264,7 +392,7 @@
   },
   {
    "id": "605d772f41b7bbfb",
-   "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
+   "title": "College students rally in support of Starbucks baristas urging boycott over contract negotiations",
    "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
    "source": "The Guardian (Business)",
    "source_id": "guardian-business",
@@ -430,6 +558,130 @@
      "NewsPublish"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "f35491635ea1c4f7",
+   "title": "Awareness, attitudes, willingness, and organizational readiness regarding decentralized clinical trials among Saudi healthcare professionals: a cross-sectional study",
+   "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1975942/pdf",
+   "source": "Frontiers in Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-12T00:00:00Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nada Alsuhebany",
+     "Ibrahim M. Asiri",
+     "Salwa Y. Hafez",
+     "Faten Alhomoud",
+     "Haya Alayadi",
+     "Fawaz M. Alotaibi",
+     "Khalid A. Al Sulaiman",
+     "Eman S. Alsulmi",
+     "Abdulrahman I. Alshaya",
+     "Mohammed J. Alfardan",
+     "Balqees A. Alsaleh",
+     "Munthir Abdulmajeed Aldukhi",
+     "Khalid A. Alamer"
+    ],
+    "container": "Frontiers in Medicine",
+    "volume": "13",
+    "doi": "https://doi.org/10.3389/fmed.2026.1975942"
+   }
+  },
+  {
+   "id": "72949e2e7b340066",
+   "title": "Job performance, job satisfaction, and workload as correlates of occupational self-efficacy in educators from rural areas of Peru",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1951678/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-12T00:00:00Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "well-being"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "occupational self-efficacy",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "job satisfaction",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ayde Gaimes Mayta",
+     "Jhordan Jhonny Mayta Llanos",
+     "Julio Cjuno"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1951678"
+   }
+  },
+  {
+   "id": "64f1dec1b531dd9d",
+   "title": "Green nudges for sustainable e-commerce: a bibliometric analysis",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2666188826006416/pdf",
+   "source": "Sustainable Futures",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-12T00:00:00Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 60,
+   "topics": [
+    "behavioral-economics"
+   ],
+   "why": {
+    "behavioral-economics": {
+     "phrase": "nudges",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Maria Briana"
+    ],
+    "container": "Sustainable Futures",
+    "volume": "12",
+    "first_page": "102284",
+    "last_page": "102284",
+    "doi": "https://doi.org/10.1016/j.sftr.2026.102284"
    }
   },
   {
@@ -2874,6 +3126,51 @@
    }
   },
   {
+   "id": "9aca7f70c18fbefc",
+   "title": "225. Evaluation of Organizational Climate and Readiness for HIV Testing Services During Emergency Care in Kenya: A Cross-sectional study Clinical and Administrative Stakeholders",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2211419X26003113/pdf",
+   "source": "African Journal of Emergency Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Adam R. Aluisio",
+     "Martha Oguna",
+     "Gideon S Loevinsohn",
+     "Janette R. Baird",
+     "Wambui Muiruri",
+     "Elwyn Chondo",
+     "Arthur Nderuti",
+     "Mercy Bruba",
+     "Ahmed Adam",
+     "George Wanje",
+     "McKenna C. Eastment",
+     "Scott Mcclelland",
+     "Benjamin W. Wachira"
+    ],
+    "container": "African Journal of Emergency Medicine",
+    "doi": "https://doi.org/10.1016/j.afjem.2026.101253"
+   }
+  },
+  {
    "id": "e139b3e0a8f26810",
    "title": "Leading for Medical Teacher Well-Being in Health Professions Education: Ten Evidence-Informed Actions for Sustainable Educational Leadership",
    "url": "https://www.dovepress.com/article/download/122011",
@@ -2949,6 +3246,46 @@
     "first_page": "100904",
     "last_page": "100904",
     "doi": "https://doi.org/10.1016/j.joitmc.2026.100904"
+   }
+  },
+  {
+   "id": "d6c15bde29f4902b",
+   "title": "Navigating digital strain: The role of overload, trust, and agentic AI dependence in predicting employee adverse outcomes",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0001691826017579/pdf",
+   "source": "Acta Psychologica",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mai Nguyen",
+     "Tuan Phong Nham",
+     "Rsha Alghafes",
+     "Vikram Kumar Sharma",
+     "Gabriella Imre"
+    ],
+    "container": "Acta Psychologica",
+    "volume": "271",
+    "first_page": "107956",
+    "last_page": "107956",
+    "doi": "https://doi.org/10.1016/j.actpsy.2026.107956"
    }
   },
   {
@@ -3504,6 +3841,8 @@
     ],
     "container": "Frontiers in Sociology",
     "volume": "11",
+    "first_page": "1953897",
+    "last_page": "1953897",
     "doi": "https://doi.org/10.3389/fsoc.2026.1953897"
    }
   },
@@ -3552,6 +3891,8 @@
     ],
     "container": "Frontiers in Public Health",
     "volume": "14",
+    "first_page": "1986187",
+    "last_page": "1986187",
     "doi": "https://doi.org/10.3389/fpubh.2026.1986187"
    }
   },
