@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-13T03:36:47Z",
- "count": 204,
+ "generated": "2026-11-13T09:32:28Z",
+ "count": 205,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,38 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "1fb1adff3bf89070",
+   "title": "Women’s groups oppose Trump’s visit to Philippines for ASEAN summit",
+   "url": "https://bworldonline.com/the-nation/2026/11/13/793873/womens-groups-oppose-trumps-visit-to-philippines-for-asean-summit/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-13T08:02:24Z",
+   "first_seen": "2026-11-13T09:32:28Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor groups",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "RGEntRibirthFURD"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
   {
    "id": "1d628cca0264016e",
    "title": "‘Remote work’ from the office? It’s more common than you think.",

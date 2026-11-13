@@ -6,13 +6,24 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:32:28 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Women’s groups oppose Trump’s visit to Philippines for ASEAN summit</title>
+      <link>https://bworldonline.com/the-nation/2026/11/13/793873/womens-groups-oppose-trumps-visit-to-philippines-for-asean-summit/</link>
+      <guid isPermaLink="false">1fb1adff3bf89070</guid>
+      <pubDate>Fri, 13 Nov 2026 09:32:28 GMT</pubDate>
+      <description>News · BusinessWorld · Published Nov 13, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>RGEntRibirthFURD</dc:creator>
+    </item>
     <item>
       <title>‘Remote work’ from the office? It’s more common than you think.</title>
       <link>https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/</link>
@@ -627,16 +638,6 @@
       <category>Employee well-being</category>
       <category>Labor economics</category>
       <dc:creator>Lara Ewen</dc:creator>
-    </item>
-    <item>
-      <title>Week in review: Employment growth hits unexpected high after months of tepid gains</title>
-      <link>https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/</link>
-      <guid isPermaLink="false">ca6847258fcdafff</guid>
-      <pubDate>Tue, 10 Nov 2026 04:01:12 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 6, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Kathryn Moody</dc:creator>
     </item>
   </channel>
 </rss>
