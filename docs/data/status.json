@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T02:39:11Z",
+ "generated": "2026-11-13T03:36:47Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -322,7 +322,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-13T01:27:35Z",
+   "newest_item": "2026-11-13T03:34:50Z",
    "stale": false
   },
   {
@@ -334,7 +334,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-13T05:32:00Z",
+   "newest_item": "2026-11-13T11:13:35Z",
    "stale": false
   },
   {
@@ -409,7 +409,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-13T02:12:31Z",
+   "newest_item": "2026-11-13T03:22:57Z",
    "stale": false
   },
   {
@@ -448,7 +448,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-13T02:38:31Z",
+   "newest_item": "2026-11-13T03:12:41Z",
    "stale": false
   },
   {
@@ -463,7 +463,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-13T02:33:49Z",
+   "newest_item": "2026-11-13T03:37:38Z",
    "stale": false
   },
   {
@@ -472,20 +472,23 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-13T10:37:39Z",
+   "newest_item": "2026-11-13T11:19:41Z",
    "stale": false
   },
   {
    "id": "sunstar",
    "name": "SunStar",
    "layer": "news",
-   "ok": false,
-   "found": 0,
+   "ok": true,
+   "found": 1,
    "kept": 0,
-   "error": "no entries found (not a valid feed?)"
+   "error": null,
+   "feed_used": "https://www.sunstar.com.ph/feed",
+   "newest_item": "2026-11-12T13:37:42Z",
+   "stale": false
   },
   {
    "id": "malay-mail",
@@ -496,7 +499,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-13T02:29:57Z",
+   "newest_item": "2026-11-13T03:28:23Z",
    "stale": false
   }
  ]
