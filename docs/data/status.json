@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T02:29:15Z",
+ "generated": "2026-11-14T03:34:47Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -310,7 +310,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-13T16:00:00Z",
+   "newest_item": "2026-11-14T03:11:00Z",
    "stale": false
   },
   {
@@ -322,7 +322,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-13T09:03:57Z",
+   "newest_item": "2026-11-13T09:30:13Z",
    "stale": false
   },
   {
@@ -334,7 +334,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-14T10:21:58Z",
+   "newest_item": "2026-11-14T11:00:07Z",
    "stale": false
   },
   {
@@ -441,14 +441,14 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 17,
+   "found": 18,
    "kept": 1,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-14T02:18:00Z",
+   "newest_item": "2026-11-14T03:33:42Z",
    "stale": false
   },
   {
@@ -475,7 +475,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-14T10:05:59Z",
+   "newest_item": "2026-11-14T11:30:15Z",
    "stale": false
   },
   {
@@ -483,7 +483,7 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 1,
+   "found": 2,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
@@ -499,7 +499,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-14T02:10:42Z",
+   "newest_item": "2026-11-14T03:16:18Z",
    "stale": false
   }
  ]
