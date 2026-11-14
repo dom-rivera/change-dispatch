@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-13T17:24:30Z",
- "count": 214,
+ "generated": "2026-11-14T02:29:15Z",
+ "count": 216,
  "topics": [
   {
    "id": "change-readiness",
@@ -133,6 +133,70 @@
    }
   },
   {
+   "id": "c756adb2aefd7cff",
+   "title": "Job applicants say they are using AI to discover, investigate companies",
+   "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-13T20:35:00Z",
+   "first_seen": "2026-11-14T02:29:15Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lara Ewen"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "ab52781fe641b6a0",
+   "title": "Week in review: Can AI root out manager bias?",
+   "url": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-13T20:34:00Z",
+   "first_seen": "2026-11-14T02:29:15Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Kathryn Moody"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
    "id": "9af5ddd510de3296",
    "title": "Industry disruption continues: GMA’s profit falls 98% in Q3, ABS-CBN still in red",
    "url": "https://www.rappler.com/business/industry-disruption-continues-gma-network-abs-cbn-q3-2026-earnings/",
@@ -229,38 +293,6 @@
    }
   },
   {
-   "id": "1d628cca0264016e",
-   "title": "‘Remote work’ from the office? It’s more common than you think.",
-   "url": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
-   "source": "HR Dive",
-   "source_id": "hr-dive",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-12T20:27:00Z",
-   "first_seen": "2026-11-13T02:39:11Z",
-   "window_days": 7,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "remote work",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Emilie Shumway"
-    ],
-    "container": "HR Dive"
-   }
-  },
-  {
    "id": "b89035a5d3550d00",
    "title": "Many executives say they are worried about leading with empathy",
    "url": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
@@ -288,6 +320,38 @@
     "kind": "news",
     "authors": [
      "Laurel Kalser"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "1d628cca0264016e",
+   "title": "‘Remote work’ from the office? It’s more common than you think.",
+   "url": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T20:27:00Z",
+   "first_seen": "2026-11-13T02:39:11Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "remote work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Emilie Shumway"
     ],
     "container": "HR Dive"
    }

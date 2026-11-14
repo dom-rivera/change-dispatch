@@ -6,13 +6,33 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:29:15 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Job applicants say they are using AI to discover, investigate companies</title>
+      <link>https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/</link>
+      <guid isPermaLink="false">c756adb2aefd7cff</guid>
+      <pubDate>Sat, 14 Nov 2026 02:29:15 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 13, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Lara Ewen</dc:creator>
+    </item>
+    <item>
+      <title>Week in review: Can AI root out manager bias?</title>
+      <link>https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/</link>
+      <guid isPermaLink="false">ab52781fe641b6a0</guid>
+      <pubDate>Sat, 14 Nov 2026 02:29:15 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 13, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Kathryn Moody</dc:creator>
+    </item>
     <item>
       <title>Angara cites private sector support as Metro schools get 133 ICT units</title>
       <link>https://newsinfo.inquirer.net/2341000/angara-cites-private-sector-support-as-metro-schools-get-133-ict-units</link>
@@ -121,16 +141,6 @@
       <dc:creator>RGEntRibirthFURD</dc:creator>
     </item>
     <item>
-      <title>‘Remote work’ from the office? It’s more common than you think.</title>
-      <link>https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/</link>
-      <guid isPermaLink="false">1d628cca0264016e</guid>
-      <pubDate>Fri, 13 Nov 2026 02:39:11 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 12, 2026 · Free to read. Topics: Future of work.</description>
-      <category>News</category>
-      <category>Future of work</category>
-      <dc:creator>Emilie Shumway</dc:creator>
-    </item>
-    <item>
       <title>Many executives say they are worried about leading with empathy</title>
       <link>https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/</link>
       <guid isPermaLink="false">b89035a5d3550d00</guid>
@@ -139,6 +149,16 @@
       <category>News</category>
       <category>Employee well-being</category>
       <dc:creator>Laurel Kalser</dc:creator>
+    </item>
+    <item>
+      <title>‘Remote work’ from the office? It’s more common than you think.</title>
+      <link>https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/</link>
+      <guid isPermaLink="false">1d628cca0264016e</guid>
+      <pubDate>Fri, 13 Nov 2026 02:39:11 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 12, 2026 · Free to read. Topics: Future of work.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <dc:creator>Emilie Shumway</dc:creator>
     </item>
     <item>
       <title>DepEd cites private sector role in NCR schools’ tech transformation</title>
@@ -620,26 +640,6 @@
       <category>Peer-reviewed</category>
       <category>Employee well-being</category>
       <dc:creator>H Van Simaeys, E Clays, E Lauwerier, L Lechner, D Myny</dc:creator>
-    </item>
-    <item>
-      <title>Where you work matters: workweek typologies and mental health in four European countries</title>
-      <link>https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.192/72463131/ckag169.192.pdf</link>
-      <guid isPermaLink="false">da3c78ca43d6019a</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · European Journal of Public Health · Published Oct 1, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>E Bracho Montes de Oca, M Vacchiano, Rani De Pauw, B De Geus, B Cagnie</dc:creator>
-    </item>
-    <item>
-      <title>Agentic AI in organisations: Early insights from practitioner interviews</title>
-      <link>https://doi.org/10.1787/1257a26f-en</link>
-      <guid isPermaLink="false">1a9390d91d8cd152</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Institutional · OECD (Artificial Intelligence) · Published Sep 14, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Institutional</category>
-      <category>AI at work</category>
-      <dc:creator>OECD</dc:creator>
     </item>
   </channel>
 </rss>
