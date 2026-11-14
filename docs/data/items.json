@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14T08:58:41Z",
- "count": 216,
+ "generated": "2026-11-14T16:09:20Z",
+ "count": 229,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,141 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "ce72a10ac75b9ab7",
+   "title": "Marcos signs EO adopting AI governance framework, creating nat’l council",
+   "url": "https://newsinfo.inquirer.net/2341245/marcos-signs-eo-adopting-ai-governance-framework-creating-natl-council",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-14T16:00:20Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai governance",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "mareyes"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "cb02a1d4b6e4c17d",
+   "title": "Motivation to Use Generative AI at Work: An Expectancy-Value Analysis of a National AI literacy program",
+   "url": "https://osf.io/preprints/psyarxiv/z7bdp_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-14T14:46:07Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "generative ai at work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/z7bdp_v1",
+    "authors": [
+     "Ivan Aslanov",
+     "Brayan Díaz",
+     "Charlotte Pearsall",
+     "Javiera Gonzalez-Arias"
+    ]
+   }
+  },
+  {
+   "id": "ffbd1a64645c93e8",
+   "title": "‘The social contract is broken’: young people on feeling shut out of careers",
+   "url": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-14T10:00:42Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Nicola Slawson",
+     "Jane Clinton"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "aff85e57555298e6",
+   "title": "Marcos creates National Artificial Intelligence Council",
+   "url": "https://www.rappler.com/technology/marcos-jr-creates-national-artificial-intelligence-council-governance-framework/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-14T09:58:52Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai policy",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Victor Barreiro Jr."
+    ],
+    "container": "Rappler"
+   }
+  },
   {
    "id": "211e206676f3d7a7",
    "title": "Angara cites private sector support as Metro schools get 133 ICT units",
@@ -290,6 +425,318 @@
      "RGEntRibirthFURD"
     ],
     "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "253c67fddb9858ed",
+   "title": "Factors relevant to organizational readiness for AI in diagnostic pathology: a regional pre‑implementation survey in Western Norway",
+   "url": "https://doi.org/10.1186/s43058-026-01172-x",
+   "source": "Implementation Science Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jennifer J. Antonythasan",
+     "Monica Hellesøy",
+     "Anders Blilie",
+     "Silje Elisabeth Kristiansen",
+     "Emma Rewcastle",
+     "Hrafn Weishaupt",
+     "Emiel A. M. Janssen",
+     "Sabine Maria Leh"
+    ],
+    "container": "Implementation Science Communications",
+    "doi": "https://doi.org/10.1186/s43058-026-01172-x"
+   }
+  },
+  {
+   "id": "65cdd1faebf4c47a",
+   "title": "Implementation of ICD-11 for Pediatric Neurodevelopmental Disorders: Clinical Challenges, Organizational Readiness, and Ensuring Equitable Access to Care Across Regional Disparities",
+   "url": "https://doi.org/10.26444/aaem/241923",
+   "source": "Annals of Agricultural and Environmental Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mateusz Barłóg",
+     "Paulina Droździel",
+     "Aleksandra Sobieszczańska-Droździel",
+     "Katarzyna Barłóg",
+     "Marzena Samardakiewicz"
+    ],
+    "container": "Annals of Agricultural and Environmental Medicine",
+    "doi": "https://doi.org/10.26444/aaem/241923"
+   }
+  },
+  {
+   "id": "db2e204e65dbc94d",
+   "title": "Servant Leadership and Employee Openness to Change: Examining the Roles of Psychological Safety and Psychological Well-Being",
+   "url": "https://doi.org/10.3390/admsci16110571",
+   "source": "Administrative Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "leadership",
+    "well-being",
+    "psych-safety"
+   ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "openness to change",
+     "kind": "strong",
+     "in_title": true
+    },
+    "leadership": {
+     "phrase": "servant leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "well-being",
+     "kind": "weak",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pachsiry Chompukum",
+     "Tita Vanichbuncha"
+    ],
+    "container": "Administrative Sciences",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "571",
+    "last_page": "571",
+    "doi": "https://doi.org/10.3390/admsci16110571"
+   }
+  },
+  {
+   "id": "b30100bc7ce16506",
+   "title": "Transformational and transactional leadership across ADKAR change stages in Lebanese SMEs",
+   "url": "https://doi.org/10.1007/s43621-026-05296-x",
+   "source": "Discover Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "why": {
+    "change-management": {
+     "phrase": "adkar",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jawad Chahine",
+     "Ali Mohamad Mouazen",
+     "Bilal Jibai",
+     "Ali H. Halawi"
+    ],
+    "container": "Discover Sustainability",
+    "doi": "https://doi.org/10.1007/s43621-026-05296-x"
+   }
+  },
+  {
+   "id": "c2416c91426bf571",
+   "title": "Courage behind the laughter: dual-pathway linking perceived leader humor to followers’ constructive challenging behavior",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1955538/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "leader humor",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "You Li",
+     "Longyi Chen",
+     "Yan Xu",
+     "Cailin Wang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1955538"
+   }
+  },
+  {
+   "id": "957af725b13b1b74",
+   "title": "The role of unemployment insurance for the cost of job displacement",
+   "url": "https://doi.org/10.1787/ab9caf35-en",
+   "source": "OECD (Employment & Social)",
+   "source_id": "oecd-sem",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD"
+    ],
+    "container": "OECD social employment and migration working papers",
+    "doi": "https://doi.org/10.1787/ab9caf35-en"
+   }
+  },
+  {
+   "id": "a1e01edc02034d8a",
+   "title": "Unemployment insurance and economic welfare",
+   "url": "https://doi.org/10.1787/e3e6068f-en",
+   "source": "OECD (Employment & Social)",
+   "source_id": "oecd-sem",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD"
+    ],
+    "container": "OECD social employment and migration working papers",
+    "doi": "https://doi.org/10.1787/e3e6068f-en"
+   }
+  },
+  {
+   "id": "cbaf7d6594340837",
+   "title": "Artificial intelligence and work organisation",
+   "url": "https://doi.org/10.1787/5a208f6b-en",
+   "source": "OECD (Artificial Intelligence)",
+   "source_id": "oecd-ai",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD",
+     "Eurofound"
+    ],
+    "container": "OECD artificial intelligence papers",
+    "doi": "https://doi.org/10.1787/5a208f6b-en"
    }
   },
   {
@@ -3275,44 +3722,6 @@
    }
   },
   {
-   "id": "e8b6197a03850ccb",
-   "title": "Perceived Work Flexibility and Mentoring Support for Digital Self-Efficacy, Entrepreneurial Self-Efficacy, and Career Sustainability among Women Entrepreneurs in Bali",
-   "url": "https://doi.org/10.1016/j.joitmc.2026.100904",
-   "source": "Journal of Open Innovation Technology Market and Complexity",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-12T17:45:27Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "digital self-efficacy",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Akhmad Darmawan",
-     "Syamsul Bahri",
-     "Muhammad Imam Muttaqijn",
-     "Fatmah Bagis"
-    ],
-    "container": "Journal of Open Innovation Technology Market and Complexity",
-    "first_page": "100904",
-    "last_page": "100904",
-    "doi": "https://doi.org/10.1016/j.joitmc.2026.100904"
-   }
-  },
-  {
    "id": "d6c15bde29f4902b",
    "title": "Navigating digital strain: The role of overload, trust, and agentic AI dependence in predicting employee adverse outcomes",
    "url": "https://www.sciencedirect.com/science/article/pii/S0001691826017579/pdf",
@@ -3350,6 +3759,57 @@
     "first_page": "107956",
     "last_page": "107956",
     "doi": "https://doi.org/10.1016/j.actpsy.2026.107956"
+   }
+  },
+  {
+   "id": "add4e02f08a30e26",
+   "title": "Associations Between Artificial Intelligence Literacy and Attitudes Toward Artificial Intelligence Application Among Radiological Healthcare Professionals: The Mediating Role of General Self-Efficacy",
+   "url": "https://www.dovepress.com/article/download/122229",
+   "source": "Journal of Multidisciplinary Healthcare",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    },
+    "openness-to-change": {
+     "phrase": "attitudes toward artificial intelligence",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mingyan Huo",
+     "Chunjie Liu",
+     "Fei Huo",
+     "Zhendong Cao"
+    ],
+    "container": "Journal of Multidisciplinary Healthcare",
+    "volume": "Volume 19",
+    "first_page": "1",
+    "last_page": "14",
+    "doi": "https://doi.org/10.2147/jmdh.s648085"
    }
   },
   {
@@ -3477,6 +3937,83 @@
    }
   },
   {
+   "id": "e8b6197a03850ccb",
+   "title": "Perceived Work Flexibility and Mentoring Support for Digital Self-Efficacy, Entrepreneurial Self-Efficacy, and Career Sustainability among Women Entrepreneurs in Bali",
+   "url": "https://doi.org/10.1016/j.joitmc.2026.100904",
+   "source": "Journal of Open Innovation Technology Market and Complexity",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "digital self-efficacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Akhmad Darmawan",
+     "Syamsul Bahri",
+     "Muhammad Imam Muttaqijn",
+     "Fatmah Bagis"
+    ],
+    "container": "Journal of Open Innovation Technology Market and Complexity",
+    "first_page": "100904",
+    "last_page": "100904",
+    "doi": "https://doi.org/10.1016/j.joitmc.2026.100904"
+   }
+  },
+  {
+   "id": "db15fd58721743f9",
+   "title": "Transcultural adaptation and psychometric properties of the Chinese version of the Artificial Intelligence Attitude Scale for Nurses (AIASN)",
+   "url": "https://doi.org/10.1186/s12912-026-05521-y",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xian Lin",
+     "Yaling Qin",
+     "Yuxuan Zeng",
+     "Xinqing Zhu",
+     "Jingyi Li",
+     "Qiaosong Wang",
+     "Kun Zhang"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05521-y"
+   }
+  },
+  {
    "id": "6a088b67755b5f4e",
    "title": "Team Psychological Safety Atmosphere and Professional Identity Among New Nurses in China: The Mediating Role of Impostor Phenomenon",
    "url": "https://www.dovepress.com/article/download/121678",
@@ -3519,45 +4056,6 @@
     "first_page": "1",
     "last_page": "13",
     "doi": "https://doi.org/10.2147/jmdh.s637668"
-   }
-  },
-  {
-   "id": "db15fd58721743f9",
-   "title": "Transcultural adaptation and psychometric properties of the Chinese version of the Artificial Intelligence Attitude Scale for Nurses (AIASN)",
-   "url": "https://doi.org/10.1186/s12912-026-05521-y",
-   "source": "BMC Nursing",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-31T00:00:00Z",
-   "first_seen": "2026-11-10T05:10:30Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Xian Lin",
-     "Yaling Qin",
-     "Yuxuan Zeng",
-     "Xinqing Zhu",
-     "Jingyi Li",
-     "Qiaosong Wang",
-     "Kun Zhang"
-    ],
-    "container": "BMC Nursing",
-    "doi": "https://doi.org/10.1186/s12912-026-05521-y"
    }
   },
   {
@@ -3790,6 +4288,8 @@
     ],
     "container": "Frontiers in Medicine",
     "volume": "13",
+    "first_page": "1942864",
+    "last_page": "1942864",
     "doi": "https://doi.org/10.3389/fmed.2026.1942864"
    }
   },
@@ -4733,41 +5233,6 @@
    }
   },
   {
-   "id": "f77fb2bd0c4229d8",
-   "title": "Beyond good and bad: An in-depth study of student and teacher views on generative AI in high school.",
-   "url": "https://psycnet.apa.org/fulltext/2028-44794-001.pdf",
-   "source": "Technology Mind and Behavior",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-22T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "generative ai",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Sarah I. Segall",
-     "Talia Waltzer",
-     "Gail D. Heyman"
-    ],
-    "container": "Technology Mind and Behavior",
-    "doi": "https://doi.org/10.1037/tmb0000226"
-   }
-  },
-  {
    "id": "af86cbb19ed41d2e",
    "title": "Ethical leadership and responsible initiative among Chinese university middle-level cadres: the roles of organizational fairness and identification",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2000079/pdf",
@@ -4804,23 +5269,23 @@
    }
   },
   {
-   "id": "74bea2d2f1fede6a",
-   "title": "SUSTAINABLE E-LEADERSHIP AND ORGANIZATIONAL TRANSFORMATION: THE ROLES OF FLEXIBILITY, DIGITALIZATION, AND CULTURE IN ENHANCING OPERATIONAL EFFICIENCY",
-   "url": "https://doi.org/10.30892/gtg.68426-1907",
-   "source": "GeoJournal of Tourism and Geosites",
+   "id": "f77fb2bd0c4229d8",
+   "title": "Beyond good and bad: An in-depth study of student and teacher views on generative AI in high school.",
+   "url": "https://psycnet.apa.org/fulltext/2028-44794-001.pdf",
+   "source": "Technology Mind and Behavior",
    "source_id": "core-search",
    "layer": "research",
    "type": "Peer-reviewed",
-   "published": "2026-10-21T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
+   "published": "2026-10-22T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
    "window_days": 60,
    "topics": [
-    "organizational-change"
+    "ai-at-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "organizational transformation",
-     "kind": "strong",
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -4830,18 +5295,12 @@
    "cite": {
     "kind": "journal",
     "authors": [
-     "Khaled ALDARABAH",
-     "Amer Zaid ALQUDAH",
-     "Mahmoud Allahham",
-     "Nidal ALQUDAH",
-     "A. Muhammad ALQUDAH"
+     "Sarah I. Segall",
+     "Talia Waltzer",
+     "Gail D. Heyman"
     ],
-    "container": "GeoJournal of Tourism and Geosites",
-    "volume": "68",
-    "issue": "4",
-    "first_page": "2919",
-    "last_page": "2933",
-    "doi": "https://doi.org/10.30892/gtg.68426-1907"
+    "container": "Technology Mind and Behavior",
+    "doi": "https://doi.org/10.1037/tmb0000226"
    }
   },
   {
@@ -5006,6 +5465,47 @@
     "first_page": "e0359313",
     "last_page": "e0359313",
     "doi": "https://doi.org/10.1371/journal.pone.0359313"
+   }
+  },
+  {
+   "id": "74bea2d2f1fede6a",
+   "title": "SUSTAINABLE E-LEADERSHIP AND ORGANIZATIONAL TRANSFORMATION: THE ROLES OF FLEXIBILITY, DIGITALIZATION, AND CULTURE IN ENHANCING OPERATIONAL EFFICIENCY",
+   "url": "https://doi.org/10.30892/gtg.68426-1907",
+   "source": "GeoJournal of Tourism and Geosites",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-21T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Khaled ALDARABAH",
+     "Amer Zaid ALQUDAH",
+     "Mahmoud Allahham",
+     "Nidal ALQUDAH",
+     "A. Muhammad ALQUDAH"
+    ],
+    "container": "GeoJournal of Tourism and Geosites",
+    "volume": "68",
+    "issue": "4",
+    "first_page": "2919",
+    "last_page": "2933",
+    "doi": "https://doi.org/10.30892/gtg.68426-1907"
    }
   },
   {
@@ -5250,6 +5750,45 @@
    }
   },
   {
+   "id": "fbaad11610f24eb1",
+   "title": "Teachers’ technostress in the emerging generative AI era: a systematic review and bibliometric mapping (2005–2025)",
+   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2748775?needAccess=true",
+   "source": "Cogent Social Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-19T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Eko Nurhaji Purnomo",
+     "Shaymaa M.H. Darwish",
+     "Susilo Wati",
+     "Mohamad S.J. Darwish",
+     "Abdur Rofik"
+    ],
+    "container": "Cogent Social Sciences",
+    "volume": "12",
+    "issue": "1",
+    "doi": "https://doi.org/10.1080/23311886.2026.2748775"
+   }
+  },
+  {
    "id": "5beba2bbe3bb4322",
    "title": "Employee AI Use and Readiness in Applied Higher Education: Awareness, Barriers, and HRM Implications",
    "url": "https://doi.org/10.3390/admsci16100517",
@@ -5293,45 +5832,6 @@
     "first_page": "517",
     "last_page": "517",
     "doi": "https://doi.org/10.3390/admsci16100517"
-   }
-  },
-  {
-   "id": "fbaad11610f24eb1",
-   "title": "Teachers’ technostress in the emerging generative AI era: a systematic review and bibliometric mapping (2005–2025)",
-   "url": "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2748775?needAccess=true",
-   "source": "Cogent Social Sciences",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-19T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Eko Nurhaji Purnomo",
-     "Shaymaa M.H. Darwish",
-     "Susilo Wati",
-     "Mohamad S.J. Darwish",
-     "Abdur Rofik"
-    ],
-    "container": "Cogent Social Sciences",
-    "volume": "12",
-    "issue": "1",
-    "doi": "https://doi.org/10.1080/23311886.2026.2748775"
    }
   },
   {

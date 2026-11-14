@@ -6,13 +6,152 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:09:20 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Marcos signs EO adopting AI governance framework, creating nat’l council</title>
+      <link>https://newsinfo.inquirer.net/2341245/marcos-signs-eo-adopting-ai-governance-framework-creating-natl-council</link>
+      <guid isPermaLink="false">ce72a10ac75b9ab7</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 14, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>mareyes</dc:creator>
+    </item>
+    <item>
+      <title>Motivation to Use Generative AI at Work: An Expectancy-Value Analysis of a National AI literacy program</title>
+      <link>https://osf.io/preprints/psyarxiv/z7bdp_v1/</link>
+      <guid isPermaLink="false">cb02a1d4b6e4c17d</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Preprint · PsyArXiv · Published Nov 14, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
+      <category>Preprint</category>
+      <category>AI at work</category>
+      <dc:creator>Ivan Aslanov, Brayan Díaz, Charlotte Pearsall, Javiera Gonzalez-Arias</dc:creator>
+    </item>
+    <item>
+      <title>‘The social contract is broken’: young people on feeling shut out of careers</title>
+      <link>https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai</link>
+      <guid isPermaLink="false">ffbd1a64645c93e8</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 14, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Nicola Slawson, Jane Clinton</dc:creator>
+    </item>
+    <item>
+      <title>Marcos creates National Artificial Intelligence Council</title>
+      <link>https://www.rappler.com/technology/marcos-jr-creates-national-artificial-intelligence-council-governance-framework/</link>
+      <guid isPermaLink="false">aff85e57555298e6</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>News · Rappler · Published Nov 14, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Victor Barreiro Jr.</dc:creator>
+    </item>
+    <item>
+      <title>Factors relevant to organizational readiness for AI in diagnostic pathology: a regional pre‑implementation survey in Western Norway</title>
+      <link>https://doi.org/10.1186/s43058-026-01172-x</link>
+      <guid isPermaLink="false">253c67fddb9858ed</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Peer-reviewed · Implementation Science Communications · Published Nov 13, 2026 · Free to read. Topics: Change readiness, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <category>AI at work</category>
+      <dc:creator>Jennifer J. Antonythasan, Monica Hellesøy, Anders Blilie, Silje Elisabeth Kristiansen, Emma Rewcastle, Hrafn Weishaupt</dc:creator>
+    </item>
+    <item>
+      <title>Implementation of ICD-11 for Pediatric Neurodevelopmental Disorders: Clinical Challenges, Organizational Readiness, and Ensuring Equitable Access to Care Across Regional Disparities</title>
+      <link>https://doi.org/10.26444/aaem/241923</link>
+      <guid isPermaLink="false">65cdd1faebf4c47a</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Peer-reviewed · Annals of Agricultural and Environmental Medicine · Published Nov 13, 2026 · Free to read. Topics: Change readiness.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <dc:creator>Mateusz Barłóg, Paulina Droździel, Aleksandra Sobieszczańska-Droździel, Katarzyna Barłóg, Marzena Samardakiewicz</dc:creator>
+    </item>
+    <item>
+      <title>Servant Leadership and Employee Openness to Change: Examining the Roles of Psychological Safety and Psychological Well-Being</title>
+      <link>https://doi.org/10.3390/admsci16110571</link>
+      <guid isPermaLink="false">db2e204e65dbc94d</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Peer-reviewed · Administrative Sciences · Published Nov 13, 2026 · Free to read. Topics: Openness to change, Leadership and change communication, Employee well-being, Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Openness to change</category>
+      <category>Leadership and change communication</category>
+      <category>Employee well-being</category>
+      <category>Psychological safety and culture</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Pachsiry Chompukum, Tita Vanichbuncha</dc:creator>
+    </item>
+    <item>
+      <title>Transformational and transactional leadership across ADKAR change stages in Lebanese SMEs</title>
+      <link>https://doi.org/10.1007/s43621-026-05296-x</link>
+      <guid isPermaLink="false">b30100bc7ce16506</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Peer-reviewed · Discover Sustainability · Published Nov 13, 2026 · Free to read. Topics: Change management.</description>
+      <category>Peer-reviewed</category>
+      <category>Change management</category>
+      <dc:creator>Jawad Chahine, Ali Mohamad Mouazen, Bilal Jibai, Ali H. Halawi</dc:creator>
+    </item>
+    <item>
+      <title>Courage behind the laughter: dual-pathway linking perceived leader humor to followers’ constructive challenging behavior</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1955538/pdf</link>
+      <guid isPermaLink="false">c2416c91426bf571</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 13, 2026 · Free to read. Topics: Leadership and change communication.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <dc:creator>You Li, Longyi Chen, Yan Xu, Cailin Wang</dc:creator>
+    </item>
+    <item>
+      <title>The role of unemployment insurance for the cost of job displacement</title>
+      <link>https://doi.org/10.1787/ab9caf35-en</link>
+      <guid isPermaLink="false">957af725b13b1b74</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Institutional · OECD (Employment &amp; Social) · Published Nov 13, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>Institutional</category>
+      <category>Labor economics</category>
+      <dc:creator>OECD</dc:creator>
+    </item>
+    <item>
+      <title>Unemployment insurance and economic welfare</title>
+      <link>https://doi.org/10.1787/e3e6068f-en</link>
+      <guid isPermaLink="false">a1e01edc02034d8a</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Institutional · OECD (Employment &amp; Social) · Published Nov 13, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>Institutional</category>
+      <category>Labor economics</category>
+      <dc:creator>OECD</dc:creator>
+    </item>
+    <item>
+      <title>Artificial intelligence and work organisation</title>
+      <link>https://doi.org/10.1787/5a208f6b-en</link>
+      <guid isPermaLink="false">cbaf7d6594340837</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Institutional · OECD (Artificial Intelligence) · Published Nov 13, 2026 · Free to read. Topics: AI at work.</description>
+      <category>Institutional</category>
+      <category>AI at work</category>
+      <dc:creator>OECD, Eurofound</dc:creator>
+    </item>
+    <item>
+      <title>Associations Between Artificial Intelligence Literacy and Attitudes Toward Artificial Intelligence Application Among Radiological Healthcare Professionals: The Mediating Role of General Self-Efficacy</title>
+      <link>https://www.dovepress.com/article/download/122229</link>
+      <guid isPermaLink="false">add4e02f08a30e26</guid>
+      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
+      <description>Peer-reviewed · Journal of Multidisciplinary Healthcare · Published Nov 1, 2026 · Free to read. Topics: Self-efficacy, Openness to change, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Self-efficacy</category>
+      <category>Openness to change</category>
+      <category>AI at work</category>
+      <dc:creator>Mingyan Huo, Chunjie Liu, Fei Huo, Zhendong Cao</dc:creator>
+    </item>
     <item>
       <title>Job applicants say they are using AI to discover, investigate companies</title>
       <link>https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/</link>
@@ -507,139 +646,6 @@
       <category>Openness to change</category>
       <category>AI at work</category>
       <dc:creator>Adile Savsar, Buket Çelik, Hale Turhan Damar, Filiz Öğce</dc:creator>
-    </item>
-    <item>
-      <title>Teachers’ attitudes and behavioural intentions towards AI integration in Chinese higher education: a qualitative interview study</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1968803/pdf</link>
-      <guid isPermaLink="false">6eac422144193060</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 2, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Jing Xiong, Wei Zhang, Sha Ouyang, Fengmei Zhu, Siwen Zhang, Qianqian Jin</dc:creator>
-    </item>
-    <item>
-      <title>Leading for Medical Teacher Well-Being in Health Professions Education: Ten Evidence-Informed Actions for Sustainable Educational Leadership</title>
-      <link>https://www.dovepress.com/article/download/122011</link>
-      <guid isPermaLink="false">e139b3e0a8f26810</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Advances in Medical Education and Practice · Published Nov 1, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>Shereen A. El Tarhouny, David Taylor, Majd M. Jan, Tayseer Mansour, Marwa Mohamed Zalat</dc:creator>
-    </item>
-    <item>
-      <title>Transcultural adaptation and psychometric properties of the Chinese version of the Artificial Intelligence Attitude Scale for Nurses (AIASN)</title>
-      <link>https://doi.org/10.1186/s12912-026-05521-y</link>
-      <guid isPermaLink="false">db15fd58721743f9</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · BMC Nursing · Published Oct 31, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Xian Lin, Yaling Qin, Yuxuan Zeng, Xinqing Zhu, Jingyi Li, Qiaosong Wang</dc:creator>
-    </item>
-    <item>
-      <title>Artificial Intelligence Acceptance Among Nurses and Other Healthcare Professionals in Spain and Henan Province, China: An Exploratory Cross-Sectional Comparison</title>
-      <link>https://doi.org/10.3390/nursrep16110383</link>
-      <guid isPermaLink="false">36dc6a3cd547a540</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Nursing Reports · Published Oct 28, 2026 · Free to read. Topics: Openness to change, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <category>AI at work</category>
-      <dc:creator>A. García, Elena Andina Díaz, Silvia Pérez‐González</dc:creator>
-    </item>
-    <item>
-      <title>Quiet coping and mental health disclosure among university employees in the Philippines</title>
-      <link>https://www.nature.com/articles/s41598-026-74347-0_reference.pdf</link>
-      <guid isPermaLink="false">0d7e6c8a1ff1ad1b</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Scientific Reports · Published Oct 28, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Brix Mirote</dc:creator>
-    </item>
-    <item>
-      <title>Mapping interdependencies among challenges to artificial intelligence adoption in drug discovery</title>
-      <link>https://www.nature.com/articles/s41599-026-08833-1_reference.pdf</link>
-      <guid isPermaLink="false">d4f9d638f8e0e75e</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Humanities and Social Sciences Communications · Published Oct 26, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Lara Alhajj, Labaran Isiaku, Abubakar Sadiq Muhammad, Jana Alhajj, Abdillahi Mohamoud Sheikh Muse</dc:creator>
-    </item>
-    <item>
-      <title>Artificial intelligence anxiety and associated factors among clinical nurses in tertiary hospitals in China: a latent profile analysis</title>
-      <link>https://doi.org/10.1186/s12912-026-05586-9</link>
-      <guid isPermaLink="false">8ce8203aee031999</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · BMC Nursing · Published Oct 26, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Yanan Xu, Zhenlong Yan, Xiaomei Ji, Yuxin Li, Yahui Liu, Li Zhang</dc:creator>
-    </item>
-    <item>
-      <title>Personality Predictors of Health, Well-Being, Relationships, and Employment in Namibia, Kenya, and South Africa: A Three-Year Longitudinal Study</title>
-      <link>https://osf.io/preprints/psyarxiv/apx63_v2/</link>
-      <guid isPermaLink="false">c8651feab78912a8</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Oct 23, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Peter Haehner, Catherine M. Shirima, Marie Kura, Luzelle Naude, Chris Hopwood, Amber Gayle Thalmayer</dc:creator>
-    </item>
-    <item>
-      <title>AI-enabled project monitoring and control: Toward a configurational framework for human–AI collaboration in project leadership</title>
-      <link>https://doi.org/10.1016/j.plas.2026.100245</link>
-      <guid isPermaLink="false">b4d4b015a1e6efbe</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Project Leadership and Society · Published Oct 17, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Erik Humberto Araya Aliaga, Adeline Abou-Ali, Costanza Mariani, Mauro Mancini</dc:creator>
-    </item>
-    <item>
-      <title>Technology acceptance of artificial intelligence for cognitive assessment in autism spectrum disorder: a structural equation modeling approach with robustness and predictive analytics</title>
-      <link>https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1932937/pdf</link>
-      <guid isPermaLink="false">f266af60cfcab735</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Education · Published Oct 8, 2026 · Free to read. Topics: Openness to change.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <dc:creator>Faisal K. Alshraah, Ahmad Khaled Mohammad Khazaleh, Ayed Mohammad Ahmad Melhem, Ekhlas Nawaf Albari</dc:creator>
-    </item>
-    <item>
-      <title>Transforming Corporate University Learning Culture Through Cognitive Growth Mindset</title>
-      <link>https://doi.org/10.21512/bbr.v17i3.16074</link>
-      <guid isPermaLink="false">90db314b3384fa65</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Binus Business Review · Published Oct 6, 2026 · Free to read. Topics: Psychological safety and culture.</description>
-      <category>Peer-reviewed</category>
-      <category>Psychological safety and culture</category>
-      <dc:creator>Muh. Asdig Fanani, Muhammad Ramaditya, Abdul Razak Abdul Hadi</dc:creator>
-    </item>
-    <item>
-      <title>Self-reported learning-oriented GenAI use under perceived teacher-referenced normative tension in Chinese higher education</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1969743/pdf</link>
-      <guid isPermaLink="false">4f7d9d6a42a6bcf6</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Oct 2, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Zhenzhen Yang, Yong Yang, WEI LIU</dc:creator>
-    </item>
-    <item>
-      <title>Participatory organizational intervention: improving staff wellbeing in specialized hospital units</title>
-      <link>https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1384/72464933/ckag169.1384.pdf</link>
-      <guid isPermaLink="false">eeec0f4988ca5661</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · European Journal of Public Health · Published Oct 1, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>H Van Simaeys, E Clays, E Lauwerier, L Lechner, D Myny</dc:creator>
     </item>
   </channel>
 </rss>
