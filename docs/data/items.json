@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14T16:09:20Z",
- "count": 229,
+ "generated": "2026-11-15T01:57:41Z",
+ "count": 233,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,107 @@
  },
  "items": [
   {
+   "id": "2ebcb5932956ef5d",
+   "title": "Marcos EO sets up national council on AI development",
+   "url": "https://newsinfo.inquirer.net/2341470/marcos-eo-sets-up-national-council-on-ai-development",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-15T05:34:00Z",
+   "first_seen": "2026-11-15T01:57:41Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "job market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "jvicente"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "6cabc2098bac3ecd",
+   "title": "Can Human Verification Restore Felt Responsibility for AI-Assisted Knowledge Work?",
+   "url": "https://osf.io/preprints/psyarxiv/5tyhp_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-15T00:45:03Z",
+   "first_seen": "2026-11-15T01:57:41Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/5tyhp_v1",
+    "authors": [
+     "Stefan Rose",
+     "Markus Weinmann"
+    ]
+   }
+  },
+  {
+   "id": "7640cc164999215c",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-14T19:00:52Z",
+   "first_seen": "2026-11-15T01:57:41Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai policy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Tess Ikonomou",
+     "Josh Butler"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
    "id": "ce72a10ac75b9ab7",
    "title": "Marcos signs EO adopting AI governance framework, creating nat’l council",
    "url": "https://newsinfo.inquirer.net/2341245/marcos-signs-eo-adopting-ai-governance-framework-creating-natl-council",
@@ -98,6 +199,38 @@
      "mareyes"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "728e40397a1c8575",
+   "title": "Security Bank trains more staff, develops AI agents",
+   "url": "https://www.philstar.com/business/2026/11/15/2570124/security-bank-trains-more-staff-develops-ai-agents",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-14T16:00:00Z",
+   "first_seen": "2026-11-15T01:57:41Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai agents",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Keisha Ta-Asan"
+    ],
+    "container": "Philstar Business"
    }
   },
   {

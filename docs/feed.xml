@@ -6,13 +6,55 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:57:41 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Marcos EO sets up national council on AI development</title>
+      <link>https://newsinfo.inquirer.net/2341470/marcos-eo-sets-up-national-council-on-ai-development</link>
+      <guid isPermaLink="false">2ebcb5932956ef5d</guid>
+      <pubDate>Sun, 15 Nov 2026 01:57:41 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 15, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>jvicente</dc:creator>
+    </item>
+    <item>
+      <title>Can Human Verification Restore Felt Responsibility for AI-Assisted Knowledge Work?</title>
+      <link>https://osf.io/preprints/psyarxiv/5tyhp_v1/</link>
+      <guid isPermaLink="false">6cabc2098bac3ecd</guid>
+      <pubDate>Sun, 15 Nov 2026 01:57:41 GMT</pubDate>
+      <description>Preprint · PsyArXiv · Published Nov 15, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
+      <category>Preprint</category>
+      <category>AI at work</category>
+      <dc:creator>Stefan Rose, Markus Weinmann</dc:creator>
+    </item>
+    <item>
+      <title>Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages</title>
+      <link>https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan</link>
+      <guid isPermaLink="false">7640cc164999215c</guid>
+      <pubDate>Sun, 15 Nov 2026 01:57:41 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 14, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Tess Ikonomou, Josh Butler</dc:creator>
+    </item>
+    <item>
+      <title>Security Bank trains more staff, develops AI agents</title>
+      <link>https://www.philstar.com/business/2026/11/15/2570124/security-bank-trains-more-staff-develops-ai-agents</link>
+      <guid isPermaLink="false">728e40397a1c8575</guid>
+      <pubDate>Sun, 15 Nov 2026 01:57:41 GMT</pubDate>
+      <description>News · Philstar Business · Published Nov 14, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Keisha Ta-Asan</dc:creator>
+    </item>
     <item>
       <title>Marcos signs EO adopting AI governance framework, creating nat’l council</title>
       <link>https://newsinfo.inquirer.net/2341245/marcos-signs-eo-adopting-ai-governance-framework-creating-natl-council</link>
@@ -603,49 +645,6 @@
       <category>Employee well-being</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>mesarangay</dc:creator>
-    </item>
-    <item>
-      <title>Are Workplace Tolerance and Individual Autonomy associated with Work Engagement? —Mediation analyses with Psychological Safety and Intrinsic Motivation</title>
-      <link>https://osf.io/preprints/psyarxiv/bu7jp_v1/</link>
-      <guid isPermaLink="false">3351b7576855b264</guid>
-      <pubDate>Tue, 10 Nov 2026 17:19:52 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 10, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being, Psychological safety and culture.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <category>Psychological safety and culture</category>
-      <dc:creator>Takazumi Ono, Ryota Shin, Aoba Tamura, Yukihiko Okada, Hiroko Costantini, Misato Nihei</dc:creator>
-    </item>
-    <item>
-      <title>Digitally transformed academic work and wellbeing: developing the Digital Academic Work Reconfiguration and Wellbeing Framework</title>
-      <link>https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1987590/pdf</link>
-      <guid isPermaLink="false">ab3800fea21650d7</guid>
-      <pubDate>Tue, 10 Nov 2026 17:19:52 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Sociology · Published Nov 9, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <dc:creator>Bronwyn Wright, Nthabeleng Innocentia Mdhluli</dc:creator>
-    </item>
-    <item>
-      <title>Nurses’ Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review</title>
-      <link>https://doi.org/10.2196/99489</link>
-      <guid isPermaLink="false">98ceda470d7678c7</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Medical Internet Research · Published Nov 6, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Mengmeng Wang, 张春晏, YE Naikuan, Huan Li, Yue Bao</dc:creator>
-    </item>
-    <item>
-      <title>AI literacy and generative AI acceptance among surgical and operating room nurses in Türkiye: a cross-sectional study with an open-ended qualitative component</title>
-      <link>https://doi.org/10.1186/s12912-026-05639-z</link>
-      <guid isPermaLink="false">58902f2240b81517</guid>
-      <pubDate>Tue, 10 Nov 2026 05:10:30 GMT</pubDate>
-      <description>Peer-reviewed · BMC Nursing · Published Nov 6, 2026 · Free to read. Topics: Openness to change, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <category>AI at work</category>
-      <dc:creator>Adile Savsar, Buket Çelik, Hale Turhan Damar, Filiz Öğce</dc:creator>
     </item>
   </channel>
 </rss>
