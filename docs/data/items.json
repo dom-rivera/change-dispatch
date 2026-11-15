@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15T09:26:53Z",
- "count": 233,
+ "generated": "2026-11-15T16:38:05Z",
+ "count": 237,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "eb5dfe9fcdcf8797",
+   "title": "Asean’s AI push: What it means for Filipino jobs and consumers",
+   "url": "https://business.inquirer.net/621186/aseans-ai-push-what-it-means-for-filipino-jobs-and-consumers",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-15T18:06:39Z",
+   "first_seen": "2026-11-15T16:38:05Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "tlichauco"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "db99cccb6470b35b",
+   "title": "Lapu-Lapu mopahigayon og job fair karong Miyerkules",
+   "url": "https://www.sunstar.com.ph/superbalita-cebu/lapu-lapu-mopahigayon-og-job-fair-karong-miyerkules",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-15T14:50:53Z",
+   "first_seen": "2026-11-15T16:38:05Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "job fair",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Denise Mae P. Codis"
+    ],
+    "container": "SunStar"
+   }
+  },
   {
    "id": "2ebcb5932956ef5d",
    "title": "Marcos EO sets up national council on AI development",
@@ -609,7 +673,7 @@
   {
    "id": "65cdd1faebf4c47a",
    "title": "Implementation of ICD-11 for Pediatric Neurodevelopmental Disorders: Clinical Challenges, Organizational Readiness, and Ensuring Equitable Access to Care Across Regional Disparities",
-   "url": "https://doi.org/10.26444/aaem/241923",
+   "url": "https://www.aaem.pl/pdf-241923-150103?filename=Implementation-of-ICD-11-.pdf",
    "source": "Annals of Agricultural and Environmental Medicine",
    "source_id": "core-search",
    "layer": "research",
@@ -1290,6 +1354,40 @@
     "container": "Frontiers in Psychology",
     "volume": "17",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1951678"
+   }
+  },
+  {
+   "id": "0f244b4007bc0b06",
+   "title": "TRANSFORMATIONAL LEADERSHIP AND TEACHER HUMAN RESOURCES DEVELOPMENT: PATHWAYS TO SCHOOL COMPETITIVENESS IN MUHAMMADIYAH SCHOOL",
+   "url": "https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/view/11005",
+   "source": "Edukasi Islami Jurnal Pendidikan Islam",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-12T00:00:00Z",
+   "first_seen": "2026-11-15T16:38:05Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ruli Astuti",
+     "Wahid Murni",
+     "Mulyono Mulyono"
+    ],
+    "container": "Edukasi Islami Jurnal Pendidikan Islam"
    }
   },
   {
@@ -3413,6 +3511,44 @@
     "first_page": "1",
     "last_page": "33",
     "doi": "https://doi.org/10.1080/14697017.2026.2755075"
+   }
+  },
+  {
+   "id": "a7e63b0f04220832",
+   "title": "Change management strategies for improved animal welfare: Implementing refined handling for mice and rats in a global contract research organisation",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E954F9CD4238A70D48140F0F233F5075/S0962728626101298a.pdf/div-class-title-change-management-strategies-for-improved-animal-welfare-implementing-refined-handling-for-mice-and-rats-in-a-global-contract-research-organisation-div.pdf",
+   "source": "Animal Welfare",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-15T16:38:05Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "why": {
+    "change-management": {
+     "phrase": "change management",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Carly I. O’Malley",
+     "Sarah E Thurston",
+     "Judy Murray",
+     "Patricia V. Turner",
+     "Elizabeth A. Nunamaker"
+    ],
+    "container": "Animal Welfare",
+    "volume": "35",
+    "doi": "https://doi.org/10.1017/awf.2026.10129"
    }
   },
   {
