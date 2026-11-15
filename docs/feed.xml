@@ -6,7 +6,7 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 03:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:26:53 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
@@ -367,7 +367,7 @@
       <link>https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai</link>
       <guid isPermaLink="false">caced9783dab4cd6</guid>
       <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
-      <description>News · The Guardian (Technology) · Published Nov 12, 2026 · Free to read. Topics: AI at work.</description>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 12, 2026 · Free to read. Topics: AI at work.</description>
       <category>News</category>
       <category>AI at work</category>
       <dc:creator>Ramin Skibba</dc:creator>
