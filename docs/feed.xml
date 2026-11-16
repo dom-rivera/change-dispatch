@@ -6,13 +6,73 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:52:51 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>'Parents are offering to pay kids' wages': Salon owner</title>
+      <link>https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">40893f6410d652ac</guid>
+      <pubDate>Mon, 16 Nov 2026 19:52:51 GMT</pubDate>
+      <description>News · BBC News (Business) · Published Nov 16, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
+    <item>
+      <title>Why Alan Milburn’s Pip plan is a mistake | Letters</title>
+      <link>https://www.theguardian.com/politics/2026/nov/16/why-alan-milburn-pip-plan-is-a-mistake</link>
+      <guid isPermaLink="false">a2f5d9c6f75091ec</guid>
+      <pubDate>Mon, 16 Nov 2026 19:52:51 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 16, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Guardian</dc:creator>
+    </item>
+    <item>
+      <title>Data security, privacy seen as challenges to AI adoption</title>
+      <link>https://www.philstar.com/business/2026/11/17/2570533/data-security-privacy-seen-challenges-ai-adoption</link>
+      <guid isPermaLink="false">18f3b8f2d261389e</guid>
+      <pubDate>Mon, 16 Nov 2026 19:52:51 GMT</pubDate>
+      <description>News · Philstar Business · Published Nov 16, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Adrian Kenneth Halili</dc:creator>
+    </item>
+    <item>
+      <title>Create more jobs for under-25s by cutting National Insurance, key report urges</title>
+      <link>https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d0f92ea8e8baff85</guid>
+      <pubDate>Mon, 16 Nov 2026 19:52:51 GMT</pubDate>
+      <description>News · BBC News (Business) · Published Nov 16, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
+    <item>
+      <title>No convincing evidence for prospective effects between work engagement, burnout, and personality traits: A reassessment of Fukuzaki and Iwata (2027)</title>
+      <link>https://osf.io/preprints/psyarxiv/k4tp3_v1/</link>
+      <guid isPermaLink="false">685a6a297595a75d</guid>
+      <pubDate>Mon, 16 Nov 2026 19:52:51 GMT</pubDate>
+      <description>Preprint · PsyArXiv · Published Nov 16, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
+      <category>Preprint</category>
+      <category>Employee well-being</category>
+      <dc:creator>Kimmo Sorjonen, Bo Melin, Filippa Folke, Marika Melin</dc:creator>
+    </item>
+    <item>
+      <title>TRANSFORMATIONAL LEADERSHIP AND TEACHER HUMAN RESOURCES DEVELOPMENT: PATHWAYS TO SCHOOL COMPETITIVENESS IN MUHAMMADIYAH SCHOOL</title>
+      <link>https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/download/11005/3611</link>
+      <guid isPermaLink="false">fa225738cda57b3c</guid>
+      <pubDate>Mon, 16 Nov 2026 19:52:51 GMT</pubDate>
+      <description>Peer-reviewed · Edukasi Islami Jurnal Pendidikan Islam · Published Nov 12, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Ruli Astuti, Wahid Murni, Mulyono Mulyono</dc:creator>
+    </item>
     <item>
       <title>The Labor Market Impact of Temporary High-Skill Immigration Programs</title>
       <link>https://www.nber.org/papers/w36014</link>
@@ -117,17 +177,6 @@
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Denise Mae P. Codis</dc:creator>
-    </item>
-    <item>
-      <title>TRANSFORMATIONAL LEADERSHIP AND TEACHER HUMAN RESOURCES DEVELOPMENT: PATHWAYS TO SCHOOL COMPETITIVENESS IN MUHAMMADIYAH SCHOOL</title>
-      <link>https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/view/11005</link>
-      <guid isPermaLink="false">0f244b4007bc0b06</guid>
-      <pubDate>Sun, 15 Nov 2026 16:38:05 GMT</pubDate>
-      <description>Peer-reviewed · Edukasi Islami Jurnal Pendidikan Islam · Published Nov 12, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Ruli Astuti, Wahid Murni, Mulyono Mulyono</dc:creator>
     </item>
     <item>
       <title>Change management strategies for improved animal welfare: Implementing refined handling for mice and rats in a global contract research organisation</title>
@@ -448,16 +497,6 @@
       <dc:creator>RGEntRibirthFURD</dc:creator>
     </item>
     <item>
-      <title>Many executives say they are worried about leading with empathy</title>
-      <link>https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/</link>
-      <guid isPermaLink="false">b89035a5d3550d00</guid>
-      <pubDate>Fri, 13 Nov 2026 02:39:11 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 12, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>News</category>
-      <category>Employee well-being</category>
-      <dc:creator>Laurel Kalser</dc:creator>
-    </item>
-    <item>
       <title>‘Remote work’ from the office? It’s more common than you think.</title>
       <link>https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/</link>
       <guid isPermaLink="false">1d628cca0264016e</guid>
@@ -466,6 +505,16 @@
       <category>News</category>
       <category>Future of work</category>
       <dc:creator>Emilie Shumway</dc:creator>
+    </item>
+    <item>
+      <title>Many executives say they are worried about leading with empathy</title>
+      <link>https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/</link>
+      <guid isPermaLink="false">b89035a5d3550d00</guid>
+      <pubDate>Fri, 13 Nov 2026 02:39:11 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 12, 2026 · Free to read. Topics: Employee well-being.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <dc:creator>Laurel Kalser</dc:creator>
     </item>
     <item>
       <title>DepEd cites private sector role in NCR schools’ tech transformation</title>
@@ -590,57 +639,6 @@
       <guid isPermaLink="false">6bca8a695949a1ea</guid>
       <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
       <description>News · Malay Mail (Money) · Published Nov 12, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-    </item>
-    <item>
-      <title>$250-M World Bank funding for Tesda seen by year-end</title>
-      <link>https://business.inquirer.net/620414/250-m-world-bank-funding-for-tesda-seen-by-year-end</link>
-      <guid isPermaLink="false">218bcfb00f39bb24</guid>
-      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
-      <description>News · Inquirer Business · Published Nov 12, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>NewsPublish</dc:creator>
-    </item>
-    <item>
-      <title>Australian companies face 'AI washing' claims after wave of job cuts, offshoring</title>
-      <link>https://www.channelnewsasia.com/business/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-6543886</link>
-      <guid isPermaLink="false">7257b0b0696afe0e</guid>
-      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
-      <description>News · CNA (Business) · Published Nov 11, 2026 · Free to read. Topics: Organizational change, AI at work.</description>
-      <category>News</category>
-      <category>Organizational change</category>
-      <category>AI at work</category>
-    </item>
-    <item>
-      <title>From blood group ID to cycle racks: I asked for little ways to fix broken Britain and the public’s ideas give me hope | Martin Lewis</title>
-      <link>https://www.theguardian.com/commentisfree/2026/nov/11/how-fix-broken-britain-public-better</link>
-      <guid isPermaLink="false">0295b14c7f7e5e6b</guid>
-      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
-      <description>News · The Guardian (Business) · Published Nov 11, 2026 · Free to read · Opinion. Topics: Behavioral economics.</description>
-      <category>News</category>
-      <category>Behavioral economics</category>
-      <dc:creator>Martin Lewis</dc:creator>
-    </item>
-    <item>
-      <title>Aldi cuts hundreds of UK head office roles as part of global cost trimming</title>
-      <link>https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming</link>
-      <guid isPermaLink="false">250e0adfd88311bd</guid>
-      <pubDate>Thu, 12 Nov 2026 03:04:42 GMT</pubDate>
-      <description>News · The Guardian (Business) · Published Nov 11, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Sarah Butler</dc:creator>
-    </item>
-    <item>
-      <title>EXPLAINER: Why are more Filipino youths facing unemployment challenges</title>
-      <link>https://www.gmanetwork.com/news/topstories/nation/1009193/explainer-why-are-more-filipino-youths-are-facing-unemployment-challenges/story/</link>
-      <guid isPermaLink="false">5d71e44aec1cef1d</guid>
-      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
-      <description>News · GMA News · Published Nov 11, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
       <category>News</category>
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16T09:44:34Z",
- "count": 245,
+ "generated": "2026-11-16T19:52:51Z",
+ "count": 250,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,168 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "40893f6410d652ac",
+   "title": "'Parents are offering to pay kids' wages': Salon owner",
+   "url": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News (Business)",
+   "source_id": "bbc-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T18:05:17Z",
+   "first_seen": "2026-11-16T19:52:51Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "BBC News",
+    "authors": []
+   }
+  },
+  {
+   "id": "a2f5d9c6f75091ec",
+   "title": "Why Alan Milburn’s Pip plan is a mistake | Letters",
+   "url": "https://www.theguardian.com/politics/2026/nov/16/why-alan-milburn-pip-plan-is-a-mistake",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T18:02:40Z",
+   "first_seen": "2026-11-16T19:52:51Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Guardian"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "18f3b8f2d261389e",
+   "title": "Data security, privacy seen as challenges to AI adoption",
+   "url": "https://www.philstar.com/business/2026/11/17/2570533/data-security-privacy-seen-challenges-ai-adoption",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T16:00:00Z",
+   "first_seen": "2026-11-16T19:52:51Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Adrian Kenneth Halili"
+    ],
+    "container": "Philstar Business"
+   }
+  },
+  {
+   "id": "d0f92ea8e8baff85",
+   "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+   "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News (Business)",
+   "source_id": "bbc-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T13:19:33Z",
+   "first_seen": "2026-11-16T19:52:51Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "BBC News",
+    "authors": []
+   }
+  },
+  {
+   "id": "685a6a297595a75d",
+   "title": "No convincing evidence for prospective effects between work engagement, burnout, and personality traits: A reassessment of Fukuzaki and Iwata (2027)",
+   "url": "https://osf.io/preprints/psyarxiv/k4tp3_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-16T10:15:07Z",
+   "first_seen": "2026-11-16T19:52:51Z",
+   "window_days": 30,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/k4tp3_v1",
+    "authors": [
+     "Kimmo Sorjonen",
+     "Bo Melin",
+     "Filippa Folke",
+     "Marika Melin"
+    ]
+   }
+  },
   {
    "id": "69a28e70bc37c3b3",
    "title": "The Labor Market Impact of Temporary High-Skill Immigration Programs",
@@ -1204,38 +1366,6 @@
    }
   },
   {
-   "id": "b89035a5d3550d00",
-   "title": "Many executives say they are worried about leading with empathy",
-   "url": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
-   "source": "HR Dive",
-   "source_id": "hr-dive",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-12T20:27:00Z",
-   "first_seen": "2026-11-13T02:39:11Z",
-   "window_days": 7,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "employee well-being",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Laurel Kalser"
-    ],
-    "container": "HR Dive"
-   }
-  },
-  {
    "id": "1d628cca0264016e",
    "title": "‘Remote work’ from the office? It’s more common than you think.",
    "url": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
@@ -1263,6 +1393,38 @@
     "kind": "news",
     "authors": [
      "Emilie Shumway"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "b89035a5d3550d00",
+   "title": "Many executives say they are worried about leading with empathy",
+   "url": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-12T20:27:00Z",
+   "first_seen": "2026-11-13T02:39:11Z",
+   "window_days": 7,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Laurel Kalser"
     ],
     "container": "HR Dive"
    }
@@ -1624,15 +1786,15 @@
    }
   },
   {
-   "id": "0f244b4007bc0b06",
+   "id": "fa225738cda57b3c",
    "title": "TRANSFORMATIONAL LEADERSHIP AND TEACHER HUMAN RESOURCES DEVELOPMENT: PATHWAYS TO SCHOOL COMPETITIVENESS IN MUHAMMADIYAH SCHOOL",
-   "url": "https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/view/11005",
+   "url": "https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/download/11005/3611",
    "source": "Edukasi Islami Jurnal Pendidikan Islam",
    "source_id": "core-search",
    "layer": "research",
    "type": "Peer-reviewed",
    "published": "2026-11-12T00:00:00Z",
-   "first_seen": "2026-11-15T16:38:05Z",
+   "first_seen": "2026-11-16T19:52:51Z",
    "window_days": 60,
    "topics": [
     "leadership"
@@ -4218,46 +4380,6 @@
    }
   },
   {
-   "id": "e139b3e0a8f26810",
-   "title": "Leading for Medical Teacher Well-Being in Health Professions Education: Ten Evidence-Informed Actions for Sustainable Educational Leadership",
-   "url": "https://www.dovepress.com/article/download/122011",
-   "source": "Advances in Medical Education and Practice",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-10T05:10:30Z",
-   "window_days": 60,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "well-being",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Shereen A. El Tarhouny",
-     "David Taylor",
-     "Majd M. Jan",
-     "Tayseer Mansour",
-     "Marwa Mohamed Zalat"
-    ],
-    "container": "Advances in Medical Education and Practice",
-    "volume": "Volume 17",
-    "first_page": "1",
-    "last_page": "12",
-    "doi": "https://doi.org/10.2147/amep.s659736"
-   }
-  },
-  {
    "id": "d6c15bde29f4902b",
    "title": "Navigating digital strain: The role of overload, trust, and agentic AI dependence in predicting employee adverse outcomes",
    "url": "https://www.sciencedirect.com/science/article/pii/S0001691826017579/pdf",
@@ -4470,6 +4592,46 @@
     "first_page": "101621",
     "last_page": "101621",
     "doi": "https://doi.org/10.1016/j.indic.2026.101621"
+   }
+  },
+  {
+   "id": "e139b3e0a8f26810",
+   "title": "Leading for Medical Teacher Well-Being in Health Professions Education: Ten Evidence-Informed Actions for Sustainable Educational Leadership",
+   "url": "https://www.dovepress.com/article/download/122011",
+   "source": "Advances in Medical Education and Practice",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "well-being",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Shereen A. El Tarhouny",
+     "David Taylor",
+     "Majd M. Jan",
+     "Tayseer Mansour",
+     "Marwa Mohamed Zalat"
+    ],
+    "container": "Advances in Medical Education and Practice",
+    "volume": "Volume 17",
+    "first_page": "1",
+    "last_page": "12",
+    "doi": "https://doi.org/10.2147/amep.s659736"
    }
   },
   {
