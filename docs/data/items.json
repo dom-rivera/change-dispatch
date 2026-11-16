@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16T03:09:23Z",
- "count": 243,
+ "generated": "2026-11-16T09:44:34Z",
+ "count": 245,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,42 @@
  },
  "items": [
   {
+   "id": "69a28e70bc37c3b3",
+   "title": "The Labor Market Impact of Temporary High-Skill Immigration Programs",
+   "url": "https://www.nber.org/papers/w36014",
+   "source": "NBER Working Papers",
+   "source_id": "nber",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-16T09:44:34Z",
+   "first_seen": "2026-11-16T09:44:34Z",
+   "window_days": 30,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor market",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "working_paper",
+    "authors": [
+     "George J. Borjas"
+    ],
+    "container": "NBER Working Papers",
+    "publisher": "National Bureau of Economic Research"
+   },
+   "date_estimated": true
+  },
+  {
    "id": "01cb2075d79fa2a7",
    "title": "Dole releases payment rules for Asean Summit holidays",
    "url": "https://newsinfo.inquirer.net/2342023/dole-releases-payment-rules-for-asean-summit-holidays",
@@ -98,6 +134,36 @@
      "mmercado"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "4717fc6aceb1051b",
+   "title": "Cash remittances rose to $3.20B in Sept. 2026 --BSP",
+   "url": "https://www.gmanetwork.com/news/money/economy/1009652/cash-remittances-rose-to-3-20b-in-sept-2026-bsp/story/",
+   "source": "GMA News",
+   "source_id": "gma-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T05:08:57Z",
+   "first_seen": "2026-11-16T09:44:34Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "overseas filipino workers",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "GMA News",
+    "authors": []
    }
   },
   {

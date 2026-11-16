@@ -6,13 +6,33 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:44:34 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>The Labor Market Impact of Temporary High-Skill Immigration Programs</title>
+      <link>https://www.nber.org/papers/w36014</link>
+      <guid isPermaLink="false">69a28e70bc37c3b3</guid>
+      <pubDate>Mon, 16 Nov 2026 09:44:34 GMT</pubDate>
+      <description>Preprint · NBER Working Papers · Added Nov 16, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics.</description>
+      <category>Preprint</category>
+      <category>Labor economics</category>
+      <dc:creator>George J. Borjas</dc:creator>
+    </item>
+    <item>
+      <title>Cash remittances rose to $3.20B in Sept. 2026 --BSP</title>
+      <link>https://www.gmanetwork.com/news/money/economy/1009652/cash-remittances-rose-to-3-20b-in-sept-2026-bsp/story/</link>
+      <guid isPermaLink="false">4717fc6aceb1051b</guid>
+      <pubDate>Mon, 16 Nov 2026 09:44:34 GMT</pubDate>
+      <description>News · GMA News · Published Nov 16, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
     <item>
       <title>EXPLAINER: What is the ASEAN Digital Economy Framework Agreement?</title>
       <link>https://www.rappler.com/business/things-to-know-asean-digital-economy-framework-agreement-defa/</link>
@@ -624,27 +644,6 @@
       <category>News</category>
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
-    </item>
-    <item>
-      <title>Conservation in place: perceived pay inequity as a chronic occupational stressor in a high-unemployment labor market</title>
-      <link>https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1972719/pdf</link>
-      <guid isPermaLink="false">31d3a2d021603238</guid>
-      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Organizational Psychology · Published Nov 10, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>Peer-reviewed</category>
-      <category>Labor economics</category>
-      <dc:creator>Kiara N. Nyanhongo, Calvin Mabaso, Mark H.R. Bussin</dc:creator>
-    </item>
-    <item>
-      <title>Teacher and peer support and sustainable creativity among arts-major undergraduates: a constructivist grounded theory of psychological safety, self-efficacy, and flow</title>
-      <link>https://doi.org/10.1186/s40359-026-05914-3</link>
-      <guid isPermaLink="false">60e15e73bd592f39</guid>
-      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
-      <description>Peer-reviewed · BMC Psychology · Published Nov 10, 2026 · Free to read. Topics: Self-efficacy, Psychological safety and culture.</description>
-      <category>Peer-reviewed</category>
-      <category>Self-efficacy</category>
-      <category>Psychological safety and culture</category>
-      <dc:creator>Qianqian Fan, Shipei Cui, Lan Li</dc:creator>
     </item>
   </channel>
 </rss>
