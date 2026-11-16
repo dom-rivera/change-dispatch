@@ -6,13 +6,33 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:09:23 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>EXPLAINER: What is the ASEAN Digital Economy Framework Agreement?</title>
+      <link>https://www.rappler.com/business/things-to-know-asean-digital-economy-framework-agreement-defa/</link>
+      <guid isPermaLink="false">a7ceb7a62974de68</guid>
+      <pubDate>Mon, 16 Nov 2026 03:09:23 GMT</pubDate>
+      <description>News · Rappler · Published Nov 16, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Lance Spencer Yu</dc:creator>
+    </item>
+    <item>
+      <title>Japan's economy unexpectedly shrinks as inflation squeezes households</title>
+      <link>https://www.channelnewsasia.com/business/japan-economy-shrinks-inflation-households-living-costs-6553696</link>
+      <guid isPermaLink="false">f45d2a71536f11c2</guid>
+      <pubDate>Mon, 16 Nov 2026 03:09:23 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 16, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
     <item>
       <title>Dole releases payment rules for Asean Summit holidays</title>
       <link>https://newsinfo.inquirer.net/2342023/dole-releases-payment-rules-for-asean-summit-holidays</link>
@@ -23,15 +43,6 @@
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>mmercado</dc:creator>
-    </item>
-    <item>
-      <title>Japan's economy unexpectedly shrinks as inflation squeezes households</title>
-      <link>https://www.channelnewsasia.com/east-asia/japan-economy-shrinks-inflation-households-living-costs-6553696</link>
-      <guid isPermaLink="false">3a2058d59106b380</guid>
-      <pubDate>Mon, 16 Nov 2026 02:12:45 GMT</pubDate>
-      <description>News · CNA (Business) · Published Nov 16, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
     </item>
     <item>
       <title>[Vantage Point] ASEAN digital deal needs a Philippine dividend</title>
@@ -634,16 +645,6 @@
       <category>Self-efficacy</category>
       <category>Psychological safety and culture</category>
       <dc:creator>Qianqian Fan, Shipei Cui, Lan Li</dc:creator>
-    </item>
-    <item>
-      <title>Psychometric properties of assessment tools for evaluating attitudes toward artificial intelligence in nursing practice and nursing education: a scoping review</title>
-      <link>https://doi.org/10.1186/s12912-026-05572-1</link>
-      <guid isPermaLink="false">22f9e64c72e9ec14</guid>
-      <pubDate>Wed, 11 Nov 2026 17:28:55 GMT</pubDate>
-      <description>Peer-reviewed · BMC Nursing · Published Nov 10, 2026 · Free to read. Topics: Openness to change.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <dc:creator>Linchun Huang, Ning Tang, Yingying Cai, Yan Lin, Jinxin Huang, Yunhui Su</dc:creator>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16T02:12:45Z",
- "count": 242,
+ "generated": "2026-11-16T03:09:23Z",
+ "count": 243,
  "topics": [
   {
    "id": "change-readiness",
@@ -101,15 +101,47 @@
    }
   },
   {
-   "id": "3a2058d59106b380",
+   "id": "a7ceb7a62974de68",
+   "title": "EXPLAINER: What is the ASEAN Digital Economy Framework Agreement?",
+   "url": "https://www.rappler.com/business/things-to-know-asean-digital-economy-framework-agreement-defa/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T02:35:08Z",
+   "first_seen": "2026-11-16T03:09:23Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lance Spencer Yu"
+    ],
+    "container": "Rappler"
+   }
+  },
+  {
+   "id": "f45d2a71536f11c2",
    "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
-   "url": "https://www.channelnewsasia.com/east-asia/japan-economy-shrinks-inflation-households-living-costs-6553696",
+   "url": "https://www.channelnewsasia.com/business/japan-economy-shrinks-inflation-households-living-costs-6553696",
    "source": "CNA (Business)",
    "source_id": "cna-business",
    "layer": "news",
    "type": "News",
    "published": "2026-11-16T00:12:00Z",
-   "first_seen": "2026-11-16T02:12:45Z",
+   "first_seen": "2026-11-16T03:09:23Z",
    "window_days": 7,
    "topics": [
     "labor-economics"
