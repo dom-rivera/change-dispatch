@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-17T05:15:17Z",
- "count": 260,
+ "generated": "2026-11-17T10:43:58Z",
+ "count": 262,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,68 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "0180e9717b587296",
+   "title": "Tuesday briefing: Andy Burnham’s government wants to get young people into work. Will cutting their benefits help?",
+   "url": "https://www.theguardian.com/world/2026/nov/17/tuesday-briefing-andy-burnhams-government-wants-to-get-young-people-into-work-will-cutting-their-benefits-help",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-17T06:46:11Z",
+   "first_seen": "2026-11-17T10:43:58Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Hettie O'Brien"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "011d627948bbec4f",
+   "title": "‘For most, the answer is no’: Baidu CEO casts doubt on AI’s payoff",
+   "url": "https://www.malaymail.com/news/money/2026/11/17/for-most-the-answer-is-no-baidu-ceo-casts-doubt-on-ais-payoff/243593",
+   "source": "Malay Mail (Money)",
+   "source_id": "malay-mail",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-17T06:19:00Z",
+   "first_seen": "2026-11-17T10:43:58Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Malay Mail",
+    "authors": []
+   }
+  },
   {
    "id": "15c53c0020d7ffd8",
    "title": "Feds seek overhaul of permanent immigrant worker regulations",
@@ -1636,8 +1698,8 @@
    "id": "caced9783dab4cd6",
    "title": "US public workers are fighting to protect their jobs from AI – and some are winning",
    "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-   "source": "The Guardian (Work & careers)",
-   "source_id": "guardian-work",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
    "layer": "news",
    "type": "News",
    "published": "2026-11-12T15:00:44Z",

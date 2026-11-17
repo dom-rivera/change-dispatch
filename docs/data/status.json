@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T05:15:17Z",
+ "generated": "2026-11-17T10:43:58Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -225,10 +225,10 @@
    "name": "PsyArXiv",
    "layer": "preprint",
    "ok": true,
-   "found": 1312,
+   "found": 1320,
    "kept": 15,
    "error": null,
-   "newest_item": "2026-11-16T16:34:07Z",
+   "newest_item": "2026-11-17T10:08:07Z",
    "stale": false
   },
   {
@@ -307,7 +307,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-17T03:25:00Z",
+   "newest_item": "2026-11-17T09:57:00Z",
    "stale": false
   },
   {
@@ -319,7 +319,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-17T05:13:02Z",
+   "newest_item": "2026-11-17T10:46:45Z",
    "stale": false
   },
   {
@@ -331,7 +331,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-17T12:14:53Z",
+   "newest_item": "2026-11-17T17:36:49Z",
    "stale": false
   },
   {
@@ -352,10 +352,10 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-16T21:00:21Z",
+   "newest_item": "2026-11-17T09:00:08Z",
    "stale": false
   },
   {
@@ -364,13 +364,13 @@
    "layer": "news",
    "ok": true,
    "found": 38,
-   "kept": 6,
+   "kept": 7,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-16T21:41:10Z",
+   "newest_item": "2026-11-17T09:00:08Z",
    "stale": false
   },
   {
@@ -378,11 +378,11 @@
    "name": "BBC News (Business)",
    "layer": "news",
    "ok": true,
-   "found": 55,
+   "found": 54,
    "kept": 2,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-17T02:37:53Z",
+   "newest_item": "2026-11-17T09:15:38Z",
    "stale": false
   },
   {
@@ -394,7 +394,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-16T22:08:48Z",
+   "newest_item": "2026-11-17T10:00:00Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-17T04:52:51Z",
+   "newest_item": "2026-11-17T10:26:26Z",
    "stale": false
   },
   {
@@ -438,14 +438,14 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 19,
-   "kept": 2,
+   "found": 17,
+   "kept": 1,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-17T05:13:41Z",
+   "newest_item": "2026-11-17T10:40:00Z",
    "stale": false
   },
   {
@@ -454,13 +454,13 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": [
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-17T05:15:54Z",
+   "newest_item": "2026-11-17T10:23:33Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-17T13:08:37Z",
+   "newest_item": "2026-11-17T18:27:42Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 6,
+   "found": 12,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-17T04:16:17Z",
+   "newest_item": "2026-11-17T09:57:13Z",
    "stale": false
   },
   {
@@ -493,10 +493,10 @@
    "layer": "news",
    "ok": true,
    "found": 50,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-17T02:29:48Z",
+   "newest_item": "2026-11-17T08:56:17Z",
    "stale": false
   }
  ]

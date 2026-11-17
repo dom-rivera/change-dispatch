@@ -6,13 +6,33 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:43:58 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Tuesday briefing: Andy Burnham’s government wants to get young people into work. Will cutting their benefits help?</title>
+      <link>https://www.theguardian.com/world/2026/nov/17/tuesday-briefing-andy-burnhams-government-wants-to-get-young-people-into-work-will-cutting-their-benefits-help</link>
+      <guid isPermaLink="false">0180e9717b587296</guid>
+      <pubDate>Tue, 17 Nov 2026 10:43:58 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 17, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Hettie O'Brien</dc:creator>
+    </item>
+    <item>
+      <title>‘For most, the answer is no’: Baidu CEO casts doubt on AI’s payoff</title>
+      <link>https://www.malaymail.com/news/money/2026/11/17/for-most-the-answer-is-no-baidu-ceo-casts-doubt-on-ais-payoff/243593</link>
+      <guid isPermaLink="false">011d627948bbec4f</guid>
+      <pubDate>Tue, 17 Nov 2026 10:43:58 GMT</pubDate>
+      <description>News · Malay Mail (Money) · Published Nov 17, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
     <item>
       <title>Feds seek overhaul of permanent immigrant worker regulations</title>
       <link>https://www.hrdive.com/news/feds-seek-overhaul-of-permanent-immigrant-worker-regulations/874803/</link>
@@ -623,27 +643,6 @@
       <category>News</category>
       <category>Employee well-being</category>
       <dc:creator>Laurel Kalser</dc:creator>
-    </item>
-    <item>
-      <title>DepEd cites private sector role in NCR schools’ tech transformation</title>
-      <link>https://newsinfo.inquirer.net/2340413/deped-cites-private-sector-role-in-ncr-schools-tech-transformation</link>
-      <guid isPermaLink="false">165fae2707fead68</guid>
-      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
-      <description>News · Inquirer News · Published Nov 12, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Organizational change</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Alexander Magno</dc:creator>
-    </item>
-    <item>
-      <title>Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee</title>
-      <link>https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour</link>
-      <guid isPermaLink="false">fcc2193357e288c7</guid>
-      <pubDate>Thu, 12 Nov 2026 17:45:27 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 12, 2026 · Free to read · Opinion. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Polly Toynbee</dc:creator>
     </item>
   </channel>
 </rss>
