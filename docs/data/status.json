@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:33:01Z",
+ "generated": "2026-11-17T05:15:17Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -319,7 +319,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-17T04:01:58Z",
+   "newest_item": "2026-11-17T05:13:02Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-17T02:44:35Z",
+   "newest_item": "2026-11-17T04:52:51Z",
    "stale": false
   },
   {
@@ -445,7 +445,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-17T04:21:29Z",
+   "newest_item": "2026-11-17T05:13:41Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-17T04:27:14Z",
+   "newest_item": "2026-11-17T05:15:54Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-17T12:29:04Z",
+   "newest_item": "2026-11-17T13:08:37Z",
    "stale": false
   },
   {
