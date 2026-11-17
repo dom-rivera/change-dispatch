@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-17T10:43:58Z",
- "count": 262,
+ "generated": "2026-11-17T18:46:45Z",
+ "count": 273,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,134 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "bf87b2822f814290",
+   "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
+   "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+   "source": "The Guardian (Business)",
+   "source_id": "guardian-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-17T16:54:21Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Graeme Wearden"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "41a8d21fe7c03c67",
+   "title": "Why AI skill-building is only one part of the puzzle",
+   "url": "https://www.hrdive.com/news/ai-adoption-skillbuilding-tailored-training/874885/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-17T16:54:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Caroline Colvin"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "21aeee77641d2d02",
+   "title": "Santander allows staff to count holidays and sick leave as days worked in office",
+   "url": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-17T13:01:08Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 7,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "sick leave",
+     "kind": "news",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Joanna Partridge"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "454f3dee7aedfd39",
+   "title": "Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training?",
+   "url": "https://www.theguardian.com/society/2026/nov/17/neet-alan-milburn-report-young-people-not-in-education-employment-or-training",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-17T11:30:35Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Peter Walker"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "0180e9717b587296",
    "title": "Tuesday briefing: Andy Burnham’s government wants to get young people into work. Will cutting their benefits help?",
@@ -517,6 +645,204 @@
    }
   },
   {
+   "id": "ee6fff4eec562ecc",
+   "title": "The Governance Gap in Generative AI Adoption in Small and Medium-Sized Enterprises (SMEs): A TAM–TOE Study of University Extension Bridging Individual Acceptance and Organizational Readiness",
+   "url": "https://doi.org/10.3390/informatics13110198",
+   "source": "Informatics",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xue A. Dong"
+    ],
+    "container": "Informatics",
+    "volume": "13",
+    "issue": "11",
+    "first_page": "198",
+    "last_page": "198",
+    "doi": "https://doi.org/10.3390/informatics13110198"
+   }
+  },
+  {
+   "id": "3b90ad5a22137fd9",
+   "title": "Nurses’ self-reported knowledge, attitudes, and perceptions toward artificial intelligence and perceived organizational readiness for its integration in Palestine: an exploratory cross-sectional study",
+   "url": "https://doi.org/10.1186/s12912-026-05675-9",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nisreen Salama",
+     "Zuheir N. Khlaif",
+     "Nawaf Amro"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05675-9"
+   }
+  },
+  {
+   "id": "cdecbecbb0ec4399",
+   "title": "Effect of change management practices on organizational performance in the Ethiopian public sector: Employee engagement as mediator, E-governance as moderator",
+   "url": "https://doi.org/10.1016/j.ssaho.2026.103959",
+   "source": "Social Sciences & Humanities Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 60,
+   "topics": [
+    "change-management",
+    "well-being"
+   ],
+   "why": {
+    "change-management": {
+     "phrase": "change management",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Abraham Asaro Hante",
+     "Zerihun Kinde Alemu",
+     "Baymot Tadesse Naro"
+    ],
+    "container": "Social Sciences & Humanities Open",
+    "volume": "14",
+    "first_page": "103959",
+    "last_page": "103959",
+    "doi": "https://doi.org/10.1016/j.ssaho.2026.103959"
+   }
+  },
+  {
+   "id": "8c19185ac7e3488e",
+   "title": "From scenario design to participant experience: AI-based dialogue simulations and novice teachers’ perceived social-emotional learning",
+   "url": "https://doi.org/10.1108/jrit-05-2026-0151",
+   "source": "Journal of Research in Innovative Teaching & Learning",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Miri Ben-Amram"
+    ],
+    "container": "Journal of Research in Innovative Teaching & Learning",
+    "first_page": "1",
+    "last_page": "13",
+    "doi": "https://doi.org/10.1108/jrit-05-2026-0151"
+   }
+  },
+  {
+   "id": "679b879e078dec17",
+   "title": "Workforce reskilling and training-finance optimization for Laem Chabang Port Phase 3: a scenario-based MILP framework",
+   "url": "https://doi.org/10.1057/s41599-026-09549-y",
+   "source": "Humanities and Social Sciences Communications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "reskilling",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Taisith Kruasom",
+     "Sumalee Ngeoywijit",
+     "Jarun Bootdachi"
+    ],
+    "container": "Humanities and Social Sciences Communications",
+    "doi": "https://doi.org/10.1057/s41599-026-09549-y"
+   }
+  },
+  {
    "id": "4de7f104eec6f038",
    "title": "[Vantage Point] ASEAN digital deal needs a Philippine dividend",
    "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-asean-digital-deal-needs-philippine-dividend/",
@@ -753,6 +1079,44 @@
      "Stefan Rose",
      "Markus Weinmann"
     ]
+   }
+  },
+  {
+   "id": "da9b2c2abd1f0084",
+   "title": "Integrating Sustainability into Kindergarten Education: Teachers’ Perceived Readiness, Practices, and Support Needs",
+   "url": "https://ejournal.unib.ac.id/pendipa/article/download/53440/20134",
+   "source": "PENDIPA Journal of Science Education",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-15T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 90,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Rendel Bagang Batchar",
+     "Blessilda Grace C. Tigas"
+    ],
+    "container": "PENDIPA Journal of Science Education",
+    "volume": "10",
+    "issue": "4",
+    "first_page": "1489",
+    "last_page": "1499",
+    "doi": "https://doi.org/10.33369/pendipa.10.4.1489-1499"
    }
   },
   {
@@ -3433,6 +3797,57 @@
    }
   },
   {
+   "id": "1940a7745cadf569",
+   "title": "AI readiness, green innovation and workforce upskilling role in the renewable energy transition in GCC economies",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2665972726005106/pdf",
+   "source": "Environmental and Sustainability Indicators",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-07T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "ai readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "upskilling",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Khalid Shams Al-Abdulqader",
+     "Alanoud Ali Al-Maadid",
+     "Mohamed Sami Ben Ali",
+     "A. M. Suha"
+    ],
+    "container": "Environmental and Sustainability Indicators",
+    "volume": "32",
+    "first_page": "101621",
+    "last_page": "101621",
+    "doi": "https://doi.org/10.1016/j.indic.2026.101621"
+   }
+  },
+  {
    "id": "7ed33e78030ce300",
    "title": "Workers are facing a ‘crisis of disengagement’",
    "url": "https://www.hrdive.com/news/workers-are-facing-a-crisis-of-disengagement/874016/",
@@ -4864,6 +5279,43 @@
    }
   },
   {
+   "id": "531a74cce95a86c1",
+   "title": "Transformational leadership through the lens of intelligence: A theoretical approach and proposed model",
+   "url": "https://doi.org/10.1016/j.actpsy.2026.108167",
+   "source": "Acta Psychologica",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Félix Oscar Socorro Márquez",
+     "Giovanni Efraín Reyes Ortiz"
+    ],
+    "container": "Acta Psychologica",
+    "volume": "271",
+    "first_page": "108167",
+    "last_page": "108167",
+    "doi": "https://doi.org/10.1016/j.actpsy.2026.108167"
+   }
+  },
+  {
    "id": "f55aaf217b60aac2",
    "title": "Knowledge management challenges in remote work: The threat of organizational supervision to knowledge sharing",
    "url": "https://www.sciencedirect.com/science/article/pii/S2444569X2600257X/pdf",
@@ -4935,56 +5387,6 @@
     "container": "International Journal of Engineering Business Management",
     "volume": "18",
     "doi": "https://doi.org/10.1177/18479790261506567"
-   }
-  },
-  {
-   "id": "1940a7745cadf569",
-   "title": "AI Readiness, Green Innovation and Workforce Upskilling Role in the Renewable Energy Transition in GCC Economies",
-   "url": "https://www.sciencedirect.com/science/article/pii/S2665972726005106/pdf",
-   "source": "Environmental and Sustainability Indicators",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "change-readiness",
-    "future-of-work",
-    "ai-at-work"
-   ],
-   "why": {
-    "change-readiness": {
-     "phrase": "ai readiness",
-     "kind": "strong",
-     "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "upskilling",
-     "kind": "strong",
-     "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "ai",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Khalid Shams Al-Abdulqader",
-     "Alanoud Ali Al-Maadid",
-     "Mohamed Sami Ben Ali",
-     "A. M. Suha"
-    ],
-    "container": "Environmental and Sustainability Indicators",
-    "first_page": "101621",
-    "last_page": "101621",
-    "doi": "https://doi.org/10.1016/j.indic.2026.101621"
    }
   },
   {
