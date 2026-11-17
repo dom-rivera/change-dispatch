@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T19:52:51Z",
+ "generated": "2026-11-17T04:33:01Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -33,7 +33,7 @@
    "name": "Journal of Applied Behavioral Science",
    "layer": "research",
    "ok": true,
-   "found": 12,
+   "found": 9,
    "kept": 9,
    "error": null,
    "openalex_source": "https://openalex.org/S168717511",
@@ -153,8 +153,8 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 254,
-   "kept": 88,
+   "found": 275,
+   "kept": 95,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 18,
@@ -181,15 +181,15 @@
     "transformational leadership": 25,
     "leadership development": 25,
     "remote work": 25,
-    "hybrid work": 21,
-    "reskilling": 14,
+    "hybrid work": 20,
+    "reskilling": 13,
     "upskilling": 25,
     "job redesign": 0,
     "nudge": 25,
     "status quo bias": 3,
     "loss aversion": 16
    },
-   "dropped_low_h_index": 147,
+   "dropped_low_h_index": 124,
    "min_h_index": 30,
    "newest_item": "2026-11-15T00:00:00Z",
    "stale": false
@@ -199,7 +199,7 @@
    "name": "Philippine research search",
    "layer": "research",
    "ok": true,
-   "found": 67,
+   "found": 69,
    "kept": 6,
    "error": null,
    "results_per_phrase": {
@@ -211,11 +211,11 @@
     "leadership": 25,
     "job satisfaction": 2,
     "teachers": 25,
-    "nurses": 12,
+    "nurses": 11,
     "self-efficacy": 15,
     "change": 25
    },
-   "dropped_low_h_index": 57,
+   "dropped_low_h_index": 54,
    "min_h_index": 30,
    "newest_item": "2026-11-13T00:00:00Z",
    "stale": false
@@ -272,11 +272,11 @@
    "name": "Asian Development Bank",
    "layer": "institutional",
    "ok": true,
-   "found": 11,
+   "found": 12,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.feedburner.com/adb_news",
-   "newest_item": "2026-11-16T00:00:00Z",
+   "newest_item": "2026-11-17T00:00:00Z",
    "stale": false
   },
   {
@@ -295,7 +295,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-16T18:23:51Z",
+   "newest_item": "2026-11-16T20:17:01Z",
    "stale": false
   },
   {
@@ -307,7 +307,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-16T16:00:00Z",
+   "newest_item": "2026-11-17T03:25:00Z",
    "stale": false
   },
   {
@@ -319,7 +319,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-16T13:15:32Z",
+   "newest_item": "2026-11-17T04:01:58Z",
    "stale": false
   },
   {
@@ -331,7 +331,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-17T02:19:00Z",
+   "newest_item": "2026-11-17T12:14:53Z",
    "stale": false
   },
   {
@@ -343,7 +343,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-16T18:47:38Z",
+   "newest_item": "2026-11-16T22:01:40Z",
    "stale": false
   },
   {
@@ -355,7 +355,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-16T15:03:38Z",
+   "newest_item": "2026-11-16T21:00:21Z",
    "stale": false
   },
   {
@@ -364,13 +364,13 @@
    "layer": "news",
    "ok": true,
    "found": 38,
-   "kept": 5,
+   "kept": 6,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-16T18:30:57Z",
+   "newest_item": "2026-11-16T21:41:10Z",
    "stale": false
   },
   {
@@ -382,7 +382,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-16T19:16:52Z",
+   "newest_item": "2026-11-17T02:37:53Z",
    "stale": false
   },
   {
@@ -394,7 +394,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-14T22:21:07Z",
+   "newest_item": "2026-11-16T22:08:48Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-16T19:18:56Z",
+   "newest_item": "2026-11-17T02:44:35Z",
    "stale": false
   },
   {
@@ -427,10 +427,10 @@
    "layer": "news",
    "ok": true,
    "found": 9,
-   "kept": 4,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.hrdive.com/feeds/news/",
-   "newest_item": "2026-11-16T15:14:00Z",
+   "newest_item": "2026-11-16T21:04:00Z",
    "stale": false
   },
   {
@@ -445,7 +445,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-16T15:45:27Z",
+   "newest_item": "2026-11-17T04:21:29Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-16T19:20:34Z",
+   "newest_item": "2026-11-17T04:27:14Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-17T02:07:19Z",
+   "newest_item": "2026-11-17T12:29:04Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 2,
+   "found": 6,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-16T16:19:29Z",
+   "newest_item": "2026-11-17T04:16:17Z",
    "stale": false
   },
   {
@@ -493,10 +493,10 @@
    "layer": "news",
    "ok": true,
    "found": 50,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-16T13:00:00Z",
+   "newest_item": "2026-11-17T02:29:48Z",
    "stale": false
   }
  ]

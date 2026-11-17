@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16T19:52:51Z",
- "count": 250,
+ "generated": "2026-11-17T04:33:01Z",
+ "count": 260,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "15c53c0020d7ffd8",
+   "title": "Feds seek overhaul of permanent immigrant worker regulations",
+   "url": "https://www.hrdive.com/news/feds-seek-overhaul-of-permanent-immigrant-worker-regulations/874803/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T21:03:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "overhaul",
+     "kind": "news",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Ryan Golden"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "db43089f31ad646a",
+   "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-16T21:00:21Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Tom McIlroy"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "40893f6410d652ac",
    "title": "'Parents are offering to pay kids' wages': Salon owner",
@@ -633,8 +697,8 @@
    "id": "7640cc164999215c",
    "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
    "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-   "source": "The Guardian (Technology)",
-   "source_id": "guardian-technology",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
    "layer": "news",
    "type": "News",
    "published": "2026-11-14T19:00:52Z",
@@ -1263,6 +1327,79 @@
     "container": "Frontiers in Psychology",
     "volume": "17",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1955538"
+   }
+  },
+  {
+   "id": "8d2a690721288138",
+   "title": "DINAMIKA TEAMWORK DAN PSYCHOLOGICAL SAFETY DALAM PENINGKATAN KESEHATAN MENTAL DI TEMPAT KERJA",
+   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/72719/43069",
+   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Husnul Hamidiyah",
+     "Felly Yunita",
+     "Sonya Fitrianie"
+    ],
+    "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+    "doi": "https://doi.org/10.23969/jp.v11i04.72719"
+   }
+  },
+  {
+   "id": "ebeedd9482319b09",
+   "title": "THE INFLUENCE OF TRANSFORMATIONAL LEADERSHIP STYLE AND ORGANIZATION CULTURE ON EMPLOYEE PERFORMANCE AT ISLAMIC BOARDING SCHOOL „X“ PEKANBARU",
+   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/74279/42997",
+   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Raspan Hamdi",
+     "Lailatul Izzah",
+     "Eva Yuliza",
+     "Willytiyo Kurniawan",
+     "Renny Rahmaliae",
+     "Abdullah Nur Wakhid"
+    ],
+    "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+    "doi": "https://doi.org/10.23969/jp.v11i4.74279"
    }
   },
   {
@@ -2140,6 +2277,41 @@
    }
   },
   {
+   "id": "1f1d3f1446571007",
+   "title": "Factors associated with artificial intelligence adoption among advertising professionals: evidence from the Motivation–Opportunity–Ability (MOA) framework",
+   "url": "https://obs.obercom.pt/index.php/obs/article/download/2955/188188526",
+   "source": "Observatorio (OBS*)",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-11T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Noemí Martín García",
+     "Marian Núñez Cansado",
+     "Marta Laguna García"
+    ],
+    "container": "Observatorio (OBS*)",
+    "doi": "https://doi.org/10.15847/obs20262955"
+   }
+  },
+  {
    "id": "26e9c353b051e76a",
    "title": "Defense sees no need to change strategy, says it does not coach witnesses",
    "url": "https://newsinfo.inquirer.net/2339415/defense-sees-no-need-to-change-strategy-says-it-does-not-coach-witnesses",
@@ -2810,6 +2982,95 @@
     ],
     "container": "BMC Nursing",
     "doi": "https://doi.org/10.1186/s12912-026-05572-1"
+   }
+  },
+  {
+   "id": "a0b6bded369bf705",
+   "title": "Organizational culture and employee performance in food processing firms in Southwest Nigeria: The moderating role of transformational leadership",
+   "url": "https://jibeka.asia.ac.id/index.php/jibeka/article/download/2534/684",
+   "source": "Jurnal Ilmiah Bisnis dan Ekonomi Asia",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "psych-safety"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "organizational culture",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Muritala Arowolo ALAO",
+     "Dolapo Stephen AKINWUMI",
+     "Callistus Destiny Odeh",
+     "Sadiq Husainah Salamat",
+     "Mahmud Zakariyah",
+     "Abdullahi Fatimoh"
+    ],
+    "container": "Jurnal Ilmiah Bisnis dan Ekonomi Asia",
+    "volume": "20",
+    "issue": "3",
+    "first_page": "291",
+    "last_page": "305",
+    "doi": "https://doi.org/10.32815/jibeka.v20i3.2534"
+   }
+  },
+  {
+   "id": "c7bf397c9fb08b1d",
+   "title": "AI-Based HRM Transformation at IAIN Langsa: The Synergy of Transformational Leadership, Adaptive Digital Culture, and AI as a Catalyst Towards Society 5.0",
+   "url": "https://publikasi.mercubuana.ac.id/index.php/Jurnal_Mix/article/download/39078/12847",
+   "source": "MIX JURNAL ILMIAH MANAJEMEN",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "ai-at-work"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "M Yahya",
+     "Agustinar Agustinar",
+     "Muslem Ibnu"
+    ],
+    "container": "MIX JURNAL ILMIAH MANAJEMEN",
+    "doi": "https://doi.org/10.22441/jurnal_mix.2026.v16i3.020"
    }
   },
   {
@@ -3793,6 +4054,41 @@
    }
   },
   {
+   "id": "75199827e468286e",
+   "title": "How Transformational Leadership Enhances Employee Performance: The Mediating Effects of Motivation, Innovative Work Behavior, and Adhocracy Culture",
+   "url": "https://publikasi.mercubuana.ac.id/index.php/Jurnal_Mix/article/download/38629/12839",
+   "source": "MIX JURNAL ILMIAH MANAJEMEN",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-04T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Djoko Soelistya",
+     "Heni Agustina",
+     "Rizki Amalia Elfita"
+    ],
+    "container": "MIX JURNAL ILMIAH MANAJEMEN",
+    "doi": "https://doi.org/10.22441/jurnal_mix.2026.v16i3.017"
+   }
+  },
+  {
    "id": "a066a4580bf49237",
    "title": "Motivated to telework? Voluntariness and involuntariness as mechanisms linking supervisor support to productivity and life satisfaction",
    "url": "https://www.emerald.com/cemj/article-pdf/doi/10.1108/CEMJ-10-2025-0315/11950232/cemj-10-2025-0315en.pdf",
@@ -4211,6 +4507,41 @@
     "first_page": "38",
     "last_page": "46",
     "doi": "https://doi.org/10.30525/2256-0742/2026-12-5-38-46"
+   }
+  },
+  {
+   "id": "ec11741b85392f92",
+   "title": "Speaking Up or Thinking of Leaving? Ethical Climate, Psychological Safety, and Voice in B2B Salesforces",
+   "url": "https://marketingmanagementjournal.scholasticahq.com/article/172047.pdf",
+   "source": "Marketing Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "James B. DeConinck"
+    ],
+    "container": "Marketing Management Journal",
+    "volume": "36",
+    "issue": "2",
+    "doi": "https://doi.org/10.63963/001c.172047"
    }
   },
   {
@@ -4824,6 +5155,8 @@
     ],
     "container": "Frontiers in Public Health",
     "volume": "14",
+    "first_page": "1978109",
+    "last_page": "1978109",
     "doi": "https://doi.org/10.3389/fpubh.2026.1978109"
    }
   },
@@ -8319,6 +8652,45 @@
    }
   },
   {
+   "id": "6c5f64b72444eb78",
+   "title": "The Impact of Skill Mismatch on Unemployment in The Artificial Intelligence (AI) Era: A Systematic Literature Review from an Islamic Economic Perspective",
+   "url": "https://pek.ppj.unp.ac.id/index.php/ecogen/article/download/112/62",
+   "source": "Jurnal Ecogen",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-28T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Sherly Sumaiyah",
+     "Rozalinda Rozalinda",
+     "Testru Hendra"
+    ],
+    "container": "Jurnal Ecogen",
+    "volume": "9",
+    "issue": "3",
+    "first_page": "549",
+    "last_page": "567",
+    "doi": "https://doi.org/10.24036/ecogen.v9.i3.112"
+   }
+  },
+  {
    "id": "d53ed0c54eb10f81",
    "title": "Identifying best practices through best methods: an integrated, systematic and evidence-based approach to D&I management",
    "url": "https://www.emerald.com/jocm/article-pdf/39/8/295/11869887/jocm-03-2025-0226en.pdf",
@@ -8404,7 +8776,7 @@
     "kind": "journal",
     "authors": [
      "John Amis",
-     "Michael Barrett",
+     "Michael Ian Barrett",
      "Gail Theus Fairhurst",
      "Joel Gehman",
      "David Grant",
