@@ -6,13 +6,24 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:43:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:11:04 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Investing in AI Literacy Means Investing in Judgment</title>
+      <link>https://btf.rappler.com/390/investing-in-ai-literacy-means-investing-in-judgment/</link>
+      <guid isPermaLink="false">db7d4da78174bb91</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:04 GMT</pubDate>
+      <description>News · Rappler · Published Nov 18, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Angel Chiang, Jewel Zhu, Paolo Miguel Ordonio</dc:creator>
+    </item>
     <item>
       <title>Lapu-Lapu job fair offers 4,645 vacancies</title>
       <link>https://www.sunstar.com.ph/cebu/lapu-lapu-job-fair-offers-4645-vacancies</link>
@@ -632,16 +643,6 @@
       <category>News</category>
       <category>AI at work</category>
       <dc:creator>Lara Ewen</dc:creator>
-    </item>
-    <item>
-      <title>Week in review: Can AI root out manager bias?</title>
-      <link>https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/</link>
-      <guid isPermaLink="false">ab52781fe641b6a0</guid>
-      <pubDate>Sat, 14 Nov 2026 02:29:15 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 13, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Kathryn Moody</dc:creator>
     </item>
   </channel>
 </rss>
