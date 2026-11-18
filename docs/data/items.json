@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-17T18:46:45Z",
- "count": 273,
+ "generated": "2026-11-18T03:43:29Z",
+ "count": 274,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,38 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "a4319d7a01be64d8",
+   "title": "Lapu-Lapu job fair offers 4,645 vacancies",
+   "url": "https://www.sunstar.com.ph/cebu/lapu-lapu-job-fair-offers-4645-vacancies",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-18T03:46:45Z",
+   "first_seen": "2026-11-18T03:43:29Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "job fair",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Denise Mae P. Codis"
+    ],
+    "container": "SunStar"
+   }
+  },
   {
    "id": "bf87b2822f814290",
    "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
@@ -294,8 +326,8 @@
    "id": "db43089f31ad646a",
    "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
    "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-   "source": "The Guardian (Technology)",
-   "source_id": "guardian-technology",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
    "layer": "news",
    "type": "News",
    "published": "2026-11-16T21:00:21Z",

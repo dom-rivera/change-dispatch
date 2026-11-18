@@ -6,13 +6,24 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:46:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:43:29 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Lapu-Lapu job fair offers 4,645 vacancies</title>
+      <link>https://www.sunstar.com.ph/cebu/lapu-lapu-job-fair-offers-4645-vacancies</link>
+      <guid isPermaLink="false">a4319d7a01be64d8</guid>
+      <pubDate>Wed, 18 Nov 2026 03:43:29 GMT</pubDate>
+      <description>News · SunStar · Published Nov 18, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Denise Mae P. Codis</dc:creator>
+    </item>
     <item>
       <title>Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened</title>
       <link>https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates</link>
@@ -163,7 +174,7 @@
       <link>https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars</link>
       <guid isPermaLink="false">db43089f31ad646a</guid>
       <pubDate>Tue, 17 Nov 2026 04:33:01 GMT</pubDate>
-      <description>News · The Guardian (Technology) · Published Nov 16, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 16, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
       <category>News</category>
       <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
@@ -631,17 +642,6 @@
       <category>News</category>
       <category>AI at work</category>
       <dc:creator>Kathryn Moody</dc:creator>
-    </item>
-    <item>
-      <title>Angara cites private sector support as Metro schools get 133 ICT units</title>
-      <link>https://newsinfo.inquirer.net/2341000/angara-cites-private-sector-support-as-metro-schools-get-133-ict-units</link>
-      <guid isPermaLink="false">211e206676f3d7a7</guid>
-      <pubDate>Fri, 13 Nov 2026 17:24:30 GMT</pubDate>
-      <description>News · Inquirer News · Published Nov 13, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Organizational change</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>jvicente</dc:creator>
     </item>
   </channel>
 </rss>
