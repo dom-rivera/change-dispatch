@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-18T10:11:04Z",
- "count": 275,
+ "generated": "2026-11-18T18:26:00Z",
+ "count": 282,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,168 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "f45243787eefd340",
+   "title": "Technology is more important than ‘ayuda’ for El Niño",
+   "url": "https://business.inquirer.net/621614/technology-is-more-important-than-ayuda-for-el-nino",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T02:20:00Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "dole",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "5a58564b4dc36fad",
+   "title": "More OFW airport priority lanes pushed",
+   "url": "https://business.inquirer.net/621611/more-ofw-airport-priority-lanes-pushed",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T02:16:00Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "overseas filipino workers",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "4ab6fea6270c61d7",
+   "title": "The philosophical reason AI Christmas ads leave audiences feeling cold",
+   "url": "https://theconversation.com/the-philosophical-reason-ai-christmas-ads-leave-audiences-feeling-cold-296365",
+   "source": "The Conversation",
+   "source_id": "the-conversation",
+   "layer": "analysis",
+   "type": "Expert analysis",
+   "published": "2026-11-18T16:02:21Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai anxiety",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Alex Fisher",
+     "Postdoctoral Fellow",
+     "University of Leeds"
+    ],
+    "container": "The Conversation"
+   }
+  },
+  {
+   "id": "98dea6747322c3b6",
+   "title": "OFW remittances may grow at slowest pace since 2020",
+   "url": "https://bworldonline.com/top-stories/2026/11/18/794822/ofw-remittances-may-grow-at-slowest-pace-since-2020/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-18T13:00:25Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "overseas filipino workers",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "4277306ad628d733",
+   "title": "OFW express lanes at airports eyed",
+   "url": "https://bworldonline.com/the-nation/2026/11/18/794840/ofw-express-lanes-at-airports-eyed/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-18T12:48:57Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "overseas filipino workers",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
   {
    "id": "db7d4da78174bb91",
    "title": "Investing in AI Literacy Means Investing in Judgment",
@@ -322,6 +484,41 @@
     "kind": "news",
     "container": "Malay Mail",
     "authors": []
+   }
+  },
+  {
+   "id": "6dbb60cbb440f54a",
+   "title": "Optimal free energy requirements for managing disruptive and unexpected organizational change",
+   "url": "https://doi.org/10.1108/omj-12-2025-2888",
+   "source": "Organization Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-17T00:00:00Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lorne Michael Hartman"
+    ],
+    "container": "Organization Management Journal",
+    "first_page": "1",
+    "last_page": "17",
+    "doi": "https://doi.org/10.1108/omj-12-2025-2888"
    }
   },
   {
@@ -876,7 +1073,7 @@
   {
    "id": "679b879e078dec17",
    "title": "Workforce reskilling and training-finance optimization for Laem Chabang Port Phase 3: a scenario-based MILP framework",
-   "url": "https://doi.org/10.1057/s41599-026-09549-y",
+   "url": "https://www.nature.com/articles/s41599-026-09549-y_reference.pdf",
    "source": "Humanities and Social Sciences Communications",
    "source_id": "core-search",
    "layer": "research",
@@ -1145,6 +1342,44 @@
      "Stefan Rose",
      "Markus Weinmann"
     ]
+   }
+  },
+  {
+   "id": "c3734c7d5c2b4017",
+   "title": "One Meeting That Should Not Be an Email: Manager–Direct Report One‐on‐One Meetings and Employee Engagement",
+   "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.70134",
+   "source": "Journal of Organizational Behavior",
+   "source_id": "job",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-15T00:00:00Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jon Gray",
+     "Jonathan R. Flinchum",
+     "Steven G. Rogelberg",
+     "Matthew J. Gerson",
+     "Nicholas J. Dilley",
+     "Liana M. Kreamer"
+    ],
+    "container": "Journal of Organizational Behavior",
+    "doi": "https://doi.org/10.1002/job.70134"
    }
   },
   {
@@ -4820,47 +5055,6 @@
    }
   },
   {
-   "id": "e4b7fbb7af15ac9c",
-   "title": "Practice leadership development in intellectual disability services: A qualitative study of practice leaders’ experiences",
-   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351893&type=printable",
-   "source": "PLoS ONE",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-03T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "leadership"
-   ],
-   "why": {
-    "leadership": {
-     "phrase": "leadership development",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Owen Doody",
-     "Maeve O’Halloran",
-     "Eileen Carey",
-     "Marie Kilduff",
-     "Ruth Ryan"
-    ],
-    "container": "PLoS ONE",
-    "volume": "21",
-    "issue": "11",
-    "first_page": "e0351893",
-    "last_page": "e0351893",
-    "doi": "https://doi.org/10.1371/journal.pone.0351893"
-   }
-  },
-  {
    "id": "c1a27067fdeb4293",
    "title": "AI Adoption, Adaptation, and Workforce Sustainability in Medical Imaging: Systematic Review and Conceptual Framework",
    "url": "https://doi.org/10.2196/101944",
@@ -5009,6 +5203,47 @@
    }
   },
   {
+   "id": "e4b7fbb7af15ac9c",
+   "title": "Practice leadership development in intellectual disability services: A qualitative study of practice leaders’ experiences",
+   "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351893&type=printable",
+   "source": "PLoS ONE",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership development",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Owen Doody",
+     "Maeve O’Halloran",
+     "Eileen Carey",
+     "Marie Kilduff",
+     "Ruth Ryan"
+    ],
+    "container": "PLoS ONE",
+    "volume": "21",
+    "issue": "11",
+    "first_page": "e0351893",
+    "last_page": "e0351893",
+    "doi": "https://doi.org/10.1371/journal.pone.0351893"
+   }
+  },
+  {
    "id": "a44ecd3c88c90e4a",
    "title": "ORGANISATIONAL CHANGE MANAGEMENT AND IMPACT OF LEADERSHIP ON EMPLOYEE PERCEPTIONS",
    "url": "http://baltijapublishing.lv/index.php/issue/article/download/4929/4812",
@@ -5053,41 +5288,6 @@
    }
   },
   {
-   "id": "ec11741b85392f92",
-   "title": "Speaking Up or Thinking of Leaving? Ethical Climate, Psychological Safety, and Voice in B2B Salesforces",
-   "url": "https://marketingmanagementjournal.scholasticahq.com/article/172047.pdf",
-   "source": "Marketing Management Journal",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-02T00:00:00Z",
-   "first_seen": "2026-11-17T04:33:01Z",
-   "window_days": 60,
-   "topics": [
-    "psych-safety"
-   ],
-   "why": {
-    "psych-safety": {
-     "phrase": "psychological safety",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "James B. DeConinck"
-    ],
-    "container": "Marketing Management Journal",
-    "volume": "36",
-    "issue": "2",
-    "doi": "https://doi.org/10.63963/001c.172047"
-   }
-  },
-  {
    "id": "6eac422144193060",
    "title": "Teachers’ attitudes and behavioural intentions towards AI integration in Chinese higher education: a qualitative interview study",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1968803/pdf",
@@ -5123,6 +5323,8 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1968803",
+    "last_page": "1968803",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1968803"
    }
   },
@@ -5163,6 +5365,41 @@
     "first_page": "1839",
     "last_page": "1839",
     "doi": "https://doi.org/10.3390/educsci16111839"
+   }
+  },
+  {
+   "id": "ec11741b85392f92",
+   "title": "Speaking Up or Thinking of Leaving? Ethical Climate, Psychological Safety, and Voice in B2B Salesforces",
+   "url": "https://marketingmanagementjournal.scholasticahq.com/article/172047.pdf",
+   "source": "Marketing Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "James B. DeConinck"
+    ],
+    "container": "Marketing Management Journal",
+    "volume": "36",
+    "issue": "2",
+    "doi": "https://doi.org/10.63963/001c.172047"
    }
   },
   {
@@ -6671,7 +6908,14 @@
     "kind": "preprint",
     "container": "PsyArXiv",
     "doi": "https://doi.org/10.31234/osf.io/apx63_v2",
-    "authors": []
+    "authors": [
+     "Peter Haehner",
+     "Catherine M. Shirima",
+     "Marie Kura",
+     "Luzelle Naude",
+     "Chris Hopwood",
+     "Amber Gayle Thalmayer"
+    ]
    }
   },
   {
@@ -8136,44 +8380,6 @@
    }
   },
   {
-   "id": "e7c84127f403b783",
-   "title": "Digital detox as prevention and coping: examining techno-overload, cognitive overload, and burnout in knowledge workers",
-   "url": "https://doi.org/10.1016/j.teler.2026.100377",
-   "source": "Telematics and Informatics Reports",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-08T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "burnout",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Ema Štánerová",
-     "Eva Rošková",
-     "Milica Schraggeová"
-    ],
-    "container": "Telematics and Informatics Reports",
-    "volume": "24",
-    "first_page": "100377",
-    "last_page": "100377",
-    "doi": "https://doi.org/10.1016/j.teler.2026.100377"
-   }
-  },
-  {
    "id": "89531673bb207997",
    "title": "The association between generative AI acceptance and college students’ career preparation: the serial mediating role of AI trust and career confidence and the moderating role of intrinsic motivation",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1954368/pdf",
@@ -8252,6 +8458,44 @@
     "container": "Frontiers in Education",
     "volume": "11",
     "doi": "https://doi.org/10.3389/feduc.2026.1932937"
+   }
+  },
+  {
+   "id": "e7c84127f403b783",
+   "title": "Digital detox as prevention and coping: examining techno-overload, cognitive overload, and burnout in knowledge workers",
+   "url": "https://doi.org/10.1016/j.teler.2026.100377",
+   "source": "Telematics and Informatics Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ema Štánerová",
+     "Eva Rošková",
+     "Milica Schraggeová"
+    ],
+    "container": "Telematics and Informatics Reports",
+    "volume": "24",
+    "first_page": "100377",
+    "last_page": "100377",
+    "doi": "https://doi.org/10.1016/j.teler.2026.100377"
    }
   },
   {
@@ -8697,45 +8941,6 @@
    }
   },
   {
-   "id": "da3c78ca43d6019a",
-   "title": "Where you work matters: workweek typologies and mental health in four European countries",
-   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.192/72463131/ckag169.192.pdf",
-   "source": "European Journal of Public Health",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-01T00:00:00Z",
-   "first_seen": "2026-11-10T05:10:30Z",
-   "window_days": 60,
-   "topics": [
-    "well-being"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "mental health",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "E Bracho Montes de Oca",
-     "M Vacchiano",
-     "Rani De Pauw",
-     "B De Geus",
-     "B Cagnie"
-    ],
-    "container": "European Journal of Public Health",
-    "volume": "36",
-    "issue": "Supplement_5",
-    "doi": "https://doi.org/10.1093/eurpub/ckag169.192"
-   }
-  },
-  {
    "id": "2f7297b18d23aff9",
    "title": "Upskilling, reskilling, or deskilling? Welfare technology and job satisfaction in care work",
    "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.332/72462598/ckag169.332.pdf",
@@ -8778,6 +8983,45 @@
     "volume": "36",
     "issue": "Supplement_5",
     "doi": "https://doi.org/10.1093/eurpub/ckag169.332"
+   }
+  },
+  {
+   "id": "da3c78ca43d6019a",
+   "title": "Where you work matters: workweek typologies and mental health in four European countries",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.192/72463131/ckag169.192.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "mental health",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "E Bracho Montes de Oca",
+     "M Vacchiano",
+     "Rani De Pauw",
+     "B De Geus",
+     "B Cagnie"
+    ],
+    "container": "European Journal of Public Health",
+    "volume": "36",
+    "issue": "Supplement_5",
+    "doi": "https://doi.org/10.1093/eurpub/ckag169.192"
    }
   },
   {
