@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-19T10:21:45Z",
- "count": 285,
+ "generated": "2026-11-19T18:41:48Z",
+ "count": 299,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,210 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "94eb5ce32906d5d7",
+   "title": "Solon asks House to pass bill lowering OFWs’ remittance fees",
+   "url": "https://newsinfo.inquirer.net/2344206/solon-asks-house-to-pass-bill-lowering-ofws-remittance-fees",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T00:44:10Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "ofws",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "b34bc4371dadd20a",
+   "title": "Here’s how we can give Neets a fighting chance | Letters",
+   "url": "https://www.theguardian.com/society/2026/nov/19/heres-how-we-can-give-neets-a-fighting-chance",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T18:07:42Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Guardian"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "a5c70a620bfc1c1d",
+   "title": "The moral panic over Neets needs to stop. The problem is bad jobs, not young people | Aditya Chakrabortty",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/19/alan-milburn-jobs-neets-crisis-young-people-zero-hours",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T16:27:08Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [
+    "Opinion"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Aditya Chakrabortty"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "8b1dbc9a33800284",
+   "title": "Delivery riders seek Dole-Davao’s help vs ‘unfair, non-transparent’ fares",
+   "url": "https://www.sunstar.com.ph/davao/delivery-riders-seek-dole-davaos-help-vs-unfair-non-transparent-fares",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T15:19:16Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "dole",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Sun Star Davao Digital"
+    ],
+    "container": "SunStar"
+   }
+  },
+  {
+   "id": "03b14489ed8fece5",
+   "title": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
+   "url": "https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T11:00:26Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 7,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership change",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Hosted by Kai Wright",
+     "produced by Suzanne Gaber",
+     "Tiara Chiaramonte",
+     "engineered by Ivan Kuraev",
+     "executive producer Rachel Humphreys"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "b2365444ebf0794b",
+   "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
+   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "source": "Rest of World",
+   "source_id": "rest-of-world",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T11:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 10,
+   "topics": [
+    "future-of-work",
+    "ai-at-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "gig",
+     "kind": "news",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Julián Posada"
+    ],
+    "container": "Rest of World"
+   }
+  },
   {
    "id": "6510148dbd07b79b",
    "title": "From AI adoption to business value: A practical path for enterprises",
@@ -397,6 +601,148 @@
    }
   },
   {
+   "id": "547c89e51e34f87c",
+   "title": "Change fatigue as social contagion: a network dynamics model of propagation, psychological capital mediation, and leadership buffering",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1860710/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-18T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "change-management"
+   ],
+   "why": {
+    "change-management": {
+     "phrase": "change fatigue",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ling Jiang",
+     "Jingjing Zhang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1860710"
+   }
+  },
+  {
+   "id": "a8db25247e9158b1",
+   "title": "Does psychological safety condition the expression of big-five traits in promotive and prohibitive voice?",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1989296/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-18T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ruqaiyah Mohamed Mohamed Abdo Elsaadany",
+     "Eun Hee Lee",
+     "Mike James Mustafa"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1989296"
+   }
+  },
+  {
+   "id": "a192cfdc00d79970",
+   "title": "Digital responsibility convergence and technostress among Chinese homeroom teachers: a qualitative study",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1988832/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-18T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Xinghua Li",
+     "Chong Wang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1988832"
+   }
+  },
+  {
+   "id": "38dc77072cabe84d",
+   "title": "Cost-effective digital microlearning and caregiver policy nudges for equitable learning in Iraqi secondary schools",
+   "url": "https://doi.org/10.1016/j.ijedro.2026.100615",
+   "source": "International Journal of Educational Research Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-18T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "behavioral-economics"
+   ],
+   "why": {
+    "behavioral-economics": {
+     "phrase": "nudges",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ayman Abdoun Nazal"
+    ],
+    "container": "International Journal of Educational Research Open",
+    "volume": "11",
+    "first_page": "100615",
+    "last_page": "100615",
+    "doi": "https://doi.org/10.1016/j.ijedro.2026.100615"
+   }
+  },
+  {
    "id": "bf87b2822f814290",
    "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
    "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
@@ -589,7 +935,7 @@
   {
    "id": "6dbb60cbb440f54a",
    "title": "Optimal free energy requirements for managing disruptive and unexpected organizational change",
-   "url": "https://doi.org/10.1108/omj-12-2025-2888",
+   "url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-12-2025-2888/11989903/omj-12-2025-2888en.pdf",
    "source": "Organization Management Journal",
    "source_id": "core-search",
    "layer": "research",
@@ -1718,6 +2064,41 @@
      "Victor Barreiro Jr."
     ],
     "container": "Rappler"
+   }
+  },
+  {
+   "id": "355b16192b635bdf",
+   "title": "TRANSFORMATIONAL LEADERSHIP AND TEACHERS’ PEDAGOGICAL LEARNING IN ISLAMIC KINDERGARTEN EDUCATION: A QUALITATIVE STUDY OF TWO INSTITUTIONS",
+   "url": "https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/view/11016",
+   "source": "Edukasi Islami Jurnal Pendidikan Islam",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-14T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Entin Nuryati",
+     "Ayi Najmul Hidayat",
+     "Maman Suherman",
+     "N. Dede Khoeriah"
+    ],
+    "container": "Edukasi Islami Jurnal Pendidikan Islam"
    }
   },
   {
@@ -5546,48 +5927,41 @@
    }
   },
   {
-   "id": "9aca7f70c18fbefc",
-   "title": "225. Evaluation of Organizational Climate and Readiness for HIV Testing Services During Emergency Care in Kenya: A Cross-sectional study Clinical and Administrative Stakeholders",
-   "url": "https://www.sciencedirect.com/science/article/pii/S2211419X26003113/pdf",
-   "source": "African Journal of Emergency Medicine",
+   "id": "94d6d4b4b871ec79",
+   "title": "Transformational Leadership Practices in Hospitals: A Systematic Literature Review of Implementation, Challenges, and Success Factors",
+   "url": "https://www.dovepress.com/article/download/122445",
+   "source": "Journal of Healthcare Leadership",
    "source_id": "core-search",
    "layer": "research",
    "type": "Peer-reviewed",
    "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-13T17:24:30Z",
+   "first_seen": "2026-11-19T18:41:48Z",
    "window_days": 60,
    "topics": [
-    "change-readiness"
+    "leadership"
    ],
    "why": {
-    "change-readiness": {
-     "phrase": "readiness",
-     "kind": "weak",
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
      "in_title": true
     }
    },
-   "region": false,
+   "region": true,
    "labels": [],
    "access": "Free to read",
    "cite": {
     "kind": "journal",
     "authors": [
-     "Adam R. Aluisio",
-     "Martha Oguna",
-     "Gideon S Loevinsohn",
-     "Janette R. Baird",
-     "Wambui Muiruri",
-     "Elwyn Chondo",
-     "Arthur Nderuti",
-     "Mercy Bruba",
-     "Ahmed Adam",
-     "George Wanje",
-     "McKenna C. Eastment",
-     "Scott Mcclelland",
-     "Benjamin W. Wachira"
+     "Pradipta Suarsyaf",
+     "Kurniawan Saefullah",
+     "Asep Mulyana"
     ],
-    "container": "African Journal of Emergency Medicine",
-    "doi": "https://doi.org/10.1016/j.afjem.2026.101253"
+    "container": "Journal of Healthcare Leadership",
+    "volume": "Volume 18",
+    "first_page": "1",
+    "last_page": "18",
+    "doi": "https://doi.org/10.2147/jhl.s646432"
    }
   },
   {
@@ -5628,6 +6002,49 @@
     "first_page": "107956",
     "last_page": "107956",
     "doi": "https://doi.org/10.1016/j.actpsy.2026.107956"
+   }
+  },
+  {
+   "id": "0ec5da32fcbcb5ed",
+   "title": "From Technostress to Team Resilience: Artificial Intelligence, Health Information Technology, and Clinician Burnout",
+   "url": "https://doi.org/10.1016/j.ssmqr.2026.100902",
+   "source": "SSM - Qualitative Research in Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lambert Zixin Li",
+     "Akhtar Masood",
+     "Sara J. Singer"
+    ],
+    "container": "SSM - Qualitative Research in Health",
+    "first_page": "100902",
+    "last_page": "100902",
+    "doi": "https://doi.org/10.1016/j.ssmqr.2026.100902"
    }
   },
   {
@@ -5679,6 +6096,45 @@
     "first_page": "1",
     "last_page": "14",
     "doi": "https://doi.org/10.2147/jmdh.s648085"
+   }
+  },
+  {
+   "id": "450deb1b8ee3bcca",
+   "title": "Cognition and Attitudes of Young and Middle-Aged Teachers Towards AI in Medical Education: A Cross-Sectional Study",
+   "url": "https://doi.org/10.1177/23821205261506802",
+   "source": "Journal of Medical Education and Curricular Development",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yao Wang",
+     "Gaojie Liu",
+     "Y. Luo",
+     "Lili Zhang",
+     "Jie Long",
+     "Hongjun Ba"
+    ],
+    "container": "Journal of Medical Education and Curricular Development",
+    "volume": "13",
+    "doi": "https://doi.org/10.1177/23821205261506802"
    }
   },
   {
@@ -5790,6 +6246,51 @@
     "container": "International Journal of Engineering Business Management",
     "volume": "18",
     "doi": "https://doi.org/10.1177/18479790261506567"
+   }
+  },
+  {
+   "id": "9aca7f70c18fbefc",
+   "title": "225. Evaluation of Organizational Climate and Readiness for HIV Testing Services During Emergency Care in Kenya: A Cross-sectional study Clinical and Administrative Stakeholders",
+   "url": "https://www.sciencedirect.com/science/article/pii/S2211419X26003113/pdf",
+   "source": "African Journal of Emergency Medicine",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-13T17:24:30Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Adam R. Aluisio",
+     "Martha Oguna",
+     "Gideon S Loevinsohn",
+     "Janette R. Baird",
+     "Wambui Muiruri",
+     "Elwyn Chondo",
+     "Arthur Nderuti",
+     "Mercy Bruba",
+     "Ahmed Adam",
+     "George Wanje",
+     "McKenna C. Eastment",
+     "Scott Mcclelland",
+     "Benjamin W. Wachira"
+    ],
+    "container": "African Journal of Emergency Medicine",
+    "doi": "https://doi.org/10.1016/j.afjem.2026.101253"
    }
   },
   {
@@ -6105,48 +6606,6 @@
    }
   },
   {
-   "id": "b6de553194ab80ae",
-   "title": "Exploring organizational readiness for the early adoption of a digital obesity prevention program in Swedish child healthcare: an observational prospective study",
-   "url": "https://link.springer.com/content/pdf/10.1186/s12913-026-15953-6.pdf",
-   "source": "BMC Health Services Research",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-29T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "change-readiness"
-   ],
-   "why": {
-    "change-readiness": {
-     "phrase": "organizational readiness",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Maria Fagerström",
-     "Karin Festin",
-     "Maria da Salete Fonseca dos Santos Lundgren",
-     "Marie Löf",
-     "Jeanette Melin",
-     "Margit Neher",
-     "Christine Delisle Nyström",
-     "Kristin Thomas"
-    ],
-    "container": "BMC Health Services Research",
-    "volume": "26",
-    "issue": "1",
-    "doi": "https://doi.org/10.1186/s12913-026-15953-6"
-   }
-  },
-  {
    "id": "05699c6e5c856ded",
    "title": "The mediating role of job crafting in the relationship between perceived organizational support and nurses' attitudes towards artificial intelligence: a cross-sectional study based on the job demands–resources model",
    "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1942864/pdf",
@@ -6189,6 +6648,48 @@
     "first_page": "1942864",
     "last_page": "1942864",
     "doi": "https://doi.org/10.3389/fmed.2026.1942864"
+   }
+  },
+  {
+   "id": "b6de553194ab80ae",
+   "title": "Exploring organizational readiness for the early adoption of a digital obesity prevention program in Swedish child healthcare: an observational prospective study",
+   "url": "https://link.springer.com/content/pdf/10.1186/s12913-026-15953-6.pdf",
+   "source": "BMC Health Services Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-29T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Maria Fagerström",
+     "Karin Festin",
+     "Maria da Salete Fonseca dos Santos Lundgren",
+     "Marie Löf",
+     "Jeanette Melin",
+     "Margit Neher",
+     "Christine Delisle Nyström",
+     "Kristin Thomas"
+    ],
+    "container": "BMC Health Services Research",
+    "volume": "26",
+    "issue": "1",
+    "doi": "https://doi.org/10.1186/s12913-026-15953-6"
    }
   },
   {
@@ -6589,42 +7090,6 @@
    }
   },
   {
-   "id": "244066e6249d968e",
-   "title": "Towards an integrated framework for digital transformation in Moroccan higher education",
-   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1912168/pdf",
-   "source": "Frontiers in Education",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-27T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "digital transformation",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Mehdia Haddad",
-     "Khalifa Mansouri",
-     "Khalid Boukhdir"
-    ],
-    "container": "Frontiers in Education",
-    "volume": "11",
-    "doi": "https://doi.org/10.3389/feduc.2026.1912168"
-   }
-  },
-  {
    "id": "66c853f4f21454b1",
    "title": "Digital Fatigue, Workforce Readiness, and Medication Safety: A Systems Perspective for Pharmacy Education",
    "url": "https://doi.org/10.3390/pharmacy14080157",
@@ -6701,6 +7166,42 @@
     ],
     "container": "Nordic Journal of Working Life Studies",
     "doi": "https://doi.org/10.18291/njwls.172211"
+   }
+  },
+  {
+   "id": "244066e6249d968e",
+   "title": "Towards an integrated framework for digital transformation in Moroccan higher education",
+   "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1912168/pdf",
+   "source": "Frontiers in Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-27T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mehdia Haddad",
+     "Khalifa Mansouri",
+     "Khalid Boukhdir"
+    ],
+    "container": "Frontiers in Education",
+    "volume": "11",
+    "doi": "https://doi.org/10.3389/feduc.2026.1912168"
    }
   },
   {
@@ -8443,43 +8944,6 @@
    }
   },
   {
-   "id": "2031dd8bffd9b6e1",
-   "title": "Cognitive flexibility, technostress, and mathematics teachers' acceptance of ChatGPT: a cross-sectional indirect-effect analysis",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1991429/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-08T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Baris Demir",
-     "Rümeysa Beyazhançer"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "first_page": "1991429",
-    "last_page": "1991429",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1991429"
-   }
-  },
-  {
    "id": "89531673bb207997",
    "title": "The association between generative AI acceptance and college students’ career preparation: the serial mediating role of AI trust and career confidence and the moderating role of intrinsic motivation",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1954368/pdf",
@@ -8558,6 +9022,43 @@
     "container": "Frontiers in Education",
     "volume": "11",
     "doi": "https://doi.org/10.3389/feduc.2026.1932937"
+   }
+  },
+  {
+   "id": "2031dd8bffd9b6e1",
+   "title": "Cognitive flexibility, technostress, and mathematics teachers' acceptance of ChatGPT: a cross-sectional indirect-effect analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1991429/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Baris Demir",
+     "Rümeysa Beyazhançer"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1991429",
+    "last_page": "1991429",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1991429"
    }
   },
   {
@@ -8995,6 +9496,51 @@
    }
   },
   {
+   "id": "2f7297b18d23aff9",
+   "title": "Upskilling, reskilling, or deskilling? Welfare technology and job satisfaction in care work",
+   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.332/72462598/ckag169.332.pdf",
+   "source": "European Journal of Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "job satisfaction",
+     "kind": "strong",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "reskilling",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "E Nordlander",
+     "D Dellve",
+     "S Frennert",
+     "M Naseer",
+     "K Skagert"
+    ],
+    "container": "European Journal of Public Health",
+    "volume": "36",
+    "issue": "Supplement_5",
+    "doi": "https://doi.org/10.1093/eurpub/ckag169.332"
+   }
+  },
+  {
    "id": "060affcf34339778",
    "title": "Telework, engagement and burnout: heterogeneous effects from a doubly robust study",
    "url": "https://doi.org/10.1093/eurpub/ckag169.480",
@@ -9038,51 +9584,6 @@
     "volume": "36",
     "issue": "Supplement_5",
     "doi": "https://doi.org/10.1093/eurpub/ckag169.480"
-   }
-  },
-  {
-   "id": "2f7297b18d23aff9",
-   "title": "Upskilling, reskilling, or deskilling? Welfare technology and job satisfaction in care work",
-   "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.332/72462598/ckag169.332.pdf",
-   "source": "European Journal of Public Health",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-01T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "well-being",
-    "future-of-work"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "job satisfaction",
-     "kind": "strong",
-     "in_title": true
-    },
-    "future-of-work": {
-     "phrase": "reskilling",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "E Nordlander",
-     "D Dellve",
-     "S Frennert",
-     "M Naseer",
-     "K Skagert"
-    ],
-    "container": "European Journal of Public Health",
-    "volume": "36",
-    "issue": "Supplement_5",
-    "doi": "https://doi.org/10.1093/eurpub/ckag169.332"
    }
   },
   {
