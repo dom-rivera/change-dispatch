@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T03:34:33Z",
+ "generated": "2026-11-19T04:30:59Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -295,7 +295,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-18T21:43:47Z",
+   "newest_item": "2026-11-19T03:21:10Z",
    "stale": false
   },
   {
@@ -319,7 +319,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-19T03:37:48Z",
+   "newest_item": "2026-11-19T03:42:25Z",
    "stale": false
   },
   {
@@ -355,7 +355,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-19T02:30:12Z",
+   "newest_item": "2026-11-19T04:00:16Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-19T01:37:34Z",
+   "newest_item": "2026-11-19T04:24:00Z",
    "stale": false
   },
   {
@@ -438,14 +438,14 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 18,
+   "found": 19,
    "kept": 0,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-19T03:30:00Z",
+   "newest_item": "2026-11-19T04:11:25Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-19T03:28:41Z",
+   "newest_item": "2026-11-19T04:29:05Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-19T11:23:33Z",
+   "newest_item": "2026-11-19T12:29:36Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 8,
+   "found": 9,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-19T01:38:38Z",
+   "newest_item": "2026-11-19T03:52:34Z",
    "stale": false
   },
   {
