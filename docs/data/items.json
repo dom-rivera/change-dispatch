@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-19T04:30:59Z",
- "count": 282,
+ "generated": "2026-11-19T10:21:45Z",
+ "count": 285,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,106 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "6510148dbd07b79b",
+   "title": "From AI adoption to business value: A practical path for enterprises",
+   "url": "https://bworldonline.com/spotlight/2026/11/19/795115/from-ai-adoption-to-business-value-a-practical-path-for-enterprises/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T08:25:36Z",
+   "first_seen": "2026-11-19T10:21:45Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Erika Mioten"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "b538edeaa1885e64",
+   "title": "Taptap Send helps OFWs maximize holiday remittances and connect with families",
+   "url": "https://www.philstar.com/business-as-usual/2026/11/19/2571210/taptap-send-helps-ofws-maximize-holiday-remittances-and-connect-families",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T08:10:00Z",
+   "first_seen": "2026-11-19T10:21:45Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "ofws",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Philstar Business",
+    "authors": []
+   }
+  },
+  {
+   "id": "5cdd8ef9a5f11d2a",
+   "title": "Flexibility more important to jobseekers than pay, global survey finds",
+   "url": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T05:45:18Z",
+   "first_seen": "2026-11-19T10:21:45Z",
+   "window_days": 7,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "work-life balance",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "remote working",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Joanna Partridge"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "f45243787eefd340",
    "title": "Technology is more important than ‘ayuda’ for El Niño",

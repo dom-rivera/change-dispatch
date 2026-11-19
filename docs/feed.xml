@@ -6,13 +6,45 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:21:45 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>From AI adoption to business value: A practical path for enterprises</title>
+      <link>https://bworldonline.com/spotlight/2026/11/19/795115/from-ai-adoption-to-business-value-a-practical-path-for-enterprises/</link>
+      <guid isPermaLink="false">6510148dbd07b79b</guid>
+      <pubDate>Thu, 19 Nov 2026 10:21:45 GMT</pubDate>
+      <description>News · BusinessWorld · Published Nov 19, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Erika Mioten</dc:creator>
+    </item>
+    <item>
+      <title>Taptap Send helps OFWs maximize holiday remittances and connect with families</title>
+      <link>https://www.philstar.com/business-as-usual/2026/11/19/2571210/taptap-send-helps-ofws-maximize-holiday-remittances-and-connect-families</link>
+      <guid isPermaLink="false">b538edeaa1885e64</guid>
+      <pubDate>Thu, 19 Nov 2026 10:21:45 GMT</pubDate>
+      <description>News · Philstar Business · Published Nov 19, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
+    <item>
+      <title>Flexibility more important to jobseekers than pay, global survey finds</title>
+      <link>https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds</link>
+      <guid isPermaLink="false">5cdd8ef9a5f11d2a</guid>
+      <pubDate>Thu, 19 Nov 2026 10:21:45 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 19, 2026 · Free to read. Topics: Employee well-being, Future of work.</description>
+      <category>News</category>
+      <category>Employee well-being</category>
+      <category>Future of work</category>
+      <dc:creator>Joanna Partridge</dc:creator>
+    </item>
     <item>
       <title>Technology is more important than ‘ayuda’ for El Niño</title>
       <link>https://business.inquirer.net/621614/technology-is-more-important-than-ayuda-for-el-nino</link>
@@ -610,41 +642,6 @@
       <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Victor Barreiro Jr.</dc:creator>
-    </item>
-    <item>
-      <title>Factors relevant to organizational readiness for AI in diagnostic pathology: a regional pre‑implementation survey in Western Norway</title>
-      <link>https://doi.org/10.1186/s43058-026-01172-x</link>
-      <guid isPermaLink="false">253c67fddb9858ed</guid>
-      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
-      <description>Peer-reviewed · Implementation Science Communications · Published Nov 13, 2026 · Free to read. Topics: Change readiness, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <category>AI at work</category>
-      <dc:creator>Jennifer J. Antonythasan, Monica Hellesøy, Anders Blilie, Silje Elisabeth Kristiansen, Emma Rewcastle, Hrafn Weishaupt</dc:creator>
-    </item>
-    <item>
-      <title>Implementation of ICD-11 for Pediatric Neurodevelopmental Disorders: Clinical Challenges, Organizational Readiness, and Ensuring Equitable Access to Care Across Regional Disparities</title>
-      <link>https://www.aaem.pl/pdf-241923-150103?filename=Implementation-of-ICD-11-.pdf</link>
-      <guid isPermaLink="false">65cdd1faebf4c47a</guid>
-      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
-      <description>Peer-reviewed · Annals of Agricultural and Environmental Medicine · Published Nov 13, 2026 · Free to read. Topics: Change readiness.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <dc:creator>Mateusz Barłóg, Paulina Droździel, Aleksandra Sobieszczańska-Droździel, Katarzyna Barłóg, Marzena Samardakiewicz</dc:creator>
-    </item>
-    <item>
-      <title>Servant Leadership and Employee Openness to Change: Examining the Roles of Psychological Safety and Psychological Well-Being</title>
-      <link>https://doi.org/10.3390/admsci16110571</link>
-      <guid isPermaLink="false">db2e204e65dbc94d</guid>
-      <pubDate>Sat, 14 Nov 2026 16:09:20 GMT</pubDate>
-      <description>Peer-reviewed · Administrative Sciences · Published Nov 13, 2026 · Free to read. Topics: Openness to change, Leadership and change communication, Employee well-being, Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <category>Leadership and change communication</category>
-      <category>Employee well-being</category>
-      <category>Psychological safety and culture</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Pachsiry Chompukum, Tita Vanichbuncha</dc:creator>
     </item>
   </channel>
 </rss>

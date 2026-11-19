@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T04:30:59Z",
+ "generated": "2026-11-19T10:21:45Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -153,7 +153,7 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 275,
+   "found": 276,
    "kept": 96,
    "error": null,
    "results_per_phrase": {
@@ -189,7 +189,7 @@
     "status quo bias": 3,
     "loss aversion": 16
    },
-   "dropped_low_h_index": 127,
+   "dropped_low_h_index": 126,
    "min_h_index": 30,
    "newest_item": "2026-11-18T00:00:00Z",
    "stale": false
@@ -225,10 +225,10 @@
    "name": "PsyArXiv",
    "layer": "preprint",
    "ok": true,
-   "found": 1434,
+   "found": 1440,
    "kept": 15,
    "error": null,
-   "newest_item": "2026-11-18T23:02:51Z",
+   "newest_item": "2026-11-19T09:50:43Z",
    "stale": false
   },
   {
@@ -285,7 +285,7 @@
    "layer": "analysis",
    "ok": true,
    "found": 163,
-   "kept": 3,
+   "kept": 2,
    "error": null,
    "feed_used": [
     "https://theconversation.com/global/articles.atom",
@@ -295,7 +295,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-19T03:21:10Z",
+   "newest_item": "2026-11-19T03:55:07Z",
    "stale": false
   },
   {
@@ -304,10 +304,10 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-18T16:00:00Z",
+   "newest_item": "2026-11-19T08:10:00Z",
    "stale": false
   },
   {
@@ -316,10 +316,10 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 2,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-19T03:42:25Z",
+   "newest_item": "2026-11-19T10:22:23Z",
    "stale": false
   },
   {
@@ -331,7 +331,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-19T11:14:56Z",
+   "newest_item": "2026-11-19T17:27:34Z",
    "stale": false
   },
   {
@@ -355,7 +355,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-19T04:00:16Z",
+   "newest_item": "2026-11-19T10:00:25Z",
    "stale": false
   },
   {
@@ -363,14 +363,14 @@
    "name": "The Guardian (Work & careers)",
    "layer": "news",
    "ok": true,
-   "found": 39,
-   "kept": 6,
+   "found": 38,
+   "kept": 7,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-18T23:53:51Z",
+   "newest_item": "2026-11-19T10:11:48Z",
    "stale": false
   },
   {
@@ -378,11 +378,11 @@
    "name": "BBC News (Business)",
    "layer": "news",
    "ok": true,
-   "found": 46,
+   "found": 48,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-19T02:59:06Z",
+   "newest_item": "2026-11-19T10:12:16Z",
    "stale": false
   },
   {
@@ -394,7 +394,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-18T23:54:56Z",
+   "newest_item": "2026-11-19T10:00:00Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-19T04:24:00Z",
+   "newest_item": "2026-11-19T08:56:46Z",
    "stale": false
   },
   {
@@ -438,14 +438,14 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 19,
+   "found": 20,
    "kept": 0,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-19T04:11:25Z",
+   "newest_item": "2026-11-19T10:11:00Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-19T04:29:05Z",
+   "newest_item": "2026-11-19T10:06:22Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-19T12:29:36Z",
+   "newest_item": "2026-11-19T17:30:35Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 9,
+   "found": 18,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-19T03:52:34Z",
+   "newest_item": "2026-11-19T09:42:14Z",
    "stale": false
   },
   {
