@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20T10:02:03Z",
- "count": 305,
+ "generated": "2026-11-20T18:02:13Z",
+ "count": 311,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,68 @@
  },
  "items": [
   {
+   "id": "aebfcf278b2b135e",
+   "title": "De Claro brings proven leadership from SSS to DICT, emerges as key player in government digital transformation",
+   "url": "https://www.philstar.com/business/2026/11/21/2571576/de-claro-brings-proven-leadership-sss-dict-emerges-key-player-government-digital-transformation",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T16:08:00Z",
+   "first_seen": "2026-11-20T18:02:13Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Philstar Business",
+    "authors": []
+   }
+  },
+  {
+   "id": "def1c49490022eb7",
+   "title": "‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets",
+   "url": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T15:00:32Z",
+   "first_seen": "2026-11-20T18:02:13Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Josh Halliday North of England"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
    "id": "5f143878d7b33ac3",
    "title": "Western Visayas wage hike takes effect",
    "url": "https://newsinfo.inquirer.net/2344320/western-visayas-wage-hike-takes-effect",
@@ -98,6 +160,38 @@
      "cavendano"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "dc4abeffea47e7ab",
+   "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+   "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T11:00:31Z",
+   "first_seen": "2026-11-20T18:02:13Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Henrietta Moore"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -644,6 +738,83 @@
    }
   },
   {
+   "id": "6dbb60cbb440f54a",
+   "title": "Optimal free energy requirements for managing disruptive and unexpected organizational change",
+   "url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-12-2025-2888/11989903/omj-12-2025-2888en.pdf",
+   "source": "Organization Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-19T00:00:00Z",
+   "first_seen": "2026-11-18T18:26:00Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lorne Michael Hartman"
+    ],
+    "container": "Organization Management Journal",
+    "first_page": "1",
+    "last_page": "17",
+    "doi": "https://doi.org/10.1108/omj-12-2025-2888"
+   }
+  },
+  {
+   "id": "0d51e2bb882325b4",
+   "title": "Transformational leadership as a boundary condition in the association between ESG practices and job satisfaction among generation Y managers in Jordanian manufacturing",
+   "url": "https://doi.org/10.1007/s43621-026-05371-3",
+   "source": "Discover Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-19T00:00:00Z",
+   "first_seen": "2026-11-20T18:02:13Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "well-being"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "job satisfaction",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Al Montaser Mohammad",
+     "Noradilah Md Nordin",
+     "Khalid Mady",
+     "Hamdah Samih Albayaydah"
+    ],
+    "container": "Discover Sustainability",
+    "doi": "https://doi.org/10.1007/s43621-026-05371-3"
+   }
+  },
+  {
    "id": "4ab6fea6270c61d7",
    "title": "The philosophical reason AI Christmas ads leave audiences feeling cold",
    "url": "https://theconversation.com/the-philosophical-reason-ai-christmas-ads-leave-audiences-feeling-cold-296365",
@@ -839,6 +1010,7 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1860710",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1860710"
    }
   },
@@ -875,6 +1047,7 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1989296",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1989296"
    }
   },
@@ -910,6 +1083,7 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1988832",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1988832"
    }
   },
@@ -1140,23 +1314,23 @@
    }
   },
   {
-   "id": "6dbb60cbb440f54a",
-   "title": "Optimal free energy requirements for managing disruptive and unexpected organizational change",
-   "url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-12-2025-2888/11989903/omj-12-2025-2888en.pdf",
-   "source": "Organization Management Journal",
+   "id": "8c19185ac7e3488e",
+   "title": "From scenario design to participant experience: AI-based dialogue simulations and novice teachers’ perceived social-emotional learning",
+   "url": "https://doi.org/10.1108/jrit-05-2026-0151",
+   "source": "Journal of Research in Innovative Teaching & Learning",
    "source_id": "core-search",
    "layer": "research",
    "type": "Peer-reviewed",
    "published": "2026-11-17T00:00:00Z",
-   "first_seen": "2026-11-18T18:26:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
    "window_days": 60,
    "topics": [
-    "organizational-change"
+    "ai-at-work"
    ],
    "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
      "in_title": true
     }
    },
@@ -1166,12 +1340,46 @@
    "cite": {
     "kind": "journal",
     "authors": [
-     "Lorne Michael Hartman"
+     "Miri Ben-Amram"
     ],
-    "container": "Organization Management Journal",
+    "container": "Journal of Research in Innovative Teaching & Learning",
     "first_page": "1",
-    "last_page": "17",
-    "doi": "https://doi.org/10.1108/omj-12-2025-2888"
+    "last_page": "13",
+    "doi": "https://doi.org/10.1108/jrit-05-2026-0151"
+   }
+  },
+  {
+   "id": "cbaf7d6594340837",
+   "title": "Artificial intelligence and work organisation",
+   "url": "https://doi.org/10.1787/5a208f6b-en",
+   "source": "OECD (Artificial Intelligence)",
+   "source_id": "oecd-ai",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-17T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD",
+     "Eurofound"
+    ],
+    "container": "OECD artificial intelligence papers",
+    "doi": "https://doi.org/10.1787/5a208f6b-en"
    }
   },
   {
@@ -1689,41 +1897,6 @@
    }
   },
   {
-   "id": "8c19185ac7e3488e",
-   "title": "From scenario design to participant experience: AI-based dialogue simulations and novice teachers’ perceived social-emotional learning",
-   "url": "https://doi.org/10.1108/jrit-05-2026-0151",
-   "source": "Journal of Research in Innovative Teaching & Learning",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-16T00:00:00Z",
-   "first_seen": "2026-11-17T18:46:45Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "ai",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Miri Ben-Amram"
-    ],
-    "container": "Journal of Research in Innovative Teaching & Learning",
-    "first_page": "1",
-    "last_page": "13",
-    "doi": "https://doi.org/10.1108/jrit-05-2026-0151"
-   }
-  },
-  {
    "id": "679b879e078dec17",
    "title": "Workforce reskilling and training-finance optimization for Laem Chabang Port Phase 3: a scenario-based MILP framework",
    "url": "https://www.nature.com/articles/s41599-026-09549-y_reference.pdf",
@@ -1756,6 +1929,72 @@
     ],
     "container": "Humanities and Social Sciences Communications",
     "doi": "https://doi.org/10.1057/s41599-026-09549-y"
+   }
+  },
+  {
+   "id": "957af725b13b1b74",
+   "title": "The role of unemployment insurance for the cost of job displacement",
+   "url": "https://doi.org/10.1787/ab9caf35-en",
+   "source": "OECD (Employment & Social)",
+   "source_id": "oecd-sem",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD"
+    ],
+    "container": "OECD social employment and migration working papers",
+    "doi": "https://doi.org/10.1787/ab9caf35-en"
+   }
+  },
+  {
+   "id": "a1e01edc02034d8a",
+   "title": "Unemployment insurance and economic welfare",
+   "url": "https://doi.org/10.1787/e3e6068f-en",
+   "source": "OECD (Employment & Social)",
+   "source_id": "oecd-sem",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-14T16:09:20Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD"
+    ],
+    "container": "OECD social employment and migration working papers",
+    "doi": "https://doi.org/10.1787/e3e6068f-en"
    }
   },
   {
@@ -2274,15 +2513,15 @@
    }
   },
   {
-   "id": "355b16192b635bdf",
+   "id": "cf79b5498856810d",
    "title": "TRANSFORMATIONAL LEADERSHIP AND TEACHERS’ PEDAGOGICAL LEARNING IN ISLAMIC KINDERGARTEN EDUCATION: A QUALITATIVE STUDY OF TWO INSTITUTIONS",
-   "url": "https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/view/11016",
+   "url": "https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/download/11016/3622",
    "source": "Edukasi Islami Jurnal Pendidikan Islam",
    "source_id": "core-search",
    "layer": "research",
    "type": "Peer-reviewed",
    "published": "2026-11-14T00:00:00Z",
-   "first_seen": "2026-11-19T18:41:48Z",
+   "first_seen": "2026-11-20T18:02:13Z",
    "window_days": 60,
    "topics": [
     "leadership"
@@ -2741,6 +2980,7 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1955538",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1955538"
    }
   },
@@ -2815,106 +3055,6 @@
     ],
     "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
     "doi": "https://doi.org/10.23969/jp.v11i4.74279"
-   }
-  },
-  {
-   "id": "957af725b13b1b74",
-   "title": "The role of unemployment insurance for the cost of job displacement",
-   "url": "https://doi.org/10.1787/ab9caf35-en",
-   "source": "OECD (Employment & Social)",
-   "source_id": "oecd-sem",
-   "layer": "institutional",
-   "type": "Institutional",
-   "published": "2026-11-13T00:00:00Z",
-   "first_seen": "2026-11-14T16:09:20Z",
-   "window_days": 60,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "unemployment",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "report",
-    "authors": [
-     "OECD"
-    ],
-    "container": "OECD social employment and migration working papers",
-    "doi": "https://doi.org/10.1787/ab9caf35-en"
-   }
-  },
-  {
-   "id": "a1e01edc02034d8a",
-   "title": "Unemployment insurance and economic welfare",
-   "url": "https://doi.org/10.1787/e3e6068f-en",
-   "source": "OECD (Employment & Social)",
-   "source_id": "oecd-sem",
-   "layer": "institutional",
-   "type": "Institutional",
-   "published": "2026-11-13T00:00:00Z",
-   "first_seen": "2026-11-14T16:09:20Z",
-   "window_days": 60,
-   "topics": [
-    "labor-economics"
-   ],
-   "why": {
-    "labor-economics": {
-     "phrase": "unemployment",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "report",
-    "authors": [
-     "OECD"
-    ],
-    "container": "OECD social employment and migration working papers",
-    "doi": "https://doi.org/10.1787/e3e6068f-en"
-   }
-  },
-  {
-   "id": "cbaf7d6594340837",
-   "title": "Artificial intelligence and work organisation",
-   "url": "https://doi.org/10.1787/5a208f6b-en",
-   "source": "OECD (Artificial Intelligence)",
-   "source_id": "oecd-ai",
-   "layer": "institutional",
-   "type": "Institutional",
-   "published": "2026-11-13T00:00:00Z",
-   "first_seen": "2026-11-14T16:09:20Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "report",
-    "authors": [
-     "OECD",
-     "Eurofound"
-    ],
-    "container": "OECD artificial intelligence papers",
-    "doi": "https://doi.org/10.1787/5a208f6b-en"
    }
   },
   {
@@ -3292,6 +3432,7 @@
     ],
     "container": "Frontiers in Medicine",
     "volume": "13",
+    "first_page": "1975942",
     "doi": "https://doi.org/10.3389/fmed.2026.1975942"
    }
   },
@@ -3334,6 +3475,7 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1951678",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1951678"
    }
   },
@@ -3606,6 +3748,7 @@
     ],
     "container": "Frontiers in Psychiatry",
     "volume": "17",
+    "first_page": "1944987",
     "doi": "https://doi.org/10.3389/fpsyt.2026.1944987"
    }
   },
@@ -3688,6 +3831,7 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1879629",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1879629"
    }
   },
@@ -4282,6 +4426,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1972719",
     "doi": "https://doi.org/10.3389/forgp.2026.1972719"
    }
   },
@@ -4686,6 +4831,7 @@
     ],
     "container": "Frontiers in Sociology",
     "volume": "11",
+    "first_page": "1987590",
     "doi": "https://doi.org/10.3389/fsoc.2026.1987590"
    }
   },
@@ -5137,6 +5283,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1929968",
     "doi": "https://doi.org/10.3389/forgp.2026.1929968"
    }
   },
@@ -5358,6 +5505,43 @@
    }
   },
   {
+   "id": "722d892a23966117",
+   "title": "Readiness assessment for construction 5.0 using fuzzy logic: a case of construction organisation",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44290-026-00669-7.pdf",
+   "source": "Discover Civil Engineering",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-20T18:02:13Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Drisya Murali",
+     "M. Suresh"
+    ],
+    "container": "Discover Civil Engineering",
+    "volume": "3",
+    "issue": "1",
+    "first_page": "275",
+    "doi": "https://doi.org/10.1007/s44290-026-00669-7"
+   }
+  },
+  {
    "id": "5e9ad0beac960ef7",
    "title": "The dark side of GenAI in the workplace: technostress, loneliness, and the buffering role of transformational leadership",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1910745/pdf",
@@ -5396,7 +5580,48 @@
     ],
     "container": "Frontiers in Psychology",
     "volume": "17",
+    "first_page": "1910745",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1910745"
+   }
+  },
+  {
+   "id": "a066a4580bf49237",
+   "title": "Motivated to telework? Voluntariness and involuntariness as mechanisms linking supervisor support to productivity and life satisfaction",
+   "url": "https://www.emerald.com/cemj/article-pdf/doi/10.1108/CEMJ-10-2025-0315/11950232/cemj-10-2025-0315en.pdf",
+   "source": "Central European Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "telework",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Anabela Santos Rodrigues",
+     "Diogo Cerdeira",
+     "Rita Miguel",
+     "Ângela Maria Teixeira Leite",
+     "Sílvia Lopes",
+     "Leonor Pais"
+    ],
+    "container": "Central European Management Journal",
+    "first_page": "1",
+    "last_page": "17",
+    "doi": "https://doi.org/10.1108/cemj-10-2025-0315"
    }
   },
   {
@@ -5432,6 +5657,7 @@
     ],
     "container": "Frontiers in Sociology",
     "volume": "11",
+    "first_page": "1972294",
     "doi": "https://doi.org/10.3389/fsoc.2026.1972294"
    }
   },
@@ -5516,6 +5742,7 @@
     "container": "Cogent Business & Management",
     "volume": "13",
     "issue": "1",
+    "first_page": "2752707",
     "doi": "https://doi.org/10.1080/23311975.2026.2752707"
    }
   },
@@ -5552,46 +5779,6 @@
     ],
     "container": "MIX JURNAL ILMIAH MANAJEMEN",
     "doi": "https://doi.org/10.22441/jurnal_mix.2026.v16i3.017"
-   }
-  },
-  {
-   "id": "a066a4580bf49237",
-   "title": "Motivated to telework? Voluntariness and involuntariness as mechanisms linking supervisor support to productivity and life satisfaction",
-   "url": "https://www.emerald.com/cemj/article-pdf/doi/10.1108/CEMJ-10-2025-0315/11950232/cemj-10-2025-0315en.pdf",
-   "source": "Central European Management Journal",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-04T00:00:00Z",
-   "first_seen": "2026-11-11T17:28:55Z",
-   "window_days": 60,
-   "topics": [
-    "future-of-work"
-   ],
-   "why": {
-    "future-of-work": {
-     "phrase": "telework",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Anabela Santos Rodrigues",
-     "Diogo Cerdeira",
-     "Rita Miguel",
-     "Ângela Maria Teixeira Leite",
-     "Sílvia Lopes",
-     "Leonor Pais"
-    ],
-    "container": "Central European Management Journal",
-    "first_page": "1",
-    "last_page": "17",
-    "doi": "https://doi.org/10.1108/cemj-10-2025-0315"
    }
   },
   {
@@ -5739,6 +5926,7 @@
     ],
     "container": "Animal Welfare",
     "volume": "35",
+    "first_page": "e76",
     "doi": "https://doi.org/10.1017/awf.2026.10129"
    }
   },
@@ -6130,6 +6318,7 @@
     "container": "Health Expectations",
     "volume": "29",
     "issue": "6",
+    "first_page": "e70944",
     "doi": "https://doi.org/10.1111/hex.70944"
    }
   },
@@ -6238,7 +6427,7 @@
      "in_title": true
     }
    },
-   "region": false,
+   "region": true,
    "labels": [],
    "access": "Free to read",
    "cite": {
@@ -7221,6 +7410,7 @@
     ],
     "container": "Frontiers in Education",
     "volume": "11",
+    "first_page": "1949516",
     "doi": "https://doi.org/10.3389/feduc.2026.1949516"
    }
   },
@@ -7802,6 +7992,46 @@
    }
   },
   {
+   "id": "15f8c8ab0a7b97ec",
+   "title": "Effects of technostress on professional performance",
+   "url": "https://www.emerald.com/rege/article-pdf/doi/10.1108/REGE-02-2026-0030/11921791/rege-02-2026-0030en.pdf",
+   "source": "Revista de Gestão",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-22T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Caroline Remor",
+     "Alexandre Cappellozza",
+     "Juliane Ruffatto",
+     "Gustavo Hermínio Salati Marcondes de Moraes",
+     "Jandir Pauli"
+    ],
+    "container": "Revista de Gestão",
+    "volume": "33",
+    "first_page": "329",
+    "last_page": "343",
+    "doi": "https://doi.org/10.1108/rege-02-2026-0030"
+   }
+  },
+  {
    "id": "a7e841dd58abb220",
    "title": "AI literacy is directly associated with positive attitudes and indirectly associated with negative attitudes through AI anxiety: a cross-sectional study of preservice teachers",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1946898/pdf",
@@ -7952,46 +8182,6 @@
     "first_page": "1936291",
     "last_page": "1936291",
     "doi": "https://doi.org/10.3389/fpubh.2026.1936291"
-   }
-  },
-  {
-   "id": "15f8c8ab0a7b97ec",
-   "title": "Effects of technostress on professional performance",
-   "url": "https://www.emerald.com/rege/article-pdf/doi/10.1108/REGE-02-2026-0030/11921791/rege-02-2026-0030en.pdf",
-   "source": "Revista de Gestão",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-21T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Caroline Remor",
-     "Alexandre Cappellozza",
-     "Juliane Ruffatto",
-     "Gustavo Hermínio Salati Marcondes de Moraes",
-     "Jandir Pauli"
-    ],
-    "container": "Revista de Gestão",
-    "volume": "33",
-    "first_page": "329",
-    "last_page": "343",
-    "doi": "https://doi.org/10.1108/rege-02-2026-0030"
    }
   },
   {
@@ -8352,6 +8542,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1876048",
     "doi": "https://doi.org/10.3389/forgp.2026.1876048"
    }
   },
@@ -8391,6 +8582,7 @@
     "container": "Cogent Social Sciences",
     "volume": "12",
     "issue": "1",
+    "first_page": "2748775",
     "doi": "https://doi.org/10.1080/23311886.2026.2748775"
    }
   },
@@ -8523,6 +8715,50 @@
     "first_page": "100245",
     "last_page": "100245",
     "doi": "https://doi.org/10.1016/j.plas.2026.100245"
+   }
+  },
+  {
+   "id": "e3e1585bc3695016",
+   "title": "AI chatbot integration in fashion e-retail: consumer behaviour shifts and pathways to organizational change",
+   "url": "https://discovery.dundee.ac.uk/en/publications/79e4a31f-86f6-4ef6-b16c-d3f61179017a",
+   "source": "Journal of Organizational Change Management",
+   "source_id": "jocm",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-16T00:00:00Z",
+   "first_seen": "2026-11-09T18:56:54Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "chatbot",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ying Wu",
+     "Malcolm Stewart",
+     "Fred A. Yamoah",
+     "Fahima Alam"
+    ],
+    "container": "Journal of Organizational Change Management",
+    "first_page": "1",
+    "last_page": "18",
+    "doi": "https://doi.org/10.1108/jocm-03-2025-0295"
    }
   },
   {
@@ -8724,50 +8960,6 @@
    }
   },
   {
-   "id": "e3e1585bc3695016",
-   "title": "AI chatbot integration in fashion e-retail: consumer behaviour shifts and pathways to organizational change",
-   "url": "https://discovery.dundee.ac.uk/en/publications/79e4a31f-86f6-4ef6-b16c-d3f61179017a",
-   "source": "Journal of Organizational Change Management",
-   "source_id": "jocm",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-15T00:00:00Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change",
-    "ai-at-work"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "chatbot",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Ying Wu",
-     "Malcolm Stewart",
-     "Fred A. Yamoah",
-     "Fahima Alam"
-    ],
-    "container": "Journal of Organizational Change Management",
-    "first_page": "1",
-    "last_page": "18",
-    "doi": "https://doi.org/10.1108/jocm-03-2025-0295"
-   }
-  },
-  {
    "id": "e0617e6e3995de55",
    "title": "Team member perception of leader behavior associated with engagement and intent to stay in veterinary practice",
    "url": "https://doi.org/10.2460/ajvr.26.07.0316",
@@ -8802,6 +8994,52 @@
     "first_page": "1",
     "last_page": "9",
     "doi": "https://doi.org/10.2460/ajvr.26.07.0316"
+   }
+  },
+  {
+   "id": "985c9f76a7dec0a4",
+   "title": "Managing change in the era of digital transformation. The case of Greek public sector",
+   "url": "https://www.emerald.com/jocm/article-pdf/39/8/314/11905540/jocm-12-2025-1113en.pdf",
+   "source": "Journal of Organizational Change Management",
+   "source_id": "jocm",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-14T00:00:00Z",
+   "first_seen": "2026-11-09T18:56:54Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "managing change",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ioannis Rossidis",
+     "Athanasios Mihiotis",
+     "Angelos Ntalakos",
+     "Dimitrios Belias"
+    ],
+    "container": "Journal of Organizational Change Management",
+    "volume": "39",
+    "issue": "8",
+    "first_page": "314",
+    "last_page": "345",
+    "doi": "https://doi.org/10.1108/jocm-12-2025-1113"
    }
   },
   {
@@ -8875,52 +9113,6 @@
    }
   },
   {
-   "id": "985c9f76a7dec0a4",
-   "title": "Managing change in the era of digital transformation. The case of Greek public sector",
-   "url": "https://www.emerald.com/jocm/article-pdf/39/8/314/11905540/jocm-12-2025-1113en.pdf",
-   "source": "Journal of Organizational Change Management",
-   "source_id": "jocm",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-13T00:00:00Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change",
-    "change-management"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "digital transformation",
-     "kind": "strong",
-     "in_title": true
-    },
-    "change-management": {
-     "phrase": "managing change",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Ioannis Rossidis",
-     "Athanasios Mihiotis",
-     "Angelos Ntalakos",
-     "Dimitrios Belias"
-    ],
-    "container": "Journal of Organizational Change Management",
-    "volume": "39",
-    "issue": "8",
-    "first_page": "314",
-    "last_page": "345",
-    "doi": "https://doi.org/10.1108/jocm-12-2025-1113"
-   }
-  },
-  {
    "id": "7b399b4c3edea2bf",
    "title": "Job crafting, work motivation, and work engagement among public- and private-sector employees: a systematic review of sector, age, gender, and tenure differences",
    "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1969428/pdf",
@@ -8952,6 +9144,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1969428",
     "doi": "https://doi.org/10.3389/forgp.2026.1969428"
    }
   },
@@ -9109,6 +9302,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1941058",
     "doi": "https://doi.org/10.3389/forgp.2026.1941058"
    }
   },
@@ -9228,6 +9422,7 @@
     ],
     "container": "Frontiers in Education",
     "volume": "11",
+    "first_page": "1932937",
     "doi": "https://doi.org/10.3389/feduc.2026.1932937"
    }
   },
@@ -9384,6 +9579,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1851922",
     "doi": "https://doi.org/10.3389/forgp.2026.1851922"
    }
   },
@@ -9548,6 +9744,52 @@
    }
   },
   {
+   "id": "3b00c445e4b07e54",
+   "title": "Unemployment in later life: The effects of a job search skills training intervention and development orientations on job search and reemployment of older job seekers.",
+   "url": "https://biblio.ugent.be/publication/01KG2GQAE8BW6D64ZDYSGJTWKS",
+   "source": "Journal of Applied Psychology",
+   "source_id": "jap",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-20T18:02:13Z",
+   "window_days": 60,
+   "topics": [
+    "future-of-work",
+    "labor-economics"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills training",
+     "kind": "strong",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Sarah M. van den Hee",
+     "Edwin A. J. van Hooft",
+     "Greet Van Hoye",
+     "Barbara Nevicka"
+    ],
+    "container": "Journal of Applied Psychology",
+    "volume": "111",
+    "issue": "10",
+    "first_page": "1329",
+    "last_page": "1351",
+    "doi": "https://doi.org/10.1037/apl0001323"
+   }
+  },
+  {
    "id": "42c3a2250fe1cd94",
    "title": "Take the Bull by the Horns: Acquiring Firm‐Specific Human Capital From High‐Performance Work System Under AI Awareness",
    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1744-7941.70098",
@@ -9582,6 +9824,7 @@
     "container": "Asia Pacific Journal of Human Resources",
     "volume": "64",
     "issue": "4",
+    "first_page": "e70098",
     "doi": "https://doi.org/10.1111/1744-7941.70098"
    }
   },
@@ -9699,6 +9942,7 @@
     "container": "European Journal of Public Health",
     "volume": "36",
     "issue": "Supplement_5",
+    "first_page": "ckag169.1384",
     "doi": "https://doi.org/10.1093/eurpub/ckag169.1384"
    }
   },
@@ -9744,6 +9988,7 @@
     "container": "European Journal of Public Health",
     "volume": "36",
     "issue": "Supplement_5",
+    "first_page": "ckag169.332",
     "doi": "https://doi.org/10.1093/eurpub/ckag169.332"
    }
   },
@@ -9951,6 +10196,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1938501",
     "doi": "https://doi.org/10.3389/forgp.2026.1938501"
    }
   },
@@ -9991,6 +10237,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1927630",
     "doi": "https://doi.org/10.3389/forgp.2026.1927630"
    }
   },
@@ -10027,6 +10274,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1746548",
     "doi": "https://doi.org/10.3389/forgp.2026.1746548"
    }
   },
@@ -10154,6 +10402,52 @@
    }
   },
   {
+   "id": "d53ed0c54eb10f81",
+   "title": "Identifying best practices through best methods: an integrated, systematic and evidence-based approach to D&I management",
+   "url": "https://www.emerald.com/jocm/article-pdf/39/8/295/11869887/jocm-03-2025-0226en.pdf",
+   "source": "Journal of Organizational Change Management",
+   "source_id": "jocm",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-28T00:00:00Z",
+   "first_seen": "2026-11-09T18:56:54Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change",
+    "change-management"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": false
+    },
+    "change-management": {
+     "phrase": "change process",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Melissa Vink",
+     "Jojanneke van der Toorn",
+     "Wiebren S. Jansen",
+     "Naomi Ellemers"
+    ],
+    "container": "Journal of Organizational Change Management",
+    "volume": "39",
+    "issue": "8",
+    "first_page": "295",
+    "last_page": "313",
+    "doi": "https://doi.org/10.1108/jocm-03-2025-0226"
+   }
+  },
+  {
    "id": "d1836b6f112f4e8e",
    "title": "Beyond the Paper: Who is the Researcher When Generative Artificial Intelligence (GenAI) Does the Writing?",
    "url": "https://doi.org/10.1177/00218863261488837",
@@ -10223,6 +10517,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1919818",
     "doi": "https://doi.org/10.3389/forgp.2026.1919818"
    }
   },
@@ -10263,52 +10558,6 @@
     "first_page": "549",
     "last_page": "567",
     "doi": "https://doi.org/10.24036/ecogen.v9.i3.112"
-   }
-  },
-  {
-   "id": "d53ed0c54eb10f81",
-   "title": "Identifying best practices through best methods: an integrated, systematic and evidence-based approach to D&I management",
-   "url": "https://www.emerald.com/jocm/article-pdf/39/8/295/11869887/jocm-03-2025-0226en.pdf",
-   "source": "Journal of Organizational Change Management",
-   "source_id": "jocm",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-09-24T00:00:00Z",
-   "first_seen": "2026-11-09T18:56:54Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change",
-    "change-management"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": false
-    },
-    "change-management": {
-     "phrase": "change process",
-     "kind": "strong",
-     "in_title": false
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Melissa Vink",
-     "Jojanneke van der Toorn",
-     "Wiebren S. Jansen",
-     "Naomi Ellemers"
-    ],
-    "container": "Journal of Organizational Change Management",
-    "volume": "39",
-    "issue": "8",
-    "first_page": "295",
-    "last_page": "313",
-    "doi": "https://doi.org/10.1108/jocm-03-2025-0226"
    }
   },
   {
@@ -10602,6 +10851,7 @@
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
+    "first_page": "1907256",
     "doi": "https://doi.org/10.3389/forgp.2026.1907256"
    }
   },
@@ -11417,6 +11667,7 @@
     "container": "Discover Education",
     "volume": "5",
     "issue": "1",
+    "first_page": "889",
     "doi": "https://doi.org/10.1007/s44217-026-02140-2"
    }
   },
