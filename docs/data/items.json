@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20T04:19:06Z",
- "count": 303,
+ "generated": "2026-11-20T10:02:03Z",
+ "count": 305,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "5f143878d7b33ac3",
+   "title": "Western Visayas wage hike takes effect",
+   "url": "https://newsinfo.inquirer.net/2344320/western-visayas-wage-hike-takes-effect",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T11:54:22Z",
+   "first_seen": "2026-11-20T10:02:03Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wage hike",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cavendano"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "fa715746a2db2bdd",
+   "title": "Executive Order No. 131 or the adoption of the Philippine AI Governance Framework explained",
+   "url": "https://bworldonline.com/technology/2026/11/20/795568/executive-order-no-131-or-the-adoption-of-the-philippine-ai-governance-framework-explained/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T08:34:17Z",
+   "first_seen": "2026-11-20T10:02:03Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai governance",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "AgarWalEkwensi"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
   {
    "id": "a1e097eb4e7cc5d0",
    "title": "Batangas municipality equips workers with sign language skills",

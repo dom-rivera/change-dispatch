@@ -6,13 +6,35 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 04:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:02:03 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Western Visayas wage hike takes effect</title>
+      <link>https://newsinfo.inquirer.net/2344320/western-visayas-wage-hike-takes-effect</link>
+      <guid isPermaLink="false">5f143878d7b33ac3</guid>
+      <pubDate>Fri, 20 Nov 2026 10:02:03 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 20, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cavendano</dc:creator>
+    </item>
+    <item>
+      <title>Executive Order No. 131 or the adoption of the Philippine AI Governance Framework explained</title>
+      <link>https://bworldonline.com/technology/2026/11/20/795568/executive-order-no-131-or-the-adoption-of-the-philippine-ai-governance-framework-explained/</link>
+      <guid isPermaLink="false">fa715746a2db2bdd</guid>
+      <pubDate>Fri, 20 Nov 2026 10:02:03 GMT</pubDate>
+      <description>News · BusinessWorld · Published Nov 20, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>AgarWalEkwensi</dc:creator>
+    </item>
     <item>
       <title>Batangas municipality equips workers with sign language skills</title>
       <link>https://newsinfo.inquirer.net/2344188/batangas-municipality-equips-workers-with-sign-language-skills</link>
@@ -622,27 +644,6 @@
       <category>Preprint</category>
       <category>Employee well-being</category>
       <dc:creator>Kimmo Sorjonen, Bo Melin, Filippa Folke, Marika Melin</dc:creator>
-    </item>
-    <item>
-      <title>TRANSFORMATIONAL LEADERSHIP AND TEACHER HUMAN RESOURCES DEVELOPMENT: PATHWAYS TO SCHOOL COMPETITIVENESS IN MUHAMMADIYAH SCHOOL</title>
-      <link>https://jurnal.staialhidayahbogor.ac.id/index.php/ei/article/download/11005/3611</link>
-      <guid isPermaLink="false">fa225738cda57b3c</guid>
-      <pubDate>Mon, 16 Nov 2026 19:52:51 GMT</pubDate>
-      <description>Peer-reviewed · Edukasi Islami Jurnal Pendidikan Islam · Published Nov 12, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Ruli Astuti, Wahid Murni, Mulyono Mulyono</dc:creator>
-    </item>
-    <item>
-      <title>The Labor Market Impact of Temporary High-Skill Immigration Programs</title>
-      <link>https://www.nber.org/papers/w36014</link>
-      <guid isPermaLink="false">69a28e70bc37c3b3</guid>
-      <pubDate>Mon, 16 Nov 2026 09:44:34 GMT</pubDate>
-      <description>Preprint · NBER Working Papers · Added Nov 16, 2026 · Free to read · Not yet peer-reviewed. Topics: Labor economics.</description>
-      <category>Preprint</category>
-      <category>Labor economics</category>
-      <dc:creator>George J. Borjas</dc:creator>
     </item>
   </channel>
 </rss>
