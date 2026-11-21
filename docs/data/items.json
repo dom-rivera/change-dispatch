@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20T18:02:13Z",
- "count": 311,
+ "generated": "2026-11-21T03:15:18Z",
+ "count": 315,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "8f41770791ff0ff4",
+   "title": "Executives get more AI training than other workers, hurting adoption, report finds",
+   "url": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T21:07:00Z",
+   "first_seen": "2026-11-21T03:15:18Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Ryan Golden"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
+   "id": "af72f9870d1f5ea7",
+   "title": "We’ve tried everything to get off our phones. These 11 things work (and make great gifts)",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T20:15:38Z",
+   "first_seen": "2026-11-21T03:15:18Z",
+   "window_days": 7,
+   "topics": [
+    "behavioral-economics"
+   ],
+   "why": {
+    "behavioral-economics": {
+     "phrase": "nudge",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lauren Gould"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "aebfcf278b2b135e",
    "title": "De Claro brings proven leadership from SSS to DICT, emerges as key player in government digital transformation",
@@ -195,6 +259,36 @@
    }
   },
   {
+   "id": "3b699cf574885a18",
+   "title": "Lufthansa to cut 1,000 jobs as turnaround falters amid rising fuel costs",
+   "url": "https://www.malaymail.com/news/money/2026/11/20/lufthansa-to-cut-1000-jobs-as-turnaround-falters-amid-rising-fuel-costs/244119",
+   "source": "Malay Mail (Money)",
+   "source_id": "malay-mail",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T09:56:00Z",
+   "first_seen": "2026-11-21T03:15:18Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "job cuts",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Malay Mail",
+    "authors": []
+   }
+  },
+  {
    "id": "fa715746a2db2bdd",
    "title": "Executive Order No. 131 or the adoption of the Philippine AI Governance Framework explained",
    "url": "https://bworldonline.com/technology/2026/11/20/795568/executive-order-no-131-or-the-adoption-of-the-philippine-ai-governance-framework-explained/",
@@ -224,6 +318,36 @@
      "AgarWalEkwensi"
     ],
     "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "43c9593fcb946b15",
+   "title": "GBS Malaysia targets 50 companies for AI adoption via Sandbox",
+   "url": "https://www.malaymail.com/news/money/2026/11/20/gbs-malaysia-targets-50-companies-for-ai-adoption-via-sandbox/244091",
+   "source": "Malay Mail (Money)",
+   "source_id": "malay-mail",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-20T08:30:00Z",
+   "first_seen": "2026-11-21T03:15:18Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Malay Mail",
+    "authors": []
    }
   },
   {
