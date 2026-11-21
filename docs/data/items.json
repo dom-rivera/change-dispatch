@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T09:50:26Z",
- "count": 316,
+ "generated": "2026-11-21T16:58:03Z",
+ "count": 319,
  "topics": [
   {
    "id": "change-readiness",
@@ -447,6 +447,147 @@
    }
   },
   {
+   "id": "fedf31fe4cc388fc",
+   "title": "The Missing Five Minutes: Practitioner Lessons from Building Code Calm as Postcrisis Recovery Infrastructure",
+   "url": "https://doi.org/10.1177/00218863261508897",
+   "source": "Journal of Applied Behavioral Science",
+   "source_id": "jabs",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-20T00:00:00Z",
+   "first_seen": "2026-11-21T16:58:03Z",
+   "window_days": 60,
+   "topics": [],
+   "why": {},
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Sumreen Chaudhry"
+    ],
+    "container": "The Journal of Applied Behavioral Science",
+    "doi": "https://doi.org/10.1177/00218863261508897"
+   }
+  },
+  {
+   "id": "672fd8bbb210b141",
+   "title": "Reconstructing Work Motivation of Pangkalan Data Pendidikan Tinggi (PDDIKTI) Operators in the Digital Transformation Era",
+   "url": "https://doi.org/10.31538/ndhq.v11i3.412",
+   "source": "Nidhomul Haq Jurnal Manajemen Pendidikan Islam",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-20T00:00:00Z",
+   "first_seen": "2026-11-21T16:58:03Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Fauzi Fauzi",
+     "Siti Patimah",
+     "Nurul Hidayati Murtafiah"
+    ],
+    "container": "Nidhomul Haq Jurnal Manajemen Pendidikan Islam",
+    "volume": "11",
+    "issue": "3",
+    "first_page": "588",
+    "last_page": "603",
+    "doi": "https://doi.org/10.31538/ndhq.v11i3.412"
+   }
+  },
+  {
+   "id": "9ae18d6961b0d639",
+   "title": "Digital Transformation as a Conditional Enabler of Circular Supply Chain Performance: A Systematic Review and Integrative Framework",
+   "url": "https://doi.org/10.3390/logistics10110278",
+   "source": "Logistics",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-20T00:00:00Z",
+   "first_seen": "2026-11-21T16:58:03Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Leonardo P. Dominguez Zeta",
+     "Milagros P. Córdova de Chang",
+     "José Halbert Chang Valdiviezo",
+     "Joel F. Domínguez Zeta",
+     "José L. Sosa–León",
+     "Marina Fernández Miranda",
+     "Fabiola J. Pinto Granda",
+     "Elberth E. García Panta",
+     "Adolfo Antenor Jurado Rosas"
+    ],
+    "container": "Logistics",
+    "volume": "10",
+    "issue": "11",
+    "first_page": "278",
+    "last_page": "278",
+    "doi": "https://doi.org/10.3390/logistics10110278"
+   }
+  },
+  {
+   "id": "cd7a3341cf7ba578",
+   "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+   "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T20:36:00Z",
+   "first_seen": "2026-11-20T03:24:04Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lara Ewen"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
    "id": "f7d9c0f112d7e794",
    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
    "url": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
@@ -480,38 +621,6 @@
     "kind": "news",
     "authors": [
      "Laurel Kalser"
-    ],
-    "container": "HR Dive"
-   }
-  },
-  {
-   "id": "cd7a3341cf7ba578",
-   "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-   "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-   "source": "HR Dive",
-   "source_id": "hr-dive",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-19T20:36:00Z",
-   "first_seen": "2026-11-20T03:24:04Z",
-   "window_days": 7,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "ai",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Lara Ewen"
     ],
     "container": "HR Dive"
    }
@@ -1168,6 +1277,50 @@
     "volume": "17",
     "first_page": "1860710",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1860710"
+   }
+  },
+  {
+   "id": "0ec5da32fcbcb5ed",
+   "title": "From technostress to team resilience: Artificial intelligence, health information technology, and clinician burnout",
+   "url": "https://doi.org/10.1016/j.ssmqr.2026.100902",
+   "source": "SSM - Qualitative Research in Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-18T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Lambert Zixin Li",
+     "Akhtar Masood",
+     "Sara J. Singer"
+    ],
+    "container": "SSM - Qualitative Research in Health",
+    "volume": "10",
+    "first_page": "100902",
+    "last_page": "100902",
+    "doi": "https://doi.org/10.1016/j.ssmqr.2026.100902"
    }
   },
   {
@@ -5737,6 +5890,7 @@
     "container": "Frontiers in Psychology",
     "volume": "17",
     "first_page": "1910745",
+    "last_page": "1910745",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1910745"
    }
   },
@@ -5814,6 +5968,7 @@
     "container": "Frontiers in Sociology",
     "volume": "11",
     "first_page": "1972294",
+    "last_page": "1972294",
     "doi": "https://doi.org/10.3389/fsoc.2026.1972294"
    }
   },
@@ -6554,49 +6709,6 @@
     "first_page": "107956",
     "last_page": "107956",
     "doi": "https://doi.org/10.1016/j.actpsy.2026.107956"
-   }
-  },
-  {
-   "id": "0ec5da32fcbcb5ed",
-   "title": "From Technostress to Team Resilience: Artificial Intelligence, Health Information Technology, and Clinician Burnout",
-   "url": "https://doi.org/10.1016/j.ssmqr.2026.100902",
-   "source": "SSM - Qualitative Research in Health",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-19T18:41:48Z",
-   "window_days": 60,
-   "topics": [
-    "well-being",
-    "ai-at-work"
-   ],
-   "why": {
-    "well-being": {
-     "phrase": "burnout",
-     "kind": "strong",
-     "in_title": true
-    },
-    "ai-at-work": {
-     "phrase": "technostress",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Lambert Zixin Li",
-     "Akhtar Masood",
-     "Sara J. Singer"
-    ],
-    "container": "SSM - Qualitative Research in Health",
-    "first_page": "100902",
-    "last_page": "100902",
-    "doi": "https://doi.org/10.1016/j.ssmqr.2026.100902"
    }
   },
   {

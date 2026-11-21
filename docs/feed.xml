@@ -6,13 +6,43 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:50:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:58:03 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>The Missing Five Minutes: Practitioner Lessons from Building Code Calm as Postcrisis Recovery Infrastructure</title>
+      <link>https://doi.org/10.1177/00218863261508897</link>
+      <guid isPermaLink="false">fedf31fe4cc388fc</guid>
+      <pubDate>Sat, 21 Nov 2026 16:58:03 GMT</pubDate>
+      <description>Peer-reviewed · Journal of Applied Behavioral Science · Published Nov 20, 2026 · Free to read.</description>
+      <category>Peer-reviewed</category>
+      <dc:creator>Sumreen Chaudhry</dc:creator>
+    </item>
+    <item>
+      <title>Reconstructing Work Motivation of Pangkalan Data Pendidikan Tinggi (PDDIKTI) Operators in the Digital Transformation Era</title>
+      <link>https://doi.org/10.31538/ndhq.v11i3.412</link>
+      <guid isPermaLink="false">672fd8bbb210b141</guid>
+      <pubDate>Sat, 21 Nov 2026 16:58:03 GMT</pubDate>
+      <description>Peer-reviewed · Nidhomul Haq Jurnal Manajemen Pendidikan Islam · Published Nov 20, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Fauzi Fauzi, Siti Patimah, Nurul Hidayati Murtafiah</dc:creator>
+    </item>
+    <item>
+      <title>Digital Transformation as a Conditional Enabler of Circular Supply Chain Performance: A Systematic Review and Integrative Framework</title>
+      <link>https://doi.org/10.3390/logistics10110278</link>
+      <guid isPermaLink="false">9ae18d6961b0d639</guid>
+      <pubDate>Sat, 21 Nov 2026 16:58:03 GMT</pubDate>
+      <description>Peer-reviewed · Logistics · Published Nov 20, 2026 · Free to read. Topics: Organizational change.</description>
+      <category>Peer-reviewed</category>
+      <category>Organizational change</category>
+      <dc:creator>Leonardo P. Dominguez Zeta, Milagros P. Córdova de Chang, José Halbert Chang Valdiviezo, Joel F. Domínguez Zeta, José L. Sosa–León, Marina Fernández Miranda</dc:creator>
+    </item>
     <item>
       <title>‘The doom of humanity’: will the quest to make robotic hands render us obsolete?</title>
       <link>https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai</link>
@@ -171,6 +201,16 @@
       <dc:creator>cbuban</dc:creator>
     </item>
     <item>
+      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
+      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
+      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
+      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Lara Ewen</dc:creator>
+    </item>
+    <item>
       <title>Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say</title>
       <link>https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/</link>
       <guid isPermaLink="false">f7d9c0f112d7e794</guid>
@@ -180,16 +220,6 @@
       <category>Organizational change</category>
       <category>Labor economics</category>
       <dc:creator>Laurel Kalser</dc:creator>
-    </item>
-    <item>
-      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
-      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
-      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
-      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Lara Ewen</dc:creator>
     </item>
     <item>
       <title>With AI blamed for mass layoffs, here’s how we can ensure workers get a fairer go</title>
@@ -276,6 +306,18 @@
       <dc:creator>Ling Jiang, Jingjing Zhang</dc:creator>
     </item>
     <item>
+      <title>From technostress to team resilience: Artificial intelligence, health information technology, and clinician burnout</title>
+      <link>https://doi.org/10.1016/j.ssmqr.2026.100902</link>
+      <guid isPermaLink="false">0ec5da32fcbcb5ed</guid>
+      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
+      <description>Peer-reviewed · SSM - Qualitative Research in Health · Published Nov 18, 2026 · Free to read. Topics: Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Lambert Zixin Li, Akhtar Masood, Sara J. Singer</dc:creator>
+    </item>
+    <item>
       <title>Does psychological safety condition the expression of big-five traits in promotive and prohibitive voice?</title>
       <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1989296/pdf</link>
       <guid isPermaLink="false">a8db25247e9158b1</guid>
@@ -316,18 +358,6 @@
       <category>Leadership and change communication</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Pradipta Suarsyaf, Kurniawan Saefullah, Asep Mulyana</dc:creator>
-    </item>
-    <item>
-      <title>From Technostress to Team Resilience: Artificial Intelligence, Health Information Technology, and Clinician Burnout</title>
-      <link>https://doi.org/10.1016/j.ssmqr.2026.100902</link>
-      <guid isPermaLink="false">0ec5da32fcbcb5ed</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · SSM - Qualitative Research in Health · Published Nov 1, 2026 · Free to read. Topics: Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Lambert Zixin Li, Akhtar Masood, Sara J. Singer</dc:creator>
     </item>
     <item>
       <title>Cognition and Attitudes of Young and Middle-Aged Teachers Towards AI in Medical Education: A Cross-Sectional Study</title>
@@ -611,39 +641,6 @@
       <category>News</category>
       <category>Organizational change</category>
       <dc:creator>Ryan Golden</dc:creator>
-    </item>
-    <item>
-      <title>Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit</title>
-      <link>https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars</link>
-      <guid isPermaLink="false">db43089f31ad646a</guid>
-      <pubDate>Tue, 17 Nov 2026 04:33:01 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 16, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Tom McIlroy</dc:creator>
-    </item>
-    <item>
-      <title>DINAMIKA TEAMWORK DAN PSYCHOLOGICAL SAFETY DALAM PENINGKATAN KESEHATAN MENTAL DI TEMPAT KERJA</title>
-      <link>https://journal.unpas.ac.id/index.php/pendas/article/download/72719/43069</link>
-      <guid isPermaLink="false">8d2a690721288138</guid>
-      <pubDate>Tue, 17 Nov 2026 04:33:01 GMT</pubDate>
-      <description>Peer-reviewed · Pendas Jurnal Ilmiah Pendidikan Dasar · Published Nov 13, 2026 · Free to read. Topics: Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Psychological safety and culture</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Husnul Hamidiyah, Felly Yunita, Sonya Fitrianie</dc:creator>
-    </item>
-    <item>
-      <title>THE INFLUENCE OF TRANSFORMATIONAL LEADERSHIP STYLE AND ORGANIZATION CULTURE ON EMPLOYEE PERFORMANCE AT ISLAMIC BOARDING SCHOOL „X“ PEKANBARU</title>
-      <link>https://journal.unpas.ac.id/index.php/pendas/article/download/74279/42997</link>
-      <guid isPermaLink="false">ebeedd9482319b09</guid>
-      <pubDate>Tue, 17 Nov 2026 04:33:01 GMT</pubDate>
-      <description>Peer-reviewed · Pendas Jurnal Ilmiah Pendidikan Dasar · Published Nov 13, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Raspan Hamdi, Lailatul Izzah, Eva Yuliza, Willytiyo Kurniawan, Renny Rahmaliae, Abdullah Nur Wakhid</dc:creator>
     </item>
   </channel>
 </rss>
