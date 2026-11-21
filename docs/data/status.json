@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T04:17:49Z",
+ "generated": "2026-11-21T09:50:26Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -352,10 +352,10 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 2,
+   "kept": 3,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-21T03:51:03Z",
+   "newest_item": "2026-11-21T06:00:52Z",
    "stale": false
   },
   {
@@ -363,14 +363,14 @@
    "name": "The Guardian (Work & careers)",
    "layer": "news",
    "ok": true,
-   "found": 39,
-   "kept": 10,
+   "found": 38,
+   "kept": 11,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-20T21:38:17Z",
+   "newest_item": "2026-11-21T06:00:52Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-20T23:40:57Z",
+   "newest_item": "2026-11-21T06:05:00Z",
    "stale": false
   },
   {
@@ -445,7 +445,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-21T04:00:00Z",
+   "newest_item": "2026-11-21T09:30:57Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-21T04:14:31Z",
+   "newest_item": "2026-11-21T08:54:55Z",
    "stale": false
   },
   {
@@ -472,20 +472,17 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-21T12:02:42Z",
+   "newest_item": "2026-11-21T16:47:33Z",
    "stale": false
   },
   {
    "id": "sunstar",
    "name": "SunStar",
    "layer": "news",
-   "ok": true,
-   "found": 2,
+   "ok": false,
+   "found": 0,
    "kept": 0,
-   "error": null,
-   "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-21T03:00:02Z",
-   "stale": false
+   "error": "no entries found (not a valid feed?)"
   },
   {
    "id": "malay-mail",

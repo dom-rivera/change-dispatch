@@ -6,13 +6,23 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 04:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:50:26 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>‘The doom of humanity’: will the quest to make robotic hands render us obsolete?</title>
+      <link>https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai</link>
+      <guid isPermaLink="false">3bd15573705779b6</guid>
+      <pubDate>Sat, 21 Nov 2026 09:50:26 GMT</pubDate>
+      <description>News · The Guardian (Technology) · Published Nov 21, 2026 · Free to read. Topics: Future of work.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <dc:creator>Jenny Kleeman</dc:creator>
+    </item>
     <item>
       <title>Executives get more AI training than other workers, hurting adoption, report finds</title>
       <link>https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/</link>
@@ -634,16 +644,6 @@
       <category>Leadership and change communication</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Raspan Hamdi, Lailatul Izzah, Eva Yuliza, Willytiyo Kurniawan, Renny Rahmaliae, Abdullah Nur Wakhid</dc:creator>
-    </item>
-    <item>
-      <title>Factors associated with artificial intelligence adoption among advertising professionals: evidence from the Motivation–Opportunity–Ability (MOA) framework</title>
-      <link>https://obs.obercom.pt/index.php/obs/article/download/2955/188188526</link>
-      <guid isPermaLink="false">1f1d3f1446571007</guid>
-      <pubDate>Tue, 17 Nov 2026 04:33:01 GMT</pubDate>
-      <description>Peer-reviewed · Observatorio (OBS*) · Published Nov 11, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Noemí Martín García, Marian Núñez Cansado, Marta Laguna García</dc:creator>
     </item>
   </channel>
 </rss>

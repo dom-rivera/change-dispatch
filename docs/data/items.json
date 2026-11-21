@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T04:17:49Z",
- "count": 315,
+ "generated": "2026-11-21T09:50:26Z",
+ "count": 316,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,38 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "3bd15573705779b6",
+   "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-21T06:00:52Z",
+   "first_seen": "2026-11-21T09:50:26Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "flexible working",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Jenny Kleeman"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "8f41770791ff0ff4",
    "title": "Executives get more AI training than other workers, hurting adoption, report finds",
