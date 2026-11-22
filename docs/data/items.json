@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T09:47:06Z",
- "count": 320,
+ "generated": "2026-11-22T17:25:32Z",
+ "count": 328,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,168 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "9b6ecc711499f0d3",
+   "title": "Asean solar boom puts work skills gap in focus",
+   "url": "https://www.philstar.com/business/2026/11/23/2571917/asean-solar-boom-puts-work-skills-gap-focus",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-22T16:00:00Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills gap",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Brix Lelis"
+    ],
+    "container": "Philstar Business"
+   }
+  },
+  {
+   "id": "9fbe2322f885c062",
+   "title": "DOLE mipagawas og mga lagda sa 13 month pay",
+   "url": "https://www.sunstar.com.ph/superbalita-cebu/dole-mipagawas-og-mga-lagda-sa-13-month-pay",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-22T14:57:31Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "dole",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Denise Mae P. Codis"
+    ],
+    "container": "SunStar"
+   }
+  },
+  {
+   "id": "ef9d0fb5637cf5df",
+   "title": "Reforms, skills training pushed for Pax Silica jobs",
+   "url": "https://bworldonline.com/the-nation/2026/11/22/795840/reforms-skills-training-pushed-for-pax-silica-jobs/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-22T13:39:23Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills training",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "8a1d68a108a9f446",
+   "title": "Philippines expected to benefit from regional campaign to address solar industry skills gap",
+   "url": "https://bworldonline.com/economy/2026/11/22/795766/philippines-expected-to-benefit-from-regional-campaign-to-address-solar-industry-skills-gap/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-22T13:16:33Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills gap",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "6dbcad5894f6d296",
+   "title": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/22/work-respect-pay-crisis-neets-milburn-review",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-22T10:00:24Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labour market",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [
+    "Opinion"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "John Harris"
+    ],
+    "container": "The Guardian"
+   }
+  },
   {
    "id": "c4db5a942c340a1a",
    "title": "Seafarers urge compensation release after SC voids bond rule",
@@ -506,7 +668,7 @@
   {
    "id": "672fd8bbb210b141",
    "title": "Reconstructing Work Motivation of Pangkalan Data Pendidikan Tinggi (PDDIKTI) Operators in the Digital Transformation Era",
-   "url": "https://doi.org/10.31538/ndhq.v11i3.412",
+   "url": "https://nidhomulhaq.uacmjk.ac.id/index.php/ndh/article/download/412/176",
    "source": "Nidhomul Haq Jurnal Manajemen Pendidikan Islam",
    "source_id": "core-search",
    "layer": "research",
@@ -588,6 +750,74 @@
    }
   },
   {
+   "id": "6c1a9904d8e927ae",
+   "title": "Social Capital or Systemic Capital? Two Transformational Leadership Pathways and the CERDAS Model in Private Madrasah Aliyah",
+   "url": "https://jurnaledukasia.org/index.php/edukasia/article/view/2224",
+   "source": "EDUKASIA Jurnal Pendidikan dan Pembelajaran",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-20T00:00:00Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Didik Himmawan",
+     "Nana Herdiana Abdurrahman",
+     "Deti Rostini",
+     "Ahmad Sukandar"
+    ],
+    "container": "EDUKASIA Jurnal Pendidikan dan Pembelajaran",
+    "doi": "https://doi.org/10.62775/edukasia.v7i2.2224"
+   }
+  },
+  {
+   "id": "cd7a3341cf7ba578",
+   "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+   "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-19T20:36:00Z",
+   "first_seen": "2026-11-20T03:24:04Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lara Ewen"
+    ],
+    "container": "HR Dive"
+   }
+  },
+  {
    "id": "f7d9c0f112d7e794",
    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
    "url": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
@@ -621,38 +851,6 @@
     "kind": "news",
     "authors": [
      "Laurel Kalser"
-    ],
-    "container": "HR Dive"
-   }
-  },
-  {
-   "id": "cd7a3341cf7ba578",
-   "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-   "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-   "source": "HR Dive",
-   "source_id": "hr-dive",
-   "layer": "news",
-   "type": "News",
-   "published": "2026-11-19T20:36:00Z",
-   "first_seen": "2026-11-20T03:24:04Z",
-   "window_days": 7,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "ai",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "news",
-    "authors": [
-     "Lara Ewen"
     ],
     "container": "HR Dive"
    }
@@ -1346,7 +1544,7 @@
     "authors": [
      "Lambert Zixin Li",
      "Akhtar Masood",
-     "Sara J. Singer"
+     "Sara Jean Singer"
     ],
     "container": "SSM - Qualitative Research in Health",
     "volume": "10",
@@ -6329,59 +6527,6 @@
    }
   },
   {
-   "id": "e1fc51c8ccfea525",
-   "title": "Beyond Deep Acting: How Transformational Leadership Is Associated with Employee Well-Being Through Surface Acting and Self-Efficacy",
-   "url": "https://doi.org/10.3390/bs16112089",
-   "source": "Behavioral Sciences",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-03T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy",
-    "leadership",
-    "well-being"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": true
-    },
-    "leadership": {
-     "phrase": "transformational leadership",
-     "kind": "strong",
-     "in_title": true
-    },
-    "well-being": {
-     "phrase": "employee well-being",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Tuğba Soyman Can",
-     "Meryem Derya Yeşiltaş",
-     "Musa Şanal",
-     "Kemal Can Kılıç",
-     "Azmi Yalçın"
-    ],
-    "container": "Behavioral Sciences",
-    "volume": "16",
-    "issue": "11",
-    "first_page": "2089",
-    "last_page": "2089",
-    "doi": "https://doi.org/10.3390/bs16112089"
-   }
-  },
-  {
    "id": "96a72e983157ab60",
    "title": "Dynamic Architecture of Leadership Capabilities in the Context of Women’s Leadership Development",
    "url": "https://doi.org/10.3390/systems14111395",
@@ -6460,6 +6605,59 @@
     "first_page": "e0351893",
     "last_page": "e0351893",
     "doi": "https://doi.org/10.1371/journal.pone.0351893"
+   }
+  },
+  {
+   "id": "e1fc51c8ccfea525",
+   "title": "Beyond Deep Acting: How Transformational Leadership Is Associated with Employee Well-Being Through Surface Acting and Self-Efficacy",
+   "url": "https://doi.org/10.3390/bs16112089",
+   "source": "Behavioral Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-03T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "leadership",
+    "well-being"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    },
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "employee well-being",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Tuğba Soyman Can",
+     "Meryem Derya Yeşiltaş",
+     "Musa Şanal",
+     "Kemal Can Kılıç",
+     "Azmi Yalçın"
+    ],
+    "container": "Behavioral Sciences",
+    "volume": "16",
+    "issue": "11",
+    "first_page": "2089",
+    "last_page": "2089",
+    "doi": "https://doi.org/10.3390/bs16112089"
    }
   },
   {
@@ -6587,6 +6785,39 @@
    }
   },
   {
+   "id": "f04b2d6aaaae2e2e",
+   "title": "Supporting into-work benefit reform in Spain",
+   "url": "https://doi.org/10.1787/cf1c621f-en",
+   "source": "OECD (Employment & Social)",
+   "source_id": "oecd-sem",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 60,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD"
+    ],
+    "container": "OECD social employment and migration working papers",
+    "doi": "https://doi.org/10.1787/cf1c621f-en"
+   }
+  },
+  {
    "id": "ec11741b85392f92",
    "title": "Speaking Up or Thinking of Leaving? Ethical Climate, Psychological Safety, and Voice in B2B Salesforces",
    "url": "https://marketingmanagementjournal.scholasticahq.com/article/172047.pdf",
@@ -6663,44 +6894,6 @@
     "issue": "6",
     "first_page": "e70944",
     "doi": "https://doi.org/10.1111/hex.70944"
-   }
-  },
-  {
-   "id": "94d6d4b4b871ec79",
-   "title": "Transformational Leadership Practices in Hospitals: A Systematic Literature Review of Implementation, Challenges, and Success Factors",
-   "url": "https://www.dovepress.com/article/download/122445",
-   "source": "Journal of Healthcare Leadership",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-19T18:41:48Z",
-   "window_days": 60,
-   "topics": [
-    "leadership"
-   ],
-   "why": {
-    "leadership": {
-     "phrase": "transformational leadership",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Pradipta Suarsyaf",
-     "Kurniawan Saefullah",
-     "Asep Mulyana"
-    ],
-    "container": "Journal of Healthcare Leadership",
-    "volume": "Volume 18",
-    "first_page": "1",
-    "last_page": "18",
-    "doi": "https://doi.org/10.2147/jhl.s646432"
    }
   },
   {
@@ -6942,6 +7135,44 @@
     "container": "International Journal of Engineering Business Management",
     "volume": "18",
     "doi": "https://doi.org/10.1177/18479790261506567"
+   }
+  },
+  {
+   "id": "94d6d4b4b871ec79",
+   "title": "Transformational Leadership Practices in Hospitals: A Systematic Literature Review of Implementation, Challenges, and Success Factors",
+   "url": "https://www.dovepress.com/article/download/122445",
+   "source": "Journal of Healthcare Leadership",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-19T18:41:48Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pradipta Suarsyaf",
+     "Kurniawan Saefullah",
+     "Asep Mulyana"
+    ],
+    "container": "Journal of Healthcare Leadership",
+    "volume": "Volume 18",
+    "first_page": "1",
+    "last_page": "18",
+    "doi": "https://doi.org/10.2147/jhl.s646432"
    }
   },
   {
@@ -9838,6 +10069,39 @@
     "first_page": "355",
     "last_page": "355",
     "doi": "https://doi.org/10.3390/nursrep16100355"
+   }
+  },
+  {
+   "id": "b5c50340769de559",
+   "title": "Proceeding report from Madrid conference on the responsible scale of AI in healthcare: Scaling fast while doing no harm",
+   "url": "https://doi.org/10.1787/cf9439c3-en",
+   "source": "OECD (Artificial Intelligence)",
+   "source_id": "oecd-ai",
+   "layer": "institutional",
+   "type": "Institutional",
+   "published": "2026-10-07T00:00:00Z",
+   "first_seen": "2026-11-22T17:25:32Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "report",
+    "authors": [
+     "OECD"
+    ],
+    "container": "OECD artificial intelligence papers",
+    "doi": "https://doi.org/10.1787/cf9439c3-en"
    }
   },
   {

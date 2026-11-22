@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T09:47:06Z",
+ "generated": "2026-11-22T17:25:32Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -153,8 +153,8 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 289,
-   "kept": 99,
+   "found": 290,
+   "kept": 98,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 19,
@@ -166,7 +166,7 @@
     "occupational self-efficacy": 3,
     "openness to change": 15,
     "resistance to change": 25,
-    "attitudes toward change": 3,
+    "attitudes toward change": 4,
     "change cynicism": 0,
     "organizational change": 25,
     "change management": 25,
@@ -187,9 +187,9 @@
     "job redesign": 0,
     "nudge": 25,
     "status quo bias": 3,
-    "loss aversion": 17
+    "loss aversion": 18
    },
-   "dropped_low_h_index": 123,
+   "dropped_low_h_index": 125,
    "min_h_index": 30,
    "newest_item": "2026-12-31T00:00:00Z",
    "stale": false
@@ -199,7 +199,7 @@
    "name": "Philippine research search",
    "layer": "research",
    "ok": true,
-   "found": 64,
+   "found": 65,
    "kept": 6,
    "error": null,
    "results_per_phrase": {
@@ -226,7 +226,7 @@
    "layer": "preprint",
    "ok": true,
    "found": 1239,
-   "kept": 14,
+   "kept": 13,
    "error": null,
    "newest_item": "2026-11-20T14:22:51Z",
    "stale": false
@@ -247,7 +247,7 @@
    "layer": "institutional",
    "ok": true,
    "found": 3,
-   "kept": 2,
+   "kept": 3,
    "error": null,
    "openalex_source": "https://openalex.org/S4210221173",
    "journal_matched": "OECD social employment and migration working papers",
@@ -259,12 +259,12 @@
    "name": "OECD (Artificial Intelligence)",
    "layer": "institutional",
    "ok": true,
-   "found": 3,
-   "kept": 1,
+   "found": 4,
+   "kept": 2,
    "error": null,
    "openalex_source": "https://openalex.org/S4393920202",
    "journal_matched": "OECD artificial intelligence papers",
-   "newest_item": "2026-11-17T00:00:00Z",
+   "newest_item": "2026-11-26T00:00:00Z",
    "stale": false
   },
   {
@@ -295,7 +295,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-20T14:26:34Z",
+   "newest_item": "2026-11-22T12:51:27Z",
    "stale": false
   },
   {
@@ -307,7 +307,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-22T02:55:00Z",
+   "newest_item": "2026-11-22T16:00:00Z",
    "stale": false
   },
   {
@@ -316,10 +316,10 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-22T05:25:05Z",
+   "newest_item": "2026-11-22T13:47:35Z",
    "stale": false
   },
   {
@@ -331,7 +331,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-22T02:15:00Z",
+   "newest_item": "2026-11-23T00:50:52Z",
    "stale": false
   },
   {
@@ -343,7 +343,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-21T13:00:01Z",
+   "newest_item": "2026-11-22T11:00:26Z",
    "stale": false
   },
   {
@@ -352,10 +352,10 @@
    "layer": "news",
    "ok": true,
    "found": 36,
-   "kept": 3,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-22T09:00:22Z",
+   "newest_item": "2026-11-22T12:12:07Z",
    "stale": false
   },
   {
@@ -364,13 +364,13 @@
    "layer": "news",
    "ok": true,
    "found": 38,
-   "kept": 10,
+   "kept": 11,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-22T09:00:22Z",
+   "newest_item": "2026-11-22T16:00:31Z",
    "stale": false
   },
   {
@@ -378,11 +378,11 @@
    "name": "BBC News (Business)",
    "layer": "news",
    "ok": true,
-   "found": 56,
+   "found": 55,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-22T07:22:05Z",
+   "newest_item": "2026-11-22T13:50:21Z",
    "stale": false
   },
   {
@@ -394,7 +394,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-21T10:00:00Z",
+   "newest_item": "2026-11-22T10:00:00Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-21T15:24:55Z",
+   "newest_item": "2026-11-22T11:02:52Z",
    "stale": false
   },
   {
@@ -445,7 +445,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-22T08:54:38Z",
+   "newest_item": "2026-11-22T11:44:04Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-22T08:44:56Z",
+   "newest_item": "2026-11-22T16:32:16Z",
    "stale": false
   },
   {
@@ -469,10 +469,10 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-22T17:45:06Z",
+   "newest_item": "2026-11-23T01:29:54Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 4,
-   "kept": 0,
+   "found": 28,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-22T06:38:41Z",
+   "newest_item": "2026-11-22T15:04:03Z",
    "stale": false
   },
   {
