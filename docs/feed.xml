@@ -6,7 +6,7 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 02:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:29:53 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
@@ -212,6 +212,16 @@
       <dc:creator>cbuban</dc:creator>
     </item>
     <item>
+      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
+      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
+      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
+      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Lara Ewen</dc:creator>
+    </item>
+    <item>
       <title>Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say</title>
       <link>https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/</link>
       <guid isPermaLink="false">f7d9c0f112d7e794</guid>
@@ -221,16 +231,6 @@
       <category>Organizational change</category>
       <category>Labor economics</category>
       <dc:creator>Laurel Kalser</dc:creator>
-    </item>
-    <item>
-      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
-      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
-      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
-      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Lara Ewen</dc:creator>
     </item>
     <item>
       <title>With AI blamed for mass layoffs, here’s how we can ensure workers get a fairer go</title>

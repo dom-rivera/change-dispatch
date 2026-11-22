@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T02:16:36Z",
+ "generated": "2026-11-22T03:29:53Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -307,7 +307,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-21T16:00:00Z",
+   "newest_item": "2026-11-22T02:55:00Z",
    "stale": false
   },
   {
@@ -445,7 +445,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-22T02:00:00Z",
+   "newest_item": "2026-11-22T03:00:00Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-22T01:51:21Z",
+   "newest_item": "2026-11-22T03:20:09Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-22T09:42:38Z",
+   "newest_item": "2026-11-22T10:44:03Z",
    "stale": false
   },
   {
