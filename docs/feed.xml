@@ -6,13 +6,24 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:16:36 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Seafarers urge compensation release after SC voids bond rule</title>
+      <link>https://newsinfo.inquirer.net/2345075/seafarers-urge-compensation-release-after-sc-voids-bond-rule</link>
+      <guid isPermaLink="false">c4db5a942c340a1a</guid>
+      <pubDate>Sun, 22 Nov 2026 02:16:36 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 22, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>jvicente</dc:creator>
+    </item>
     <item>
       <title>The Missing Five Minutes: Practitioner Lessons from Building Code Calm as Postcrisis Recovery Infrastructure</title>
       <link>https://doi.org/10.1177/00218863261508897</link>
@@ -201,16 +212,6 @@
       <dc:creator>cbuban</dc:creator>
     </item>
     <item>
-      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
-      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
-      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
-      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Lara Ewen</dc:creator>
-    </item>
-    <item>
       <title>Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say</title>
       <link>https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/</link>
       <guid isPermaLink="false">f7d9c0f112d7e794</guid>
@@ -220,6 +221,16 @@
       <category>Organizational change</category>
       <category>Labor economics</category>
       <dc:creator>Laurel Kalser</dc:creator>
+    </item>
+    <item>
+      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
+      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
+      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
+      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Lara Ewen</dc:creator>
     </item>
     <item>
       <title>With AI blamed for mass layoffs, here’s how we can ensure workers get a fairer go</title>
@@ -631,16 +642,6 @@
       <category>News</category>
       <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
-    </item>
-    <item>
-      <title>Feds seek overhaul of permanent immigrant worker regulations</title>
-      <link>https://www.hrdive.com/news/feds-seek-overhaul-of-permanent-immigrant-worker-regulations/874803/</link>
-      <guid isPermaLink="false">15c53c0020d7ffd8</guid>
-      <pubDate>Tue, 17 Nov 2026 04:33:01 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 16, 2026 · Free to read. Topics: Organizational change.</description>
-      <category>News</category>
-      <category>Organizational change</category>
-      <dc:creator>Ryan Golden</dc:creator>
     </item>
   </channel>
 </rss>
