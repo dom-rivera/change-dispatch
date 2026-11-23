@@ -6,13 +6,42 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 04:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:46:59 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Light Pollution: Effects on Sleep, Work, and Mental Health</title>
+      <link>https://www.nber.org/papers/w36060</link>
+      <guid isPermaLink="false">fafdc2ae9fa3d199</guid>
+      <pubDate>Mon, 23 Nov 2026 10:46:59 GMT</pubDate>
+      <description>Preprint · NBER Working Papers · Added Nov 23, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
+      <category>Preprint</category>
+      <category>Employee well-being</category>
+      <dc:creator>Joan Costa-i-Font, Janet Currie, Soodeh Saberian</dc:creator>
+    </item>
+    <item>
+      <title>Bangladesh garment makers eye 15% wage hike, far short of workers' demand</title>
+      <link>https://www.channelnewsasia.com/business/bangladesh-garment-makers-eye-15-wage-hike-far-short-workers-demand-6574591</link>
+      <guid isPermaLink="false">5ea1f71c184c0c91</guid>
+      <pubDate>Mon, 23 Nov 2026 10:46:59 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 23, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+    </item>
+    <item>
+      <title>How to save while spending your 13th month pay</title>
+      <link>https://www.philstar.com/banking/2026/11/23/2572067/how-save-while-spending-your-13th-month-pay</link>
+      <guid isPermaLink="false">07b49b9364147d6f</guid>
+      <pubDate>Mon, 23 Nov 2026 10:46:59 GMT</pubDate>
+      <description>News · Philstar Business · Published Nov 23, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
     <item>
       <title>Manibela begins two-day transport strike</title>
       <link>https://newsinfo.inquirer.net/2345555/manibela-begins-two-day-transport-strike</link>
@@ -340,16 +369,6 @@
       <dc:creator>cbuban</dc:creator>
     </item>
     <item>
-      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
-      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
-      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
-      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Lara Ewen</dc:creator>
-    </item>
-    <item>
       <title>Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say</title>
       <link>https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/</link>
       <guid isPermaLink="false">f7d9c0f112d7e794</guid>
@@ -359,6 +378,16 @@
       <category>Organizational change</category>
       <category>Labor economics</category>
       <dc:creator>Laurel Kalser</dc:creator>
+    </item>
+    <item>
+      <title>Job candidates’ AI usage is obscuring their viability, report finds</title>
+      <link>https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/</link>
+      <guid isPermaLink="false">cd7a3341cf7ba578</guid>
+      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 19, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Lara Ewen</dc:creator>
     </item>
     <item>
       <title>With AI blamed for mass layoffs, here’s how we can ensure workers get a fairer go</title>
@@ -613,38 +642,6 @@
       <category>Peer-reviewed</category>
       <category>Employee well-being</category>
       <dc:creator>Jon Gray, Jonathan R. Flinchum, Steven G. Rogelberg, Matthew J. Gerson, Nicholas J. Dilley, Liana M. Kreamer</dc:creator>
-    </item>
-    <item>
-      <title>Investing in AI Literacy Means Investing in Judgment</title>
-      <link>https://btf.rappler.com/390/investing-in-ai-literacy-means-investing-in-judgment/</link>
-      <guid isPermaLink="false">db7d4da78174bb91</guid>
-      <pubDate>Wed, 18 Nov 2026 10:11:04 GMT</pubDate>
-      <description>News · Rappler · Published Nov 18, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Angel Chiang, Jewel Zhu, Paolo Miguel Ordonio</dc:creator>
-    </item>
-    <item>
-      <title>Lapu-Lapu job fair offers 4,645 vacancies</title>
-      <link>https://www.sunstar.com.ph/cebu/lapu-lapu-job-fair-offers-4645-vacancies</link>
-      <guid isPermaLink="false">a4319d7a01be64d8</guid>
-      <pubDate>Wed, 18 Nov 2026 03:43:29 GMT</pubDate>
-      <description>News · SunStar · Published Nov 18, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Denise Mae P. Codis</dc:creator>
-    </item>
-    <item>
-      <title>Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened</title>
-      <link>https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates</link>
-      <guid isPermaLink="false">bf87b2822f814290</guid>
-      <pubDate>Tue, 17 Nov 2026 18:46:45 GMT</pubDate>
-      <description>News · The Guardian (Business) · Published Nov 17, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Graeme Wearden</dc:creator>
     </item>
   </channel>
 </rss>
