@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T02:50:41Z",
- "count": 330,
+ "generated": "2026-11-23T04:00:08Z",
+ "count": 332,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,74 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "a47a8f5beb2506f8",
+   "title": "Manibela begins two-day transport strike",
+   "url": "https://newsinfo.inquirer.net/2345555/manibela-begins-two-day-transport-strike",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-23T10:53:36Z",
+   "first_seen": "2026-11-23T04:00:08Z",
+   "window_days": 7,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership change",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "mmercado"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "fe5e88779f0c6f46",
+   "title": "Gender and Agency in AI Career Guidance for Women: A Socio-Technical Audit of General-Purpose Language Models",
+   "url": "https://osf.io/preprints/psyarxiv/2hbe4_v1/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-23T03:17:01Z",
+   "first_seen": "2026-11-23T04:00:08Z",
+   "window_days": 30,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/2hbe4_v1",
+    "authors": [
+     "Sara Portell-Fonolla",
+     "Yasmina El Fassi"
+    ]
+   }
+  },
   {
    "id": "e37d7c0b2c4a75d2",
    "title": "ABS-CBN saw the future, GMA made the money, now both must change",

@@ -6,13 +6,34 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:00:08 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Manibela begins two-day transport strike</title>
+      <link>https://newsinfo.inquirer.net/2345555/manibela-begins-two-day-transport-strike</link>
+      <guid isPermaLink="false">a47a8f5beb2506f8</guid>
+      <pubDate>Mon, 23 Nov 2026 04:00:08 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 23, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Leadership and change communication</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>mmercado</dc:creator>
+    </item>
+    <item>
+      <title>Gender and Agency in AI Career Guidance for Women: A Socio-Technical Audit of General-Purpose Language Models</title>
+      <link>https://osf.io/preprints/psyarxiv/2hbe4_v1/</link>
+      <guid isPermaLink="false">fe5e88779f0c6f46</guid>
+      <pubDate>Mon, 23 Nov 2026 04:00:08 GMT</pubDate>
+      <description>Preprint · PsyArXiv · Published Nov 23, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
+      <category>Preprint</category>
+      <category>AI at work</category>
+      <dc:creator>Sara Portell-Fonolla, Yasmina El Fassi</dc:creator>
+    </item>
     <item>
       <title>ABS-CBN saw the future, GMA made the money, now both must change</title>
       <link>https://www.rappler.com/business/abs-cbn-saw-future-gma-network-made-money-now-both-must-change/</link>
@@ -624,26 +645,6 @@
       <category>News</category>
       <category>Labor economics</category>
       <dc:creator>Graeme Wearden</dc:creator>
-    </item>
-    <item>
-      <title>Why AI skill-building is only one part of the puzzle</title>
-      <link>https://www.hrdive.com/news/ai-adoption-skillbuilding-tailored-training/874885/</link>
-      <guid isPermaLink="false">41a8d21fe7c03c67</guid>
-      <pubDate>Tue, 17 Nov 2026 18:46:45 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 17, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Caroline Colvin</dc:creator>
-    </item>
-    <item>
-      <title>Santander allows staff to count holidays and sick leave as days worked in office</title>
-      <link>https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office</link>
-      <guid isPermaLink="false">21aeee77641d2d02</guid>
-      <pubDate>Tue, 17 Nov 2026 18:46:45 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 17, 2026 · Free to read. Topics: Employee well-being.</description>
-      <category>News</category>
-      <category>Employee well-being</category>
-      <dc:creator>Joanna Partridge</dc:creator>
     </item>
   </channel>
 </rss>
