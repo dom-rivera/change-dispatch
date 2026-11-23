@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T17:25:32Z",
- "count": 328,
+ "generated": "2026-11-23T02:50:41Z",
+ "count": 330,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "e37d7c0b2c4a75d2",
+   "title": "ABS-CBN saw the future, GMA made the money, now both must change",
+   "url": "https://www.rappler.com/business/abs-cbn-saw-future-gma-network-made-money-now-both-must-change/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-23T02:43:48Z",
+   "first_seen": "2026-11-23T02:50:41Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lala Rimando"
+    ],
+    "container": "Rappler"
+   }
+  },
+  {
+   "id": "364944c62b5a2636",
+   "title": "Industry group, regional think tank boost solar power workforce",
+   "url": "https://business.inquirer.net/622276/industry-group-regional-think-tank-boost-solar-power-workforce",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-23T02:05:00Z",
+   "first_seen": "2026-11-23T02:50:41Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "news",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
   {
    "id": "9b6ecc711499f0d3",
    "title": "Asean solar boom puts work skills gap in focus",

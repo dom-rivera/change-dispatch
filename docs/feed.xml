@@ -6,13 +6,35 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 17:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:50:41 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>ABS-CBN saw the future, GMA made the money, now both must change</title>
+      <link>https://www.rappler.com/business/abs-cbn-saw-future-gma-network-made-money-now-both-must-change/</link>
+      <guid isPermaLink="false">e37d7c0b2c4a75d2</guid>
+      <pubDate>Mon, 23 Nov 2026 02:50:41 GMT</pubDate>
+      <description>News · Rappler · Published Nov 23, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Lala Rimando</dc:creator>
+    </item>
+    <item>
+      <title>Industry group, regional think tank boost solar power workforce</title>
+      <link>https://business.inquirer.net/622276/industry-group-regional-think-tank-boost-solar-power-workforce</link>
+      <guid isPermaLink="false">364944c62b5a2636</guid>
+      <pubDate>Mon, 23 Nov 2026 02:50:41 GMT</pubDate>
+      <description>News · Inquirer Business · Published Nov 23, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>NewsPublish</dc:creator>
+    </item>
     <item>
       <title>Asean solar boom puts work skills gap in focus</title>
       <link>https://www.philstar.com/business/2026/11/23/2571917/asean-solar-boom-puts-work-skills-gap-focus</link>
@@ -622,26 +644,6 @@
       <category>News</category>
       <category>Employee well-being</category>
       <dc:creator>Joanna Partridge</dc:creator>
-    </item>
-    <item>
-      <title>Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training?</title>
-      <link>https://www.theguardian.com/society/2026/nov/17/neet-alan-milburn-report-young-people-not-in-education-employment-or-training</link>
-      <guid isPermaLink="false">454f3dee7aedfd39</guid>
-      <pubDate>Tue, 17 Nov 2026 18:46:45 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 17, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Peter Walker</dc:creator>
-    </item>
-    <item>
-      <title>From scenario design to participant experience: AI-based dialogue simulations and novice teachers’ perceived social-emotional learning</title>
-      <link>https://doi.org/10.1108/jrit-05-2026-0151</link>
-      <guid isPermaLink="false">8c19185ac7e3488e</guid>
-      <pubDate>Tue, 17 Nov 2026 18:46:45 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Research in Innovative Teaching &amp; Learning · Published Nov 17, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Miri Ben-Amram</dc:creator>
     </item>
   </channel>
 </rss>
