@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T10:46:59Z",
- "count": 335,
+ "generated": "2026-11-23T21:43:00Z",
+ "count": 344,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,171 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "9d634094f257eac0",
+   "title": "Laoag modernizes ‘kalesa’ to boost heritage tourism",
+   "url": "https://newsinfo.inquirer.net/2345909/laoag-modernizes-kalesa-to-boost-heritage-tourism",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T03:31:52Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "skills training",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "ac84326583aef0c3",
+   "title": "The Other Side of Prolific: Ethical Research Guidelines Based on a Mixed Methods Investigation of Prolific Platform Workers’ Experiences",
+   "url": "https://osf.io/preprints/psyarxiv/t5j8w_v2/",
+   "source": "PsyArXiv",
+   "source_id": "psyarxiv",
+   "layer": "preprint",
+   "type": "Preprint",
+   "published": "2026-11-23T20:49:25Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 30,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "platform workers",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Not yet peer-reviewed"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "preprint",
+    "container": "PsyArXiv",
+    "doi": "https://doi.org/10.31234/osf.io/t5j8w_v2",
+    "authors": [
+     "Louis Bachaud",
+     "Macken Murphy",
+     "Antoine Marie"
+    ]
+   }
+  },
+  {
+   "id": "a8caf0a5e41d2a38",
+   "title": "Job fair brings new hope for 51-yr-old",
+   "url": "https://www.sunstar.com.ph/davao/business/job-fair-brings-new-hope-for-51-yr-old",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-23T18:00:02Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "job fair",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Cristina E. Alivio"
+    ],
+    "container": "SunStar"
+   }
+  },
+  {
+   "id": "12f39412cd2c8b56",
+   "title": "Davao youth rehab center focuses on education and skills",
+   "url": "https://www.sunstar.com.ph/davao/davao-youth-rehab-center-focuses-on-education-and-skills",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-23T17:55:38Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "tesda",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Sun Star Davao Digital"
+    ],
+    "container": "SunStar"
+   }
+  },
+  {
+   "id": "9b72ac404722834f",
+   "title": "Weak economic fundamentals, structural gaps may limit PHL gains from AI",
+   "url": "https://bworldonline.com/the-nation/2026/11/23/796125/weak-economic-fundamentals-structural-gaps-may-limit-phl-gains-from-ai/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-23T13:35:28Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 7,
+   "topics": [
+    "openness-to-change"
+   ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "technology adoption",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
   {
    "id": "a47a8f5beb2506f8",
    "title": "Manibela begins two-day transport strike",
@@ -296,6 +461,42 @@
      "NewsPublish"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "fc7d1c94118ab94d",
+   "title": "Nurses’ attitudes and organizational readiness for barcode medication administration in intensive care units: an analytical cross-sectional study",
+   "url": "https://doi.org/10.1038/s41598-026-81169-7",
+   "source": "Scientific Reports",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-23T00:00:00Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Maryam Mohammadi-Loushani",
+     "Rasoul Tabari-Khomeiran",
+     "Asieh Sedighi",
+     "Zahra Atrkar Roushan"
+    ],
+    "container": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-81169-7"
    }
   },
   {
@@ -3313,7 +3514,9 @@
      "Maman Suherman",
      "N. Dede Khoeriah"
     ],
-    "container": "Edukasi Islami Jurnal Pendidikan Islam"
+    "container": "Edukasi Islami Jurnal Pendidikan Islam",
+    "volume": "15",
+    "issue": "4"
    }
   },
   {
@@ -3785,6 +3988,8 @@
      "Sonya Fitrianie"
     ],
     "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+    "volume": "11",
+    "issue": "4",
     "doi": "https://doi.org/10.23969/jp.v11i04.72719"
    }
   },
@@ -3823,6 +4028,8 @@
      "Abdullah Nur Wakhid"
     ],
     "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+    "volume": "11",
+    "issue": "4",
     "doi": "https://doi.org/10.23969/jp.v11i4.74279"
    }
   },
@@ -4279,7 +4486,9 @@
      "Wahid Murni",
      "Mulyono Mulyono"
     ],
-    "container": "Edukasi Islami Jurnal Pendidikan Islam"
+    "container": "Edukasi Islami Jurnal Pendidikan Islam",
+    "volume": "15",
+    "issue": "4"
    }
   },
   {
@@ -5399,6 +5608,8 @@
      "Muslem Ibnu"
     ],
     "container": "MIX JURNAL ILMIAH MANAJEMEN",
+    "volume": "16",
+    "issue": "3",
     "doi": "https://doi.org/10.22441/jurnal_mix.2026.v16i3.020"
    }
   },
@@ -5634,6 +5845,47 @@
      "jcristobal"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "737ea90adcfe4449",
+   "title": "DIGITAL TRANSFORMATION IN HIGHER EDUCATION MANAGEMENT: AN ANALYSIS OF ORGANIZATIONAL READINESS AND POLICY EFFECTIVENESS",
+   "url": "https://journal.iaingorontalo.ac.id/index.php/tjmpi/article/download/8562/3387",
+   "source": "Tadbir Jurnal Manajemen Pendidikan Islam",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-08T00:00:00Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "organizational-change"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Suharti",
+     "Putriani L. Maliki"
+    ],
+    "container": "Tadbir Jurnal Manajemen Pendidikan Islam",
+    "volume": "14",
+    "issue": "3"
    }
   },
   {
@@ -6549,6 +6801,8 @@
      "Rizki Amalia Elfita"
     ],
     "container": "MIX JURNAL ILMIAH MANAJEMEN",
+    "volume": "16",
+    "issue": "3",
     "doi": "https://doi.org/10.22441/jurnal_mix.2026.v16i3.017"
    }
   },
@@ -6932,6 +7186,41 @@
     "first_page": "38",
     "last_page": "46",
     "doi": "https://doi.org/10.30525/2256-0742/2026-12-5-38-46"
+   }
+  },
+  {
+   "id": "0d011ed4afa504d6",
+   "title": "AI adoption in purchasing and supply management: how institutional voids rewire the UTAUT framework",
+   "url": "https://www.emerald.com/mscra/article-pdf/doi/10.1108/MSCRA-07-2026-0119/11941612/mscra-07-2026-0119en.pdf",
+   "source": "Modern Supply Chain Research and Applications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Abdelmalek Hinaje"
+    ],
+    "container": "Modern Supply Chain Research and Applications",
+    "first_page": "1",
+    "last_page": "17",
+    "doi": "https://doi.org/10.1108/mscra-07-2026-0119"
    }
   },
   {
@@ -7723,6 +8012,51 @@
     "first_page": "1",
     "last_page": "22",
     "doi": "https://doi.org/10.14414/jebav.v29i3.5760"
+   }
+  },
+  {
+   "id": "c94ae030bc81c95c",
+   "title": "RECALIBRATING AI ACCEPTANCE AMONG MID-TO-LATE-CAREER EFL TEACHERS THROUGH GUIDED AI ENGAGEMENT",
+   "url": "https://ejournal.usd.ac.id/index.php/llt/article/download/2040/226",
+   "source": "LLT Journal A Journal on Language and Language Teaching",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change",
+    "ai-at-work"
+   ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "ai acceptance",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Truong Sa Nguyen",
+     "Willy A. Renandya",
+     "Flora Debora Floris"
+    ],
+    "container": "LLT Journal A Journal on Language and Language Teaching",
+    "volume": "29",
+    "issue": "2",
+    "first_page": "610",
+    "last_page": "625",
+    "doi": "https://doi.org/10.24071/llt.v29i2.2040"
    }
   },
   {

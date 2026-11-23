@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T10:46:59Z",
+ "generated": "2026-11-23T21:43:00Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -153,15 +153,15 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 287,
-   "kept": 97,
+   "found": 289,
+   "kept": 101,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 19,
     "change readiness": 3,
     "organizational readiness": 25,
     "commitment to change": 1,
-    "change self-efficacy": 2,
+    "change self-efficacy": 3,
     "change efficacy": 2,
     "occupational self-efficacy": 3,
     "openness to change": 14,
@@ -182,14 +182,14 @@
     "leadership development": 25,
     "remote work": 25,
     "hybrid work": 18,
-    "reskilling": 16,
+    "reskilling": 17,
     "upskilling": 25,
     "job redesign": 0,
     "nudge": 25,
     "status quo bias": 3,
     "loss aversion": 17
    },
-   "dropped_low_h_index": 124,
+   "dropped_low_h_index": 125,
    "min_h_index": 30,
    "newest_item": "2026-12-31T00:00:00Z",
    "stale": false
@@ -203,7 +203,7 @@
    "kept": 6,
    "error": null,
    "results_per_phrase": {
-    "employees": 17,
+    "employees": 18,
     "workplace": 12,
     "organizational": 25,
     "work engagement": 1,
@@ -215,7 +215,7 @@
     "self-efficacy": 15,
     "change": 25
    },
-   "dropped_low_h_index": 64,
+   "dropped_low_h_index": 65,
    "min_h_index": 30,
    "newest_item": "2026-11-20T00:00:00Z",
    "stale": false
@@ -225,10 +225,10 @@
    "name": "PsyArXiv",
    "layer": "preprint",
    "ok": true,
-   "found": 1240,
-   "kept": 14,
+   "found": 1293,
+   "kept": 15,
    "error": null,
-   "newest_item": "2026-11-23T10:48:22Z",
+   "newest_item": "2026-11-23T21:35:23Z",
    "stale": false
   },
   {
@@ -284,7 +284,7 @@
    "name": "The Conversation",
    "layer": "analysis",
    "ok": true,
-   "found": 163,
+   "found": 162,
    "kept": 3,
    "error": null,
    "feed_used": [
@@ -295,7 +295,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-23T04:32:09Z",
+   "newest_item": "2026-11-23T18:31:53Z",
    "stale": false
   },
   {
@@ -304,10 +304,10 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 2,
+   "kept": 0,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-23T10:02:00Z",
+   "newest_item": "2026-11-23T16:00:00Z",
    "stale": false
   },
   {
@@ -316,10 +316,10 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-23T10:38:47Z",
+   "newest_item": "2026-11-23T16:02:15Z",
    "stale": false
   },
   {
@@ -331,7 +331,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-23T18:44:13Z",
+   "newest_item": "2026-11-24T02:15:00Z",
    "stale": false
   },
   {
@@ -343,7 +343,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-22T11:00:26Z",
+   "newest_item": "2026-11-23T21:24:07Z",
    "stale": false
   },
   {
@@ -355,7 +355,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-23T07:00:49Z",
+   "newest_item": "2026-11-23T18:51:56Z",
    "stale": false
   },
   {
@@ -363,14 +363,14 @@
    "name": "The Guardian (Work & careers)",
    "layer": "news",
    "ok": true,
-   "found": 39,
-   "kept": 11,
+   "found": 40,
+   "kept": 10,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-23T08:00:50Z",
+   "newest_item": "2026-11-23T18:04:25Z",
    "stale": false
   },
   {
@@ -378,11 +378,11 @@
    "name": "BBC News (Business)",
    "layer": "news",
    "ok": true,
-   "found": 47,
+   "found": 53,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-23T10:46:56Z",
+   "newest_item": "2026-11-23T21:40:30Z",
    "stale": false
   },
   {
@@ -394,7 +394,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-23T10:00:00Z",
+   "newest_item": "2026-11-23T14:53:41Z",
    "stale": false
   },
   {
@@ -402,11 +402,11 @@
    "name": "CNA (Business)",
    "layer": "news",
    "ok": true,
-   "found": 16,
-   "kept": 1,
+   "found": 20,
+   "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-23T10:38:13Z",
+   "newest_item": "2026-11-23T21:03:22Z",
    "stale": false
   },
   {
@@ -418,7 +418,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://restofworld.org/feed/latest",
-   "newest_item": "2026-11-19T11:00:00Z",
+   "newest_item": "2026-11-23T11:00:00Z",
    "stale": false
   },
   {
@@ -427,10 +427,10 @@
    "layer": "news",
    "ok": true,
    "found": 9,
-   "kept": 3,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.hrdive.com/feeds/news/",
-   "newest_item": "2026-11-20T21:08:00Z",
+   "newest_item": "2026-11-23T20:37:00Z",
    "stale": false
   },
   {
@@ -445,7 +445,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-23T10:25:04Z",
+   "newest_item": "2026-11-23T14:11:41Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-23T10:38:43Z",
+   "newest_item": "2026-11-23T21:13:03Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-23T18:39:54Z",
+   "newest_item": "2026-11-24T05:45:00Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 15,
-   "kept": 0,
+   "found": 10,
+   "kept": 2,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-23T10:26:45Z",
+   "newest_item": "2026-11-23T18:34:01Z",
    "stale": false
   },
   {
