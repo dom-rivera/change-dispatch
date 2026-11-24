@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T21:43:00Z",
- "count": 344,
+ "generated": "2026-11-24T06:05:46Z",
+ "count": 346,
  "topics": [
   {
    "id": "change-readiness",
@@ -98,6 +98,38 @@
      "cbuban"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "944313219315f5c6",
+   "title": "The Sky Cable paradox: From ABS-CBN’s second business to its burden",
+   "url": "https://www.rappler.com/business/sky-cable-paradox-from-abs-cbn-second-burden/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T02:09:39Z",
+   "first_seen": "2026-11-24T06:05:46Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Lala Rimando"
+    ],
+    "container": "Rappler"
    }
   },
   {
@@ -12838,6 +12870,45 @@
     ],
     "container": "BMC Psychiatry",
     "doi": "https://doi.org/10.1186/s12888-026-08591-z"
+   }
+  },
+  {
+   "id": "0411545cc24c0d4f",
+   "title": "Work engagement and burnout among public school physical education teachers in the Philippines: The predictive role of absorption",
+   "url": "https://sportisjournal.com/index.php/sportis/article/download/maa8y670/maa8y670",
+   "source": "Sportis Scientific Journal of School Sport Physical Education and Psychomotricity",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-09-01T00:00:00Z",
+   "first_seen": "2026-11-24T06:05:46Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Roque N. Langcoy",
+     "Stephen A. Fadare",
+     "Hendely A. Adlawan"
+    ],
+    "container": "Sportis Scientific Journal of School Sport Physical Education and Psychomotricity",
+    "volume": "12",
+    "issue": "5",
+    "first_page": "1",
+    "last_page": "24",
+    "doi": "https://doi.org/10.55040/maa8y670"
    }
   }
  ]

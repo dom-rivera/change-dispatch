@@ -6,13 +6,35 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:05:46 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>The Sky Cable paradox: From ABS-CBN’s second business to its burden</title>
+      <link>https://www.rappler.com/business/sky-cable-paradox-from-abs-cbn-second-burden/</link>
+      <guid isPermaLink="false">944313219315f5c6</guid>
+      <pubDate>Tue, 24 Nov 2026 06:05:46 GMT</pubDate>
+      <description>News · Rappler · Published Nov 24, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Lala Rimando</dc:creator>
+    </item>
+    <item>
+      <title>Work engagement and burnout among public school physical education teachers in the Philippines: The predictive role of absorption</title>
+      <link>https://sportisjournal.com/index.php/sportis/article/download/maa8y670/maa8y670</link>
+      <guid isPermaLink="false">0411545cc24c0d4f</guid>
+      <pubDate>Tue, 24 Nov 2026 06:05:46 GMT</pubDate>
+      <description>Peer-reviewed · Sportis Scientific Journal of School Sport Physical Education and Psychomotricity · Published Sep 1, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Roque N. Langcoy, Stephen A. Fadare, Hendely A. Adlawan</dc:creator>
+    </item>
     <item>
       <title>Laoag modernizes ‘kalesa’ to boost heritage tourism</title>
       <link>https://newsinfo.inquirer.net/2345909/laoag-modernizes-kalesa-to-boost-heritage-tourism</link>
@@ -623,28 +645,6 @@
       <category>Peer-reviewed</category>
       <category>AI at work</category>
       <dc:creator>Yao Wang, Gaojie Liu, Y. Luo, Lili Zhang, Jie Long, Hongjun Ba</dc:creator>
-    </item>
-    <item>
-      <title>Transformational Leadership Practices in Hospitals: A Systematic Literature Review of Implementation, Challenges, and Success Factors</title>
-      <link>https://www.dovepress.com/article/download/122445</link>
-      <guid isPermaLink="false">94d6d4b4b871ec79</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Healthcare Leadership · Published Nov 1, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Pradipta Suarsyaf, Kurniawan Saefullah, Asep Mulyana</dc:creator>
-    </item>
-    <item>
-      <title>From AI adoption to business value: A practical path for enterprises</title>
-      <link>https://bworldonline.com/spotlight/2026/11/19/795115/from-ai-adoption-to-business-value-a-practical-path-for-enterprises/</link>
-      <guid isPermaLink="false">6510148dbd07b79b</guid>
-      <pubDate>Thu, 19 Nov 2026 10:21:45 GMT</pubDate>
-      <description>News · BusinessWorld · Published Nov 19, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Erika Mioten</dc:creator>
     </item>
   </channel>
 </rss>
