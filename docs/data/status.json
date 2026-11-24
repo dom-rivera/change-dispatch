@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T06:05:46Z",
+ "generated": "2026-11-24T07:06:21Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -272,11 +272,11 @@
    "name": "Asian Development Bank",
    "layer": "institutional",
    "ok": true,
-   "found": 13,
+   "found": 14,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.feedburner.com/adb_news",
-   "newest_item": "2026-11-23T00:00:00Z",
+   "newest_item": "2026-11-24T00:00:00Z",
    "stale": false
   },
   {
@@ -295,7 +295,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-24T04:57:18Z",
+   "newest_item": "2026-11-24T06:11:56Z",
    "stale": false
   },
   {
@@ -319,7 +319,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-24T06:04:15Z",
+   "newest_item": "2026-11-24T06:32:18Z",
    "stale": false
   },
   {
@@ -355,7 +355,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-24T01:34:39Z",
+   "newest_item": "2026-11-24T05:58:15Z",
    "stale": false
   },
   {
@@ -364,7 +364,7 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 10,
+   "kept": 9,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
@@ -378,7 +378,7 @@
    "name": "BBC News (Business)",
    "layer": "news",
    "ok": true,
-   "found": 55,
+   "found": 56,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-24T05:53:49Z",
+   "newest_item": "2026-11-24T05:53:00Z",
    "stale": false
   },
   {
@@ -438,14 +438,14 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 16,
+   "found": 15,
    "kept": 2,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-24T06:07:18Z",
+   "newest_item": "2026-11-24T07:10:33Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-24T05:50:49Z",
+   "newest_item": "2026-11-24T07:01:09Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-24T14:04:08Z",
+   "newest_item": "2026-11-24T14:53:14Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 10,
+   "found": 11,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-24T04:28:41Z",
+   "newest_item": "2026-11-24T06:22:29Z",
    "stale": false
   },
   {
