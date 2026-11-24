@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24T07:06:21Z",
- "count": 346,
+ "generated": "2026-11-24T12:29:47Z",
+ "count": 350,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,132 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "84c2d4ee6d14a95b",
+   "title": "Cebu IT-BPM demand persists as AI reshapes office needs",
+   "url": "https://www.sunstar.com.ph/cebu/cebu-it-bpm-demand-persists-as-ai-reshapes-office-needs",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T10:56:24Z",
+   "first_seen": "2026-11-24T12:29:47Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "it-bpm",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Katlene O. Cacho-Laurejas"
+    ],
+    "container": "SunStar"
+   }
+  },
+  {
+   "id": "bba4c0d44abe72e5",
+   "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
+   "source": "The Guardian (Technology)",
+   "source_id": "guardian-technology",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T10:00:14Z",
+   "first_seen": "2026-11-24T12:29:47Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai policy",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Shrai Popat"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "56b318040a52f9c8",
+   "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+   "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+   "source": "NPR (Business)",
+   "source_id": "npr-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T10:00:00Z",
+   "first_seen": "2026-11-24T12:29:47Z",
+   "window_days": 7,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "workplace culture",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Andrea Hsu"
+    ],
+    "container": "NPR"
+   }
+  },
+  {
+   "id": "57302a97ee027b68",
+   "title": "Fantasy football's AI managers close the gap but elite humans still hold the edge",
+   "url": "https://www.channelnewsasia.com/business/fantasy-footballs-ai-managers-close-gap-elite-humans-still-hold-edge-6577736",
+   "source": "CNA (Business)",
+   "source_id": "cna-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T09:01:41Z",
+   "first_seen": "2026-11-24T12:29:47Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "CNA",
+    "authors": []
+   }
+  },
   {
    "id": "9d634094f257eac0",
    "title": "Laoag modernizes ‘kalesa’ to boost heritage tourism",

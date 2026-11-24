@@ -6,13 +6,53 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 07:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:29:47 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Cebu IT-BPM demand persists as AI reshapes office needs</title>
+      <link>https://www.sunstar.com.ph/cebu/cebu-it-bpm-demand-persists-as-ai-reshapes-office-needs</link>
+      <guid isPermaLink="false">84c2d4ee6d14a95b</guid>
+      <pubDate>Tue, 24 Nov 2026 12:29:47 GMT</pubDate>
+      <description>News · SunStar · Published Nov 24, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Katlene O. Cacho-Laurejas</dc:creator>
+    </item>
+    <item>
+      <title>Congress to grill Jensen Huang over ties with China and Trump’s intervention</title>
+      <link>https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress</link>
+      <guid isPermaLink="false">bba4c0d44abe72e5</guid>
+      <pubDate>Tue, 24 Nov 2026 12:29:47 GMT</pubDate>
+      <description>News · The Guardian (Technology) · Published Nov 24, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Shrai Popat</dc:creator>
+    </item>
+    <item>
+      <title>For workplace culture champions, Jensen Huang's return is 'unfathomable'</title>
+      <link>https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women</link>
+      <guid isPermaLink="false">56b318040a52f9c8</guid>
+      <pubDate>Tue, 24 Nov 2026 12:29:47 GMT</pubDate>
+      <description>News · NPR (Business) · Published Nov 24, 2026 · Free to read. Topics: Psychological safety and culture.</description>
+      <category>News</category>
+      <category>Psychological safety and culture</category>
+      <dc:creator>Andrea Hsu</dc:creator>
+    </item>
+    <item>
+      <title>Fantasy football's AI managers close the gap but elite humans still hold the edge</title>
+      <link>https://www.channelnewsasia.com/business/fantasy-footballs-ai-managers-close-gap-elite-humans-still-hold-edge-6577736</link>
+      <guid isPermaLink="false">57302a97ee027b68</guid>
+      <pubDate>Tue, 24 Nov 2026 12:29:47 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 24, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+    </item>
     <item>
       <title>The Sky Cable paradox: From ABS-CBN’s second business to its burden</title>
       <link>https://www.rappler.com/business/sky-cable-paradox-from-abs-cbn-second-burden/</link>
@@ -604,47 +644,6 @@
       <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Lambert Zixin Li, Akhtar Masood, Sara Jean Singer</dc:creator>
-    </item>
-    <item>
-      <title>Does psychological safety condition the expression of big-five traits in promotive and prohibitive voice?</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1989296/pdf</link>
-      <guid isPermaLink="false">a8db25247e9158b1</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 18, 2026 · Free to read. Topics: Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Psychological safety and culture</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Ruqaiyah Mohamed Mohamed Abdo Elsaadany, Eun Hee Lee, Mike James Mustafa</dc:creator>
-    </item>
-    <item>
-      <title>Digital responsibility convergence and technostress among Chinese homeroom teachers: a qualitative study</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1988832/pdf</link>
-      <guid isPermaLink="false">a192cfdc00d79970</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 18, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Xinghua Li, Chong Wang</dc:creator>
-    </item>
-    <item>
-      <title>Cost-effective digital microlearning and caregiver policy nudges for equitable learning in Iraqi secondary schools</title>
-      <link>https://doi.org/10.1016/j.ijedro.2026.100615</link>
-      <guid isPermaLink="false">38dc77072cabe84d</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · International Journal of Educational Research Open · Published Nov 18, 2026 · Free to read. Topics: Behavioral economics.</description>
-      <category>Peer-reviewed</category>
-      <category>Behavioral economics</category>
-      <dc:creator>Ayman Abdoun Nazal</dc:creator>
-    </item>
-    <item>
-      <title>Cognition and Attitudes of Young and Middle-Aged Teachers Towards AI in Medical Education: A Cross-Sectional Study</title>
-      <link>https://doi.org/10.1177/23821205261506802</link>
-      <guid isPermaLink="false">450deb1b8ee3bcca</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · Journal of Medical Education and Curricular Development · Published Nov 1, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Yao Wang, Gaojie Liu, Y. Luo, Lili Zhang, Jie Long, Hongjun Ba</dc:creator>
     </item>
   </channel>
 </rss>
