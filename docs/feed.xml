@@ -6,13 +6,67 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:29:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:22:50 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Neets and needs: a loss of focus on harmful life experiences | Letters</title>
+      <link>https://www.theguardian.com/society/2026/nov/24/neets-and-needs-a-loss-of-focus-on-harmful-life-experiences</link>
+      <guid isPermaLink="false">adbc2e3bdb936231</guid>
+      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 24, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Guardian</dc:creator>
+    </item>
+    <item>
+      <title>Training is key to AI adoption — but is still hitting roadblocks</title>
+      <link>https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/</link>
+      <guid isPermaLink="false">627419c3adc39389</guid>
+      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
+      <description>News · HR Dive · Published Nov 24, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Kathryn Moody</dc:creator>
+    </item>
+    <item>
+      <title>Artificial intelligence adoption and occupational well-being in higher education management: evidence from universities in Guangzhou</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1931597/pdf</link>
+      <guid isPermaLink="false">2478593e00f9d2ec</guid>
+      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 23, 2026 · Free to read. Topics: Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Chunlong Zeng, Raja Suzana Raja Kasim</dc:creator>
+    </item>
+    <item>
+      <title>Examining ecotourism adoption through green transformational leadership and AI strategy integration</title>
+      <link>https://doi.org/10.1007/s43621-026-05202-5</link>
+      <guid isPermaLink="false">33456675deebcf1d</guid>
+      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
+      <description>Peer-reviewed · Discover Sustainability · Published Nov 23, 2026 · Free to read. Topics: Leadership and change communication, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Leadership and change communication</category>
+      <category>AI at work</category>
+      <dc:creator>Uğur Kılınç, Olcay Kılınç</dc:creator>
+    </item>
+    <item>
+      <title>The Strategic Implementation of Digital Transformation at Perumda Tirta Pakuan Bogor</title>
+      <link>https://journal.ipb.ac.id/ijbe/article/download/64057/34448</link>
+      <guid isPermaLink="false">81dad5d4ad6a3f8c</guid>
+      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
+      <description>Peer-reviewed · Indonesian Journal of Business and Entrepreneurship · Published Oct 13, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Aditya Putra Nugraha, Raden Dikky Indrawan, Linda Karlina Sari</dc:creator>
+    </item>
     <item>
       <title>Cebu IT-BPM demand persists as AI reshapes office needs</title>
       <link>https://www.sunstar.com.ph/cebu/cebu-it-bpm-demand-persists-as-ai-reshapes-office-needs</link>
@@ -131,7 +185,7 @@
     </item>
     <item>
       <title>Nurses’ attitudes and organizational readiness for barcode medication administration in intensive care units: an analytical cross-sectional study</title>
-      <link>https://doi.org/10.1038/s41598-026-81169-7</link>
+      <link>https://www.nature.com/articles/s41598-026-81169-7_reference.pdf</link>
       <guid isPermaLink="false">fc7d1c94118ab94d</guid>
       <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
       <description>Peer-reviewed · Scientific Reports · Published Nov 23, 2026 · Free to read. Topics: Change readiness.</description>
@@ -301,7 +355,7 @@
     </item>
     <item>
       <title>Social Capital or Systemic Capital? Two Transformational Leadership Pathways and the CERDAS Model in Private Madrasah Aliyah</title>
-      <link>https://jurnaledukasia.org/index.php/edukasia/article/view/2224</link>
+      <link>https://jurnaledukasia.org/index.php/edukasia/article/download/2224/1052</link>
       <guid isPermaLink="false">6c1a9904d8e927ae</guid>
       <pubDate>Sun, 22 Nov 2026 17:25:32 GMT</pubDate>
       <description>Peer-reviewed · EDUKASIA Jurnal Pendidikan dan Pembelajaran · Published Nov 20, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
@@ -446,7 +500,7 @@
       <link>https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax</link>
       <guid isPermaLink="false">dc4abeffea47e7ab</guid>
       <pubDate>Fri, 20 Nov 2026 18:02:13 GMT</pubDate>
-      <description>News · The Guardian (Technology) · Published Nov 20, 2026 · Free to read. Topics: AI at work.</description>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 20, 2026 · Free to read. Topics: AI at work.</description>
       <category>News</category>
       <category>AI at work</category>
       <dc:creator>Henrietta Moore</dc:creator>
@@ -590,60 +644,6 @@
       <category>News</category>
       <category>Labor economics</category>
       <dc:creator>Aditya Chakrabortty</dc:creator>
-    </item>
-    <item>
-      <title>Delivery riders seek Dole-Davao’s help vs ‘unfair, non-transparent’ fares</title>
-      <link>https://www.sunstar.com.ph/davao/delivery-riders-seek-dole-davaos-help-vs-unfair-non-transparent-fares</link>
-      <guid isPermaLink="false">8b1dbc9a33800284</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>News · SunStar · Published Nov 19, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Sun Star Davao Digital</dc:creator>
-    </item>
-    <item>
-      <title>Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter</title>
-      <link>https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside</link>
-      <guid isPermaLink="false">03b14489ed8fece5</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 19, 2026 · Free to read. Topics: Leadership and change communication.</description>
-      <category>News</category>
-      <category>Leadership and change communication</category>
-      <dc:creator>Hosted by Kai Wright, produced by Suzanne Gaber, Tiara Chiaramonte, engineered by Ivan Kuraev, executive producer Rachel Humphreys</dc:creator>
-    </item>
-    <item>
-      <title>AI isn’t replacing your job. It’s turning it into low-paid gig work</title>
-      <link>https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
-      <guid isPermaLink="false">b2365444ebf0794b</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>News · Rest of World · Published Nov 19, 2026 · Free to read. Topics: Future of work, AI at work.</description>
-      <category>News</category>
-      <category>Future of work</category>
-      <category>AI at work</category>
-      <dc:creator>Julián Posada</dc:creator>
-    </item>
-    <item>
-      <title>Change fatigue as social contagion: a network dynamics model of propagation, psychological capital mediation, and leadership buffering</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1860710/pdf</link>
-      <guid isPermaLink="false">547c89e51e34f87c</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 18, 2026 · Free to read. Topics: Change management.</description>
-      <category>Peer-reviewed</category>
-      <category>Change management</category>
-      <dc:creator>Ling Jiang, Jingjing Zhang</dc:creator>
-    </item>
-    <item>
-      <title>From technostress to team resilience: Artificial intelligence, health information technology, and clinician burnout</title>
-      <link>https://doi.org/10.1016/j.ssmqr.2026.100902</link>
-      <guid isPermaLink="false">0ec5da32fcbcb5ed</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>Peer-reviewed · SSM - Qualitative Research in Health · Published Nov 18, 2026 · Free to read. Topics: Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Lambert Zixin Li, Akhtar Masood, Sara Jean Singer</dc:creator>
     </item>
   </channel>
 </rss>

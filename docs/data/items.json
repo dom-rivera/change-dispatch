@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24T12:29:47Z",
- "count": 350,
+ "generated": "2026-11-24T20:22:50Z",
+ "count": 355,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "adbc2e3bdb936231",
+   "title": "Neets and needs: a loss of focus on harmful life experiences | Letters",
+   "url": "https://www.theguardian.com/society/2026/nov/24/neets-and-needs-a-loss-of-focus-on-harmful-life-experiences",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T17:59:55Z",
+   "first_seen": "2026-11-24T20:22:50Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Guardian"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
+   "id": "627419c3adc39389",
+   "title": "Training is key to AI adoption — but is still hitting roadblocks",
+   "url": "https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/",
+   "source": "HR Dive",
+   "source_id": "hr-dive",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-24T15:49:00Z",
+   "first_seen": "2026-11-24T20:22:50Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Kathryn Moody"
+    ],
+    "container": "HR Dive"
+   }
+  },
   {
    "id": "84c2d4ee6d14a95b",
    "title": "Cebu IT-BPM demand persists as AI reshapes office needs",
@@ -624,7 +688,7 @@
   {
    "id": "fc7d1c94118ab94d",
    "title": "Nurses’ attitudes and organizational readiness for barcode medication administration in intensive care units: an analytical cross-sectional study",
-   "url": "https://doi.org/10.1038/s41598-026-81169-7",
+   "url": "https://www.nature.com/articles/s41598-026-81169-7_reference.pdf",
    "source": "Scientific Reports",
    "source_id": "core-search",
    "layer": "research",
@@ -655,6 +719,88 @@
     ],
     "container": "Scientific Reports",
     "doi": "https://doi.org/10.1038/s41598-026-81169-7"
+   }
+  },
+  {
+   "id": "2478593e00f9d2ec",
+   "title": "Artificial intelligence adoption and occupational well-being in higher education management: evidence from universities in Guangzhou",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1931597/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-23T00:00:00Z",
+   "first_seen": "2026-11-24T20:22:50Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "ai-at-work"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "well-being",
+     "kind": "weak",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Chunlong Zeng",
+     "Raja Suzana Raja Kasim"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1931597",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1931597"
+   }
+  },
+  {
+   "id": "33456675deebcf1d",
+   "title": "Examining ecotourism adoption through green transformational leadership and AI strategy integration",
+   "url": "https://doi.org/10.1007/s43621-026-05202-5",
+   "source": "Discover Sustainability",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-23T00:00:00Z",
+   "first_seen": "2026-11-24T20:22:50Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "ai-at-work"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Uğur Kılınç",
+     "Olcay Kılınç"
+    ],
+    "container": "Discover Sustainability",
+    "doi": "https://doi.org/10.1007/s43621-026-05202-5"
    }
   },
   {
@@ -1045,8 +1191,8 @@
    "id": "dc4abeffea47e7ab",
    "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
    "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-   "source": "The Guardian (Technology)",
-   "source_id": "guardian-technology",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
    "layer": "news",
    "type": "News",
    "published": "2026-11-20T11:00:31Z",
@@ -1341,7 +1487,7 @@
   {
    "id": "6c1a9904d8e927ae",
    "title": "Social Capital or Systemic Capital? Two Transformational Leadership Pathways and the CERDAS Model in Private Madrasah Aliyah",
-   "url": "https://jurnaledukasia.org/index.php/edukasia/article/view/2224",
+   "url": "https://jurnaledukasia.org/index.php/edukasia/article/download/2224/1052",
    "source": "EDUKASIA Jurnal Pendidikan dan Pembelajaran",
    "source_id": "core-search",
    "layer": "research",
@@ -1371,6 +1517,8 @@
      "Ahmad Sukandar"
     ],
     "container": "EDUKASIA Jurnal Pendidikan dan Pembelajaran",
+    "volume": "7",
+    "issue": "2",
     "doi": "https://doi.org/10.62775/edukasia.v7i2.2224"
    }
   },
@@ -5608,6 +5756,46 @@
    }
   },
   {
+   "id": "e8b6197a03850ccb",
+   "title": "Perceived work flexibility and mentoring support for digital self-efficacy, entrepreneurial self-efficacy, and career sustainability among women entrepreneurs in Bali",
+   "url": "https://doi.org/10.1016/j.joitmc.2026.100904",
+   "source": "Journal of Open Innovation Technology Market and Complexity",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "digital self-efficacy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Akhmad Darmawan",
+     "Syamsul Bahri",
+     "Muhammad Imam Muttaqijn",
+     "Fatmah Bagis"
+    ],
+    "container": "Journal of Open Innovation Technology Market and Complexity",
+    "volume": "12",
+    "issue": "4",
+    "first_page": "100904",
+    "last_page": "100904",
+    "doi": "https://doi.org/10.1016/j.joitmc.2026.100904"
+   }
+  },
+  {
    "id": "a50e6315a7fa6705",
    "title": "The relationship between surgical nurses’ attitude towards artificial intelligence and artificial intelligence dependence: a cross-sectional study",
    "url": "https://doi.org/10.1186/s12912-026-05638-0",
@@ -6684,43 +6872,6 @@
    }
   },
   {
-   "id": "722d892a23966117",
-   "title": "Readiness assessment for construction 5.0 using fuzzy logic: a case of construction organisation",
-   "url": "https://link.springer.com/content/pdf/10.1007/s44290-026-00669-7.pdf",
-   "source": "Discover Civil Engineering",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-05T00:00:00Z",
-   "first_seen": "2026-11-20T18:02:13Z",
-   "window_days": 60,
-   "topics": [
-    "change-readiness"
-   ],
-   "why": {
-    "change-readiness": {
-     "phrase": "readiness",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Drisya Murali",
-     "M. Suresh"
-    ],
-    "container": "Discover Civil Engineering",
-    "volume": "3",
-    "issue": "1",
-    "first_page": "275",
-    "doi": "https://doi.org/10.1007/s44290-026-00669-7"
-   }
-  },
-  {
    "id": "5e9ad0beac960ef7",
    "title": "The dark side of GenAI in the workplace: technostress, loneliness, and the buffering role of transformational leadership",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1910745/pdf",
@@ -6802,6 +6953,43 @@
     "first_page": "1",
     "last_page": "17",
     "doi": "https://doi.org/10.1108/cemj-10-2025-0315"
+   }
+  },
+  {
+   "id": "722d892a23966117",
+   "title": "Readiness assessment for construction 5.0 using fuzzy logic: a case of construction organisation",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44290-026-00669-7.pdf",
+   "source": "Discover Civil Engineering",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-20T18:02:13Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "readiness",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Drisya Murali",
+     "M. Suresh"
+    ],
+    "container": "Discover Civil Engineering",
+    "volume": "3",
+    "issue": "1",
+    "first_page": "275",
+    "doi": "https://doi.org/10.1007/s44290-026-00669-7"
    }
   },
   {
@@ -7704,43 +7892,6 @@
    }
   },
   {
-   "id": "531a74cce95a86c1",
-   "title": "Transformational leadership through the lens of intelligence: A theoretical approach and proposed model",
-   "url": "https://doi.org/10.1016/j.actpsy.2026.108167",
-   "source": "Acta Psychologica",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-17T18:46:45Z",
-   "window_days": 60,
-   "topics": [
-    "leadership"
-   ],
-   "why": {
-    "leadership": {
-     "phrase": "transformational leadership",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Félix Oscar Socorro Márquez",
-     "Giovanni Efraín Reyes Ortiz"
-    ],
-    "container": "Acta Psychologica",
-    "volume": "271",
-    "first_page": "108167",
-    "last_page": "108167",
-    "doi": "https://doi.org/10.1016/j.actpsy.2026.108167"
-   }
-  },
-  {
    "id": "f55aaf217b60aac2",
    "title": "Knowledge management challenges in remote work: The threat of organizational supervision to knowledge sharing",
    "url": "https://www.sciencedirect.com/science/article/pii/S2444569X2600257X/pdf",
@@ -7812,6 +7963,43 @@
     "container": "International Journal of Engineering Business Management",
     "volume": "18",
     "doi": "https://doi.org/10.1177/18479790261506567"
+   }
+  },
+  {
+   "id": "531a74cce95a86c1",
+   "title": "Transformational leadership through the lens of intelligence: A theoretical approach and proposed model",
+   "url": "https://doi.org/10.1016/j.actpsy.2026.108167",
+   "source": "Acta Psychologica",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-17T18:46:45Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Félix Oscar Socorro Márquez",
+     "Giovanni Efraín Reyes Ortiz"
+    ],
+    "container": "Acta Psychologica",
+    "volume": "271",
+    "first_page": "108167",
+    "last_page": "108167",
+    "doi": "https://doi.org/10.1016/j.actpsy.2026.108167"
    }
   },
   {
@@ -7938,44 +8126,6 @@
    }
   },
   {
-   "id": "e8b6197a03850ccb",
-   "title": "Perceived Work Flexibility and Mentoring Support for Digital Self-Efficacy, Entrepreneurial Self-Efficacy, and Career Sustainability among Women Entrepreneurs in Bali",
-   "url": "https://doi.org/10.1016/j.joitmc.2026.100904",
-   "source": "Journal of Open Innovation Technology Market and Complexity",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-01T00:00:00Z",
-   "first_seen": "2026-11-12T17:45:27Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "digital self-efficacy",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Akhmad Darmawan",
-     "Syamsul Bahri",
-     "Muhammad Imam Muttaqijn",
-     "Fatmah Bagis"
-    ],
-    "container": "Journal of Open Innovation Technology Market and Complexity",
-    "first_page": "100904",
-    "last_page": "100904",
-    "doi": "https://doi.org/10.1016/j.joitmc.2026.100904"
-   }
-  },
-  {
    "id": "db15fd58721743f9",
    "title": "Transcultural adaptation and psychometric properties of the Chinese version of the Artificial Intelligence Attitude Scale for Nurses (AIASN)",
    "url": "https://doi.org/10.1186/s12912-026-05521-y",
@@ -8002,7 +8152,7 @@
    "cite": {
     "kind": "journal",
     "authors": [
-     "Xian Lin",
+     "Xian Yong Lin",
      "Yaling Qin",
      "Yuxuan Zeng",
      "Xinqing Zhu",
@@ -8422,43 +8572,6 @@
    }
   },
   {
-   "id": "7c87b3cb903cb67e",
-   "title": "Understanding adaptation to digital transformation: evidence from Indian advertising industry",
-   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1953897/pdf",
-   "source": "Frontiers in Sociology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-28T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "digital transformation",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Pranav S. Joshi",
-     "Nandini Lakshmikantha"
-    ],
-    "container": "Frontiers in Sociology",
-    "volume": "11",
-    "first_page": "1953897",
-    "last_page": "1953897",
-    "doi": "https://doi.org/10.3389/fsoc.2026.1953897"
-   }
-  },
-  {
    "id": "6e9e7312914fe6d0",
    "title": "Development and preliminary validation of an AI acceptance scale for intercultural teaching and its cross-sectional associations with university teachers’ occupational wellbeing",
    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1986187/pdf",
@@ -8665,6 +8778,43 @@
     "volume": "11",
     "first_page": "1949516",
     "doi": "https://doi.org/10.3389/feduc.2026.1949516"
+   }
+  },
+  {
+   "id": "7c87b3cb903cb67e",
+   "title": "Understanding adaptation to digital transformation: evidence from Indian advertising industry",
+   "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1953897/pdf",
+   "source": "Frontiers in Sociology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-28T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pranav S. Joshi",
+     "Nandini Lakshmikantha"
+    ],
+    "container": "Frontiers in Sociology",
+    "volume": "11",
+    "first_page": "1953897",
+    "last_page": "1953897",
+    "doi": "https://doi.org/10.3389/fsoc.2026.1953897"
    }
   },
   {
@@ -8932,44 +9082,6 @@
    }
   },
   {
-   "id": "8ce8203aee031999",
-   "title": "Artificial intelligence anxiety and associated factors among clinical nurses in tertiary hospitals in China: a latent profile analysis",
-   "url": "https://doi.org/10.1186/s12912-026-05586-9",
-   "source": "BMC Nursing",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-26T00:00:00Z",
-   "first_seen": "2026-11-10T05:10:30Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "artificial intelligence",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Yanan Xu",
-     "Zhenlong Yan",
-     "Xiaomei Ji",
-     "Yuxin Li",
-     "Yahui Liu",
-     "Li Zhang"
-    ],
-    "container": "BMC Nursing",
-    "doi": "https://doi.org/10.1186/s12912-026-05586-9"
-   }
-  },
-  {
    "id": "44c45e0ebbc8e052",
    "title": "Perceived AI acceptance and occupational well-being among university physical education teachers: a cross-sectional serial mediation model of digital well-being and innovative work behavior",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1999813/pdf",
@@ -9015,6 +9127,44 @@
     "first_page": "1999813",
     "last_page": "1999813",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1999813"
+   }
+  },
+  {
+   "id": "8ce8203aee031999",
+   "title": "Artificial intelligence anxiety and associated factors among clinical nurses in tertiary hospitals in China: a latent profile analysis",
+   "url": "https://doi.org/10.1186/s12912-026-05586-9",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-26T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yanan Xu",
+     "Zhenlong Yan",
+     "Xiaomei Ji",
+     "Yuxin Li",
+     "Yahui Liu",
+     "Li Zhang"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05586-9"
    }
   },
   {
@@ -10399,6 +10549,45 @@
     "volume": "4",
     "first_page": "1969428",
     "doi": "https://doi.org/10.3389/forgp.2026.1969428"
+   }
+  },
+  {
+   "id": "81dad5d4ad6a3f8c",
+   "title": "The Strategic Implementation of Digital Transformation at Perumda Tirta Pakuan Bogor",
+   "url": "https://journal.ipb.ac.id/ijbe/article/download/64057/34448",
+   "source": "Indonesian Journal of Business and Entrepreneurship",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-13T00:00:00Z",
+   "first_seen": "2026-11-24T20:22:50Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Aditya Putra Nugraha",
+     "Raden Dikky Indrawan",
+     "Linda Karlina Sari"
+    ],
+    "container": "Indonesian Journal of Business and Entrepreneurship",
+    "volume": "12",
+    "issue": "3",
+    "first_page": "601",
+    "last_page": "601",
+    "doi": "https://doi.org/10.17358/ijbe.12.3.601"
    }
   },
   {
