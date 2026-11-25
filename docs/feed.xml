@@ -6,13 +6,44 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:55:18 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>LOOK: Iloilo BPO workers evacuate amid 5.1-magnitude Antique tremor</title>
+      <link>https://newsinfo.inquirer.net/2346716/look-iloilo-bpo-workers-evacuate-amid-5-1-magnitude-antique-tremor</link>
+      <guid isPermaLink="false">f3d3379b47934be4</guid>
+      <pubDate>Wed, 25 Nov 2026 04:55:18 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 25, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cavendano</dc:creator>
+    </item>
+    <item>
+      <title>Globe strengthens technology growth play with NCS venture</title>
+      <link>https://www.gmanetwork.com/news/money/companies/1010716/globe-strengthens-technology-growth-play-with-ncs-venture/story/</link>
+      <guid isPermaLink="false">fe6711a64ee5a875</guid>
+      <pubDate>Wed, 25 Nov 2026 04:55:18 GMT</pubDate>
+      <description>News · GMA News · Published Nov 25, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
+    <item>
+      <title>Who Will Conduct Science? Researchers’ Expectations of AI Capabilities and the Future of Scientific Work</title>
+      <link>https://osf.io/preprints/psyarxiv/qysdj_v1/</link>
+      <guid isPermaLink="false">224106844c158feb</guid>
+      <pubDate>Wed, 25 Nov 2026 04:55:18 GMT</pubDate>
+      <description>Preprint · PsyArXiv · Published Nov 25, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
+      <category>Preprint</category>
+      <category>AI at work</category>
+      <dc:creator>Balazs Aczel, Dianovics Dominik, Peter Szecsi, Barnabas Szaszi</dc:creator>
+    </item>
     <item>
       <title>Neets and needs: a loss of focus on harmful life experiences | Letters</title>
       <link>https://www.theguardian.com/society/2026/nov/24/neets-and-needs-a-loss-of-focus-on-harmful-life-experiences</link>
@@ -613,37 +644,6 @@
       <category>Organizational change</category>
       <category>AI at work</category>
       <dc:creator>Chris F. Wright, Professor of Work, Labour Market Policy, University of Sydney</dc:creator>
-    </item>
-    <item>
-      <title>Solon asks House to pass bill lowering OFWs’ remittance fees</title>
-      <link>https://newsinfo.inquirer.net/2344206/solon-asks-house-to-pass-bill-lowering-ofws-remittance-fees</link>
-      <guid isPermaLink="false">94eb5ce32906d5d7</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>News · Inquirer News · Published Nov 20, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>cbuban</dc:creator>
-    </item>
-    <item>
-      <title>Here’s how we can give Neets a fighting chance | Letters</title>
-      <link>https://www.theguardian.com/society/2026/nov/19/heres-how-we-can-give-neets-a-fighting-chance</link>
-      <guid isPermaLink="false">b34bc4371dadd20a</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 19, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Guardian</dc:creator>
-    </item>
-    <item>
-      <title>The moral panic over Neets needs to stop. The problem is bad jobs, not young people | Aditya Chakrabortty</title>
-      <link>https://www.theguardian.com/commentisfree/2026/nov/19/alan-milburn-jobs-neets-crisis-young-people-zero-hours</link>
-      <guid isPermaLink="false">a5c70a620bfc1c1d</guid>
-      <pubDate>Thu, 19 Nov 2026 18:41:48 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 19, 2026 · Free to read · Opinion. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Aditya Chakrabortty</dc:creator>
     </item>
   </channel>
 </rss>
