@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T05:41:03Z",
+ "generated": "2026-11-25T11:17:25Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -59,12 +59,12 @@
    "name": "Journal of Applied Psychology",
    "layer": "research",
    "ok": true,
-   "found": 16,
+   "found": 17,
    "kept": 1,
    "error": null,
    "openalex_source": "https://openalex.org/S166002381",
    "journal_matched": "Journal of Applied Psychology",
-   "newest_item": "2026-11-09T00:00:00Z",
+   "newest_item": "2026-12-01T00:00:00Z",
    "stale": false
   },
   {
@@ -153,8 +153,8 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 288,
-   "kept": 99,
+   "found": 287,
+   "kept": 98,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 20,
@@ -189,7 +189,7 @@
     "status quo bias": 3,
     "loss aversion": 16
    },
-   "dropped_low_h_index": 123,
+   "dropped_low_h_index": 124,
    "min_h_index": 30,
    "newest_item": "2026-12-31T00:00:00Z",
    "stale": false
@@ -199,12 +199,12 @@
    "name": "Philippine research search",
    "layer": "research",
    "ok": true,
-   "found": 68,
+   "found": 67,
    "kept": 7,
    "error": null,
    "results_per_phrase": {
-    "employees": 17,
-    "workplace": 11,
+    "employees": 16,
+    "workplace": 10,
     "organizational": 25,
     "work engagement": 1,
     "burnout": 6,
@@ -225,10 +225,10 @@
    "name": "PsyArXiv",
    "layer": "preprint",
    "ok": true,
-   "found": 1282,
+   "found": 1285,
    "kept": 15,
    "error": null,
-   "newest_item": "2026-11-25T02:17:41Z",
+   "newest_item": "2026-11-25T06:19:54Z",
    "stale": false
   },
   {
@@ -272,7 +272,7 @@
    "name": "Asian Development Bank",
    "layer": "institutional",
    "ok": true,
-   "found": 15,
+   "found": 14,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.feedburner.com/adb_news",
@@ -295,7 +295,7 @@
     "https://theconversation.com/topics/automation-4443/articles.atom",
     "https://theconversation.com/topics/artificial-intelligence-ai-90/articles.atom"
    ],
-   "newest_item": "2026-11-25T01:53:57Z",
+   "newest_item": "2026-11-25T09:56:12Z",
    "stale": false
   },
   {
@@ -307,7 +307,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-25T00:07:00Z",
+   "newest_item": "2026-11-25T08:21:00Z",
    "stale": false
   },
   {
@@ -316,10 +316,10 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-25T04:20:22Z",
+   "newest_item": "2026-11-25T11:18:36Z",
    "stale": false
   },
   {
@@ -331,7 +331,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-25T13:17:01Z",
+   "newest_item": "2026-11-25T18:00:32Z",
    "stale": false
   },
   {
@@ -343,7 +343,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-24T22:05:21Z",
+   "newest_item": "2026-11-25T11:00:47Z",
    "stale": false
   },
   {
@@ -355,7 +355,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-25T02:12:22Z",
+   "newest_item": "2026-11-25T11:00:47Z",
    "stale": false
   },
   {
@@ -370,7 +370,7 @@
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-25T05:28:12Z",
+   "newest_item": "2026-11-25T11:00:47Z",
    "stale": false
   },
   {
@@ -378,11 +378,11 @@
    "name": "BBC News (Business)",
    "layer": "news",
    "ok": true,
-   "found": 45,
+   "found": 46,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-25T03:44:07Z",
+   "newest_item": "2026-11-25T10:52:09Z",
    "stale": false
   },
   {
@@ -394,7 +394,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-24T23:48:14Z",
+   "newest_item": "2026-11-25T10:02:00Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-25T03:32:50Z",
+   "newest_item": "2026-11-25T10:46:36Z",
    "stale": false
   },
   {
@@ -418,7 +418,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://restofworld.org/feed/latest",
-   "newest_item": "2026-11-23T11:00:00Z",
+   "newest_item": "2026-11-25T11:00:00Z",
    "stale": false
   },
   {
@@ -438,14 +438,14 @@
    "name": "Rappler",
    "layer": "news",
    "ok": true,
-   "found": 17,
+   "found": 20,
    "kept": 1,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-25T05:33:26Z",
+   "newest_item": "2026-11-25T10:41:34Z",
    "stale": false
   },
   {
@@ -454,13 +454,13 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": [
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-25T05:16:39Z",
+   "newest_item": "2026-11-25T11:17:13Z",
    "stale": false
   },
   {
@@ -469,10 +469,10 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 1,
+   "kept": 3,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-25T13:07:13Z",
+   "newest_item": "2026-11-25T19:03:00Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 4,
+   "found": 16,
    "kept": 1,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-25T05:16:36Z",
+   "newest_item": "2026-11-25T10:55:29Z",
    "stale": false
   },
   {
@@ -493,10 +493,10 @@
    "layer": "news",
    "ok": true,
    "found": 50,
-   "kept": 2,
+   "kept": 3,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-24T02:56:00Z",
+   "newest_item": "2026-11-25T11:12:00Z",
    "stale": false
   }
  ]
