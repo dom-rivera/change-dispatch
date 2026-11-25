@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T11:17:25Z",
- "count": 365,
+ "generated": "2026-11-25T19:37:29Z",
+ "count": 373,
  "topics": [
   {
    "id": "change-readiness",
@@ -162,6 +162,38 @@
      "ggaviola"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "312c15d9c38c061f",
+   "title": "Ilocos, Cagayan Valley minimum wage workers get higher pay",
+   "url": "https://bworldonline.com/the-nation/2026/11/25/796808/ilocos-cagayan-valley-minimum-wage-workers-get-higher-pay/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-25T13:26:22Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "minimum wage",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
    }
   },
   {
@@ -386,6 +418,52 @@
      "Peter Szecsi",
      "Barnabas Szaszi"
     ]
+   }
+  },
+  {
+   "id": "d964b6f2697ef613",
+   "title": "Digital drains: the role of IT-related mental fatigue in the relationship between remote work stressors and psychological detachment",
+   "url": "https://doi.org/10.1108/rausp-12-2025-0285",
+   "source": "RAUSP Management Journal",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-25T00:00:00Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "future-of-work"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "stressors",
+     "kind": "weak",
+     "in_title": true
+    },
+    "future-of-work": {
+     "phrase": "remote work",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "陈效",
+     "Yet Mee Lim",
+     "Lee Yen Chaw",
+     "Choi‐Meng Leong",
+     "Chorng Yuan Fung"
+    ],
+    "container": "RAUSP Management Journal",
+    "volume": "61",
+    "first_page": "253",
+    "last_page": "269",
+    "doi": "https://doi.org/10.1108/rausp-12-2025-0285"
    }
   },
   {
@@ -640,6 +718,253 @@
      "Lala Rimando"
     ],
     "container": "Rappler"
+   }
+  },
+  {
+   "id": "60248fd60b23fd6b",
+   "title": "Attentional dysfunction and job performance: the sequential mediating roles of job boredom and work engagement and the moderating role of increasing challenging job demands",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1903844/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ernesto Rosario Hernández",
+     "Lillian V. Rovira-Millán",
+     "Ángela Velázquez Lugo",
+     "Nidia Rodríguez",
+     "Antonio Cedeño",
+     "Emma Cintrón",
+     "José Pons-Madera"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "first_page": "1903844",
+    "doi": "https://doi.org/10.3389/forgp.2026.1903844"
+   }
+  },
+  {
+   "id": "c6d29061024e7b1c",
+   "title": "Supervision Consultation as an Organizational Resource to Buffer Occupational Burnout: Proposal of a Longitudinal Randomized Controlled Trial",
+   "url": "https://doi.org/10.2196/93163",
+   "source": "JMIR Research Protocols",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Beata Mańkowska"
+    ],
+    "container": "JMIR Research Protocols",
+    "volume": "15",
+    "first_page": "e93163",
+    "last_page": "e93163",
+    "doi": "https://doi.org/10.2196/93163"
+   }
+  },
+  {
+   "id": "79c5fb86c8877c8b",
+   "title": "Linking employee engagement and innovative work behaviour through psychological safety among lecturers in Chinese public universities",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02434-5.pdf",
+   "source": "Discover Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "employee engagement",
+     "kind": "strong",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yanan Wu",
+     "Jun Zhou Thong",
+     "Qian Long Kweh",
+     "Irene Wei Kiong Ting"
+    ],
+    "container": "Discover Education",
+    "volume": "5",
+    "issue": "1",
+    "first_page": "1377",
+    "doi": "https://doi.org/10.1007/s44217-026-02434-5"
+   }
+  },
+  {
+   "id": "8ccec969fed2115a",
+   "title": "Speaking up at work: When support meets safety",
+   "url": "https://doi.org/10.12688/f1000research.194726.1",
+   "source": "F1000Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "speaking up",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Aji Suprayogo",
+     "Praptini Yulianti",
+     "Ahmad Rizki Sridadi",
+     "Sri Yayu Ninglasari",
+     "Andika Setia Pratama"
+    ],
+    "container": "F1000Research",
+    "volume": "15",
+    "first_page": "1961",
+    "last_page": "1961",
+    "doi": "https://doi.org/10.12688/f1000research.194726.1"
+   }
+  },
+  {
+   "id": "b48f0239f09c9d71",
+   "title": "Factors associated with teachers' adoption of Artificial Intelligence in Vietnamese high schools",
+   "url": "https://doi.org/10.1016/j.ssaho.2026.104008",
+   "source": "Social Sciences & Humanities Open",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "adoption of artificial intelligence",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Nguyen Thi Bich",
+     "Nguyễn Mậu Đức",
+     "Nguyễn Thị Phương Thanh"
+    ],
+    "container": "Social Sciences & Humanities Open",
+    "volume": "14",
+    "first_page": "104008",
+    "last_page": "104008",
+    "doi": "https://doi.org/10.1016/j.ssaho.2026.104008"
+   }
+  },
+  {
+   "id": "c99dece6f50ff532",
+   "title": "Transformational leadership and burnout among clinical healthcare workers in Inner Mongolia: a cross-sectional study",
+   "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1937356/pdf",
+   "source": "Frontiers in Public Health",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-25T19:37:29Z",
+   "window_days": 60,
+   "topics": [
+    "leadership",
+    "well-being"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "well-being": {
+     "phrase": "burnout",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Peijuan Tang",
+     "Yun Cao",
+     "Xinyu Zhao",
+     "Jiaxin Sun",
+     "YuChong Hu",
+     "Mei Su",
+     "Jia Wang"
+    ],
+    "container": "Frontiers in Public Health",
+    "volume": "14",
+    "first_page": "1937356",
+    "doi": "https://doi.org/10.3389/fpubh.2026.1937356"
    }
   },
   {
@@ -5318,45 +5643,6 @@
    }
   },
   {
-   "id": "da5a204cc9bcfbe4",
-   "title": "Psychological safety and organizational silence in Turkish schools",
-   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1944987/pdf",
-   "source": "Frontiers in Psychiatry",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-11T00:00:00Z",
-   "first_seen": "2026-11-12T17:45:27Z",
-   "window_days": 60,
-   "topics": [
-    "psych-safety"
-   ],
-   "why": {
-    "psych-safety": {
-     "phrase": "psychological safety",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Suzan ÇAKIR",
-     "Gökmen Dağlı",
-     "Zehra Altınay",
-     "Fahriye Altınay",
-     "Betül Yıkıcı"
-    ],
-    "container": "Frontiers in Psychiatry",
-    "volume": "17",
-    "first_page": "1944987",
-    "doi": "https://doi.org/10.3389/fpsyt.2026.1944987"
-   }
-  },
-  {
    "id": "95de82405ad2f7ff",
    "title": "Digital Work Stressors and Employee Well-Being: A Systematic Review of Evidence Types, Boundary Conditions, and Organisational Responses",
    "url": "https://f1000research.com/articles/15-1890/pdf",
@@ -5472,6 +5758,45 @@
     ],
     "container": "Observatorio (OBS*)",
     "doi": "https://doi.org/10.15847/obs20262955"
+   }
+  },
+  {
+   "id": "da5a204cc9bcfbe4",
+   "title": "Psychological safety and organizational silence in Turkish schools",
+   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1944987/pdf",
+   "source": "Frontiers in Psychiatry",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-11T00:00:00Z",
+   "first_seen": "2026-11-12T17:45:27Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Suzan ÇAKIR",
+     "Gökmen Dağlı",
+     "Zehra Altınay",
+     "Fahriye Altınay",
+     "Betül Yıkıcı"
+    ],
+    "container": "Frontiers in Psychiatry",
+    "volume": "17",
+    "first_page": "1944987",
+    "doi": "https://doi.org/10.3389/fpsyt.2026.1944987"
    }
   },
   {
@@ -6035,47 +6360,6 @@
    }
   },
   {
-   "id": "60e15e73bd592f39",
-   "title": "Teacher and peer support and sustainable creativity among arts-major undergraduates: a constructivist grounded theory of psychological safety, self-efficacy, and flow",
-   "url": "https://doi.org/10.1186/s40359-026-05914-3",
-   "source": "BMC Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-10T00:00:00Z",
-   "first_seen": "2026-11-11T17:28:55Z",
-   "window_days": 60,
-   "topics": [
-    "self-efficacy",
-    "psych-safety"
-   ],
-   "why": {
-    "self-efficacy": {
-     "phrase": "self-efficacy",
-     "kind": "weak",
-     "in_title": true
-    },
-    "psych-safety": {
-     "phrase": "psychological safety",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Qianqian Fan",
-     "Shipei Cui",
-     "Lan Li"
-    ],
-    "container": "BMC Psychology",
-    "doi": "https://doi.org/10.1186/s40359-026-05914-3"
-   }
-  },
-  {
    "id": "a50e6315a7fa6705",
    "title": "The relationship between surgical nurses’ attitude towards artificial intelligence and artificial intelligence dependence: a cross-sectional study",
    "url": "https://doi.org/10.1186/s12912-026-05638-0",
@@ -6237,6 +6521,47 @@
     "volume": "16",
     "issue": "3",
     "doi": "https://doi.org/10.22441/jurnal_mix.2026.v16i3.020"
+   }
+  },
+  {
+   "id": "60e15e73bd592f39",
+   "title": "Teacher and peer support and sustainable creativity among arts-major undergraduates: a constructivist grounded theory of psychological safety, self-efficacy, and flow",
+   "url": "https://doi.org/10.1186/s40359-026-05914-3",
+   "source": "BMC Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-10T00:00:00Z",
+   "first_seen": "2026-11-11T17:28:55Z",
+   "window_days": 60,
+   "topics": [
+    "self-efficacy",
+    "psych-safety"
+   ],
+   "why": {
+    "self-efficacy": {
+     "phrase": "self-efficacy",
+     "kind": "weak",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Qianqian Fan",
+     "Shipei Cui",
+     "Lan Li"
+    ],
+    "container": "BMC Psychology",
+    "doi": "https://doi.org/10.1186/s40359-026-05914-3"
    }
   },
   {
