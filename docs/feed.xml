@@ -6,13 +6,24 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:55:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:41:03 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>AI pushes Cebu IT-BPM to reinvent itself</title>
+      <link>https://www.sunstar.com.ph/cebu/ai-pushes-cebu-it-bpm-to-reinvent-itself-2</link>
+      <guid isPermaLink="false">4a5ba9d1c4541692</guid>
+      <pubDate>Wed, 25 Nov 2026 05:41:03 GMT</pubDate>
+      <description>News · SunStar · Published Nov 25, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Katlene O. Cacho-Laurejas</dc:creator>
+    </item>
     <item>
       <title>LOOK: Iloilo BPO workers evacuate amid 5.1-magnitude Antique tremor</title>
       <link>https://newsinfo.inquirer.net/2346716/look-iloilo-bpo-workers-evacuate-amid-5-1-magnitude-antique-tremor</link>
@@ -633,17 +644,6 @@
       <category>News</category>
       <category>AI at work</category>
       <dc:creator>Lara Ewen</dc:creator>
-    </item>
-    <item>
-      <title>With AI blamed for mass layoffs, here’s how we can ensure workers get a fairer go</title>
-      <link>https://theconversation.com/with-ai-blamed-for-mass-layoffs-heres-how-we-can-ensure-workers-get-a-fairer-go-296948</link>
-      <guid isPermaLink="false">f8967f3aa152682e</guid>
-      <pubDate>Fri, 20 Nov 2026 03:24:04 GMT</pubDate>
-      <description>Expert analysis · The Conversation · Published Nov 19, 2026 · Free to read. Topics: Organizational change, AI at work.</description>
-      <category>Expert analysis</category>
-      <category>Organizational change</category>
-      <category>AI at work</category>
-      <dc:creator>Chris F. Wright, Professor of Work, Labour Market Policy, University of Sydney</dc:creator>
     </item>
   </channel>
 </rss>

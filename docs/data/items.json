@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T04:55:18Z",
- "count": 358,
+ "generated": "2026-11-25T05:41:03Z",
+ "count": 359,
  "topics": [
   {
    "id": "change-readiness",
@@ -98,6 +98,38 @@
      "cavendano"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "4a5ba9d1c4541692",
+   "title": "AI pushes Cebu IT-BPM to reinvent itself",
+   "url": "https://www.sunstar.com.ph/cebu/ai-pushes-cebu-it-bpm-to-reinvent-itself-2",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-25T05:16:36Z",
+   "first_seen": "2026-11-25T05:41:03Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "it-bpm",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Katlene O. Cacho-Laurejas"
+    ],
+    "container": "SunStar"
    }
   },
   {
