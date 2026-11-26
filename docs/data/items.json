@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26T05:28:32Z",
- "count": 376,
+ "generated": "2026-11-26T10:55:02Z",
+ "count": 387,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,324 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "99b662e3c1c5f4c3",
+   "title": "SBMA marks 34 years, cites growth in Subic Freeport workforce",
+   "url": "https://newsinfo.inquirer.net/2347678/sbma-marks-34-years-cites-growth-in-subic-freeport-workforce",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T18:45:12Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "news",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "jvicente"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "7d51eecd0d58ac71",
+   "title": "Labor group: End VAW by tackling patriarchy, inequality",
+   "url": "https://newsinfo.inquirer.net/2347625/labor-group-end-vaw-by-tackling-patriarchy-inequality",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T16:00:50Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor group",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "postie"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "3c636d99c6f2c0af",
+   "title": "Villanueva urges creation of unemployment insurance",
+   "url": "https://newsinfo.inquirer.net/2347614/villanueva-urges-creation-of-unemployment-insurance-amid-rising-joblessness-and-stagflation",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T15:41:14Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "ctulipat"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "ce03afa79ef96dcc",
+   "title": "DOLE eyes conclusion of C. Luzon wage hike talks before Christmas",
+   "url": "https://newsinfo.inquirer.net/2347608/dole-eyes-conclusion-of-c-luzon-wage-hike-talks-before-christmas",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T14:56:00Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "dole",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "ggaviola"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "66ff339f142d1fd9",
+   "title": "Rising fuel costs, currency woes force AirAsia layoffs",
+   "url": "https://business.inquirer.net/622951/rising-fuel-costs-currency-woes-force-airasia-layoffs",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T13:56:20Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "job cuts",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "jcristobal"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "cfb739e779e525ea",
+   "title": "PhilHealth urged to reconsider 20% TAPAT benefit scheme",
+   "url": "https://newsinfo.inquirer.net/2347544/philhealth-urged-to-reconsider-20-tapat-benefit-scheme",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T13:30:07Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor group",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "postie"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "36c5f55633fff7f7",
+   "title": "Quality jobs to sustain gains vs poverty — ILO",
+   "url": "https://bworldonline.com/labor-and-management/2026/11/26/797053/quality-jobs-to-sustain-gains-vs-poverty-ilo/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T10:29:52Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "employment growth",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "562ce59b389e7dda",
+   "title": "Gabay Guro offers mental health, wellness support to teachers",
+   "url": "https://bworldonline.com/corporate/2026/11/26/796982/gabay-guro-offers-mental-health-wellness-support-to-teachers/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T10:04:59Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "mental health",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "49cf1b083149a03d",
+   "title": "Labor group decries AirAsia's layoff of 90 pilots amid union drive",
+   "url": "https://www.philstar.com/headlines/2026/11/26/2572809/labor-group-decries-airasias-layoff-90-pilots-amid-union-drive",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T08:28:00Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor group",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Philstar Business",
+    "authors": []
+   }
+  },
+  {
+   "id": "77f7cc6c65f5475a",
+   "title": "Who is Markus Lacanilao, the new MARINA administrator?",
+   "url": "https://www.rappler.com/people/newsmakers/who-markus-lacanilao-new-marina-administrator/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T08:11:34Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 7,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "leadership change",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Zara Pineda"
+    ],
+    "container": "Rappler"
+   }
+  },
   {
    "id": "dec3ea920187d413",
    "title": "Ilocos, Cagayan Valley workers get wage increases before Christmas",
@@ -520,6 +838,44 @@
      "Peter Szecsi",
      "Barnabas Szaszi"
     ]
+   }
+  },
+  {
+   "id": "a6f3a8d095fe5cc3",
+   "title": "CEO environmentally responsible leadership and ambidextrous green innovation: the roles of organizational climate for psychological safety and environmental dynamism",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1986911/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-25T00:00:00Z",
+   "first_seen": "2026-11-26T10:55:02Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Shabahat Ali",
+     "Xiaoying Wang",
+     "Sadaqat Ali",
+     "Hazrat Hassan"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1986911",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1986911"
    }
   },
   {
@@ -4972,6 +5328,46 @@
    }
   },
   {
+   "id": "ebeedd9482319b09",
+   "title": "THE INFLUENCE OF TRANSFORMATIONAL LEADERSHIP STYLE AND ORGANIZATION CULTURE ON EMPLOYEE PERFORMANCE AT ISLAMIC BOARDING SCHOOL „X“ PEKANBARU",
+   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/74279/42997",
+   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-13T00:00:00Z",
+   "first_seen": "2026-11-17T04:33:01Z",
+   "window_days": 60,
+   "topics": [
+    "leadership"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "transformational leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Raspan Hamdi",
+     "Lailatul Izzah",
+     "Eva Yuliza",
+     "Willytiyo Kurniawan",
+     "Renny Rahmaliae",
+     "Abdullah Nur Wakhid"
+    ],
+    "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+    "volume": "11",
+    "issue": "4",
+    "doi": "https://doi.org/10.23969/jp.v11i4.74279"
+   }
+  },
+  {
    "id": "c2416c91426bf571",
    "title": "Courage behind the laughter: dual-pathway linking perceived leader humor to followers’ constructive challenging behavior",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1955538/pdf",
@@ -5044,46 +5440,6 @@
     "volume": "11",
     "issue": "4",
     "doi": "https://doi.org/10.23969/jp.v11i04.72719"
-   }
-  },
-  {
-   "id": "ebeedd9482319b09",
-   "title": "THE INFLUENCE OF TRANSFORMATIONAL LEADERSHIP STYLE AND ORGANIZATION CULTURE ON EMPLOYEE PERFORMANCE AT ISLAMIC BOARDING SCHOOL „X“ PEKANBARU",
-   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/74279/42997",
-   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-13T00:00:00Z",
-   "first_seen": "2026-11-17T04:33:01Z",
-   "window_days": 60,
-   "topics": [
-    "leadership"
-   ],
-   "why": {
-    "leadership": {
-     "phrase": "transformational leadership",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Raspan Hamdi",
-     "Lailatul Izzah",
-     "Eva Yuliza",
-     "Willytiyo Kurniawan",
-     "Renny Rahmaliae",
-     "Abdullah Nur Wakhid"
-    ],
-    "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
-    "volume": "11",
-    "issue": "4",
-    "doi": "https://doi.org/10.23969/jp.v11i4.74279"
    }
   },
   {
@@ -6418,7 +6774,10 @@
     "kind": "preprint",
     "container": "PsyArXiv",
     "doi": "https://doi.org/10.31234/osf.io/d6vmp_v2",
-    "authors": []
+    "authors": [
+     "Alicia A. Meier-Ernst",
+     "Leonard Reinecke"
+    ]
    }
   },
   {
@@ -7082,7 +7441,7 @@
    "cite": {
     "kind": "journal",
     "authors": [
-     "Khalid Shams Al-Abdulqader",
+     "Khalid S. Al-Abdulqader",
      "Alanoud Ali Al-Maadid",
      "Mohamed Sami Ben Ali",
      "A. M. Suha"
@@ -7400,46 +7759,6 @@
    }
   },
   {
-   "id": "98ceda470d7678c7",
-   "title": "Nurses’ Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review",
-   "url": "https://doi.org/10.2196/99489",
-   "source": "Journal of Medical Internet Research",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-06T00:00:00Z",
-   "first_seen": "2026-11-10T05:10:30Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "generative ai",
-     "kind": "weak",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Mengmeng Wang",
-     "张春晏",
-     "YE Naikuan",
-     "Huan Li",
-     "Yue Bao"
-    ],
-    "container": "Journal of Medical Internet Research",
-    "volume": "28",
-    "first_page": "e99489",
-    "last_page": "e99489",
-    "doi": "https://doi.org/10.2196/99489"
-   }
-  },
-  {
    "id": "58902f2240b81517",
    "title": "AI literacy and generative AI acceptance among surgical and operating room nurses in Türkiye: a cross-sectional study with an open-ended qualitative component",
    "url": "https://doi.org/10.1186/s12912-026-05639-z",
@@ -7482,6 +7801,46 @@
    }
   },
   {
+   "id": "98ceda470d7678c7",
+   "title": "Nurses’ Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review",
+   "url": "https://doi.org/10.2196/99489",
+   "source": "Journal of Medical Internet Research",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-10T05:10:30Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Mengmeng Wang",
+     "张春晏",
+     "YE Naikuan",
+     "Huan Li",
+     "Yue Bao"
+    ],
+    "container": "Journal of Medical Internet Research",
+    "volume": "28",
+    "first_page": "e99489",
+    "last_page": "e99489",
+    "doi": "https://doi.org/10.2196/99489"
+   }
+  },
+  {
    "id": "aafbe1c1e760068d",
    "title": "AI Grief at Work: Development and Initial Validation of a Self-Report Scale",
    "url": "https://osf.io/preprints/psyarxiv/5eu9m_v2/",
@@ -7511,9 +7870,7 @@
     "kind": "preprint",
     "container": "PsyArXiv",
     "doi": "https://doi.org/10.31234/osf.io/5eu9m_v2",
-    "authors": [
-     "Jan Nehyba"
-    ]
+    "authors": []
    }
   },
   {
@@ -7546,7 +7903,10 @@
     "kind": "preprint",
     "container": "PsyArXiv",
     "doi": "https://doi.org/10.31234/osf.io/jnkse_v1",
-    "authors": []
+    "authors": [
+     "Charlotte Rauscher",
+     "Charly Marie"
+    ]
    }
   },
   {
@@ -8700,7 +9060,7 @@
      "Dung Viet Mai",
      "Thang Nguyen Ngoc",
      "Hakile Resulbegoviq",
-     "Mirjana Pejic Bach"
+     "Mirjana Pejić Bach"
     ],
     "container": "International Journal of Engineering Business Management",
     "volume": "18",
@@ -10814,7 +11174,7 @@
      "Arian Omeranovic",
      "Penny Soucy",
      "Annie Turgeon",
-     "Meghan Walker",
+     "Meghan J. Walker",
      "Anna Maria Chiarelli",
      "Jacques Simard",
      "Nora Pashayan"
@@ -11404,7 +11764,7 @@
     "kind": "journal",
     "authors": [
      "Arabella Mühl",
-     "C. Korunka",
+     "Christian Korunka",
      "E. Zedlacher",
      "M. Hartner-Tiefentahler"
     ],
