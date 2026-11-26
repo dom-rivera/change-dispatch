@@ -6,13 +6,35 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:10:46 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Ilocos, Cagayan Valley workers get wage increases before Christmas</title>
+      <link>https://newsinfo.inquirer.net/2347244/ilocos-cagayan-valley-workers-get-wage-increases-before-christmas</link>
+      <guid isPermaLink="false">dec3ea920187d413</guid>
+      <pubDate>Thu, 26 Nov 2026 04:10:46 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
+    <item>
+      <title>Sarangani earthquake victims to help build shelters</title>
+      <link>https://newsinfo.inquirer.net/2347147/sarangani-earthquake-victims-to-help-build-shelters</link>
+      <guid isPermaLink="false">5b01d4f93fc04295</guid>
+      <pubDate>Thu, 26 Nov 2026 04:10:46 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
     <item>
       <title>Ilocos, Cagayan Valley minimum wage workers get higher pay</title>
       <link>https://bworldonline.com/the-nation/2026/11/25/796808/ilocos-cagayan-valley-minimum-wage-workers-get-higher-pay/</link>
@@ -628,26 +650,6 @@
       <category>News</category>
       <category>Future of work</category>
       <dc:creator>Jenny Kleeman</dc:creator>
-    </item>
-    <item>
-      <title>Executives get more AI training than other workers, hurting adoption, report finds</title>
-      <link>https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/</link>
-      <guid isPermaLink="false">8f41770791ff0ff4</guid>
-      <pubDate>Sat, 21 Nov 2026 03:15:18 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 20, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Ryan Golden</dc:creator>
-    </item>
-    <item>
-      <title>We’ve tried everything to get off our phones. These 11 things work (and make great gifts)</title>
-      <link>https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas</link>
-      <guid isPermaLink="false">af72f9870d1f5ea7</guid>
-      <pubDate>Sat, 21 Nov 2026 03:15:18 GMT</pubDate>
-      <description>News · The Guardian (Technology) · Published Nov 20, 2026 · Free to read. Topics: Behavioral economics.</description>
-      <category>News</category>
-      <category>Behavioral economics</category>
-      <dc:creator>Lauren Gould</dc:creator>
     </item>
   </channel>
 </rss>

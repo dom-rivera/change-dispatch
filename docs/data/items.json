@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T19:37:29Z",
- "count": 373,
+ "generated": "2026-11-26T04:10:46Z",
+ "count": 375,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "dec3ea920187d413",
+   "title": "Ilocos, Cagayan Valley workers get wage increases before Christmas",
+   "url": "https://newsinfo.inquirer.net/2347244/ilocos-cagayan-valley-workers-get-wage-increases-before-christmas",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T05:40:00Z",
+   "first_seen": "2026-11-26T04:10:46Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "5b01d4f93fc04295",
+   "title": "Sarangani earthquake victims to help build shelters",
+   "url": "https://newsinfo.inquirer.net/2347147/sarangani-earthquake-victims-to-help-build-shelters",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T05:02:00Z",
+   "first_seen": "2026-11-26T04:10:46Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "department of labor and employment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
   {
    "id": "cda14cee2ea3d298",
    "title": "Private workers in Cagayan Valley to get P30-40 daily wage hike",
