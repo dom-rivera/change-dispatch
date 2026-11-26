@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T04:10:46Z",
+ "generated": "2026-11-26T05:28:32Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -307,7 +307,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-25T23:58:00Z",
+   "newest_item": "2026-11-26T04:00:00Z",
    "stale": false
   },
   {
@@ -319,7 +319,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-26T02:55:49Z",
+   "newest_item": "2026-11-26T05:34:44Z",
    "stale": false
   },
   {
@@ -394,7 +394,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-25T23:01:09Z",
+   "newest_item": "2026-11-26T05:23:18Z",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-26T02:29:56Z",
+   "newest_item": "2026-11-26T05:17:58Z",
    "stale": false
   },
   {
@@ -439,13 +439,13 @@
    "layer": "news",
    "ok": true,
    "found": 19,
-   "kept": 1,
+   "kept": 2,
    "error": null,
    "feed_used": [
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-26T04:01:00Z",
+   "newest_item": "2026-11-26T05:21:00Z",
    "stale": false
   },
   {
@@ -460,7 +460,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-26T03:23:16Z",
+   "newest_item": "2026-11-26T05:17:26Z",
    "stale": false
   },
   {
@@ -472,7 +472,7 @@
    "kept": 2,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-26T11:57:31Z",
+   "newest_item": "2026-11-26T13:37:05Z",
    "stale": false
   },
   {
@@ -480,11 +480,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 13,
+   "found": 16,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-26T03:57:17Z",
+   "newest_item": "2026-11-26T04:43:01Z",
    "stale": false
   },
   {
@@ -496,7 +496,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-26T03:20:00Z",
+   "newest_item": "2026-11-26T05:22:00Z",
    "stale": false
   }
  ]

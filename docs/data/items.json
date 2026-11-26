@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26T04:10:46Z",
- "count": 375,
+ "generated": "2026-11-26T05:28:32Z",
+ "count": 376,
  "topics": [
   {
    "id": "change-readiness",
@@ -98,6 +98,44 @@
      "cbuban"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "d0e96c96ecce13af",
+   "title": "Can the Philippines become Southeast Asia’s next fintech talent hub?",
+   "url": "https://www.rappler.com/brandrap/gcash-southeast-asia-fintech-talent-hub/",
+   "source": "Rappler",
+   "source_id": "rappler",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T05:09:25Z",
+   "first_seen": "2026-11-26T05:28:32Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "future-of-work"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "digital transformation",
+     "kind": "strong",
+     "in_title": false
+    },
+    "future-of-work": {
+     "phrase": "upskilling",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Anica Borromeo"
+    ],
+    "container": "Rappler"
    }
   },
   {
@@ -6380,10 +6418,7 @@
     "kind": "preprint",
     "container": "PsyArXiv",
     "doi": "https://doi.org/10.31234/osf.io/d6vmp_v2",
-    "authors": [
-     "Alicia A. Meier-Ernst",
-     "Leonard Reinecke"
-    ]
+    "authors": []
    }
   },
   {
@@ -7511,10 +7546,7 @@
     "kind": "preprint",
     "container": "PsyArXiv",
     "doi": "https://doi.org/10.31234/osf.io/jnkse_v1",
-    "authors": [
-     "Charlotte Rauscher",
-     "Charly Marie"
-    ]
+    "authors": []
    }
   },
   {

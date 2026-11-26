@@ -6,13 +6,25 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:28:32 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Can the Philippines become Southeast Asia’s next fintech talent hub?</title>
+      <link>https://www.rappler.com/brandrap/gcash-southeast-asia-fintech-talent-hub/</link>
+      <guid isPermaLink="false">d0e96c96ecce13af</guid>
+      <pubDate>Thu, 26 Nov 2026 05:28:32 GMT</pubDate>
+      <description>News · Rappler · Published Nov 26, 2026 · Free to read. Topics: Organizational change, Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Future of work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Anica Borromeo</dc:creator>
+    </item>
     <item>
       <title>Ilocos, Cagayan Valley workers get wage increases before Christmas</title>
       <link>https://newsinfo.inquirer.net/2347244/ilocos-cagayan-valley-workers-get-wage-increases-before-christmas</link>
@@ -640,16 +652,6 @@
       <category>Peer-reviewed</category>
       <category>Organizational change</category>
       <dc:creator>Leonardo P. Dominguez Zeta, Milagros P. Córdova de Chang, José Halbert Chang Valdiviezo, Joel F. Domínguez Zeta, José L. Sosa–León, Marina Fernández Miranda</dc:creator>
-    </item>
-    <item>
-      <title>‘The doom of humanity’: will the quest to make robotic hands render us obsolete?</title>
-      <link>https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai</link>
-      <guid isPermaLink="false">3bd15573705779b6</guid>
-      <pubDate>Sat, 21 Nov 2026 09:50:26 GMT</pubDate>
-      <description>News · The Guardian (Technology) · Published Nov 21, 2026 · Free to read. Topics: Future of work.</description>
-      <category>News</category>
-      <category>Future of work</category>
-      <dc:creator>Jenny Kleeman</dc:creator>
     </item>
   </channel>
 </rss>
