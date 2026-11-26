@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26T10:55:02Z",
- "count": 387,
+ "generated": "2026-11-26T19:18:18Z",
+ "count": 400,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,108 @@
  },
  "items": [
   {
+   "id": "e93533373f6f3353",
+   "title": "AirAsia slashes PH workforce",
+   "url": "https://business.inquirer.net/623007/airasia-slashes-ph-workforce",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-27T02:28:00Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "labor-economics"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "slashes",
+     "kind": "news",
+     "in_title": true
+    },
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "news",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "NewsPublish"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "5bdd87c851421dcc",
+   "title": "Labor group seeks probe into AirAsia’s retrenchment of 90 pilots",
+   "url": "https://newsinfo.inquirer.net/2347824/labor-group-seeks-probe-into-airasias-retrenchment-of-90-pilots",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T23:16:42Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "labor group",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "0026e09d57677906",
+   "title": "Dole launches online portal to monitor employers’ wage order compliance",
+   "url": "https://newsinfo.inquirer.net/2347812/dole-launches-online-portal-to-monitor-employers-wage-order-compliance",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T22:25:20Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "dole",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cbuban"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
    "id": "99b662e3c1c5f4c3",
    "title": "SBMA marks 34 years, cites growth in Subic Freeport workforce",
    "url": "https://newsinfo.inquirer.net/2347678/sbma-marks-34-years-cites-growth-in-subic-freeport-workforce",
@@ -98,6 +200,72 @@
      "jvicente"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "b1fe2543ba52ba77",
+   "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+   "url": "https://www.channelnewsasia.com/business/sap-considers-least-10000-job-cuts-in-ai-restructuring-bloomberg-reports-6585781",
+   "source": "CNA (Business)",
+   "source_id": "cna-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T16:33:33Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "job cuts",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "CNA",
+    "authors": []
+   }
+  },
+  {
+   "id": "2999d20fa44f2632",
+   "title": "PAO proposes aligning compensation for unjustly detained with minimum wage",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010902/pao-proposes-aligning-compensation-for-unjustly-detained-with-minimum-wage/story/",
+   "source": "GMA News",
+   "source_id": "gma-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T16:05:17Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "minimum wage",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "GMA News",
+    "authors": []
    }
   },
   {
@@ -197,6 +365,40 @@
    }
   },
   {
+   "id": "ce7382d8a686ec9c",
+   "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T14:06:10Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [
+    "Opinion"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Anonymous"
+    ],
+    "container": "The Guardian"
+   }
+  },
+  {
    "id": "66ff339f142d1fd9",
    "title": "Rising fuel costs, currency woes force AirAsia layoffs",
    "url": "https://business.inquirer.net/622951/rising-fuel-costs-currency-woes-force-airasia-layoffs",
@@ -258,6 +460,134 @@
      "postie"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "34246933e5ce3218",
+   "title": "DoLE urged to monitor agri wages",
+   "url": "https://bworldonline.com/the-nation/2026/11/26/797164/dole-urged-to-monitor-agri-wages/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T13:27:58Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "c05a559cb1af2478",
+   "title": "Less restrictive AI policy needed for PHL to catch up, lawmaker says",
+   "url": "https://bworldonline.com/the-nation/2026/11/26/797161/less-restrictive-ai-policy-needed-for-phl-to-catch-up-lawmaker-says/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T13:27:33Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai policy",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "7aa9b490b40b028f",
+   "title": "AirAsia Philippines cuts workforce as fuel, forex pressures drive up costs",
+   "url": "https://bworldonline.com/corporate/2026/11/26/797134/airasia-philippines-cuts-workforce-as-fuel-forex-pressures-drive-up-costs/",
+   "source": "BusinessWorld",
+   "source_id": "businessworld",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T13:01:30Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "workforce",
+     "kind": "news",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "CEDTyClea"
+    ],
+    "container": "BusinessWorld"
+   }
+  },
+  {
+   "id": "14b311d8c98d5d2c",
+   "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
+   "url": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-26T11:23:41Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 7,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai agents",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Guardian community team"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -879,9 +1209,94 @@
    }
   },
   {
+   "id": "66cf4ee98073a03b",
+   "title": "Generative AI and Perceived Team Innovation Performance in Tourism Enterprises: Dual Pathways and the Moderating Role of Team Psychological Safety",
+   "url": "https://doi.org/10.3390/systems14121528",
+   "source": "Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-25T00:00:00Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Wenjuan Tu",
+     "Jialu Chen",
+     "Yongyue Zhu"
+    ],
+    "container": "Systems",
+    "volume": "14",
+    "issue": "12",
+    "first_page": "1528",
+    "last_page": "1528",
+    "doi": "https://doi.org/10.3390/systems14121528"
+   }
+  },
+  {
+   "id": "b201f64423e3b4b6",
+   "title": "Factors associated with attitudes toward generative artificial intelligence among healthcare professionals: a cross-sectional survey using multi-group structural equation modeling",
+   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1997260/pdf",
+   "source": "Frontiers in Psychiatry",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-25T00:00:00Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yanyan Liu",
+     "葛志勤",
+     "Jiaqi Shi",
+     "Wenjing Li",
+     "Guo Zhang",
+     "Yuya Song"
+    ],
+    "container": "Frontiers in Psychiatry",
+    "volume": "17",
+    "first_page": "1997260",
+    "doi": "https://doi.org/10.3389/fpsyt.2026.1997260"
+   }
+  },
+  {
    "id": "d964b6f2697ef613",
    "title": "Digital drains: the role of IT-related mental fatigue in the relationship between remote work stressors and psychological detachment",
-   "url": "https://doi.org/10.1108/rausp-12-2025-0285",
+   "url": "https://www.emerald.com/rausp/article-pdf/doi/10.1108/RAUSP-12-2025-0285/12003869/rausp-12-2025-0285en.pdf",
    "source": "RAUSP Management Journal",
    "source_id": "core-search",
    "layer": "research",
@@ -1303,7 +1718,7 @@
   {
    "id": "8ccec969fed2115a",
    "title": "Speaking up at work: When support meets safety",
-   "url": "https://doi.org/10.12688/f1000research.194726.1",
+   "url": "https://f1000research.com/articles/15-1961/pdf",
    "source": "F1000Research",
    "source_id": "core-search",
    "layer": "research",
@@ -1864,6 +2279,43 @@
     "volume": "17",
     "first_page": "1931597",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1931597"
+   }
+  },
+  {
+   "id": "a0336d4dd2c4fc05",
+   "title": "PENGARUH TRANSFORMASI SIMRS DAN KOMPETENSI DIGITAL TERHADAP TECHNOSTRESS STAF DENGAN DIGITAL CONFIDENCE SEBAGAI VARIABEL INTERVENING DI DKH HOSPITALS CIBADAK",
+   "url": "https://journal.unpas.ac.id/index.php/pendas/article/download/74204/43939",
+   "source": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-23T00:00:00Z",
+   "first_seen": "2026-11-26T19:18:18Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "technostress",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Taruma B Tribudiman",
+     "Supriyantoro",
+     "Rina Anindita"
+    ],
+    "container": "Pendas Jurnal Ilmiah Pendidikan Dasar",
+    "volume": "11",
+    "issue": "4",
+    "doi": "https://doi.org/10.23969/jp.v11i04.74204"
    }
   },
   {
@@ -5185,7 +5637,7 @@
    "cite": {
     "kind": "journal",
     "authors": [
-     "Jennifer J. Antonythasan",
+     "Jennifer Janani Antonythasan",
      "Monica Hellesøy",
      "Anders Blilie",
      "Silje Elisabeth Kristiansen",
@@ -7747,7 +8199,7 @@
     "authors": [
      "Sarvenaz Taridashti",
      "Hojjatollah Farahani",
-     "Manuel Gonzalez",
+     "Manuel F. Gonzalez",
      "Sajjad Bagheri",
      "Hamid Khanipour",
      "Sahar Badiezadeh"
@@ -7870,7 +8322,9 @@
     "kind": "preprint",
     "container": "PsyArXiv",
     "doi": "https://doi.org/10.31234/osf.io/5eu9m_v2",
-    "authors": []
+    "authors": [
+     "Jan Nehyba"
+    ]
    }
   },
   {
@@ -9263,6 +9717,9 @@
      "Kun Zhang"
     ],
     "container": "BMC Nursing",
+    "volume": "25",
+    "issue": "1",
+    "first_page": "1162",
     "doi": "https://doi.org/10.1186/s12912-026-05521-y"
    }
   },
@@ -12510,11 +12967,11 @@
    "cite": {
     "kind": "journal",
     "authors": [
-     "H Van Simaeys",
+     "Hendrik Van Simaeys",
      "E Clays",
-     "E Lauwerier",
-     "L Lechner",
-     "D Myny"
+     "Emelien Lauwerier",
+     "Lilian Lechner",
+     "Dries Myny"
     ],
     "container": "European Journal of Public Health",
     "volume": "36",

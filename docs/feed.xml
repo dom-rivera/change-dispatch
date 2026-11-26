@@ -6,13 +6,152 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:18:18 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>AirAsia slashes PH workforce</title>
+      <link>https://business.inquirer.net/623007/airasia-slashes-ph-workforce</link>
+      <guid isPermaLink="false">e93533373f6f3353</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · Inquirer Business · Published Nov 27, 2026 · Free to read. Topics: Organizational change, Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>NewsPublish</dc:creator>
+    </item>
+    <item>
+      <title>Labor group seeks probe into AirAsia’s retrenchment of 90 pilots</title>
+      <link>https://newsinfo.inquirer.net/2347824/labor-group-seeks-probe-into-airasias-retrenchment-of-90-pilots</link>
+      <guid isPermaLink="false">5bdd87c851421dcc</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
+    <item>
+      <title>Dole launches online portal to monitor employers’ wage order compliance</title>
+      <link>https://newsinfo.inquirer.net/2347812/dole-launches-online-portal-to-monitor-employers-wage-order-compliance</link>
+      <guid isPermaLink="false">0026e09d57677906</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
+    <item>
+      <title>SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports</title>
+      <link>https://www.channelnewsasia.com/business/sap-considers-least-10000-job-cuts-in-ai-restructuring-bloomberg-reports-6585781</link>
+      <guid isPermaLink="false">b1fe2543ba52ba77</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 26, 2026 · Free to read. Topics: Organizational change, AI at work.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>AI at work</category>
+    </item>
+    <item>
+      <title>PAO proposes aligning compensation for unjustly detained with minimum wage</title>
+      <link>https://www.gmanetwork.com/news/topstories/nation/1010902/pao-proposes-aligning-compensation-for-unjustly-detained-with-minimum-wage/story/</link>
+      <guid isPermaLink="false">2999d20fa44f2632</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · GMA News · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+    </item>
+    <item>
+      <title>I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous</title>
+      <link>https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit</link>
+      <guid isPermaLink="false">ce7382d8a686ec9c</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 26, 2026 · Free to read · Opinion. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Anonymous</dc:creator>
+    </item>
+    <item>
+      <title>DoLE urged to monitor agri wages</title>
+      <link>https://bworldonline.com/the-nation/2026/11/26/797164/dole-urged-to-monitor-agri-wages/</link>
+      <guid isPermaLink="false">34246933e5ce3218</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · BusinessWorld · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>CEDTyClea</dc:creator>
+    </item>
+    <item>
+      <title>Less restrictive AI policy needed for PHL to catch up, lawmaker says</title>
+      <link>https://bworldonline.com/the-nation/2026/11/26/797161/less-restrictive-ai-policy-needed-for-phl-to-catch-up-lawmaker-says/</link>
+      <guid isPermaLink="false">c05a559cb1af2478</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · BusinessWorld · Published Nov 26, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>CEDTyClea</dc:creator>
+    </item>
+    <item>
+      <title>AirAsia Philippines cuts workforce as fuel, forex pressures drive up costs</title>
+      <link>https://bworldonline.com/corporate/2026/11/26/797134/airasia-philippines-cuts-workforce-as-fuel-forex-pressures-drive-up-costs/</link>
+      <guid isPermaLink="false">7aa9b490b40b028f</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · BusinessWorld · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>CEDTyClea</dc:creator>
+    </item>
+    <item>
+      <title>Employers: do you have concerns about the rollout of Muse and other AI agents?</title>
+      <link>https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents</link>
+      <guid isPermaLink="false">14b311d8c98d5d2c</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 26, 2026 · Free to read. Topics: AI at work.</description>
+      <category>News</category>
+      <category>AI at work</category>
+      <dc:creator>Guardian community team</dc:creator>
+    </item>
+    <item>
+      <title>Generative AI and Perceived Team Innovation Performance in Tourism Enterprises: Dual Pathways and the Moderating Role of Team Psychological Safety</title>
+      <link>https://doi.org/10.3390/systems14121528</link>
+      <guid isPermaLink="false">66cf4ee98073a03b</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>Peer-reviewed · Systems · Published Nov 25, 2026 · Free to read. Topics: Psychological safety and culture, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Psychological safety and culture</category>
+      <category>AI at work</category>
+      <dc:creator>Wenjuan Tu, Jialu Chen, Yongyue Zhu</dc:creator>
+    </item>
+    <item>
+      <title>Factors associated with attitudes toward generative artificial intelligence among healthcare professionals: a cross-sectional survey using multi-group structural equation modeling</title>
+      <link>https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1997260/pdf</link>
+      <guid isPermaLink="false">b201f64423e3b4b6</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychiatry · Published Nov 25, 2026 · Free to read. Topics: AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>AI at work</category>
+      <dc:creator>Yanyan Liu, 葛志勤, Jiaqi Shi, Wenjing Li, Guo Zhang, Yuya Song</dc:creator>
+    </item>
+    <item>
+      <title>PENGARUH TRANSFORMASI SIMRS DAN KOMPETENSI DIGITAL TERHADAP TECHNOSTRESS STAF DENGAN DIGITAL CONFIDENCE SEBAGAI VARIABEL INTERVENING DI DKH HOSPITALS CIBADAK</title>
+      <link>https://journal.unpas.ac.id/index.php/pendas/article/download/74204/43939</link>
+      <guid isPermaLink="false">a0336d4dd2c4fc05</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
+      <description>Peer-reviewed · Pendas Jurnal Ilmiah Pendidikan Dasar · Published Nov 23, 2026 · Free to read. Topics: AI at work, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>AI at work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Taruma B Tribudiman, Supriyantoro, Rina Anindita</dc:creator>
+    </item>
     <item>
       <title>SBMA marks 34 years, cites growth in Subic Freeport workforce</title>
       <link>https://newsinfo.inquirer.net/2347678/sbma-marks-34-years-cites-growth-in-subic-freeport-workforce</link>
@@ -179,7 +318,7 @@
     </item>
     <item>
       <title>Digital drains: the role of IT-related mental fatigue in the relationship between remote work stressors and psychological detachment</title>
-      <link>https://doi.org/10.1108/rausp-12-2025-0285</link>
+      <link>https://www.emerald.com/rausp/article-pdf/doi/10.1108/RAUSP-12-2025-0285/12003869/rausp-12-2025-0285en.pdf</link>
       <guid isPermaLink="false">d964b6f2697ef613</guid>
       <pubDate>Wed, 25 Nov 2026 19:37:29 GMT</pubDate>
       <description>Peer-reviewed · RAUSP Management Journal · Published Nov 25, 2026 · Free to read. Topics: Employee well-being, Future of work, Philippines &amp; Southeast Asia.</description>
@@ -223,7 +362,7 @@
     </item>
     <item>
       <title>Speaking up at work: When support meets safety</title>
-      <link>https://doi.org/10.12688/f1000research.194726.1</link>
+      <link>https://f1000research.com/articles/15-1961/pdf</link>
       <guid isPermaLink="false">8ccec969fed2115a</guid>
       <pubDate>Wed, 25 Nov 2026 19:37:29 GMT</pubDate>
       <description>Peer-reviewed · F1000Research · Published Nov 24, 2026 · Free to read. Topics: Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
@@ -518,144 +657,6 @@
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Sun Star Davao Digital</dc:creator>
-    </item>
-    <item>
-      <title>Weak economic fundamentals, structural gaps may limit PHL gains from AI</title>
-      <link>https://bworldonline.com/the-nation/2026/11/23/796125/weak-economic-fundamentals-structural-gaps-may-limit-phl-gains-from-ai/</link>
-      <guid isPermaLink="false">9b72ac404722834f</guid>
-      <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
-      <description>News · BusinessWorld · Published Nov 23, 2026 · Free to read. Topics: Openness to change, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Openness to change</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>CEDTyClea</dc:creator>
-    </item>
-    <item>
-      <title>Nurses’ attitudes and organizational readiness for barcode medication administration in intensive care units: an analytical cross-sectional study</title>
-      <link>https://www.nature.com/articles/s41598-026-81169-7_reference.pdf</link>
-      <guid isPermaLink="false">fc7d1c94118ab94d</guid>
-      <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
-      <description>Peer-reviewed · Scientific Reports · Published Nov 23, 2026 · Free to read. Topics: Change readiness.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <dc:creator>Maryam Mohammadi-Loushani, Rasoul Tabari-Khomeiran, Asieh Sedighi, Zahra Atrkar Roushan</dc:creator>
-    </item>
-    <item>
-      <title>DIGITAL TRANSFORMATION IN HIGHER EDUCATION MANAGEMENT: AN ANALYSIS OF ORGANIZATIONAL READINESS AND POLICY EFFECTIVENESS</title>
-      <link>https://journal.iaingorontalo.ac.id/index.php/tjmpi/article/download/8562/3387</link>
-      <guid isPermaLink="false">737ea90adcfe4449</guid>
-      <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
-      <description>Peer-reviewed · Tadbir Jurnal Manajemen Pendidikan Islam · Published Nov 8, 2026 · Free to read. Topics: Change readiness, Organizational change, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Change readiness</category>
-      <category>Organizational change</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Suharti, Putriani L. Maliki</dc:creator>
-    </item>
-    <item>
-      <title>AI adoption in purchasing and supply management: how institutional voids rewire the UTAUT framework</title>
-      <link>https://www.emerald.com/mscra/article-pdf/doi/10.1108/MSCRA-07-2026-0119/11941612/mscra-07-2026-0119en.pdf</link>
-      <guid isPermaLink="false">0d011ed4afa504d6</guid>
-      <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
-      <description>Peer-reviewed · Modern Supply Chain Research and Applications · Published Nov 2, 2026 · Free to read. Topics: AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>AI at work</category>
-      <dc:creator>Abdelmalek Hinaje</dc:creator>
-    </item>
-    <item>
-      <title>RECALIBRATING AI ACCEPTANCE AMONG MID-TO-LATE-CAREER EFL TEACHERS THROUGH GUIDED AI ENGAGEMENT</title>
-      <link>https://ejournal.usd.ac.id/index.php/llt/article/download/2040/226</link>
-      <guid isPermaLink="false">c94ae030bc81c95c</guid>
-      <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
-      <description>Peer-reviewed · LLT Journal A Journal on Language and Language Teaching · Published Oct 30, 2026 · Free to read. Topics: Openness to change, AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Openness to change</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Truong Sa Nguyen, Willy A. Renandya, Flora Debora Floris</dc:creator>
-    </item>
-    <item>
-      <title>Light Pollution: Effects on Sleep, Work, and Mental Health</title>
-      <link>https://www.nber.org/papers/w36060</link>
-      <guid isPermaLink="false">fafdc2ae9fa3d199</guid>
-      <pubDate>Mon, 23 Nov 2026 10:46:59 GMT</pubDate>
-      <description>Preprint · NBER Working Papers · Added Nov 23, 2026 · Free to read · Not yet peer-reviewed. Topics: Employee well-being.</description>
-      <category>Preprint</category>
-      <category>Employee well-being</category>
-      <dc:creator>Joan Costa-i-Font, Janet Currie, Soodeh Saberian</dc:creator>
-    </item>
-    <item>
-      <title>Bangladesh garment makers eye 15% wage hike, far short of workers' demand</title>
-      <link>https://www.channelnewsasia.com/business/bangladesh-garment-makers-eye-15-wage-hike-far-short-workers-demand-6574591</link>
-      <guid isPermaLink="false">5ea1f71c184c0c91</guid>
-      <pubDate>Mon, 23 Nov 2026 10:46:59 GMT</pubDate>
-      <description>News · CNA (Business) · Published Nov 23, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-    </item>
-    <item>
-      <title>How to save while spending your 13th month pay</title>
-      <link>https://www.philstar.com/banking/2026/11/23/2572067/how-save-while-spending-your-13th-month-pay</link>
-      <guid isPermaLink="false">07b49b9364147d6f</guid>
-      <pubDate>Mon, 23 Nov 2026 10:46:59 GMT</pubDate>
-      <description>News · Philstar Business · Published Nov 23, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-    </item>
-    <item>
-      <title>Manibela begins two-day transport strike</title>
-      <link>https://newsinfo.inquirer.net/2345555/manibela-begins-two-day-transport-strike</link>
-      <guid isPermaLink="false">a47a8f5beb2506f8</guid>
-      <pubDate>Mon, 23 Nov 2026 04:00:08 GMT</pubDate>
-      <description>News · Inquirer News · Published Nov 23, 2026 · Free to read. Topics: Leadership and change communication, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Leadership and change communication</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>mmercado</dc:creator>
-    </item>
-    <item>
-      <title>Gender and Agency in AI Career Guidance for Women: A Socio-Technical Audit of General-Purpose Language Models</title>
-      <link>https://osf.io/preprints/psyarxiv/2hbe4_v1/</link>
-      <guid isPermaLink="false">fe5e88779f0c6f46</guid>
-      <pubDate>Mon, 23 Nov 2026 04:00:08 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 23, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Sara Portell-Fonolla, Yasmina El Fassi</dc:creator>
-    </item>
-    <item>
-      <title>ABS-CBN saw the future, GMA made the money, now both must change</title>
-      <link>https://www.rappler.com/business/abs-cbn-saw-future-gma-network-made-money-now-both-must-change/</link>
-      <guid isPermaLink="false">e37d7c0b2c4a75d2</guid>
-      <pubDate>Mon, 23 Nov 2026 02:50:41 GMT</pubDate>
-      <description>News · Rappler · Published Nov 23, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Organizational change</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Lala Rimando</dc:creator>
-    </item>
-    <item>
-      <title>Industry group, regional think tank boost solar power workforce</title>
-      <link>https://business.inquirer.net/622276/industry-group-regional-think-tank-boost-solar-power-workforce</link>
-      <guid isPermaLink="false">364944c62b5a2636</guid>
-      <pubDate>Mon, 23 Nov 2026 02:50:41 GMT</pubDate>
-      <description>News · Inquirer Business · Published Nov 23, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>NewsPublish</dc:creator>
-    </item>
-    <item>
-      <title>Asean solar boom puts work skills gap in focus</title>
-      <link>https://www.philstar.com/business/2026/11/23/2571917/asean-solar-boom-puts-work-skills-gap-focus</link>
-      <guid isPermaLink="false">9b6ecc711499f0d3</guid>
-      <pubDate>Sun, 22 Nov 2026 17:25:32 GMT</pubDate>
-      <description>News · Philstar Business · Published Nov 22, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Future of work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Brix Lelis</dc:creator>
     </item>
   </channel>
 </rss>
