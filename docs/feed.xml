@@ -6,13 +6,34 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 19:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:18:09 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Labor group seeks probe into AirAsia’s retrenchment of 90 pilots</title>
+      <link>https://newsinfo.inquirer.net/2347824/labor-group-seeks-probe-into-airasias-retrenchment-of-90-pilots-2</link>
+      <guid isPermaLink="false">92081439c95d328d</guid>
+      <pubDate>Fri, 27 Nov 2026 04:18:09 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>cbuban</dc:creator>
+    </item>
+    <item>
+      <title>SAP reportedly considering at least 10,000 job cuts in AI restructuring</title>
+      <link>https://www.channelnewsasia.com/business/sap-job-cuts-ai-restructuring-6585781</link>
+      <guid isPermaLink="false">0f56701db12eb363</guid>
+      <pubDate>Fri, 27 Nov 2026 04:18:09 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 26, 2026 · Free to read. Topics: Organizational change, AI at work.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>AI at work</category>
+    </item>
     <item>
       <title>AirAsia slashes PH workforce</title>
       <link>https://business.inquirer.net/623007/airasia-slashes-ph-workforce</link>
@@ -24,17 +45,6 @@
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>NewsPublish</dc:creator>
-    </item>
-    <item>
-      <title>Labor group seeks probe into AirAsia’s retrenchment of 90 pilots</title>
-      <link>https://newsinfo.inquirer.net/2347824/labor-group-seeks-probe-into-airasias-retrenchment-of-90-pilots</link>
-      <guid isPermaLink="false">5bdd87c851421dcc</guid>
-      <pubDate>Thu, 26 Nov 2026 19:18:18 GMT</pubDate>
-      <description>News · Inquirer News · Published Nov 26, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>cbuban</dc:creator>
     </item>
     <item>
       <title>Dole launches online portal to monitor employers’ wage order compliance</title>
@@ -646,17 +656,6 @@
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Cristina E. Alivio</dc:creator>
-    </item>
-    <item>
-      <title>Davao youth rehab center focuses on education and skills</title>
-      <link>https://www.sunstar.com.ph/davao/davao-youth-rehab-center-focuses-on-education-and-skills</link>
-      <guid isPermaLink="false">12f39412cd2c8b56</guid>
-      <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
-      <description>News · SunStar · Published Nov 23, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Sun Star Davao Digital</dc:creator>
     </item>
   </channel>
 </rss>
