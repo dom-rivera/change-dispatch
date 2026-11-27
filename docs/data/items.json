@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T10:52:06Z",
- "count": 410,
+ "generated": "2026-11-27T19:12:27Z",
+ "count": 412,
  "topics": [
   {
    "id": "change-readiness",
@@ -101,6 +101,40 @@
    }
   },
   {
+   "id": "a0d1b8bd36c45648",
+   "title": "Valderrama: The American Dream and the Filipino reality",
+   "url": "https://www.sunstar.com.ph/davao/valderrama-the-american-dream-and-the-filipino-reality",
+   "source": "SunStar",
+   "source_id": "sunstar",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-27T15:45:01Z",
+   "first_seen": "2026-11-27T19:12:27Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wages",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": true,
+   "labels": [
+    "Opinion"
+   ],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Maria Gemima C. Valderrama"
+    ],
+    "container": "SunStar"
+   }
+  },
+  {
    "id": "e5c517e837640ffd",
    "title": "Labor groups slam ‘measly’ wage hikes in Ilocos",
    "url": "https://newsinfo.inquirer.net/2348073/labor-groups-slam-measly-wage-hikes-in-ilocos",
@@ -162,6 +196,42 @@
      "jcristobal"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "5943b62a39cce3f7",
+   "title": "Software giant SAP weighs major job cuts as AI transforms sector, sources say",
+   "url": "https://www.channelnewsasia.com/business/software-giant-sap-weighs-major-job-cuts-ai-transforms-sector-sources-say-6587276",
+   "source": "CNA (Business)",
+   "source_id": "cna-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-27T09:25:06Z",
+   "first_seen": "2026-11-27T19:12:27Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change",
+    "ai-at-work"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "job cuts",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "CNA",
+    "authors": []
    }
   },
   {

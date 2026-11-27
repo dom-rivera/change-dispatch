@@ -6,13 +6,34 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:52:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:12:27 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Valderrama: The American Dream and the Filipino reality</title>
+      <link>https://www.sunstar.com.ph/davao/valderrama-the-american-dream-and-the-filipino-reality</link>
+      <guid isPermaLink="false">a0d1b8bd36c45648</guid>
+      <pubDate>Fri, 27 Nov 2026 19:12:27 GMT</pubDate>
+      <description>News · SunStar · Published Nov 27, 2026 · Free to read · Opinion. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Maria Gemima C. Valderrama</dc:creator>
+    </item>
+    <item>
+      <title>Software giant SAP weighs major job cuts as AI transforms sector, sources say</title>
+      <link>https://www.channelnewsasia.com/business/software-giant-sap-weighs-major-job-cuts-ai-transforms-sector-sources-say-6587276</link>
+      <guid isPermaLink="false">5943b62a39cce3f7</guid>
+      <pubDate>Fri, 27 Nov 2026 19:12:27 GMT</pubDate>
+      <description>News · CNA (Business) · Published Nov 27, 2026 · Free to read. Topics: Organizational change, AI at work.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>AI at work</category>
+    </item>
     <item>
       <title>SSS pensioners to get 13th month pay on Dec. 1, 4</title>
       <link>https://business.inquirer.net/623161/sss-pensioners-to-get-13th-month-pay-on-dec-1-4</link>
@@ -636,28 +657,6 @@
       <category>AI at work</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>Chunlong Zeng, Raja Suzana Raja Kasim</dc:creator>
-    </item>
-    <item>
-      <title>Examining ecotourism adoption through green transformational leadership and AI strategy integration</title>
-      <link>https://doi.org/10.1007/s43621-026-05202-5</link>
-      <guid isPermaLink="false">33456675deebcf1d</guid>
-      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
-      <description>Peer-reviewed · Discover Sustainability · Published Nov 23, 2026 · Free to read. Topics: Leadership and change communication, AI at work.</description>
-      <category>Peer-reviewed</category>
-      <category>Leadership and change communication</category>
-      <category>AI at work</category>
-      <dc:creator>Uğur Kılınç, Olcay Kılınç</dc:creator>
-    </item>
-    <item>
-      <title>The Strategic Implementation of Digital Transformation at Perumda Tirta Pakuan Bogor</title>
-      <link>https://journal.ipb.ac.id/ijbe/article/download/64057/34448</link>
-      <guid isPermaLink="false">81dad5d4ad6a3f8c</guid>
-      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
-      <description>Peer-reviewed · Indonesian Journal of Business and Entrepreneurship · Published Oct 13, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Organizational change</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Aditya Putra Nugraha, Raden Dikky Indrawan, Linda Karlina Sari</dc:creator>
     </item>
   </channel>
 </rss>
