@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T05:22:30Z",
- "count": 402,
+ "generated": "2026-11-27T10:52:06Z",
+ "count": 410,
  "topics": [
   {
    "id": "change-readiness",
@@ -69,6 +69,70 @@
  },
  "items": [
   {
+   "id": "4fd9791bf3907ab5",
+   "title": "SSS pensioners to get 13th month pay on Dec. 1, 4",
+   "url": "https://business.inquirer.net/623161/sss-pensioners-to-get-13th-month-pay-on-dec-1-4",
+   "source": "Inquirer Business",
+   "source_id": "inquirer-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-27T17:58:29Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "13th month pay",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "clopez"
+    ],
+    "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "e5c517e837640ffd",
+   "title": "Labor groups slam ‘measly’ wage hikes in Ilocos",
+   "url": "https://newsinfo.inquirer.net/2348073/labor-groups-slam-measly-wage-hikes-in-ilocos",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-27T14:58:42Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "wage hikes",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "cavendano"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
    "id": "e4a477f6bd8f6b23",
    "title": "No flight disruptions despite job cuts—AirAsia PH",
    "url": "https://business.inquirer.net/623098/no-flight-disruptions-despite-job-cutsairasia-ph",
@@ -98,6 +162,68 @@
      "jcristobal"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "5a2e3a1f2eddbecd",
+   "title": "AirAsia PH says flights unaffected as DOLE vows to avert pilots' strike",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2573052/airasia-ph-says-flights-unaffected-dole-vows-avert-pilots-strike",
+   "source": "Philstar Business",
+   "source_id": "philstar-business",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-27T06:43:00Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "dole",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "container": "Philstar Business",
+    "authors": []
+   }
+  },
+  {
+   "id": "61abe77368d23f08",
+   "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-27T06:00:55Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 7,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "shake-up",
+     "kind": "news",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Richard Partington"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -884,6 +1010,128 @@
      "cbuban"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "9d5a539d395bcbce",
+   "title": "The Stressor–Action Mechanism (SAM) model: mediating mechanisms linking job stressors to health impairments by integrating multiple theoretical perspectives",
+   "url": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2026.1948658/pdf",
+   "source": "Frontiers in Organizational Psychology",
+   "source_id": "frontiers-org-psych",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-26T00:00:00Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 60,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "stressors",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Sarah Cornelsen",
+     "Jan Dettmers"
+    ],
+    "container": "Frontiers in Organizational Psychology",
+    "volume": "4",
+    "first_page": "1948658",
+    "doi": "https://doi.org/10.3389/forgp.2026.1948658"
+   }
+  },
+  {
+   "id": "0ffca95e4f539bff",
+   "title": "Career Adaptability, Perceived Usefulness of Generative AI, and Innovative Work Behavior: The Conditional Role of Occupational Future Time Perspective and Psychological Safety",
+   "url": "https://doi.org/10.3390/bs16122260",
+   "source": "Behavioral Sciences",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-26T00:00:00Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety",
+    "ai-at-work"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Socheon Yoon",
+     "Kwang Tae Kim"
+    ],
+    "container": "Behavioral Sciences",
+    "volume": "16",
+    "issue": "12",
+    "first_page": "2260",
+    "last_page": "2260",
+    "doi": "https://doi.org/10.3390/bs16122260"
+   }
+  },
+  {
+   "id": "8a54a6f4e34c4917",
+   "title": "An ethical leadership framework for governing responsible artificial intelligence adoption in education",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02469-8.pdf",
+   "source": "Discover Education",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-26T00:00:00Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 90,
+   "topics": [
+    "leadership",
+    "ai-at-work"
+   ],
+   "why": {
+    "leadership": {
+     "phrase": "ethical leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "artificial intelligence adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Amelie E. Trinidad"
+    ],
+    "container": "Discover Education",
+    "volume": "5",
+    "issue": "1",
+    "first_page": "1391",
+    "doi": "https://doi.org/10.1007/s44217-026-02469-8"
    }
   },
   {
@@ -1694,7 +1942,7 @@
      "Nidia Rodríguez",
      "Antonio Cedeño",
      "Emma Cintrón",
-     "José Pons-Madera"
+     "José I. Pons-Madera"
     ],
     "container": "Frontiers in Organizational Psychology",
     "volume": "4",
@@ -6700,6 +6948,7 @@
     "container": "Frontiers in Psychology",
     "volume": "17",
     "first_page": "1879629",
+    "last_page": "1879629",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1879629"
    }
   },
@@ -9159,41 +9408,6 @@
    }
   },
   {
-   "id": "0d011ed4afa504d6",
-   "title": "AI adoption in purchasing and supply management: how institutional voids rewire the UTAUT framework",
-   "url": "https://www.emerald.com/mscra/article-pdf/doi/10.1108/MSCRA-07-2026-0119/11941612/mscra-07-2026-0119en.pdf",
-   "source": "Modern Supply Chain Research and Applications",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-11-02T00:00:00Z",
-   "first_seen": "2026-11-23T21:43:00Z",
-   "window_days": 60,
-   "topics": [
-    "ai-at-work"
-   ],
-   "why": {
-    "ai-at-work": {
-     "phrase": "ai adoption",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Abdelmalek Hinaje"
-    ],
-    "container": "Modern Supply Chain Research and Applications",
-    "first_page": "1",
-    "last_page": "17",
-    "doi": "https://doi.org/10.1108/mscra-07-2026-0119"
-   }
-  },
-  {
    "id": "6eac422144193060",
    "title": "Teachers’ attitudes and behavioural intentions towards AI integration in Chinese higher education: a qualitative interview study",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1968803/pdf",
@@ -9307,6 +9521,41 @@
    }
   },
   {
+   "id": "0d011ed4afa504d6",
+   "title": "AI adoption in purchasing and supply management: how institutional voids rewire the UTAUT framework",
+   "url": "https://www.emerald.com/mscra/article-pdf/doi/10.1108/MSCRA-07-2026-0119/11941612/mscra-07-2026-0119en.pdf",
+   "source": "Modern Supply Chain Research and Applications",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-02T00:00:00Z",
+   "first_seen": "2026-11-23T21:43:00Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai adoption",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Abdelmalek Hinaje"
+    ],
+    "container": "Modern Supply Chain Research and Applications",
+    "first_page": "1",
+    "last_page": "17",
+    "doi": "https://doi.org/10.1108/mscra-07-2026-0119"
+   }
+  },
+  {
    "id": "ec11741b85392f92",
    "title": "Speaking Up or Thinking of Leaving? Ethical Climate, Psychological Safety, and Voice in B2B Salesforces",
    "url": "https://marketingmanagementjournal.scholasticahq.com/article/172047.pdf",
@@ -9339,6 +9588,43 @@
     "volume": "36",
     "issue": "2",
     "doi": "https://doi.org/10.63963/001c.172047"
+   }
+  },
+  {
+   "id": "246763559f10afb0",
+   "title": "The FATE is Inclusion: AI-Driven Inclusive Personnel Selection and HR Professionals’ Perspectives",
+   "url": "https://journals.copmadrid.org/jwop/files/1576-5962-jwop-42-e260777.pdf",
+   "source": "Journal of Work and Organizational Psychology",
+   "source_id": "jwop",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-01T00:00:00Z",
+   "first_seen": "2026-11-27T10:52:06Z",
+   "window_days": 90,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Pedro J. Ramos‐Villagrasa",
+     "María Patricia Navas",
+     "Ioannis Nikolaou",
+     "Ramón Hermoso"
+    ],
+    "container": "Journal of Work and Organizational Psychology",
+    "volume": "42",
+    "doi": "https://doi.org/10.5093/jwop2026a9"
    }
   },
   {
@@ -12972,43 +13258,6 @@
    }
   },
   {
-   "id": "dd3067925eacd292",
-   "title": "Beyond technology acceptance: AI-application readiness and continuance intention among Chinese university students—a measurement-aware secondary analysis",
-   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1963259/pdf",
-   "source": "Frontiers in Psychology",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-01T00:00:00Z",
-   "first_seen": "2026-11-10T04:01:12Z",
-   "window_days": 60,
-   "topics": [
-    "openness-to-change"
-   ],
-   "why": {
-    "openness-to-change": {
-     "phrase": "technology acceptance",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": false,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Yunxia Sun",
-     "Yan Li"
-    ],
-    "container": "Frontiers in Psychology",
-    "volume": "17",
-    "first_page": "1963259",
-    "last_page": "1963259",
-    "doi": "https://doi.org/10.3389/fpsyg.2026.1963259"
-   }
-  },
-  {
    "id": "eeec0f4988ca5661",
    "title": "Participatory organizational intervention: improving staff wellbeing in specialized hospital units",
    "url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.1384/72464933/ckag169.1384.pdf",
@@ -13092,6 +13341,43 @@
     "issue": "Supplement_5",
     "first_page": "ckag169.332",
     "doi": "https://doi.org/10.1093/eurpub/ckag169.332"
+   }
+  },
+  {
+   "id": "dd3067925eacd292",
+   "title": "Beyond technology acceptance: AI-application readiness and continuance intention among Chinese university students—a measurement-aware secondary analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1963259/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-01T00:00:00Z",
+   "first_seen": "2026-11-10T04:01:12Z",
+   "window_days": 60,
+   "topics": [
+    "openness-to-change"
+   ],
+   "why": {
+    "openness-to-change": {
+     "phrase": "technology acceptance",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Yunxia Sun",
+     "Yan Li"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1963259",
+    "last_page": "1963259",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1963259"
    }
   },
   {

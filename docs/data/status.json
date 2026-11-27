@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T05:22:30Z",
+ "generated": "2026-11-27T10:52:06Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -72,12 +72,12 @@
    "name": "Asian Journal of Social Psychology",
    "layer": "research",
    "ok": true,
-   "found": 5,
+   "found": 6,
    "kept": 0,
    "error": null,
    "openalex_source": "https://openalex.org/S174197836",
    "journal_matched": "Asian Journal Of Social Psychology",
-   "newest_item": "2026-11-16T00:00:00Z",
+   "newest_item": "2026-11-25T00:00:00Z",
    "stale": false
   },
   {
@@ -98,12 +98,12 @@
    "name": "Frontiers in Organizational Psychology",
    "layer": "research",
    "ok": true,
-   "found": 26,
-   "kept": 10,
+   "found": 27,
+   "kept": 11,
    "error": null,
    "openalex_source": "https://openalex.org/S4387291118",
    "journal_matched": "Frontiers in Organizational Psychology",
-   "newest_item": "2026-11-24T00:00:00Z",
+   "newest_item": "2026-11-26T00:00:00Z",
    "stale": false
   },
   {
@@ -111,16 +111,13 @@
    "name": "Journal of Work and Organizational Psychology",
    "layer": "research",
    "ok": true,
-   "found": 0,
-   "kept": 0,
+   "found": 1,
+   "kept": 1,
    "error": null,
    "openalex_source": "https://openalex.org/S2898581472",
    "journal_matched": "Journal of Work and Organizational Psychology",
-   "diagnostic": {
-    "recent_any_type": 0,
-    "recent_free": 0,
-    "latest_in_openalex": "2026-07-01"
-   }
+   "newest_item": "2026-11-01T00:00:00Z",
+   "stale": false
   },
   {
    "id": "jdm",
@@ -153,8 +150,8 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 291,
-   "kept": 95,
+   "found": 296,
+   "kept": 93,
    "error": null,
    "results_per_phrase": {
     "readiness for change": 19,
@@ -187,9 +184,9 @@
     "job redesign": 0,
     "nudge": 25,
     "status quo bias": 3,
-    "loss aversion": 17
+    "loss aversion": 18
    },
-   "dropped_low_h_index": 125,
+   "dropped_low_h_index": 124,
    "min_h_index": 30,
    "newest_item": "2026-12-31T00:00:00Z",
    "stale": false
@@ -199,8 +196,8 @@
    "name": "Philippine research search",
    "layer": "research",
    "ok": true,
-   "found": 63,
-   "kept": 6,
+   "found": 65,
+   "kept": 7,
    "error": null,
    "results_per_phrase": {
     "employees": 16,
@@ -215,7 +212,7 @@
     "self-efficacy": 14,
     "change": 25
    },
-   "dropped_low_h_index": 65,
+   "dropped_low_h_index": 63,
    "min_h_index": 30,
    "newest_item": "2026-11-26T00:00:00Z",
    "stale": false
@@ -225,10 +222,10 @@
    "name": "PsyArXiv",
    "layer": "preprint",
    "ok": true,
-   "found": 1230,
+   "found": 1244,
    "kept": 14,
    "error": null,
-   "newest_item": "2026-11-26T08:23:56Z",
+   "newest_item": "2026-11-27T10:22:42Z",
    "stale": false
   },
   {
@@ -304,10 +301,10 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 0,
+   "kept": 1,
    "error": null,
    "feed_used": "https://www.philstar.com/rss/business",
-   "newest_item": "2026-11-27T03:00:00Z",
+   "newest_item": "2026-11-27T08:36:00Z",
    "stale": false
   },
   {
@@ -316,10 +313,10 @@
    "layer": "news",
    "ok": true,
    "found": 30,
-   "kept": 2,
+   "kept": 0,
    "error": null,
    "feed_used": "https://www.bworldonline.com/feed/",
-   "newest_item": "2026-11-27T04:45:02Z",
+   "newest_item": "2026-11-27T08:52:56Z",
    "stale": false
   },
   {
@@ -328,10 +325,10 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 3,
+   "kept": 4,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-27T12:39:45Z",
+   "newest_item": "2026-11-27T18:00:39Z",
    "stale": false
   },
   {
@@ -355,7 +352,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.theguardian.com/technology/rss",
-   "newest_item": "2026-11-26T20:00:43Z",
+   "newest_item": "2026-11-27T10:15:20Z",
    "stale": false
   },
   {
@@ -364,13 +361,13 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 7,
+   "kept": 8,
    "error": null,
    "feed_used": [
     "https://www.theguardian.com/money/work-and-careers/rss",
     "https://www.theguardian.com/technology/artificialintelligenceai/rss"
    ],
-   "newest_item": "2026-11-26T18:34:17Z",
+   "newest_item": "2026-11-27T10:00:02Z",
    "stale": false
   },
   {
@@ -378,11 +375,11 @@
    "name": "BBC News (Business)",
    "layer": "news",
    "ok": true,
-   "found": 49,
+   "found": 50,
    "kept": 0,
    "error": null,
    "feed_used": "https://feeds.bbci.co.uk/news/business/rss.xml",
-   "newest_item": "2026-11-27T00:54:45Z",
+   "newest_item": "2026-11-27T10:10:36Z",
    "stale": false
   },
   {
@@ -391,10 +388,10 @@
    "layer": "news",
    "ok": true,
    "found": 10,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": "https://feeds.npr.org/1006/rss.xml",
-   "newest_item": "2026-11-26T05:23:18Z",
+   "newest_item": "2026-11-27T10:01:00Z",
    "stale": false
   },
   {
@@ -403,10 +400,10 @@
    "layer": "news",
    "ok": true,
    "found": 20,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-27T01:46:56Z",
+   "newest_item": "2026-11-27T10:45:43Z",
    "stale": false
   },
   {
@@ -445,7 +442,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-27T05:01:26Z",
+   "newest_item": "2026-11-27T10:42:50Z",
    "stale": false
   },
   {
@@ -460,7 +457,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-27T05:02:00Z",
+   "newest_item": "2026-11-27T10:50:52Z",
    "stale": false
   },
   {
@@ -469,10 +466,10 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 2,
+   "kept": 1,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-27T13:19:55Z",
+   "newest_item": "2026-11-27T17:23:44Z",
    "stale": false
   },
   {
@@ -480,11 +477,11 @@
    "name": "SunStar",
    "layer": "news",
    "ok": true,
-   "found": 5,
+   "found": 11,
    "kept": 0,
    "error": null,
    "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-27T04:40:11Z",
+   "newest_item": "2026-11-27T09:47:39Z",
    "stale": false
   },
   {
@@ -496,7 +493,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-27T01:00:00Z",
+   "newest_item": "2026-11-27T10:31:00Z",
    "stale": false
   }
  ]
