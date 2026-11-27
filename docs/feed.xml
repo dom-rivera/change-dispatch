@@ -6,13 +6,24 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:22:30 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>No flight disruptions despite job cuts—AirAsia PH</title>
+      <link>https://business.inquirer.net/623098/no-flight-disruptions-despite-job-cutsairasia-ph</link>
+      <guid isPermaLink="false">e4a477f6bd8f6b23</guid>
+      <pubDate>Fri, 27 Nov 2026 05:22:30 GMT</pubDate>
+      <description>News · Inquirer Business · Published Nov 27, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Organizational change</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>jcristobal</dc:creator>
+    </item>
     <item>
       <title>Labor group seeks probe into AirAsia’s retrenchment of 90 pilots</title>
       <link>https://newsinfo.inquirer.net/2347824/labor-group-seeks-probe-into-airasias-retrenchment-of-90-pilots-2</link>
@@ -645,17 +656,6 @@
       <category>Preprint</category>
       <category>Future of work</category>
       <dc:creator>Louis Bachaud, Macken Murphy, Antoine Marie</dc:creator>
-    </item>
-    <item>
-      <title>Job fair brings new hope for 51-yr-old</title>
-      <link>https://www.sunstar.com.ph/davao/business/job-fair-brings-new-hope-for-51-yr-old</link>
-      <guid isPermaLink="false">a8caf0a5e41d2a38</guid>
-      <pubDate>Mon, 23 Nov 2026 21:43:00 GMT</pubDate>
-      <description>News · SunStar · Published Nov 23, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Cristina E. Alivio</dc:creator>
     </item>
   </channel>
 </rss>
