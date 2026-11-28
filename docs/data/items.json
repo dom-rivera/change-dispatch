@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-28T10:27:41Z",
- "count": 415,
+ "generated": "2026-11-28T17:49:35Z",
+ "count": 423,
  "topics": [
   {
    "id": "change-readiness",
@@ -98,6 +98,38 @@
      "jcristobal"
     ],
     "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "4368ae26f97153ee",
+   "title": "How Burnham’s 10-year plan can turn more happiness into higher growth",
+   "url": "https://www.theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth",
+   "source": "The Guardian (Work & careers)",
+   "source_id": "guardian-work",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-28T16:00:43Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "unemployment",
+     "kind": "strong",
+     "in_title": false
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "Phillip Inman"
+    ],
+    "container": "The Guardian"
    }
   },
   {
@@ -428,6 +460,254 @@
      "NewsPublish"
     ],
     "container": "Inquirer Business"
+   }
+  },
+  {
+   "id": "2e7db7e4e57caf7e",
+   "title": "Change Leadership of Islamic Junior High School Principals in Fostering Organizational Readiness for the Merdeka Curriculum",
+   "url": "https://doi.org/10.31538/ndhq.v11i3.501",
+   "source": "Nidhomul Haq Jurnal Manajemen Pendidikan Islam",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-27T00:00:00Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "change-management",
+    "leadership"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "change-management": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": true
+    },
+    "leadership": {
+     "phrase": "change leadership",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Amini Amini",
+     "Suzatmiko Wijaya",
+     "Mardianto Mardianto"
+    ],
+    "container": "Nidhomul Haq Jurnal Manajemen Pendidikan Islam",
+    "volume": "11",
+    "issue": "3",
+    "first_page": "820",
+    "last_page": "837",
+    "doi": "https://doi.org/10.31538/ndhq.v11i3.501"
+   }
+  },
+  {
+   "id": "cfae1c05d998a347",
+   "title": "Developing a context-specific model of organizational readiness for implementing knowledge translation in leading Iranian medical universities: a three-round Delphi study",
+   "url": "https://doi.org/10.1186/s12961-026-01548-4",
+   "source": "Health Research Policy and Systems",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-27T00:00:00Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "organizational readiness",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Ali Sadatmoosavi",
+     "Hamed Hosseinzadeh",
+     "Oranus Tajedini",
+     "Asghar Tavan",
+     "Mohammad Azami"
+    ],
+    "container": "Health Research Policy and Systems",
+    "doi": "https://doi.org/10.1186/s12961-026-01548-4"
+   }
+  },
+  {
+   "id": "e8b597734342d415",
+   "title": "Artificial intelligence reliance and the psychological safety of researchers: the moderating role of ethical determinants",
+   "url": "https://link.springer.com/content/pdf/10.1007/s44491-026-00043-4.pdf",
+   "source": "Management & Marketing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-27T00:00:00Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 60,
+   "topics": [
+    "psych-safety"
+   ],
+   "why": {
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Faez Nasser Mugahed",
+     "Mansour Al-Abdi"
+    ],
+    "container": "Management & Marketing",
+    "volume": "21",
+    "issue": "1",
+    "first_page": "40",
+    "doi": "https://doi.org/10.1007/s44491-026-00043-4"
+   }
+  },
+  {
+   "id": "556152cfbf4aa2db",
+   "title": "Teacher innovative work behavior in public senior high schools: the sequential mediating roles of psychological safety and work engagement",
+   "url": "https://doi.org/10.1080/2331186x.2026.2761174",
+   "source": "Cogent Education",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-27T00:00:00Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 60,
+   "topics": [
+    "well-being",
+    "psych-safety"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "work engagement",
+     "kind": "strong",
+     "in_title": true
+    },
+    "psych-safety": {
+     "phrase": "psychological safety",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Herty Ramayanti Sinaga",
+     "Joeliaty Joeliaty",
+     "Dina Sartika",
+     "Wa Ode Zusnita Muizu"
+    ],
+    "container": "Cogent Education",
+    "volume": "13",
+    "issue": "1",
+    "first_page": "2761174",
+    "doi": "https://doi.org/10.1080/2331186x.2026.2761174"
+   }
+  },
+  {
+   "id": "c05c51e80aefbca4",
+   "title": "Development and validation of a generative AI readiness scale for K-12 teachers: knowledge, beliefs, practice and the regulation of cognitive offloading",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1998250/pdf",
+   "source": "Frontiers in Psychology",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-27T00:00:00Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 60,
+   "topics": [
+    "change-readiness",
+    "ai-at-work"
+   ],
+   "why": {
+    "change-readiness": {
+     "phrase": "ai readiness",
+     "kind": "strong",
+     "in_title": true
+    },
+    "ai-at-work": {
+     "phrase": "generative ai",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Jue Wu",
+     "Hong Yi",
+     "Zhuo Wang"
+    ],
+    "container": "Frontiers in Psychology",
+    "volume": "17",
+    "first_page": "1998250",
+    "doi": "https://doi.org/10.3389/fpsyg.2026.1998250"
+   }
+  },
+  {
+   "id": "0ea089f25a41a845",
+   "title": "Attitudes and anxiety toward artificial intelligence among healthcare professionals and students: a systematic review",
+   "url": "https://doi.org/10.1186/s12912-026-05534-7",
+   "source": "BMC Nursing",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-11-27T00:00:00Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 60,
+   "topics": [
+    "ai-at-work"
+   ],
+   "why": {
+    "ai-at-work": {
+     "phrase": "artificial intelligence",
+     "kind": "weak",
+     "in_title": true
+    }
+   },
+   "region": false,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Prerna",
+     "Raksha Yadav",
+     "Prasuna Jelly"
+    ],
+    "container": "BMC Nursing",
+    "doi": "https://doi.org/10.1186/s12912-026-05534-7"
    }
   },
   {
@@ -6752,6 +7032,7 @@
     "container": "Frontiers in Medicine",
     "volume": "13",
     "first_page": "1975942",
+    "last_page": "1975942",
     "doi": "https://doi.org/10.3389/fmed.2026.1975942"
    }
   },
@@ -6795,6 +7076,7 @@
     "container": "Frontiers in Psychology",
     "volume": "17",
     "first_page": "1951678",
+    "last_page": "1951678",
     "doi": "https://doi.org/10.3389/fpsyg.2026.1951678"
    }
   },
@@ -10202,6 +10484,41 @@
    }
   },
   {
+   "id": "f4d827e26d881bb5",
+   "title": "The Impact of Employee Recognition Practices to Job Satisfaction in Business Process Outsourcing (BPO): The Mediating Role of Employee Productivity",
+   "url": "https://pdfs.semanticscholar.org/8167/2a6a44e8fe26fcc82585897d00e8eb8dfe24.pdf?utm_source=chatgpt.com",
+   "source": "The South East Asian Journal of Management",
+   "source_id": "ph-research",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-31T00:00:00Z",
+   "first_seen": "2026-11-28T17:49:35Z",
+   "window_days": 90,
+   "topics": [
+    "well-being"
+   ],
+   "why": {
+    "well-being": {
+     "phrase": "job satisfaction",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Genesis Austria"
+    ],
+    "container": "The South East Asian Journal of Management",
+    "volume": "20",
+    "issue": "2",
+    "doi": "https://doi.org/10.7454/seam.v20i2.2068"
+   }
+  },
+  {
    "id": "db15fd58721743f9",
    "title": "Transcultural adaptation and psychometric properties of the Chinese version of the Artificial Intelligence Attitude Scale for Nurses (AIASN)",
    "url": "https://doi.org/10.1186/s12912-026-05521-y",
@@ -10362,46 +10679,6 @@
    }
   },
   {
-   "id": "ca25604bec64ae79",
-   "title": "The Mediating Role of Organizational Change Capability and Leadership Effectiveness in the Relationship Between Managerial Cognitive Capability and Sustainable Performance",
-   "url": "https://journal.perbanas.ac.id/index.php/jebav/article/download/5760/2092",
-   "source": "Journal of Economics Business and Accountancy Ventura",
-   "source_id": "core-search",
-   "layer": "research",
-   "type": "Peer-reviewed",
-   "published": "2026-10-30T00:00:00Z",
-   "first_seen": "2026-11-10T02:31:16Z",
-   "window_days": 60,
-   "topics": [
-    "organizational-change"
-   ],
-   "why": {
-    "organizational-change": {
-     "phrase": "organizational change",
-     "kind": "strong",
-     "in_title": true
-    }
-   },
-   "region": true,
-   "labels": [],
-   "access": "Free to read",
-   "cite": {
-    "kind": "journal",
-    "authors": [
-     "Indra Nur Fauzi",
-     "Erlyn Yuly Astuti",
-     "Dimas Agung Trisliatanto",
-     "Albertus Eka Putra Haryanto"
-    ],
-    "container": "Journal of Economics Business and Accountancy Ventura",
-    "volume": "29",
-    "issue": "3",
-    "first_page": "1",
-    "last_page": "22",
-    "doi": "https://doi.org/10.14414/jebav.v29i3.5760"
-   }
-  },
-  {
    "id": "c94ae030bc81c95c",
    "title": "RECALIBRATING AI ACCEPTANCE AMONG MID-TO-LATE-CAREER EFL TEACHERS THROUGH GUIDED AI ENGAGEMENT",
    "url": "https://ejournal.usd.ac.id/index.php/llt/article/download/2040/226",
@@ -10444,6 +10721,46 @@
     "first_page": "610",
     "last_page": "625",
     "doi": "https://doi.org/10.24071/llt.v29i2.2040"
+   }
+  },
+  {
+   "id": "ca25604bec64ae79",
+   "title": "The Mediating Role of Organizational Change Capability and Leadership Effectiveness in the Relationship Between Managerial Cognitive Capability and Sustainable Performance",
+   "url": "https://journal.perbanas.ac.id/index.php/jebav/article/download/5760/2092",
+   "source": "Journal of Economics Business and Accountancy Ventura",
+   "source_id": "core-search",
+   "layer": "research",
+   "type": "Peer-reviewed",
+   "published": "2026-10-30T00:00:00Z",
+   "first_seen": "2026-11-10T02:31:16Z",
+   "window_days": 60,
+   "topics": [
+    "organizational-change"
+   ],
+   "why": {
+    "organizational-change": {
+     "phrase": "organizational change",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "journal",
+    "authors": [
+     "Indra Nur Fauzi",
+     "Erlyn Yuly Astuti",
+     "Dimas Agung Trisliatanto",
+     "Albertus Eka Putra Haryanto"
+    ],
+    "container": "Journal of Economics Business and Accountancy Ventura",
+    "volume": "29",
+    "issue": "3",
+    "first_page": "1",
+    "last_page": "22",
+    "doi": "https://doi.org/10.14414/jebav.v29i3.5760"
    }
   },
   {

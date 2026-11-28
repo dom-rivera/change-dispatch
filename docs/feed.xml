@@ -6,13 +6,100 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:27:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:49:35 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>How Burnham’s 10-year plan can turn more happiness into higher growth</title>
+      <link>https://www.theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth</link>
+      <guid isPermaLink="false">4368ae26f97153ee</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>News · The Guardian (Work &amp; careers) · Published Nov 28, 2026 · Free to read. Topics: Labor economics.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <dc:creator>Phillip Inman</dc:creator>
+    </item>
+    <item>
+      <title>Change Leadership of Islamic Junior High School Principals in Fostering Organizational Readiness for the Merdeka Curriculum</title>
+      <link>https://doi.org/10.31538/ndhq.v11i3.501</link>
+      <guid isPermaLink="false">2e7db7e4e57caf7e</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>Peer-reviewed · Nidhomul Haq Jurnal Manajemen Pendidikan Islam · Published Nov 27, 2026 · Free to read. Topics: Change readiness, Change management, Leadership and change communication, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <category>Change management</category>
+      <category>Leadership and change communication</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Amini Amini, Suzatmiko Wijaya, Mardianto Mardianto</dc:creator>
+    </item>
+    <item>
+      <title>Developing a context-specific model of organizational readiness for implementing knowledge translation in leading Iranian medical universities: a three-round Delphi study</title>
+      <link>https://doi.org/10.1186/s12961-026-01548-4</link>
+      <guid isPermaLink="false">cfae1c05d998a347</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>Peer-reviewed · Health Research Policy and Systems · Published Nov 27, 2026 · Free to read. Topics: Change readiness.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <dc:creator>Ali Sadatmoosavi, Hamed Hosseinzadeh, Oranus Tajedini, Asghar Tavan, Mohammad Azami</dc:creator>
+    </item>
+    <item>
+      <title>Artificial intelligence reliance and the psychological safety of researchers: the moderating role of ethical determinants</title>
+      <link>https://link.springer.com/content/pdf/10.1007/s44491-026-00043-4.pdf</link>
+      <guid isPermaLink="false">e8b597734342d415</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>Peer-reviewed · Management &amp; Marketing · Published Nov 27, 2026 · Free to read. Topics: Psychological safety and culture.</description>
+      <category>Peer-reviewed</category>
+      <category>Psychological safety and culture</category>
+      <dc:creator>Faez Nasser Mugahed, Mansour Al-Abdi</dc:creator>
+    </item>
+    <item>
+      <title>Teacher innovative work behavior in public senior high schools: the sequential mediating roles of psychological safety and work engagement</title>
+      <link>https://doi.org/10.1080/2331186x.2026.2761174</link>
+      <guid isPermaLink="false">556152cfbf4aa2db</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>Peer-reviewed · Cogent Education · Published Nov 27, 2026 · Free to read. Topics: Employee well-being, Psychological safety and culture, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Psychological safety and culture</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Herty Ramayanti Sinaga, Joeliaty Joeliaty, Dina Sartika, Wa Ode Zusnita Muizu</dc:creator>
+    </item>
+    <item>
+      <title>Development and validation of a generative AI readiness scale for K-12 teachers: knowledge, beliefs, practice and the regulation of cognitive offloading</title>
+      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1998250/pdf</link>
+      <guid isPermaLink="false">c05c51e80aefbca4</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 27, 2026 · Free to read. Topics: Change readiness, AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>Change readiness</category>
+      <category>AI at work</category>
+      <dc:creator>Jue Wu, Hong Yi, Zhuo Wang</dc:creator>
+    </item>
+    <item>
+      <title>Attitudes and anxiety toward artificial intelligence among healthcare professionals and students: a systematic review</title>
+      <link>https://doi.org/10.1186/s12912-026-05534-7</link>
+      <guid isPermaLink="false">0ea089f25a41a845</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>Peer-reviewed · BMC Nursing · Published Nov 27, 2026 · Free to read. Topics: AI at work.</description>
+      <category>Peer-reviewed</category>
+      <category>AI at work</category>
+      <dc:creator>Prerna, Raksha Yadav, Prasuna Jelly</dc:creator>
+    </item>
+    <item>
+      <title>The Impact of Employee Recognition Practices to Job Satisfaction in Business Process Outsourcing (BPO): The Mediating Role of Employee Productivity</title>
+      <link>https://pdfs.semanticscholar.org/8167/2a6a44e8fe26fcc82585897d00e8eb8dfe24.pdf?utm_source=chatgpt.com</link>
+      <guid isPermaLink="false">f4d827e26d881bb5</guid>
+      <pubDate>Sat, 28 Nov 2026 17:49:35 GMT</pubDate>
+      <description>Peer-reviewed · The South East Asian Journal of Management · Published Oct 31, 2026 · Free to read. Topics: Employee well-being, Philippines &amp; Southeast Asia.</description>
+      <category>Peer-reviewed</category>
+      <category>Employee well-being</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>Genesis Austria</dc:creator>
+    </item>
     <item>
       <title>2,758 job openings offered at campus mega job fair in Tagbilaran</title>
       <link>https://newsinfo.inquirer.net/2348531/2758-job-openings-offered-at-campus-mega-job-fair-in-tagbilaran</link>
@@ -574,90 +661,6 @@
       <category>Labor economics</category>
       <category>Philippines &amp; Southeast Asia</category>
       <dc:creator>cavendano</dc:creator>
-    </item>
-    <item>
-      <title>Ilocos minimum wage workers to get P35-40 pay hike by Dec. 14</title>
-      <link>https://newsinfo.inquirer.net/2346971/ilocos-minimum-wage-workers-to-get-p35-40-pay-hike-by-dec-14</link>
-      <guid isPermaLink="false">d15fef452277eb9a</guid>
-      <pubDate>Wed, 25 Nov 2026 11:17:25 GMT</pubDate>
-      <description>News · Inquirer News · Published Nov 25, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>ggaviola</dc:creator>
-    </item>
-    <item>
-      <title>Bangladesh raises garment workers’ minimum wage 36% after protests</title>
-      <link>https://bworldonline.com/world/2026/11/25/796683/bangladesh-raises-garment-workers-minimum-wage-36-after-protests/</link>
-      <guid isPermaLink="false">1a7d4a139ab30b38</guid>
-      <pubDate>Wed, 25 Nov 2026 11:17:25 GMT</pubDate>
-      <description>News · BusinessWorld · Published Nov 25, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>CEDTyClea</dc:creator>
-    </item>
-    <item>
-      <title>DOLE: P800 to P1,040 minimum wage increase set in Ilocos Region, Cagayan</title>
-      <link>https://www.gmanetwork.com/news/money/economy/1010753/dole-p800-to-p1-040-minimum-wage-increase-set-in-ilocos-region-cagayan/story/</link>
-      <guid isPermaLink="false">bf04f3e5b9e84207</guid>
-      <pubDate>Wed, 25 Nov 2026 11:17:25 GMT</pubDate>
-      <description>News · GMA News · Published Nov 25, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-    </item>
-    <item>
-      <title>Bangladesh garment workers secure 36pc pay rise, but fall short of wage demands</title>
-      <link>https://www.malaymail.com/news/money/2026/11/25/bangladesh-garment-workers-secure-36pc-pay-rise-but-fall-short-of-wage-demands/244684</link>
-      <guid isPermaLink="false">6f8adc6e32764654</guid>
-      <pubDate>Wed, 25 Nov 2026 11:17:25 GMT</pubDate>
-      <description>News · Malay Mail (Money) · Published Nov 25, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <category>Philippines &amp; Southeast Asia</category>
-    </item>
-    <item>
-      <title>AI pushes Cebu IT-BPM to reinvent itself</title>
-      <link>https://www.sunstar.com.ph/cebu/ai-pushes-cebu-it-bpm-to-reinvent-itself-2</link>
-      <guid isPermaLink="false">4a5ba9d1c4541692</guid>
-      <pubDate>Wed, 25 Nov 2026 05:41:03 GMT</pubDate>
-      <description>News · SunStar · Published Nov 25, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Future of work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Katlene O. Cacho-Laurejas</dc:creator>
-    </item>
-    <item>
-      <title>LOOK: Iloilo BPO workers evacuate amid 5.1-magnitude Antique tremor</title>
-      <link>https://newsinfo.inquirer.net/2346716/look-iloilo-bpo-workers-evacuate-amid-5-1-magnitude-antique-tremor</link>
-      <guid isPermaLink="false">f3d3379b47934be4</guid>
-      <pubDate>Wed, 25 Nov 2026 04:55:18 GMT</pubDate>
-      <description>News · Inquirer News · Published Nov 25, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Future of work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>cavendano</dc:creator>
-    </item>
-    <item>
-      <title>Globe strengthens technology growth play with NCS venture</title>
-      <link>https://www.gmanetwork.com/news/money/companies/1010716/globe-strengthens-technology-growth-play-with-ncs-venture/story/</link>
-      <guid isPermaLink="false">fe6711a64ee5a875</guid>
-      <pubDate>Wed, 25 Nov 2026 04:55:18 GMT</pubDate>
-      <description>News · GMA News · Published Nov 25, 2026 · Free to read. Topics: Organizational change, Philippines &amp; Southeast Asia.</description>
-      <category>News</category>
-      <category>Organizational change</category>
-      <category>Philippines &amp; Southeast Asia</category>
-    </item>
-    <item>
-      <title>Who Will Conduct Science? Researchers’ Expectations of AI Capabilities and the Future of Scientific Work</title>
-      <link>https://osf.io/preprints/psyarxiv/qysdj_v1/</link>
-      <guid isPermaLink="false">224106844c158feb</guid>
-      <pubDate>Wed, 25 Nov 2026 04:55:18 GMT</pubDate>
-      <description>Preprint · PsyArXiv · Published Nov 25, 2026 · Free to read · Not yet peer-reviewed. Topics: AI at work.</description>
-      <category>Preprint</category>
-      <category>AI at work</category>
-      <dc:creator>Balazs Aczel, Dianovics Dominik, Peter Szecsi, Barnabas Szaszi</dc:creator>
     </item>
   </channel>
 </rss>
