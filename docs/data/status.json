@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T03:56:52Z",
+ "generated": "2026-11-28T04:57:58Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -442,7 +442,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-28T03:33:19Z",
+   "newest_item": "2026-11-28T05:00:00Z",
    "stale": false
   },
   {
@@ -469,17 +469,20 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-28T11:25:27Z",
+   "newest_item": "2026-11-28T12:52:18Z",
    "stale": false
   },
   {
    "id": "sunstar",
    "name": "SunStar",
    "layer": "news",
-   "ok": false,
-   "found": 0,
+   "ok": true,
+   "found": 1,
    "kept": 0,
-   "error": "no entries found (not a valid feed?)"
+   "error": null,
+   "feed_used": "https://www.sunstar.com.ph/feed",
+   "newest_item": "2026-11-28T04:03:37Z",
+   "stale": false
   },
   {
    "id": "malay-mail",
