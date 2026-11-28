@@ -6,13 +6,35 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:27:41 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>2,758 job openings offered at campus mega job fair in Tagbilaran</title>
+      <link>https://newsinfo.inquirer.net/2348531/2758-job-openings-offered-at-campus-mega-job-fair-in-tagbilaran</link>
+      <guid isPermaLink="false">4dd28208a86664d9</guid>
+      <pubDate>Sat, 28 Nov 2026 10:27:41 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 28, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>jcristobal</dc:creator>
+    </item>
+    <item>
+      <title>BPO workers group to launch coordinated work stoppage</title>
+      <link>https://newsinfo.inquirer.net/2348508/bpo-workers-group-to-launch-coordinated-work-stoppage</link>
+      <guid isPermaLink="false">d37900f70af911f9</guid>
+      <pubDate>Sat, 28 Nov 2026 10:27:41 GMT</pubDate>
+      <description>News · Inquirer News · Published Nov 28, 2026 · Free to read. Topics: Future of work, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Future of work</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>mesarangay</dc:creator>
+    </item>
     <item>
       <title>Dole steps in to ease AirAsia retrenchment row</title>
       <link>https://business.inquirer.net/623338/dole-steps-in-to-ease-airasia-retrenchment-row</link>
@@ -636,26 +658,6 @@
       <category>Preprint</category>
       <category>AI at work</category>
       <dc:creator>Balazs Aczel, Dianovics Dominik, Peter Szecsi, Barnabas Szaszi</dc:creator>
-    </item>
-    <item>
-      <title>Neets and needs: a loss of focus on harmful life experiences | Letters</title>
-      <link>https://www.theguardian.com/society/2026/nov/24/neets-and-needs-a-loss-of-focus-on-harmful-life-experiences</link>
-      <guid isPermaLink="false">adbc2e3bdb936231</guid>
-      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
-      <description>News · The Guardian (Work &amp; careers) · Published Nov 24, 2026 · Free to read. Topics: Labor economics.</description>
-      <category>News</category>
-      <category>Labor economics</category>
-      <dc:creator>Guardian</dc:creator>
-    </item>
-    <item>
-      <title>Training is key to AI adoption — but is still hitting roadblocks</title>
-      <link>https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/</link>
-      <guid isPermaLink="false">627419c3adc39389</guid>
-      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
-      <description>News · HR Dive · Published Nov 24, 2026 · Free to read. Topics: AI at work.</description>
-      <category>News</category>
-      <category>AI at work</category>
-      <dc:creator>Kathryn Moody</dc:creator>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-28T04:57:58Z",
- "count": 413,
+ "generated": "2026-11-28T10:27:41Z",
+ "count": 415,
  "topics": [
   {
    "id": "change-readiness",
@@ -68,6 +68,70 @@
   "name": "Philippines & Southeast Asia"
  },
  "items": [
+  {
+   "id": "4dd28208a86664d9",
+   "title": "2,758 job openings offered at campus mega job fair in Tagbilaran",
+   "url": "https://newsinfo.inquirer.net/2348531/2758-job-openings-offered-at-campus-mega-job-fair-in-tagbilaran",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-28T18:23:47Z",
+   "first_seen": "2026-11-28T10:27:41Z",
+   "window_days": 7,
+   "topics": [
+    "labor-economics"
+   ],
+   "why": {
+    "labor-economics": {
+     "phrase": "job fair",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "jcristobal"
+    ],
+    "container": "Inquirer News"
+   }
+  },
+  {
+   "id": "d37900f70af911f9",
+   "title": "BPO workers group to launch coordinated work stoppage",
+   "url": "https://newsinfo.inquirer.net/2348508/bpo-workers-group-to-launch-coordinated-work-stoppage",
+   "source": "Inquirer News",
+   "source_id": "inquirer-news",
+   "layer": "news",
+   "type": "News",
+   "published": "2026-11-28T15:02:22Z",
+   "first_seen": "2026-11-28T10:27:41Z",
+   "window_days": 7,
+   "topics": [
+    "future-of-work"
+   ],
+   "why": {
+    "future-of-work": {
+     "phrase": "bpo workers",
+     "kind": "strong",
+     "in_title": true
+    }
+   },
+   "region": true,
+   "labels": [],
+   "access": "Free to read",
+   "cite": {
+    "kind": "news",
+    "authors": [
+     "mesarangay"
+    ],
+    "container": "Inquirer News"
+   }
+  },
   {
    "id": "0912710027c5a677",
    "title": "Dole steps in to ease AirAsia retrenchment row",
