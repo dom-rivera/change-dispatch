@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:12:27Z",
+ "generated": "2026-11-28T03:56:52Z",
  "openalex_key_present": true,
  "sources": [
   {
@@ -20,7 +20,7 @@
    "name": "Journal of Organizational Change Management",
    "layer": "research",
    "ok": true,
-   "found": 3,
+   "found": 2,
    "kept": 2,
    "error": null,
    "openalex_source": "https://openalex.org/S197145128",
@@ -33,8 +33,8 @@
    "name": "Journal of Applied Behavioral Science",
    "layer": "research",
    "ok": true,
-   "found": 5,
-   "kept": 4,
+   "found": 4,
+   "kept": 3,
    "error": null,
    "openalex_source": "https://openalex.org/S168717511",
    "journal_matched": "The Journal of Applied Behavioral Science",
@@ -59,7 +59,7 @@
    "name": "Journal of Applied Psychology",
    "layer": "research",
    "ok": true,
-   "found": 17,
+   "found": 15,
    "kept": 1,
    "error": null,
    "openalex_source": "https://openalex.org/S166002381",
@@ -98,7 +98,7 @@
    "name": "Frontiers in Organizational Psychology",
    "layer": "research",
    "ok": true,
-   "found": 27,
+   "found": 25,
    "kept": 11,
    "error": null,
    "openalex_source": "https://openalex.org/S4387291118",
@@ -150,7 +150,7 @@
    "name": "Research search (open-access journals)",
    "layer": "research",
    "ok": true,
-   "found": 296,
+   "found": 295,
    "kept": 93,
    "error": null,
    "results_per_phrase": {
@@ -179,14 +179,14 @@
     "leadership development": 25,
     "remote work": 25,
     "hybrid work": 17,
-    "reskilling": 16,
+    "reskilling": 15,
     "upskilling": 25,
     "job redesign": 0,
     "nudge": 25,
-    "status quo bias": 3,
-    "loss aversion": 18
+    "status quo bias": 2,
+    "loss aversion": 17
    },
-   "dropped_low_h_index": 124,
+   "dropped_low_h_index": 123,
    "min_h_index": 30,
    "newest_item": "2026-12-31T00:00:00Z",
    "stale": false
@@ -222,10 +222,10 @@
    "name": "PsyArXiv",
    "layer": "preprint",
    "ok": true,
-   "found": 1258,
+   "found": 1266,
    "kept": 14,
    "error": null,
-   "newest_item": "2026-11-27T14:44:05Z",
+   "newest_item": "2026-11-28T00:03:26Z",
    "stale": false
   },
   {
@@ -325,10 +325,10 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 4,
+   "kept": 5,
    "error": null,
    "feed_used": "https://business.inquirer.net/feed",
-   "newest_item": "2026-11-28T02:24:00Z",
+   "newest_item": "2026-11-28T05:46:00Z",
    "stale": false
   },
   {
@@ -340,7 +340,7 @@
    "kept": 0,
    "error": null,
    "feed_used": "https://www.theguardian.com/business/rss",
-   "newest_item": "2026-11-27T14:00:12Z",
+   "newest_item": "2026-11-27T22:10:08Z",
    "stale": false
   },
   {
@@ -403,7 +403,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
-   "newest_item": "2026-11-27T18:28:27Z",
+   "newest_item": "2026-11-28T00:06:42Z",
    "stale": false
   },
   {
@@ -442,7 +442,7 @@
     "https://www.rappler.com/feed/",
     "https://www.rappler.com/business/feed/"
    ],
-   "newest_item": "2026-11-27T14:00:00Z",
+   "newest_item": "2026-11-28T03:33:19Z",
    "stale": false
   },
   {
@@ -457,7 +457,7 @@
     "https://data.gmanetwork.com/gno/rss/money/feed.xml",
     "https://data.gmanetwork.com/gno/rss/news/feed.xml"
    ],
-   "newest_item": "2026-11-27T18:07:43Z",
+   "newest_item": "2026-11-28T03:50:19Z",
    "stale": false
   },
   {
@@ -466,23 +466,20 @@
    "layer": "news",
    "ok": true,
    "found": 40,
-   "kept": 1,
+   "kept": 0,
    "error": null,
    "feed_used": "https://newsinfo.inquirer.net/feed",
-   "newest_item": "2026-11-28T03:01:28Z",
+   "newest_item": "2026-11-28T11:25:27Z",
    "stale": false
   },
   {
    "id": "sunstar",
    "name": "SunStar",
    "layer": "news",
-   "ok": true,
-   "found": 15,
-   "kept": 1,
-   "error": null,
-   "feed_used": "https://www.sunstar.com.ph/feed",
-   "newest_item": "2026-11-27T16:57:43Z",
-   "stale": false
+   "ok": false,
+   "found": 0,
+   "kept": 0,
+   "error": "no entries found (not a valid feed?)"
   },
   {
    "id": "malay-mail",
@@ -493,7 +490,7 @@
    "kept": 1,
    "error": null,
    "feed_used": "https://www.malaymail.com/feed/rss/money",
-   "newest_item": "2026-11-27T12:10:00Z",
+   "newest_item": "2026-11-28T01:47:00Z",
    "stale": false
   }
  ]

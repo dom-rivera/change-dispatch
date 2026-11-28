@@ -6,13 +6,24 @@
     <atom:link href="https://dom-rivera.github.io/change-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Open, verified news and research on organizational change, AI, psychology and economics, with a section on the Philippines and Southeast Asia. Every item is free to read.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:56:52 GMT</lastBuildDate>
     <ttl>360</ttl>
     <image>
       <url>https://dom-rivera.github.io/change-dispatch/og-image.png</url>
       <title>The Change Dispatch</title>
       <link>https://dom-rivera.github.io/change-dispatch/</link>
     </image>
+    <item>
+      <title>Dole steps in to ease AirAsia retrenchment row</title>
+      <link>https://business.inquirer.net/623338/dole-steps-in-to-ease-airasia-retrenchment-row</link>
+      <guid isPermaLink="false">0912710027c5a677</guid>
+      <pubDate>Sat, 28 Nov 2026 03:56:52 GMT</pubDate>
+      <description>News · Inquirer Business · Published Nov 28, 2026 · Free to read. Topics: Labor economics, Philippines &amp; Southeast Asia.</description>
+      <category>News</category>
+      <category>Labor economics</category>
+      <category>Philippines &amp; Southeast Asia</category>
+      <dc:creator>NewsPublish</dc:creator>
+    </item>
     <item>
       <title>Valderrama: The American Dream and the Filipino reality</title>
       <link>https://www.sunstar.com.ph/davao/valderrama-the-american-dream-and-the-filipino-reality</link>
@@ -645,18 +656,6 @@
       <category>News</category>
       <category>AI at work</category>
       <dc:creator>Kathryn Moody</dc:creator>
-    </item>
-    <item>
-      <title>Artificial intelligence adoption and occupational well-being in higher education management: evidence from universities in Guangzhou</title>
-      <link>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1931597/pdf</link>
-      <guid isPermaLink="false">2478593e00f9d2ec</guid>
-      <pubDate>Tue, 24 Nov 2026 20:22:50 GMT</pubDate>
-      <description>Peer-reviewed · Frontiers in Psychology · Published Nov 23, 2026 · Free to read. Topics: Employee well-being, AI at work, Philippines &amp; Southeast Asia.</description>
-      <category>Peer-reviewed</category>
-      <category>Employee well-being</category>
-      <category>AI at work</category>
-      <category>Philippines &amp; Southeast Asia</category>
-      <dc:creator>Chunlong Zeng, Raja Suzana Raja Kasim</dc:creator>
     </item>
   </channel>
 </rss>
